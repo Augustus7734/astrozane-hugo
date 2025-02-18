@@ -13,7 +13,8 @@ First install:
 Then:
 
 
-- Open a terminal window (included in vscode)
+- Open a terminal window at the root of your repository. (included in vscode)
+
 
 # Run some commands
 

@@ -21,6 +21,10 @@ Then:
 Tell git to fetch the theme submodule and then run the hugo server.
 
 ```
+git clone git@github.com:th3raid0r/astrozane-start.git
+
+cd astrozane-start
+
 git submodule init 
 
 git submodule update

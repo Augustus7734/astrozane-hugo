@@ -5,7 +5,7 @@
 First install:
 
 
-- Hugo
+- Hugo v0.134.3 - https://github.com/gohugoio/hugo/releases/download/v0.134.3/hugo_0.134.3_windows-amd64.zip
 - Golang
 - A Nice Text Editor for Code (vscode)
 

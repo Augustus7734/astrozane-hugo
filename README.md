@@ -1,6 +1,6 @@
-## How to use:
+# How to use:
 
-# Install Stuff
+## Install Stuff
 
 First install:
 
@@ -16,7 +16,7 @@ Then:
 - Open a terminal window at the root of your repository. (included in vscode)
 
 
-# Run some commands
+## Run some commands
 
 Tell git to fetch the theme submodule and then run the hugo server.
 

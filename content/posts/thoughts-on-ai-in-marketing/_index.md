@@ -6,5 +6,5 @@ date: 2024-07-10
 tags: ["technology", "marketing", "speculation"]
 ---
 
-## I think it's dumb.
+## Test
 

@@ -1,4 +1,4 @@
-baseURL = "astrozane.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10

@@ -1,15 +1,17 @@
 ---
 title: "About Me"
 layout: "single"
-url: "/about"
+url: "/about/"
 ---
 
-## Hi! I'm John Doe
+## Hi! I'm Zane Landers
 
-I'm a couple different adjectives, and certain traits are better described with adverbs, in either case a short bio blurb isn't going to effectively tell you who I am.
+I build telescopes and do other cool stuff. I am currently a Masters of Science student at the University of Arizona.
 
-### To start
+### Observational Astronomy
 
-### Then it happened
+The night sky
+
+### Telescope Making
 
 ### Now I'm here

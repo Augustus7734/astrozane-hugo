@@ -8,15 +8,14 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 # disqusShortname = "yourDisqusShortname"
 
 [params]
-    brand = "AstroZane"                      # name of your site - appears in the sidebar
+    brand = "Zane Landers"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
-    brand_image = "/images/logo.png"    # path to the image shown in the sidebar
-    description = "Update this description..." # Used as default meta description if not specified in front matter
+    brand_image = "/images/webprofilepic.jpg"    # path to the image shown in the sidebar
+    description = "Space and stuff" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["about", "resume"] # Equivalent to the default value, add page bundle names to include them on the front page.
-
     # MENU PLACEHOLDER
     # Menu dict keys:
         # Name:         The name to display on the menu.
@@ -24,31 +23,19 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Resume", URL = "/resume/", HasChildren = false},
-        {Name = "Projects", URL = "/projects/", Pre= "Recent", HasChildren = true, Limit = 5},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+    {Name = "About", URL = "/about/", HasChildren = false, Weight = 1},
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 2},
+    {Name = "Resume", URL = "/resume/", HasChildren = false, Weight = 3},
+    {Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5, Weight = 4},
+    {Name = "Astronomy Outreach", URL = "/astronomyoutreach/", HasChildren = false, Weight = 5},
+    {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5, Weight = 999},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    discord_url = "https://discord.com"
-    email_url = "mailto://user@domain"
-    facebook_url = "https://facebook.com"
-    flickr_url = "https://flickr.com"
-    github_url = "https://github.com"
-    gitlab_url = "https://gitlab.com"
-    instagram_url = "https://instagram.com"
-    linkedin_url = "https://linkedin.com"
-    mastodon_url = "https://mastodon.social"
-    matrix_url = "https://matrix.org"
-    telegram_url = "https://telegram.org"
-    tryhackme_url = "https://tryhackme.com"
-    twitter_url = "https://twitter.com"
-    x_url = "https://x.com"
-    xmpp_url = "https://xmpp.org"
-    youtube_url = "https://youtube.com"
-    signal_url = "https://signal.org"
-    bluesky_url = "https://bsky.app"
+    email_url = "mailto://zdlanders@arizona.edu"
+    instagram_url = "https://instagram.com/astro_zane"
+    linkedin_url = "https://linkedin.com/in/astrozane"
+    youtube_url = "https://www.youtube.com/@astro_zane"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml

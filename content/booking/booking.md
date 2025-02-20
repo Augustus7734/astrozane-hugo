@@ -6,7 +6,7 @@ url: "/booking/"
 
 # Star Party Bookings
 
-Experience the stars like never before with a private star party. Utilizing large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (deep-sky objects will require reasonably dark conditions for a good view). My current assortment of larger telescopes includes a 13.1" Dobsonian and a Celestron C11 Schmidt-Cassegrain.
+Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (deep-sky objects will require reasonably dark conditions for a good view). My current assortment of larger telescopes includes a 13.1" Dobsonian and a Celestron C11 Schmidt-Cassegrain.
 
 I also have telescopes for daytime solar viewing.
 
@@ -26,6 +26,6 @@ For more details, please [contact me](https://astrozane.com/links/contact).
 
 ## Telescope Repair and Assistance
 
-In addition to star party bookings, I offer services for telescope repair and setup. Whether you need help fixing a telescope, or want guidance on using one for a night of stargazing, we are here to assist. Feel free to reach out for more information. For recommendations on choosing telescopes or accessories, I highly recommend visting telescopicwatch.com first before contacting me about further details.
+In addition to star party bookings, I offer services for telescope repair and setup. Whether you need help fixing a telescope, or want guidance on using one for a night of stargazing, I am available to assist. Feel free to reach out for more information. For recommendations on choosing telescopes or accessories, I highly recommend visting telescopicwatch.com first before contacting me about further details.
 
 For inquiries, please [contact me](https://astrozane.com/links/contact).

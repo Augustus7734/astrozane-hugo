@@ -15,7 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["about", "resume"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["about"] # Equivalent to the default value, add page bundle names to include them on the front page.
     # MENU PLACEHOLDER
     # Menu dict keys:
         # Name:         The name to display on the menu.
@@ -24,10 +24,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
     {Name = "About", URL = "/about/", HasChildren = false, Weight = 1},
-    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 2},
-    {Name = "Resume", URL = "/resume/", HasChildren = false, Weight = 3},
-    {Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5, Weight = 4},
-    {Name = "Book a Stargazing Event", URL = "/booking/", HasChildren = false, Weight = 7},
+    {Name = "Resume", URL = "/resume/", HasChildren = false, Weight = 2},
+    {Name = "Book a Stargazing Event", URL = "/booking/", HasChildren = false, Weight = 3},
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 4},
+    {Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5, Weight = 5},
     {Name = "Astronomy Outreach", URL = "/astronomyoutreach/", HasChildren = false, Weight = 8},
     {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5, Weight = 999},
     ]

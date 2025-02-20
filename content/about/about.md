@@ -8,10 +8,4 @@ url: "/about/"
 
 I build telescopes and do other cool stuff. I am currently a Masters of Science student at the University of Arizona.
 
-### Observational Astronomy
-
-The night sky
-
-### Telescope Making
-
-### Now I'm here
+test

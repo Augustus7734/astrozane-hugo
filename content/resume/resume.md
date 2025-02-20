@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 layout: "single"
-url: "/resume"
+url: "/resume/"
 ---
 
 ## **Work History**

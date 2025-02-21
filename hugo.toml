@@ -26,10 +26,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     {Name = "About", URL = "/about/", HasChildren = false, Weight = 1},
     {Name = "Resume", URL = "/resume/", HasChildren = false, Weight = 2},
     {Name = "Book a Stargazing Event", URL = "/booking/", HasChildren = false, Weight = 3},
+    {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 3},
     {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 4},
     {Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5, Weight = 5},
-    {Name = "Astronomy Outreach", URL = "/astronomyoutreach/", HasChildren = false, Weight = 8},
-    {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5, Weight = 999},
+    {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 

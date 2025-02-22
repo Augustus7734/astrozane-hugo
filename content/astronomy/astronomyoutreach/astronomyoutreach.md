@@ -1,7 +1,7 @@
 ---
 title: "Astronomy Outreach"
 layout: "single"
-url: "/astronomyoutreach/"
+url: "/astronomy/astronomyoutreach"
 date: 2024-01-01
 ---
 
@@ -21,3 +21,10 @@ date: 2024-01-01
 - **May 9:** 7 PM - 11 PM
 - **May 10:** 7 PM - 11 PM
 - **May 16:** 7 PM - 11 PM
+
+## Photos
+
+![6swastro](images/6swastro.JPEG)
+![c11oracle](images/c11oracle.JPEG)
+![mak70](images/mak70.JPEG)
+![qcat](images/qcat.JPEG)

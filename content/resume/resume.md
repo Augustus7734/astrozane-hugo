@@ -36,20 +36,22 @@ National Science Foundation NOIRLab, Tucson, AZ
 
 ● Promoted space science research through key communication initiatives.  
 ● Updated Web pages and scheduled announcements of upcoming events.  
-● Assisted in stakeholder presentations and data dissemination.  
+● Assisted in stakeholder presentations and data dissemination.
 
 ## **Volunteering**
 
 See my page on sidewalk astronomy for more info on my current astronomy outreach work.
 
 **Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
-**Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23**  
+**Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23**
+**Volunteered for the Tucson Amateur Astronomy Association 2022-2024**
+**Volunteered for the Westchester Amateur Astronomers 2019-2021**    
 **Volunteered for the Westport Astronomical Society 2016-2021**  
 **Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019**  
 
 ## **Education**
 
-● In-progress Master of Science in Marketing, University of Arizona 2025  
+● Master of Science in Marketing, University of Arizona 2025  
 ● Bachelor of Arts in Communications, University of Connecticut 2022
 
 ## **Articles**
@@ -57,3 +59,10 @@ See my page on sidewalk astronomy for more info on my current astronomy outreach
 - [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - Time
 - [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic
 - [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com
+
+## **Presentations**
+
+- [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE) - YouTube
+- [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw) - YouTube
+- [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4) - YouTube
+- [A Thin Mirror 14.7" RFT & Other Projects Portland - XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k) - YouTube

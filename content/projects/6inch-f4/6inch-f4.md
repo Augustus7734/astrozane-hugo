@@ -5,7 +5,7 @@ layout: "single"
 url: "/projects/6inch-f4/"
 ---
 
-# Starting the thing...
+# Intro
 
 This was my first homemade telescope, and the only one with a homemade mirror.. I ground and polished the mirror myself in August 2017 when I was 14 years old. The mirror is very good, but none of the structures I threw it in were anything resembling decent - though it did win 1st place Junior award at Stellafane 2018. I had a lot of good views with it, but dismantled it after a year. This scope made it into Sky & Telescope in September 2018. The second incarnation of the structure made it into TIME, The Guardian, and National Geographic. 
 

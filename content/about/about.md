@@ -8,7 +8,7 @@ url: "/about/"
 
 I'm Zane Landers, a digital marketing and communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating.
 
-My professional experience spans multiple disciplines. Since 2017, I've been building, buying, repairing, and reselling telescopes, though I've stopped doing it as a full-on side hustle. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
+My professional experience spans multiple disciplines. Since 2017, I've been building, buying, repairing, and reselling telescopes. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
 
 I've also worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and the [EUEC Convention](https://euec.com/). [See my resume for more details](https://astrozane.com/resume/).
 

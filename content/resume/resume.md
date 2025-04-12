@@ -43,9 +43,10 @@ National Science Foundation NOIRLab, Tucson, AZ
 See my page on sidewalk astronomy for more info on my current astronomy outreach work.
 
 **Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
-**Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23**
-**Volunteered for the Tucson Amateur Astronomy Association 2022-2024**
-**Volunteered for the Westchester Amateur Astronomers 2019-2021**    
+**Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23**  
+**Volunteer for the Huachuca Astronomy Club 2022-Present**    
+**Volunteer for the Tucson Amateur Astronomy Association 2022-Present**  
+**Volunteered for the Westchester Amateur Astronomers 2019-2021**  
 **Volunteered for the Westport Astronomical Society 2016-2021**  
 **Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019**  
 
@@ -65,4 +66,6 @@ See my page on sidewalk astronomy for more info on my current astronomy outreach
 - [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE) - YouTube
 - [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw) - YouTube
 - [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4) - YouTube
-- [A Thin Mirror 14.7" RFT & Other Projects Portland - XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k) - YouTube
+- [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k) - YouTube
+- The Next Generation of Amateur Telescope Making - AstroAssembly 2019
+- Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop

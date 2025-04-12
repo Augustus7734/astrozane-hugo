@@ -6,13 +6,17 @@ url: "/about/"
 
 ## Introduction
 
-I'm Zane Landers, a digital marketing and communications specialist with a deep passion for astronomy and science communication. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating.
+I'm Zane Landers, a digital marketing and communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating.
 
-My professional experience spans multiple disciplines. Since 2017, I've been buying, repairing, and reselling telescopes, though I've stopped doing it as a full-on side hustle. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
+My professional experience spans multiple disciplines. Since 2017, I've been building, buying, repairing, and reselling telescopes, though I've stopped doing it as a full-on side hustle. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
 
 I've also worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and the [EUEC Convention](https://euec.com/). [See my resume for more details](https://astrozane.com/resume/).
 
 I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. I offer help with setting up and repairing telescopes as well. Feel free to visit my [booking page](https://astrozane.com/booking/).
+
+## Astronomy Outreach
+
+[I frequently do astronomy outreach events](https://astrozane.com/astronomy/astronomyoutreach/), both on my own and with astronomy clubs. You can often find me set up in downtown Tucson with one of my telescopes showing the Moon or planets to passerby [in the same manner John Dobson did](https://www.youtube.com/watch?v=WSTDLXYMQjg).
 
 ## Telescope Making
 
@@ -53,10 +57,6 @@ The construction of my own telescopes has been pivotal in my exploration of the 
 Over the years, I have embraced opportunities to observe some of the most challenging and profound astronomical phenomena. One particularly memorable experience was witnessing the blinking of the Crab Pulsar (magnitude ~17.5) through a 32" telescope.
 
 Furthermore, I actively engage with the astronomy community by participating in discussions on the Observational Astronomy Discord server. This platform serves as an invaluable resource for sharing insights and experiences, allowing me to connect with fellow enthusiasts from around the globe. Join the community at [discord.gg/astronomy](https://discord.gg/astronomy).
-
-## Astronomy Outreach
-
-[I frequently do astronomy outreach events](https://astrozane.com/astronomy/astronomyoutreach/), both on my own and with astronomy clubs. You can often find me set up in downtown Tucson with one of my telescopes showing the Moon or planets to passerby [in the same manner John Dobson did](https://www.youtube.com/watch?v=WSTDLXYMQjg).
 
 ## Protecting Dark Skies
 

@@ -12,7 +12,7 @@ My professional experience spans multiple disciplines. Since 2017, I've been buy
 
 I've also worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and the [EUEC Convention](https://euec.com/). [See my resume for more details](https://astrozane.com/resume/).
 
-I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. Feel free to visit my [booking page](https://astrozane.com/booking/).
+I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. I offer help with setting up and repairing telescopes as well. Feel free to visit my [booking page](https://astrozane.com/booking/).
 
 ## Telescope Making
 

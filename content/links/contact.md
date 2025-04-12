@@ -8,4 +8,4 @@ url: "/links/contact/"
 - [LinkedIn](https://linkedin.com/in/astrozane)
 - [Instagram](https://instagram.com/astro_zane)
 - [YouTube Channel](https://www.youtube.com/@astro_zane)
-- [Email](mailto:zdlanders@arizona.edu)
+- [Email](mailto:zdlanders@gmail.com)

@@ -13,6 +13,13 @@ EUEC, Tucson, AZ
 ● Promoting & coordinating speaker participation for the virtual conference.  
 ● Crafting lead generation strategies through workshops and webinars, giving exhibitors the opportunity to showcase their products and services in an engaging virtual format.  
 
+**Science Communications Intern | Q1/Q2 2022**  
+National Science Foundation NOIRLab, Tucson, AZ  
+
+● Promoted space science research through key communication initiatives.  
+● Updated Web pages and scheduled announcements of upcoming events.  
+● Assisted in stakeholder presentations and data dissemination.
+
 **Lead Writer/Editor | 2018-Present**  
 iQuese Media (Freelance/part time)  
 
@@ -26,17 +33,10 @@ Optical Mechanics, Perth, Australia (Freelance/part time)
 ● Hire new writers, and engage with manufacturers and vendors about their products.  
 
 **Entrepreneur | 2017-2025**  
-Online Telescope Store on eBay, cloudynights.com (Self-employed)  
+Online Telescope sales (self-employed)
 
 ● Manage end-to-end operations of an e-commerce telescope store.  
 ● Packing, shipping, storage, and repair of telescopes and optics often worth $1,000 or more.  
-
-**Science Communications Intern | Q1/Q2 2022**  
-National Science Foundation NOIRLab, Tucson, AZ  
-
-● Promoted space science research through key communication initiatives.  
-● Updated Web pages and scheduled announcements of upcoming events.  
-● Assisted in stakeholder presentations and data dissemination.
 
 ## **Volunteering**
 
@@ -57,15 +57,16 @@ See my page on sidewalk astronomy for more info on my current astronomy outreach
 
 ## **Articles**
 
-- [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - Time
-- [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic
-- [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com
+- A New Generation Picks Up the Torch - Sky & Telescope, 2018
+- [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018
+- [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018
+- [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022
 
 ## **Presentations**
 
-- [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE) - YouTube
-- [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw) - YouTube
-- [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4) - YouTube
-- [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k) - YouTube
+- [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)
+- [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)
+- [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)
+- [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)
 - The Next Generation of Amateur Telescope Making - AstroAssembly 2019
 - Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop

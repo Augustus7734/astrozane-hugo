@@ -1,5 +1,5 @@
 ---
-title: "Astrophotograph (AP)"
+title: "Astrophotography"
 layout: "single"
 url: "/astronomy/astrophotography"
 date: 2024-01-01

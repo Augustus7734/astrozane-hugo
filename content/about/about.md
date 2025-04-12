@@ -6,9 +6,7 @@ url: "/about/"
 
 ## Introduction
 
-I'm Zane Landers, a digital marketing and communications specialist with a deep passion for astronomy and science communication. 
-
-## Professional Background
+I'm Zane Landers, a digital marketing and communications specialist with a deep passion for astronomy and science communication. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating.
 
 My professional experience spans multiple disciplines. Since 2017, I've been buying, repairing, and reselling telescopes, though I've stopped doing it as a full-on side hustle. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, most of them now defunct, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
 
@@ -16,17 +14,17 @@ I've also worked as a communications/marketing intern for [NSF's NOIRLab](https:
 
 I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. Feel free to visit my [booking page](https://astrozane.com/booking/).
 
-Additionally, I provide telescope help and repairs. For more information, [contact me](https://astrozane.com/links/contact/).
-
-## Telescope Making & Restoration
+## Telescope Making
 
 My true passion lies in building telescopes, particularly fast instruments with thin mirrors that push the boundaries of traditional optics wisdom and telescope design. One of my proudest achievements was winning a first-place award at Stellafane, the oldest and most prestigious telescope making events in the United States, for my homemade [6" f/4.3 telescope and mirror](https://astrozane.com/projects/6inch-f4/).
-
-I have built Dobsonian telescopes as large as 24" and made optics as large as 16" at home. I am currently working on a [22" f/2.8 mirror and telescope](https://astrozane.com/projects/22inch-f28/), which will likely be the largest I go again unless I build a 1-meter with some friends. My [homemade 14.7" telescope](https://astrozane.com/projects/147-inch-f29/) has earned the distinction of being the [top post of all time on Reddit's r/space community](https://www.reddit.com/r/space/comments/frdd1d/im_17_years_old_and_just_finished_building_this/), reaching millions of space enthusiasts worldwide.
 
 I am particularly proud of my role in helping to design the [Hadley 114mm 3D-printed telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig). Hadley represents a significant step towards making astronomy and telescope making more accessible. Hadley provides great deep-sky views but performs significantly better at high magnifications than many cheaper tabletop Dobsonians, at a cost less than most commercial instruments. You can [buy a kit from Jonathan Kissner](https://kissner-optik.netlify.app/) or print your own. Hadley's optics can be scavenged from many "hobby killer" telescopes with wobbly mounts, or you can buy the optics wholesale on Amazon or AliExpress. Virtually any 3d printer will allow you to build the structure, and all of the non-optical and non-printed bits can be found at your local hardware store.
 
 Over the years, I've [owned more than 470 telescopes](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link) and personally built about a dozen instruments from scratch. This extensive experience has given me unique insights into optical design, mechanical engineering, and the practical aspects of astronomical observation. I regularly share this knowledge by teaching mirror-making classes.
+
+I have built Dobsonian telescopes as large as 24" and made optics as large as 16" at home. I am currently working on a [22" f/2.8 mirror and telescope](https://astrozane.com/projects/22inch-f28/), which will likely be the largest I go again unless I build a 1-meter with some friends. My [homemade 14.7" telescope](https://astrozane.com/projects/147-inch-f29/) has earned the distinction of being the [top post of all time on Reddit's r/space community](https://www.reddit.com/r/space/comments/frdd1d/im_17_years_old_and_just_finished_building_this/), reaching millions of space enthusiasts worldwide.
+
+## Telescope Restoration & Repairs
 
 I'm passionate about preserving astronomical heritage and have restored telescopes dating back to the 1930s, carefully bringing these historical instruments back to working condition while maintaining their original character.
 
@@ -44,7 +42,7 @@ Some of the more exciting restoration projects I've done include:
 
 * Installing a new corrector plate in a Celestron C11 (which surprisingly worked quite well)
 
-I've also developed extensive experience operating large observatory telescopes, including the Stamford Observatory's 22" Maksutov-Cassegrain, which I helped relocate to New Mexico, and the 14" EdgeHD at the Westport Observatory.
+I provide telescope help and repairs as as service. For more information, [contact me](https://astrozane.com/links/contact/).
 
 ## Observational Astronomy
 
@@ -61,8 +59,3 @@ Furthermore, I actively engage with the astronomy community by participating in 
 Deeply committed to the advocacy for dark skies, I am a proponent of initiatives like those championed by [DarkSky](https://www.darksky.org/). Preserving the darkness of the night sky is crucial for protecting the environment, as well as both recreational  and scientific astronomical pursuits.
 
 I currently serve on the board of [DarkSky Southern Arizona](https://darkskysoaz.org/).
-
-## Beyond Astronomy
-
-When I'm not looking up at the stars, I maintain a diverse range of interests. I enjoy woodworking projects that allow me to combine craftsmanship with functionality. My 3D printing experiments often result in custom astronomical accessories and solutions for everyday problems. I find balance through hiking in the beautiful landscapes of Arizona and working on my Miata.
-

@@ -24,7 +24,7 @@ You can read the build thread [here on Cloudy Nights](https://www.cloudynights.c
 
 ## 10-Inch f/3.2 Newtonian Telescope
 
-![10" f/3.2](images/10inchpathfinder.jpeg)
+![10" f/3.2](images/10inchpathfinder.JPEG)
 
 This scope was built in early 2020 using a mirror made by Logan Nicholson of Melbourne, Australia. Unlike all of my other homemade telescopes, this one was an equatorially mounted rather than a Dobsonian, mostly because the stubby 30" long tube was too short for a true Dobsonian mounting while at the same time the immense 29-pound weight meant it would be far too heavy for a tabletop telescope. I used an aluminum tube from Hastings Irrigation and a mirror cell from Orion Optics UK, and mounted the scope on an old Celestron ASGT. While it worked very well, the equatorial configuration frequently put the telescope's eyepiece in rather irritating positions, and the total assembly weighed about 100 pounds. I ended up ditching the scope for my 14.7" f/2.9.
 
@@ -48,4 +48,4 @@ Built using some salvaged optics, a HC-2 focuser, fiberglass tube and a HC-2 foc
 
 ## Replacement Dob Bases
 
-![Orion XT10]](images/orion10base.jpeg)
+![Orion XT10](images/orion10base.jpeg)

@@ -5,8 +5,6 @@ url: "/astronomy/astrophotography"
 date: 2024-01-01
 ---
 
-#Astrophotography
-
 I don't do a lot of astrophotography - there are much better images available online for free and most objects in space don't change on human time scales. However, I used to have a deep-sky rig (a Takahashi FC-76 guided atop a Sky-Watcher HEQ5) and do occasionally snap photos through other telescopes.
 
 ## Deep Sky - Takahashi FC76 + Canon T3i
@@ -22,18 +20,18 @@ I don't do a lot of astrophotography - there are much better images available on
 ## NGC 7000 - part of the North American Nebula
 ![ngc7000](images/NaNebulaDarked_ABE.jpg)
 
-# Deep Sky - ZWO SeeStar
-## IC 434 - Horsehead Nebula
+## Deep Sky - ZWO SeeStar
+### IC 434 - Horsehead Nebula
 ![seestarhh](images/seestarhh.JPG)
-## Rosette Nebula
+### Rosette Nebula
 ![seestarhh](images/seestarrosette.JPG)
-## M31 - Andromeda Galaxy
+### M31 - Andromeda Galaxy
 ![seestarm31](images/seestarm31.JPG)
-## M33 - Triangulum Galaxy
+### M33 - Triangulum Galaxy
 ![seestarm33](images/seestarm33.JPG)
-## M41 - Open Cluster
+### M41 - Open Cluster
 ![seestarm41](images/seestarm41.JPG)
-## M42 - Orion Nebula
+### M42 - Orion Nebula
 ![seestarm42](images/seestarm42.JPG)
 
 ## Deep Sky - 14.7" Dob + PVS-14

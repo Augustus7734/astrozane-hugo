@@ -46,6 +46,8 @@ Built for a class at a local maker space, the person doing it quit because he di
 
 Built using some salvaged optics, a HC-2 focuser, fiberglass tube and a HC-2 focuser. Worked pretty well but was unnecessary alongside my 6" f/4 so I sold it.
 
+# Other Projects
+
 ## Replacement Dob Bases
 
 ![Orion XT10](images/orion10base.jpeg)

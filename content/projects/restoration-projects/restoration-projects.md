@@ -30,9 +30,3 @@ This scope came to me in incredibly bad shape, with dirty optics, a non-function
 A scope I restored with the help of Dana Weisbrot, who painted the tube and finder while I did the rest.
 
 ![rv6after](images/criterionafter.jpeg)
-
-## 1970s Criterion Dynamax 8
-
-I found a Dynamax with a broken focuser and no tripod but managed to secure the latter and repair the former. It put up pretty nice views.
-
-![rv6after](images/criterionafter.jpeg)

@@ -1,7 +1,7 @@
 ---
 title: "Booking"
 layout: "single"
-url: "/booking/"
+url: "/about/booking/"
 ---
 
 # Star Party Bookings

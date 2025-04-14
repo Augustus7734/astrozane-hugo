@@ -70,16 +70,16 @@ In addition to working with the groups below, [I regularly do astronomy outreach
 
 ## **Articles**
 
-● A New Generation Picks Up the Torch - Sky & Telescope, 2018
-● [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018
-● [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018
-● [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022
+● A New Generation Picks Up the Torch - Sky & Telescope, 2018  
+● [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018  
+● [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018  
+● [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022  
 
 ## **Presentations**
 
-● [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)
-● [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)
-● [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)
-● [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)
-● The Next Generation of Amateur Telescope Making - AstroAssembly 2019
-● Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop
+● [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)  
+● [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)  
+● [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)  
+● [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)  
+● The Next Generation of Amateur Telescope Making - AstroAssembly 2019  
+● Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop  

@@ -1,5 +1,5 @@
 ---
-title: "24-Inch Telescope"
+title: "24-Inch F3.5 Telescope"
 weight: 2
 layout: "single"
 url: "/projects/24-inch/"

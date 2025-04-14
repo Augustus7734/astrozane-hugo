@@ -14,7 +14,7 @@ My professional experience spans multiple disciplines. Since 2017, I've been bui
 
 I've also worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and the [EUEC Convention](https://euec.com/). [See my resume for more details](https://astrozane.com/about/resume/).
 
-I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. I offer help with setting up and repairing telescopes as well. Feel free to visit my [booking page](https://astrozane.com/about/booking/).
+I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. I offer help with setting up and repairing telescopes as well. Feel free to visit my [booking page](https://astrozane.com/about/booking/). I also provide telescope help and repairs as as service. For more information, [contact me](https://astrozane.com/links/contact/).
 
 ## Astronomy Outreach
 
@@ -22,33 +22,13 @@ I offer private stargazing events in the Tucson area, utilizing my large telesco
 
 ## Telescope Making
 
-My true passion lies in building telescopes, particularly fast instruments with thin mirrors that push the boundaries of traditional optics wisdom and telescope design. One of my proudest achievements was winning a first-place award at Stellafane, the oldest and most prestigious amateur telescope making event in the United States, for my homemade [6" f/4.3 telescope and mirror](https://astrozane.com/projects/6inch-f4/).
+My true passion lies in building and restoring telescopes. For the past few years my main focus has been on fast instruments with thin mirrors that push the boundaries of traditional optics wisdom and telescope design. One of my proudest achievements was winning a first-place award at Stellafane, the oldest and most prestigious amateur telescope making event in the United States, for my homemade [6" f/4.3 telescope and mirror](https://astrozane.com/projects/6inch-f4/).
 
 I am particularly proud of my role in helping to design the [Hadley 114mm 3D-printed telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig). Hadley represents a significant step towards making astronomy and telescope making more accessible. Hadley provides great deep-sky views but performs significantly better at high magnifications than many cheaper tabletop Dobsonians, at a cost less than most commercial instruments. You can [buy a kit from Jonathan Kissner](https://kissner-optik.netlify.app/) or print your own. Hadley's optics can be scavenged from many "hobby killer" telescopes with wobbly mounts, or you can buy the optics wholesale on Amazon or AliExpress. Virtually any 3d printer will allow you to build the structure, and all of the non-optical and non-printed bits can be found at your local hardware store.
 
-Over the years, I've [owned more than 470 telescopes](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link) and personally built about a dozen instruments from scratch. This extensive experience has given me unique insights into optical design, mechanical engineering, and the practical aspects of astronomical observation. I regularly share this knowledge by teaching mirror-making classes.
+Over the years, I've [owned more than 470 telescopes](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link), [restored dozens](https://astrozane.com/projects/restoration-projects/), and personally built about a dozen instruments from scratch. This extensive experience has given me unique insights into optical design, mechanical engineering, and the practical aspects of astronomical observation. I regularly share this knowledge by teaching mirror-making classes.
 
 I have built Dobsonian telescopes as large as 24" and made optics as large as 16" at home. I am currently working on a [22" f/2.8 mirror and telescope](https://astrozane.com/projects/22inch-f28/), which will likely be the largest I go again unless I build a 1-meter with some friends. My [homemade 14.7" telescope](https://astrozane.com/projects/147-inch-f29/) has earned the distinction of being the [top post of all time on Reddit's r/space community](https://www.reddit.com/r/space/comments/frdd1d/im_17_years_old_and_just_finished_building_this/), reaching millions of space enthusiasts worldwide.
-
-## Telescope Restoration & Repairs
-
-I'm passionate about preserving astronomical heritage and have restored telescopes dating back to the 1930s, carefully bringing these historical instruments back to working condition while maintaining their original character.
-
-Some of the more exciting restoration projects I've done include:
-
-* Fixing a 1931 JW Fecker 90mm refractor, including re-seating the lens, refinishing the legs, and a full repaint/polish with the help of Dana Weisbrot
-
-* Repainting Celestron C8 #737 with the help of Dana Weisbrot
-
-* Restoring a 1959 Criterion RV-6 including repolishing the original setting circles and rebuilding the clock drive as well as a full repaint of the tube/mount
-
-* Refinishing and repainting a Tasco 10TE from the 1950s
-
-* Repairing a 300-lb Edmund 8" f/8 Newtonian reflector
-
-* Installing a new corrector plate in a Celestron C11 (which surprisingly worked quite well)
-
-I provide telescope help and repairs as as service. For more information, [contact me](https://astrozane.com/links/contact/).
 
 ## Observational Astronomy
 

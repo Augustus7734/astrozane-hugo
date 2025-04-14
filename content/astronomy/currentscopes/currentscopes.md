@@ -38,7 +38,7 @@ My second orange C11 (the first was mounted on a CGEM). Like the last one I've s
 ### Criterion Dynamax 6 built circa 1978
 ![DX6](images/dx6.JPEG)
 
-One of the few Criterion Dynamaxes that is good optically. Made in Connecticut, my home state. The 6" units have a better reputation, and all of the other ones I've heard about are also pretty good - compare that to the single decent DX8 and the four others I've used that were complete trash. The fork mount on this unit is blue, but someone painted them and the wedge black. It's not as good optically as my Intes MK63 but a lot lighter and quicker to acclimate to ambient temperatures on account of its Schmidt-Cassegrain design and Bakelite tube.
+One of the few Criterion Dynamaxes that is good optically. Made in Connecticut, my home state. The 6" units have a better reputation, and all of the other ones I've heard about are also pretty good - compare that to the single decent DX8 and the four others I've used that were complete trash. The fork mount on this unit is blue, but someone painted them and the wedge black. It's not as quite as sharp as my Intes MK63 but a lot lighter and quicker to acclimate to ambient temperatures on account of its Schmidt-Cassegrain design and Bakelite tube.
 
 
 ## Maksutov-Cassegrains (MCT)
@@ -52,7 +52,7 @@ One of the earliest Maksutovs to be imported from Russia shortly after the fall 
 
 I have had a lot of ETXes; my first, like this one, was an RA unit with a non-working clock drive (thankfully this one lacks the fungus on the corrector which my first had). It has flown across the US with me and I can use it on both its #881 tabletop legs or the #884 heavy duty tripod.
 
-### SarBlue Mak70 circa 2020
+### SarBlue Mak70 2022
 ![Mak70](images/mak70.JPEG)
 
 I have 2 of these presently, the second was purchased for a video review. Very good lunar, planetary, and double star instruments.

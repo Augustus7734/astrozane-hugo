@@ -24,7 +24,7 @@ I offer private stargazing events in the Tucson area, utilizing my large telesco
 
 Since getting my first telescope in 2015, I have dedicated myself to exploring the universe's vast mysteries. Despite not witnessing the full splendor of the Milky Way until several years later, my enthusiasm for observing deep-sky objects never wavered. From my Bortle 6 backyard, I embarked on the ambitious task of observing the Herschel 400 catalog, finishing in 2019.
 
-The construction of my own telescopes has been pivotal in my exploration of the cosmos. Beginning with a 16" Dobsonian in 2018 and subsequently a 20.5" telescope, I was able to uncover intricate galactic structures and resolve faint globular clusters with exceptional detail. The evolution of my telescope-building journey led me to design a 10" f/3.2 and eventually my current 14.7" f/2.9 Dobsonian, optimized for wide-field views. Currently, I utilize my homemade 6" f/4.3 and 14.7" Dobs, alongside a Celestron C11.
+The construction of my own telescopes has been pivotal in my exploration of the cosmos. Beginning with a 16" Dobsonian in 2018 and subsequently a 20.5" telescope, I was able to uncover intricate galactic structures and resolve faint globular clusters with exceptional detail. The evolution of my telescope-building journey led me to design a 10" f/3.2 and eventually my current 14.7" f/2.9 Dobsonian, optimized for wide-field views. Currently, I utilize my homemade 6" f/4.3 and 14.7" instruments, alongside a Celestron C11.
 
 Over the years, I have embraced opportunities to observe some of the most challenging and profound astronomical phenomena. One particularly memorable experience was witnessing the blinking of the Crab Pulsar (magnitude ~17.5) through a 32" telescope.
 

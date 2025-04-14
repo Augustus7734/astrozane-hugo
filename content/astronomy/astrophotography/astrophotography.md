@@ -22,17 +22,17 @@ I don't do a lot of astrophotography - there are much better images available on
 
 # Deep Sky - ZWO SeeStar
 ## M42 - Orion Nebula
-![seestarm42](images/seestarm42.jpg)
+![seestarm42](images/seestarm42.JPG)
 ## IC 434 - Horsehead Nebula
-![seestarhh](images/seestarhh.jpg)
+![seestarhh](images/seestarhh.JPG)
 ## Rosette Nebula
-![seestarhh](images/seestarrosette.jpg)
+![seestarhh](images/seestarrosette.JPG)
 ## M31 - Andromeda Galaxy
-![seestarm31](images/seestarm31.jpg)
+![seestarm31](images/seestarm31.JPG)
 ## M33 - Triangulum Galaxy
-![seestarm33](images/seestarm33.jpg)
+![seestarm33](images/seestarm33.JPG)
 ## M41 - Open Cluster
-![seestarm41](images/seestarm41.jpg)
+![seestarm41](images/seestarm41.JPG)
 
 # The Moon
 ## The Moon - Takahashi FC76 + Canon T3i

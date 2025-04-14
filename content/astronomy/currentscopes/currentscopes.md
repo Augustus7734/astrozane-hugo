@@ -14,7 +14,7 @@ date: 2024-01-01
 Coulter Odyssey 1 13.1" f/4.5
 
 John Dobson 8" f/6
-![8" Dobson](images/dobson.JPG)
+![8" Dobson](images/dobson.jpg)
 
 6" f/4.3 Newtonian
 ![6inchfast](images/IMG_0864.JPEG)

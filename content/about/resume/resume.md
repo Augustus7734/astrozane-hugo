@@ -56,10 +56,10 @@ Online Telescope sales (self-employed)
 In addition to working with the groups below, [I regularly do astronomy outreach events on my own](https://astrozane.com/astronomy/astronomyoutreach/).
 
 ● **Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
-● **Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23    
+● Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23    
 ● **Volunteer for the Huachuca Astronomy Club 2022-Present**      
 ● **Volunteer for the Tucson Amateur Astronomy Association 2022-Present**    
-● **Volunteered for the Westchester Amateur Astronomers 2019-2021   
+● Volunteered for the Westchester Amateur Astronomers 2019-2021   
 ● Volunteered for the Westport Astronomical Society 2016-2021  
 ● Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019  
 

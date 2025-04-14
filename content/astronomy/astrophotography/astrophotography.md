@@ -59,3 +59,11 @@ All of these were taken at Okie-Tex 2022 with Will (deepskydude)'s PVS-14
 
 ### 2019 Lunar Eclipse - Celestron C14 EdgeHD - iPhone 11
 ![closeup](images/eclipsec14editer.jpg)
+
+## The Sun
+
+### 2024 Partial Solar Eclipse - Mayflower 60mm Refractor
+![mayflowereclipse](images/mayflowereclipse.jpeg)
+
+### Sunspots - ZWO SeeStar
+![seestarsub](images/seestarsun.jpeg)

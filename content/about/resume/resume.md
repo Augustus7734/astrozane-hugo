@@ -39,17 +39,17 @@ Online Telescope sales (self-employed)
 ● Packing, shipping, storage, and repair of telescopes and optics often worth $1,000 or more.
 
 ## **Skills**
-● Writer/editor with extensive knowledge of classical and modern history/geopolitics, aerospace, optics, astronomy, and other science/engineering topics
-● Code: HTML/CSS, Python, Visual Studio
-● Webdev: WordPress, HubSpot, Wix, Hugo (this site was made using Hugo)
-● Ads: Meta, Google, TikTok
-● Social media: Moderator for Reddit/Discord communities, [over 3,000 Instagram] followers(https://www.instagram.com/astro_zane/)
-● Office: MS Office Suite and G-Suite (I am particularly good with sheets/Excel)
-● CRM tools: HubSpot, SalesForce, Tableau
-● AI prompting and coding: I mostly use GPT, Claude, and DeepSeek personally
-● Hardware: Extensive experience with working with precision small parts such as optics, screws
-● Fabrication: Trained in stick and MIG welding, cabinetry/woodworking
-● Familiar with tech topics such as GDPR and other regulatory aspects
+● Writer/editor with extensive knowledge of classical and modern history/geopolitics, aerospace, optics, astronomy, and other science/engineering topics  
+● Code: HTML/CSS, Python, Visual Studio  
+● Webdev: WordPress, HubSpot, Wix, Hugo (this site was made using Hugo)  
+● Ads: Meta, Google, TikTok  
+● Social media: Moderator for Reddit/Discord communities, [over 3,000 Instagram] followers(https://www.instagram.com/astro_zane/)  
+● Office: MS Office Suite and G-Suite (I am particularly good with sheets/Excel)  
+● CRM tools: HubSpot, SalesForce, Tableau  
+● AI prompting and coding: I mostly use GPT, Claude, and DeepSeek personally  
+● Hardware: Extensive experience with working with precision small parts such as optics, PC parts  
+● Fabrication: Trained in stick and MIG welding, cabinetry/woodworking  
+● Familiar with tech topics such as GDPR and other regulatory aspects  
 
 ## **Volunteering**
 

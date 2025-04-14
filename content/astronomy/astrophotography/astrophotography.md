@@ -14,10 +14,10 @@ I don't do a lot of astrophotography - there are much better images available on
 ### M51 - The Whirlpool Galaxy
 ![m51crop](images/m51crop.jpg)
 
-## NGC 7789 - Caroline's Rose
+### NGC 7789 - Caroline's Rose
 ![ngc7789](images/ngc7789.jpg)
 
-## NGC 7000 - part of the North American Nebula
+### NGC 7000 - part of the North American Nebula
 ![ngc7000](images/NaNebulaDarked_ABE.jpg)
 
 ## Deep Sky - ZWO SeeStar

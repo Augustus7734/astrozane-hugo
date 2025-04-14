@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 layout: "single"
-url: "/resume/"
+url: "/about/resume/"
 ---
 
 ## **Work History**
@@ -36,19 +36,32 @@ Optical Mechanics, Perth, Australia (Freelance/part time)
 Online Telescope sales (self-employed)
 
 ● Manage end-to-end operations of an e-commerce telescope store.  
-● Packing, shipping, storage, and repair of telescopes and optics often worth $1,000 or more.  
+● Packing, shipping, storage, and repair of telescopes and optics often worth $1,000 or more.
+
+## **Skills**
+● Writer/editor with extensive knowledge of classical and modern history/geopolitics, aerospace, optics, astronomy, and other science/engineering topics
+● Code: HTML/CSS, Python, Visual Studio
+● Webdev: WordPress, HubSpot, Wix, Hugo (this site was made using Hugo)
+● Ads: Meta, Google, TikTok
+● Social media: Moderator for Reddit/Discord communities, [over 3,000 Instagram] followers(https://www.instagram.com/astro_zane/)
+● Office: MS Office Suite and G-Suite (I am particularly good with sheets/Excel)
+● CRM tools: HubSpot, SalesForce, Tableau
+● AI prompting and coding: I mostly use GPT, Claude, and DeepSeek personally
+● Hardware: Extensive experience with working with precision small parts such as optics, screws
+● Fabrication: Trained in stick and MIG welding, cabinetry/woodworking
+● Familiar with tech topics such as GDPR and other regulatory aspects
 
 ## **Volunteering**
 
-See my page on sidewalk astronomy for more info on my current astronomy outreach work.
+In addition to working with the groups below, [I regularly do astronomy outreach events on my own](https://astrozane.com/astronomy/astronomyoutreach/).
 
-**Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
-**Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23**  
-**Volunteer for the Huachuca Astronomy Club 2022-Present**    
-**Volunteer for the Tucson Amateur Astronomy Association 2022-Present**  
-**Volunteered for the Westchester Amateur Astronomers 2019-2021**  
-**Volunteered for the Westport Astronomical Society 2016-2021**  
-**Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019**  
+● **Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
+● **Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23    
+● **Volunteer for the Huachuca Astronomy Club 2022-Present**      
+● **Volunteer for the Tucson Amateur Astronomy Association 2022-Present**    
+● **Volunteered for the Westchester Amateur Astronomers 2019-2021   
+● Volunteered for the Westport Astronomical Society 2016-2021  
+● Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019  
 
 ## **Education**
 
@@ -57,16 +70,16 @@ See my page on sidewalk astronomy for more info on my current astronomy outreach
 
 ## **Articles**
 
-- A New Generation Picks Up the Torch - Sky & Telescope, 2018
-- [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018
-- [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018
-- [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022
+● A New Generation Picks Up the Torch - Sky & Telescope, 2018
+● [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018
+● [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018
+● [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022
 
 ## **Presentations**
 
-- [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)
-- [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)
-- [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)
-- [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)
-- The Next Generation of Amateur Telescope Making - AstroAssembly 2019
-- Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop
+● [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)
+● [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)
+● [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)
+● [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)
+● The Next Generation of Amateur Telescope Making - AstroAssembly 2019
+● Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop

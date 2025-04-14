@@ -12,6 +12,7 @@ date: 2024-01-01
 ![14.7](images/mk25.JPEG)
 
 Coulter Odyssey 1 13.1" f/4.5
+![Odyssey](images/odysseyatnight.jpeg)
 
 John Dobson 8" f/6
 ![8" Dobson](images/dobson.jpg)
@@ -41,3 +42,4 @@ SarBlue Mak70
 ## Refractors
 
 Meade #312 (80mm f/11)
+![Meade80](images/meade80.jpeg)

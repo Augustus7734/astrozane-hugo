@@ -34,6 +34,21 @@ I don't do a lot of astrophotography - there are much better images available on
 ## M41 - Open Cluster
 ![seestarm41](images/seestarm41.JPG)
 
+# Deep Sky - 14.7" Dob + PVS-14
+
+All of these were taken at Okie-Tex 2022 with Will (deepskydude)'s PVS-14
+
+## M42 - Orion Nebula
+![m42](images/m42.jpeg)
+## Crescent Nebula
+![crescent](images/crescent.jpeg)
+## Pac-Man Nebula
+![pacman](images/pacman.jpeg)
+## Witch's Broom Nebula
+![broom](images/broom.jpeg)
+## Sculptor Galaxy
+![sculptor](images/sculptor.jpeg)
+
 # The Moon
 ## The Moon - Takahashi FC76 + Canon T3i
 ![takahashimoon](images/takahashimoon.jpg)

@@ -5,11 +5,9 @@ url: "/astronomy/currentscopes"
 date: 2024-01-01
 ---
 
-# Scopes I Use:
-
 I have owned over 470 telescopes. [The full list is here.](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link)
 
-Currently
+Currently I observe with two large Dobsonians and a Celestron C11 Schmidt-Cassegrain, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
 
 ## Reflectors
 ### [14.7" f/2.9 Dob built by me](https://astrozane.com/projects/147-inch-f29/)

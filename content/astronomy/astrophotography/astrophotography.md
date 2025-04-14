@@ -52,7 +52,7 @@ All of these were taken at Okie-Tex 2022 with Will (deepskydude)'s PVS-14
 ## The Moon
 ### The Moon - Takahashi FC76 + Canon T3i
 ![takahashimoon](images/takahashimoon.jpg)
-## The Moon - Hadley Telescope + iPhone 14 Pro
+### The Moon - Hadley Telescope + iPhone 14 Pro
 ![moonhadley1](images/moonhadley1.jpg)
 ![moonhadley2](images/moonhadley2.jpg)
 

@@ -6,6 +6,13 @@ url: "/about/resume/"
 
 ## **Work History**
 
+**Marketing Intern | Q2/Q3 2025**  
+Universal Avionics, Tucson, AZ  
+
+●	Supporting R&D of new marketing strategies with an emphasis on social media
+●	Creating both short- and long-form content to promote avionics products
+●	Optimize ad placements for maximum SEO performance
+
 **Marketing Intern | Q1/Q2 2025**  
 EUEC, Tucson, AZ  
 

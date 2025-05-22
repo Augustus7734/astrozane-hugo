@@ -7,16 +7,11 @@ date: 2024-01-01
 
 I have owned over 470 telescopes. [The full list is here.](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link)
 
-Currently I observe with two large Dobsonians and a Celestron C11 Schmidt-Cassegrain, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
+Currently I observe with my 14.7" f/2.9 Dob and a Celestron C11 Schmidt-Cassegrain, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
 
 ## Reflectors
 ### [14.7" f/2.9 Dob built by me](https://astrozane.com/projects/147-inch-f29/)
 ![14.7](images/mk25.JPEG)
-
-### Coulter Odyssey 1 13.1" f/4.5 built circa 1981
-![Odyssey](images/odysseyatnight.jpeg)
-
-One of the first complete Coulter Odyssey telescopes, I was told it was made for the president of an astronomy club in Phoenix. Upgraded with a 2" focuser and a smoother, lighter weight ground board. Very sharp views, though the 90-degree eyepiece angle is kind of annoying. Unlike the later red tube versions you have to remove the primary mirror for transport, which allows me to keep the scope out in the garage and the mirror indoors and air-conditioned. This is still a lot quicker to set up than a truss tube scope like my 14.7".
 
 ### John Dobson 8" f/6 built circa 1985
 ![8" Dobson](images/dobson.jpg)

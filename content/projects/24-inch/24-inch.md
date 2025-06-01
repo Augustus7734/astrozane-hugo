@@ -1,6 +1,6 @@
 ---
-title: "24-Inch F3.5 Telescope"
-weight: 2
+title: "24-Inch F3.5 Dobsonian Telescope"
+weight: 1
 layout: "single"
 url: "/projects/24-inch/"
 draft: false

@@ -1,6 +1,6 @@
 ---
-title: "6-inch F4.3 Telescope"
-weight: 3
+title: "6-inch F4.3 Newtonian Telescope"
+weight: 5
 layout: "single"
 url: "/projects/6inch-f4/"
 ---
@@ -17,9 +17,4 @@ This scope made it into Sky & Telescope in September 2018. The second incarnatio
 
 ![Mk I](images/mk1.jpg)
 
-
 ![Mk II](images/mk2.jpg)
-
-The fifth and most recent incarnation of the scope 
-
-![Mk V](images/6f4new.JPEG)

@@ -15,13 +15,6 @@ A partially unsuccessful project, but an adventure nonetheless. I got a 20.5" BV
 
 I ultimately scrapped the 20.5" when I realized its deficiencies, leading to the 12" Dobsonian and a period where I only used commercial scopes. While the telescope was terrible, I still saw a lot of cool stuff and learned many lessons from it.
 
-## 16-Inch f/4.7 Dobsonian Telescope
-
-![16" Dob](images/16inchmk1.jpg)
-
-My second homemade scope and first big Dob, made in spring 2018. The original primary mirror, which I attempted to grind myself, was really bad (about 1 wave of astigmatism), so I switched it out for one made by Dan Landis. I made the scope itself on the floor of my garage with a router and circular saw. Despite the poor construction, the scope showed me a lot and won the 3rd place Junior award at Stellafane in 2018. It also graced the pages of the September 2018 Sky & Telescope. To make way for the 20.5" scope which succeeded it, I scrapped the structure and sold the mirror on eBay - where it actually turned up again in September 2020, and I nearly bought it (opting not to because I now have the 14.7" f/2.9).  
-You can read the build thread [here on Cloudy Nights](https://www.cloudynights.com/topic/606445-16-dob-the-insanity-continues/)
-
 ## 10-Inch f/3.2 Newtonian Telescope
 
 ![10" f/3.2](images/10inchpathfinder.JPEG)

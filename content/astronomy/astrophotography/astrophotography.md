@@ -5,7 +5,14 @@ url: "/astronomy/astrophotography"
 date: 2024-01-01
 ---
 
-I don't do a lot of astrophotography - there are much better images available online for free and most objects in space don't change on human time scales. However, I used to have a deep-sky rig (a Takahashi FC-76 guided atop a Sky-Watcher HEQ5) and do occasionally snap photos through other telescopes.
+I don't do a lot of astrophotography - there are much better images available online for free and most objects in space don't change on human time scales. However, I used to have a deep-sky rig (a Takahashi FC-76 guided atop a Sky-Watcher HEQ5) and do occasionally snap photos through other telescopes. I am presently borrowing a Vaonis Vespera II which can take some really nice images.
+
+## Deep Sky - Vaonis Vespera II
+### NGC 6960 - West Veil Nebula/Witch's Broom
+![westveil1](images/Vespera II Witch's Broom Final ZL.png)
+
+### NGC 7000 - North America Nebula
+![naneb2](images/North America ZL V10.png)
 
 ## Deep Sky - Takahashi FC76 + Canon T3i
 ### M13 - Globular Cluster in Hercules

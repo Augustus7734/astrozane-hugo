@@ -9,13 +9,13 @@ I don't do a lot of astrophotography - there are much better images available on
 
 ## Deep Sky - Vaonis Vespera II
 ### NGC 6960 - West Veil Nebula/Witch's Broom
-![westveil1](images/Vespera II Witch's Broom Final ZL.jpg)
+![westveil1](images/Vespera II Witch's Broom Final ZL.JPG)
 
 ### NGC 7000 - North America Nebula
-![naneb2](images/North America ZL V10.jpg)
+![naneb2](images/North America ZL V10.JPG)
 
 ### M11 - Wild Duck Cluster
-![wildducks](images/ZL M11 V6.jpg)
+![wildducks](images/ZL M11 V6.JPG)
 
 ## Deep Sky - Takahashi FC76 + Canon T3i
 ### M13 - Globular Cluster in Hercules

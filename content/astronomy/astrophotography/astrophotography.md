@@ -14,45 +14,23 @@ I don't do a lot of astrophotography - there are much better images available on
 ### NGC 7000 - North America Nebula
 ![naneb2](images/North America ZL V10.png)
 
+### M11 - Wild Duck Cluster
+![wildducks](images/ZL M11 V6.png)
+
 ## Deep Sky - Takahashi FC76 + Canon T3i
 ### M13 - Globular Cluster in Hercules
 ![m13crop](images/m13crop.jpg)
 
-### M51 - The Whirlpool Galaxy
-![m51crop](images/m51crop.jpg)
-
 ### NGC 7789 - Caroline's Rose
 ![ngc7789](images/ngc7789.jpg)
-
-### NGC 7000 - part of the North American Nebula
-![ngc7000](images/NaNebulaDarked_ABE.jpg)
 
 ## Deep Sky - ZWO SeeStar
 ### IC 434 - Horsehead Nebula
 ![seestarhh](images/seestarhh.JPG)
 ### Rosette Nebula
 ![seestarhh](images/seestarrosette.JPG)
-### M31 - Andromeda Galaxy
-![seestarm31](images/seestarm31.JPG)
-### M33 - Triangulum Galaxy
-![seestarm33](images/seestarm33.JPG)
-### M41 - Open Cluster
-![seestarm41](images/seestarm41.JPG)
 ### M42 - Orion Nebula
 ![seestarm42](images/seestarm42.JPG)
-
-## Deep Sky - 14.7" Dob + PVS-14
-
-All of these were taken at Okie-Tex 2022 with Will (deepskydude)'s PVS-14
-
-### Crescent Nebula
-![crescent](images/crescent.jpeg)
-### Pac-Man Nebula
-![pacman](images/pacman.jpeg)
-### Witch's Broom Nebula
-![broom](images/broom.jpeg)
-### Sculptor Galaxy
-![sculptor](images/sculptor.jpeg)
 
 ## The Moon
 ### The Moon - Takahashi FC76 + Canon T3i

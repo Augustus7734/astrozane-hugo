@@ -9,10 +9,10 @@ I don't do a lot of astrophotography - there are much better images available on
 
 ## Deep Sky - Vaonis Vespera II
 ### NGC 6960 - West Veil Nebula/Witch's Broom
-![westveil1](images/Vespera II Witch's Broom Final ZL.png)
+![westveil1](images/Vespera II Witch's Broom Final ZL.jpg)
 
 ### NGC 7000 - North America Nebula
-![naneb2](images/North America ZL V10.png)
+![naneb2](images/North America ZL V10.jpg)
 
 ### M11 - Wild Duck Cluster
 ![wildducks](images/ZL M11 V6.png)

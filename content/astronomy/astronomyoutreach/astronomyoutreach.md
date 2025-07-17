@@ -20,7 +20,7 @@ Sidewalk astronomy, however, provides an unmediated connection. It turns distant
 ## Astronomy Club Events
 
 - **HAC Kartchner Caverns Star Party:** 12 PM - 9 PM, April 26
-- **HAC Astronomy Day Star Party:** 12 PM - 9 PM, May 3
+- **HAC Astronomy Day Star Party:** 12 PM - 11 PM, May 3
 
 ## Photos
 

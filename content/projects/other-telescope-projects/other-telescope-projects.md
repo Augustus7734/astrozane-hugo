@@ -1,6 +1,6 @@
 ---
 title: "Other Telescope Projects"
-weight: 6
+weight: 9
 layout: "single"
 url: "/projects/other-telescope-projects/"
 draft: false

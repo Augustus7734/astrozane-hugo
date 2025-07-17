@@ -1,6 +1,6 @@
 ---
 title: "22-inch F2.8 Meniscus Mirror"
-weight: 1
+weight: 2
 layout: "single"
 url: "/projects/22inch-f28/"
 draft: false

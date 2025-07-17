@@ -15,7 +15,7 @@ I don't do a lot of astrophotography - there are much better images available on
 ![naneb2](images/North America ZL V10.jpg)
 
 ### M11 - Wild Duck Cluster
-![wildducks](images/ZL M11 V6.png)
+![wildducks](images/ZL M11 V6.jpg)
 
 ## Deep Sky - Takahashi FC76 + Canon T3i
 ### M13 - Globular Cluster in Hercules

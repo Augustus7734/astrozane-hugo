@@ -1,7 +1,7 @@
 ---
 title: "Astrophotography - Vaonis Vespera II"
 layout: "single"
-url: "/astronomy/astrophotography"
+url: "/astronomy/vespera"
 date: 2024-01-01
 ---
 

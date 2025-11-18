@@ -25,16 +25,10 @@ I added numerous upgrades such as a new ground board, helical 2" focuser, and a 
 
 
 ## Schmidt-Cassegrains (SCT)
-### Celestron C11 built circa 1978
+### Celestron C8 built circa 1980
 ![C11](images/c11.JPEG)
 
-My second orange C11 (the first was mounted on a CGEM). Like the last one I've seen the Encke gap with it thanks to the razor-sharp optics. The tube detaches from the forks for easy setup/packing in just a few minutes.
-
-### Criterion Dynamax 6 built circa 1978
-![DX6](images/dx6.JPEG)
-
-One of the few Criterion Dynamaxes that is good optically. Made in Connecticut, my home state. The 6" units have a better reputation, and all of the other ones I've heard about are also pretty good - compare that to the single decent DX8 and the four others I've used that were complete trash. The fork mount on this unit is blue, but someone painted them and the wedge black. It's not as quite as sharp as my Intes MK63 but a lot lighter and quicker to acclimate to ambient temperatures on account of its Schmidt-Cassegrain design and Bakelite tube.
-
+TBD
 
 ## Maksutov-Cassegrains (MCT)
 ### Intes MK63 built 1992

@@ -13,7 +13,7 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 ![cocoon-nebula](images/ZL Cocoon 10h 45min V25.jpg)
 
 ### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula (Monoceros) - Emission/Reflection Nebula in Monoceros - 22h 23min
-![cone-christmas-tree-hubbles-variable](images/ZL Cone Christmas Tree & Hubble's Variable Nebula 22h 23min Vespera II V1.jpg)
+![cone-christmas-tree-hubbles-variable](images/ZLCone.jpg)
 
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min
 ![ghost-of-cassiopeia](images/ZL Ghost of Cassiopeia 3h 30min v3.jpg)
@@ -31,7 +31,7 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 ![m42-orion-nebula](images/ZL M42 6h V4.jpg)
 
 ### M1 - Crab Nebula in Taurus - 3h 30min
-![crab-nebula](images/ZL Crab V2.jpg)
+![crab-nebula](images/ZLCrabV2.jpg)
 
 ### NGC 6888 - Crescent Nebula in Cygnus - 9h
 ![crescent-nebula](images/ZL Crescent NGC 6888 9h V3.jpg)

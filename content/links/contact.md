@@ -9,3 +9,4 @@ url: "/links/contact/"
 - [Instagram](https://instagram.com/astro_zane)
 - [YouTube Channel](https://www.youtube.com/@astro_zane)
 - [Email](mailto:zdlanders@gmail.com)
+- [Discord](https://discord.gg/astronomy)

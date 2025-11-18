@@ -3,6 +3,7 @@ title: "Astrophotography - Vaonis Vespera II"
 layout: "single"
 url: "/astronomy/vespera"
 date: 2024-01-01
+draft: false
 ---
 
 I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. My review will be up shortly on TelescopicWatch.com.
@@ -10,19 +11,19 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 ## Nebulae
 
 ### Cocoon Nebula (IC 5146) - Emission Nebula in Cygnus - 10h 45min
-![cocoon-nebula](/images/ZL Cocoon 10h 45min V25.JPG)
+![cocoon-nebula](/images/ZLCocoon5.JPG)
 
 ### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula (Monoceros) - Emission/Reflection Nebula in Monoceros - 22h 23min
 ![cone-christmas-tree-hubbles-variable](/images/ZLCone.JPG)
 
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min
-![ghost-of-cassiopeia](/images/ZL Ghost of Cassiopeia 3h 30min v3.JPG)
+![ghost-of-cassiopeia](/images/ZLGhostofCassiopeia3h30minv3.JPG)
 
 ### IC 1805/1795 - Heart Nebula in Cassiopeia - 19h 35min
-![heart-nebula-mosaic](/images/ZL Heart Mosaic 19h 35min V2a.JPG)
+![heart-nebula-mosaic](/images/ZLHeart.JPG)
 
 ### NGC 7293 - Helix Nebula in Aquarius - 7h 20min
-![helix-nebula](/images/ZL Helix V13.JPG)
+![helix-nebula](/images/ZLHelix.JPG)
 
 ### IC 434 & NGC 2024 - Horsehead and Flame Nebula in Orion - 8h
 ![horsehead-flame-nebula](/images/ZLHorseheadIC4348hV4.JPG)

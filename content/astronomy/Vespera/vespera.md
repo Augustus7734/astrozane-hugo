@@ -53,51 +53,48 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 ![ngc2359-thors-helmet](images/ZLThorsHelmet3h52minV2.JPG)
 
 ### IC 2118 - Witch Head Nebula in Eridanus - 7h
-![ic2118-witch-head](images/ZLWitchHeadNGC19097hV2.JPG)
+![ic2118-witch-head](images/ZLWitchHead.JPG)
 
 ### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus - 13h
-![ngc6960-witches-broom](images/ZL Witch's Broom NGC 6960 13h V6.JPG)
+![ngc6960witchesbroom](images/ZLVeilBroom.JPG)
 
 ### NGC 1360 - Robin's Egg Planetary Nebula in Fornax - 7h 20min
-![ngc1360-robins-egg](images/ZLEgg.JPG)
+![ngc1360robins-egg](images/ZLEgg.JPG)
 
 ### Wizard Nebula (NGC 7380) - Emission Nebula in Cepheus - 3h 30min
-![wizard-nebula](images/ZLWizardV3.JPG)
+![wizardnebula](images/ZLWizardV3.JPG)
 
 ### NGC 7822 - Emission Nebula in Cepheus - 14h 30min
 ![ngc7822](images/ZL7822.JPG)
 
 ### IC 443 - Jellyfish Nebula in Gemini - 15h
-![jellyfish-nebula](images/ZLJellyfish.JPG)
+![jellyfishnebula](images/ZLJellyfish.JPG)
 
 ### NGC 281 - Pacman Nebula in Cassiopeia - 11h
-![pacman-nebula](images/ZLPacmanNebula.JPG)
+![pacmannebula](images/ZLPacmanNebula.JPG)
 
 ### NGC 7000 - North America Nebula (Cygnus Wall) in Cygnus - 10h
-![cygnus-wall](images/ZLNAWall.JPG)
+![cygnuswall](images/ZLNAWall.JPG)
 
 ### NGC 7008 - Planetary Nebula in Cygnus - 2h 50min
 ![ngc7008](images/ZLFetus.JPG)
 
-### M16 - Eagle Nebula in Serpens - 5h 30min
-![m16-eagle-nebula](images/ZL M16 5h 30min V10.JPG)
-
 ## Galaxies
 
 ### NGC 7331 - Deer Lick Group in Pegasus - 5h 45min
-![deer-lick-group](images/ZLDeerlickSupernova.JPG)
+![deerlickgroup](images/ZLDeerlickSupernova.JPG)
 
 ### NGC 6946 - Fireworks Galaxy in Cepheus - 12h
-![fireworks-galaxy](images/ZLFireworksOkietex.JPG)
+![fireworksgalaxy](images/ZLFireworksOkietex.JPG)
 
 ### IC 342/Caldwell 5 - Hidden Galaxy in Camelopardalis - 19h 30min
 ![ic342](images/ZLIC342.JPG)
 
 ### M31 - Andromeda Galaxy - 10h 20min
-![m31-andromeda](images/ZLM31.JPG)
+![m31andromeda](images/ZLM31.JPG)
 
 ### M33 - Triangulum Galaxy - 8h 5min
-![m33-triangulum](images/ZL M33 8h 5min V4.JPG)
+![m33triangulum](images/ZL M33 8h 5min V4.JPG)
 
 ### M77 - Seyfert Galaxy in Cetus - 4h 20min
 ![m77](images/ZL M77 4h 20min v2.JPG)
@@ -108,13 +105,13 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 ## Open Star Clusters
 
 ### NGC 7789 - Caroline's Rose Open Cluster in Cassiopeia - 8h
-![ngc7789-carolines-rose](images/ZL NGC 7789 8h V5.JPG)
+![ngc7789carolinesrose](images/ZL NGC 7789 8h V5.JPG)
 
 ### M11 - Wild Duck Cluster in Scutum - 2h 50min
-![m11-wild-duck](images/ZL M11 2h 50min V12.JPG)
+![m11wildduck](images/ZL M11 2h 50min V12.JPG)
 
 ### M45 - Pleiades Open Cluster in Taurus - 2h 20min
-![m45-pleiades](images/ZL Pleiades V3 140mins.JPG)
+![m45pleiades](images/ZL Pleiades V3 140mins.JPG)
 
 ### NGC 869 & NGC 884 - Double Cluster in Perseus - 4h 43min
-![double-cluster](images/ZL Double Cluster 4h43min V2.JPG)
+![doublecluster](images/ZL Double Cluster 4h43min V2.JPG)

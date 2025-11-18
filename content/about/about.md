@@ -6,13 +6,15 @@ url: "/about/"
 
 ## Introduction
 
-I'm Zane Landers, a digital marketing and communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona and currently work as a marketing intern at Universal Avionics.
+I'm Zane Landers, a digital marketing and communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona. I am currently looking for a full-time job position, but I also do work as a writer/editor and marketing consultant for [TelescopicWatch](https://telescopicwatch.com), [EUEC](https://euec.com), and CBX Astro part-time.
 
 My professional experience spans multiple disciplines. Since 2017, I've been building, buying, repairing, and reselling telescopes. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. I have done articles for other websites as well, and I am a frequent contributor to the [Cloudy Nights](https://www.cloudynights.com/) astronomy forum.
 
 I've also worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and the [EUEC Convention](https://euec.com/). [See my resume for more details](https://astrozane.com/resume/).
 
 I offer private stargazing events in the Tucson area, utilizing my large telescopes to provide breathtaking views of the night sky. Whether for individuals, families, or as a unique experience for corporate events, these sessions offer a personalized journey through the stars. I offer help with setting up and repairing telescopes as well. Feel free to visit my [booking page](https://astrozane.com/booking/).
+
+I am particularly proud of my role in helping to design the [Hadley 114mm 3D-printed telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig). Hadley represents a significant step towards making astronomy and telescope making more accessible. Hadley provides great deep-sky views but performs significantly better at high magnifications than many cheaper tabletop Dobsonians, at a cost less than most commercial instruments. You can [buy a kit from Jonathan Kissner](https://kissner-optik.netlify.app/) or print your own. Hadley's optics can be scavenged from many "hobby killer" telescopes with wobbly mounts, or you can buy the optics wholesale on Amazon or AliExpress. Virtually any 3d printer will allow you to build the structure, and all of the non-optical and non-printed bits can be found at your local hardware store. If you're located in Arizona, I am able to build Hadley units, as well as variants, for a reasonable price. Please [contact me](https://astrozane.com/links/contact/). if you are interested in this.
 
 ## Astronomy Outreach
 
@@ -21,8 +23,6 @@ I offer private stargazing events in the Tucson area, utilizing my large telesco
 ## Telescope Making
 
 My true passion lies in building telescopes, particularly fast instruments with thin mirrors that push the boundaries of traditional optics wisdom and telescope design. One of my proudest achievements was winning a first-place award at Stellafane, the oldest and most prestigious amateur telescope making event in the United States, for my homemade [6" f/4.3 telescope and mirror](https://astrozane.com/projects/6inch-f4/).
-
-I am particularly proud of my role in helping to design the [Hadley 114mm 3D-printed telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig). Hadley represents a significant step towards making astronomy and telescope making more accessible. Hadley provides great deep-sky views but performs significantly better at high magnifications than many cheaper tabletop Dobsonians, at a cost less than most commercial instruments. You can [buy a kit from Jonathan Kissner](https://kissner-optik.netlify.app/) or print your own. Hadley's optics can be scavenged from many "hobby killer" telescopes with wobbly mounts, or you can buy the optics wholesale on Amazon or AliExpress. Virtually any 3d printer will allow you to build the structure, and all of the non-optical and non-printed bits can be found at your local hardware store.
 
 Over the years, I've [owned more than 470 telescopes](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link) and personally built about a dozen instruments from scratch. This extensive experience has given me unique insights into optical design, mechanical engineering, and the practical aspects of astronomical observation. I regularly share this knowledge by teaching mirror-making classes.
 

@@ -10,7 +10,7 @@ I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some image
 
 ## Nebulae
 
-### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula - 22h 23min
+### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula - 22h
 ![conechristmastree-hubblesvariable](images/ZLCone.jpg)
 
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min

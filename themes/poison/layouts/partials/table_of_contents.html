@@ -1,6 +1,6 @@
 <div class="article-toc {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
-    <div class="toc-wrapper">
-      <h4 id="contents"></h4>
+    <div class="toc-wrapper" style="max-height: calc(100vh - 140px); overflow-y: auto; overflow-x: hidden; padding-right: 12px; scrollbar-width: thin; scrollbar-color: rgba(255,255,255,0.3) transparent;">
+      <h4 id="contents">Contents</h4>   <!-- PaperMod usually adds the word "Contents" via CSS or i18n, but if it's missing you can put it here -->
       {{ .TableOfContents }}
     </div>
 </div>

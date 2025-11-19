@@ -1,5 +1,5 @@
 ---
-title: "Astrophotography - Vespera II"
+title: "Astrophotography"
 layout: "single"
 url: "/astronomy/vespera"
 date: 2024-01-01

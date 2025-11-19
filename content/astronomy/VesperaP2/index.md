@@ -1,5 +1,5 @@
 ---
-title: "Astrophotography - Vespera II - Additional Images"
+title: "Astrophotography - Additional Images"
 layout: "single"
 url: "/astronomy/vesperaP2"
 date: 2024-01-01

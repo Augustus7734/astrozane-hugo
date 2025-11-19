@@ -12,7 +12,7 @@ These images were taken using the stock Vespera II with the included dual band/b
 
 These images load in full resolution by default thanks to the way my website is coded - if you're on a desktop, just right click to "open in new tab" - if you're on mobile, you can just zoom in or save the photos to your device.
 
-## Nebulae
+## Emission & Reflection Nebulae
 
 ### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula
 ![conechristmastree-hubblesvariable](images/ZLCone.jpg)
@@ -44,22 +44,12 @@ Shot mostly at home, 7h 15min with dual band filter, with 45 mins of unfiltered 
 
 2h from the Okie-Tex Star Party unfiltered, 4h from my backyard with broadband filter, f6h total.
 
-### NGC 7293 - Helix Nebula in Aquarius
-![helixnebula](images/ZLHelix.jpg)
-
-Shot entirely from the Okie-Tex Star Party, 7h 20min, unfiltered.
-
-### NGC 6888 - Crescent Nebula in Cygnus
-![crescentnebula](images/ZLCrescent.jpg)
-
-Entirely shot from my backyard, 9h, dual band filter.
-
 ### NGC 2237 - Rosette Nebula in Monoceros
 ![rosettenebula](images/ZLRosette.jpg)
 
 Entirely shot from my backyard, 8h 45min, dual band filter. This one uses 20s subs rather than the usual 10.
 
-### M8, the Lagoon Nebula in Sagittarius
+### M8 - Lagoon Nebula in Sagittarius
 ![lagoon](images/ZLM8.jpg)
 
 Shot from Sonoita Arizona, 5h 45min unfiltered. This one was processed by my friend Steve Labkoff in PixInsight with BlurXterminator - thanks Steve!
@@ -79,35 +69,15 @@ Shot from Sonoita and Mt Graham Arizona, 4h 45min unfiltered.
 
 Shot entirely from my backyard, 12h unfiltered! I needed to remove the broadband filter to get this one as it's entirely a reflection nebula.
 
-### NGC 1360 - Robin's Egg Nebula in Fornax
-![ngc1360robins-egg](images/ZLEgg.jpg)
-
-Shot entirely from my backyard, 7h 20min, dual band filter.
-
-### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus 
-![ngc6960witchesbroom](images/ZLVeilBroom.jpg)
-
-Shot with a mix of dual/broadband filters, 13h of 10s and 20s subs, from my backyard and Mt Graham.
-
 ### NGC 7380 - Wizard Nebula in Cepheus
 ![wizardnebula](images/ZLWizardV3.jpg)
 
 Entirely shot from my backyard, 3h 30min, dual band filter.
 
-### NGC 2359 - Thor's Helmet Nebula in Canis Major 
-![ngc2359-thors-helmet](images/ZLThorsHelmet3h52minV2.jpg)
-
-Entirely shot from my backyard, 3h 52min, dual band filter.
-
 ### NGC 7822 - Emission Nebula in Cepheus
 ![ngc7822](images/ZL7822.jpg)
 
 Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
-
-### IC 443 - Jellyfish Nebula in Gemini
-![jellyfishnebula](images/ZLJellyfish.jpg)
-
-Entirely shot from my backyard, 15h, dual band filter.
 
 ### NGC 281 - Pacman Nebula in Cassiopeia
 ![pacmannebula](images/ZLPacmanNebula.jpg)
@@ -119,15 +89,56 @@ Entirely shot from my backyard, 11h, dual band filter.
 
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
+### IC 5146 - Cocoon Nebula in Cygnus
+![cocoonnebula](images/ZLCocoon.jpg)
+
+Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
+
+### NGC 2174 - Monkey Head Nebula in Gemini
+![monkeyhead](images/ZLMonkeyHead.jpg)
+
+Shot from my backyard, dual band filter, 5h total.
+
+## Wolf-Rayet Shell Nebulae
+
+### NGC 2359 - Thor's Helmet Nebula in Canis Major 
+![ngc2359-thors-helmet](images/ZLThorsHelmet3h52minV2.jpg)
+
+Entirely shot from my backyard, 3h 52min, dual band filter.
+
+### NGC 6888 - Crescent Nebula in Cygnus
+![crescentnebula](images/ZLCrescent.jpg)
+
+Entirely shot from my backyard, 9h, dual band filter.
+
+## Supernova Remnants
+
+### IC 443 - Jellyfish Nebula in Gemini
+![jellyfishnebula](images/ZLJellyfish.jpg)
+
+Entirely shot from my backyard, 15h, dual band filter.
+
+### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus 
+![ngc6960witchesbroom](images/ZLVeilBroom.jpg)
+
+Shot with a mix of dual/broadband filters, 13h of 10s and 20s subs, from my backyard and Mt Graham.
+
+## Planetary Nebulae
+
+### NGC 1360 - Robin's Egg Nebula in Fornax
+![ngc1360robins-egg](images/ZLEgg.jpg)
+
+Shot entirely from my backyard, 7h 20min, dual band filter.
+
 ### NGC 7008 - Planetary Nebula in Cygnus
 ![ngc7008](images/ZLFetus.jpg)
 
 Shot from a mix of locations, 2h 50min total, dual band filter.
 
-### IC 5146 - Cocoon Nebula in Cygnus
-![cocoonnebula](images/ZLCocoon.jpg)
+### NGC 7293 - Helix Nebula in Aquarius
+![helixnebula](images/ZLHelix.jpg)
 
-Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
+Shot entirely from the Okie-Tex Star Party, 7h 20min, unfiltered.
 
 ## Galaxies
 
@@ -189,15 +200,26 @@ Shot from my backyard, 2h 50min, broadband filter.
 
 Shot from my backyard, 8h, broadband filter.
 
+## Globular Star Clusters
+
+### M13 - Great Hercules Cluster
+![m13](images/ZLM13.jpg)
+
+Shot from my backyard, 4h, broadband filter.
+
+### M15 - Pegasus Cluster
+![m15](images/ZLM15.jpg)
+
+Shot from my backyard, 4h, broadband filter. This is exactly to the same scale as the image of M13.
 
 ## Comets
 
 ### Comet SWAN - 10-19-25
-![doublecluster](images/ZLSWAN1019.jpg)
+![cometswan](images/ZLSWAN1019.jpg)
 
 Shot from TAAA Chiricahua Astronomy Complex, 10 mins, unfiltered.
 
 ### Comet Lemmon - 10-27-25
-![doublecluster](images/ZLLemmon1027.jpg)
+![cometlemmon](images/ZLLemmon1027.jpg)
 
 Shot from my backyard, 4 mins, broadband filter.

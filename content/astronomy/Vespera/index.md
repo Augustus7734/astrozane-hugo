@@ -1,16 +1,18 @@
 ---
-title: "Astrophotography - Vaonis Vespera II"
+title: "Astrophotography - Vespera II"
 layout: "single"
 url: "/astronomy/vespera"
 date: 2024-01-01
 draft: false
 ---
 
-I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. My review will be up shortly on TelescopicWatch.com.
+I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. My review will be up shortly on TelescopicWatch.com. 
 
 These images were taken using the stock Vespera II with the included dual band/broadband filters, or unfiltered from a dark sky. Unless otherwise noted, I used 10s subs and did processing in the free Siril astroimage processing app.
 
-These images load in full resolution by default thanks to the way my website is coded - if you're on a desktop, just right click to "open in new tab" - if you're on mobile, you can just zoom in or save the photos to your device.
+These should load in full resolution by default thanks to the way my website is coded - if you're on a desktop, just right click to "open in new tab" - if you're on mobile, you can just zoom in or save the photos to your device.
+
+I have more images that I'm not entirely happy yet with on a separate page.
 
 ## Emission & Reflection Nebulae
 
@@ -54,11 +56,6 @@ Entirely shot from my backyard, 8h 45min, dual band filter. This one uses 20s su
 
 Shot from Sonoita Arizona, 5h 45min unfiltered. This one was processed by my friend Steve Labkoff in PixInsight with BlurXterminator - thanks Steve!
 
-### IC 2177 - Seagull Nebula in Canis Major/Monoceros
-![seagullnebula](images/ZLSeagull.jpg)
-
-Shot entirely from my backyard, 4h, dual band filter.
-
 ### M17 - Swan Nebula in Sagittarius
 ![m17-swan-nebula](images/ZLSwanNebula.jpg)
 
@@ -74,16 +71,6 @@ Shot entirely from my backyard, 12h unfiltered! I needed to remove the broadband
 
 Entirely shot from my backyard, 3h 30min, dual band filter.
 
-### NGC 7822 - Emission Nebula in Cepheus
-![ngc7822](images/ZL7822.jpg)
-
-Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
-
-### NGC 281 - Pacman Nebula in Cassiopeia
-![pacmannebula](images/ZLPacmanNebula.jpg)
-
-Entirely shot from my backyard, 11h, dual band filter.
-
 ### NGC 7000 - North America Nebula (Cygnus Wall)
 ![cygnuswall](images/ZLNAWall.jpg)
 
@@ -93,11 +80,6 @@ Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual b
 ![cocoonnebula](images/ZLCocoon.jpg)
 
 Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
-
-### NGC 2174 - Monkey Head Nebula in Gemini
-![monkeyhead](images/ZLMonkeyHead.jpg)
-
-Shot from my backyard, dual band filter, 5h total.
 
 ## Wolf-Rayet Shell Nebulae
 
@@ -140,6 +122,11 @@ Shot from a mix of locations, 2h 50min total, dual band filter.
 
 Shot entirely from the Okie-Tex Star Party, 7h 20min, unfiltered.
 
+### M27 - Dumbbell Nebula in Vulpecula
+![dumbbellm27](images/ZLM2793minsV1.jpg)
+
+Shot from Mt Graham, AZ and from my backyard, broadband filter, 93 mins total.
+
 ## Galaxies
 
 ### NGC 6946 - Fireworks Galaxy in Cepheus
@@ -162,21 +149,15 @@ Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total
 
 Shot from my backyard, 10h 20min, 10s subs, broadband filter.
 
-### NGC 147 & 185 - Andromeda Galaxy Satellites in Cassiopeia
-![cassgroup](images/ZLM31Companions.jpg)
-
-Shot from my backyard, 10h, 10s subs, broadband filter.
-
 ### M77 - Seyfert Galaxy in Cetus
 ![m77](images/ZLM77.jpg)
 
 Shot from my backyard, 4h 20min, 10s subs, broadband filter.
 
-### M33 - Triangulum Galaxy - 8h 5min
-![m33triangulum](images/ZLM33.jpg)
+### IC 10 - Irregular Galaxy in Cassiopeia
+![IC10](images/ZLIC10.jpg)
 
-Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
-Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min total exposure time, remaining 7h 20min with broadband filter.
+Shot from my backyard, 6h, 10s subs, broadband filter.
 
 ### NGC 7331 - Deer Lick Group in Pegasus
 ![deerlickgroup](images/ZLDeerlickSupernova.jpg)
@@ -204,18 +185,6 @@ Shot from my backyard, 2h 50min, broadband filter.
 ![ngc7789carolinesrose](images/ZL7789.jpg)
 
 Shot from my backyard, 8h, broadband filter.
-
-## Globular Star Clusters
-
-### M13 - Great Hercules Cluster
-![m13](images/ZLM13.jpg)
-
-Shot from my backyard, 4h, broadband filter.
-
-### M15 - Pegasus Cluster
-![m15](images/ZLM15.jpg)
-
-Shot from my backyard, 4h, broadband filter. This is exactly to the same scale as the image of M13.
 
 ## Comets
 

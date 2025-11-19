@@ -8,10 +8,17 @@ draft: false
 
 I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. My review will be up shortly on TelescopicWatch.com.
 
+These images were taken using the stock Vespera II with the included dual band/broadband filters, or unfiltered from a dark sky.
+
 ## Nebulae
 
 ### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula - 22h
 ![conechristmastree-hubblesvariable](images/ZLCone.jpg)
+
+Entirely shot from my backyard, dual band filter.
+
+### M8, the Lagoon Nebula in Sagittarius - 5h 45min
+![lagoon](images/ZLM8.jpg)
 
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min
 ![ghostofcassiopeia](images/ZLGhostofCassiopeia3h30minv3.jpg)

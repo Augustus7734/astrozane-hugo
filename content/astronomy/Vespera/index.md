@@ -70,10 +70,12 @@ Shot entirely from my backyard, dual band filter.
 ### M17 - Swan Nebula in Sagittarius - 4h 45min
 ![m17-swan-nebula](images/ZLSwanNebula.jpg)
 
+Shot from Sonoita and Mt Graham Arizona, unfiltered.
+
 ### M78 - Reflection Nebula in Orion - 12h
 ![m78](images/ZLM7812hV1.jpg)
 
-Shot entirely from my backyard, unfiltered!
+Shot entirely from my backyard, unfiltered! I needed to remove the broadband filter to get this one as it's entirely a reflection nebula.
 
 ### NGC 1360 - Robin's Egg Nebula in Fornax - 7h 20min
 ![ngc1360robins-egg](images/ZLEgg.jpg)

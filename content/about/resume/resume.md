@@ -4,7 +4,7 @@ layout: "single"
 url: "/about/resume/"
 ---
 
-Results-driven Marketing Specialist with 8 years of experience in digital marketing, content strategy, and science communication with focus on aerospace and technology sectors. Proven track record increasing web traffic by 300%+ through SEO optimization and driving 1000+ event registrations through targeted email campaigns. Expertise in B2B/B2C marketing, data-driven decision making, web ads, and cross-functional collaboration with technical teams. Master's degree in Marketing with specialized knowledge in aviation, aerospace, and emerging technologies.
+Results-driven Marketing Specialist with 8 years of experience in digital marketing, content strategy, and science communication with focus on aerospace and technology sectors. Proven track record increasing web traffic by 300%+ through SEO optimization and driving 1000+ event registrations through targeted email campaigns. Expertise in B2B/B2C marketing, data-driven decision making, web ads, and cross-functional collaboration with technical teams. Master's degree in Marketing with specialized knowledge in aviation, aerospace, SAAS, AI, and emerging technologies.
 
 ## **Work History**
 
@@ -89,9 +89,10 @@ In addition to working with the groups below, [I regularly do astronomy outreach
 ● Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23    
 ● **Volunteer for the Huachuca Astronomy Club 2022-Present**      
 ● **Volunteer for the Tucson Amateur Astronomy Association 2022-Present**    
-● Volunteered for the Westchester Amateur Astronomers 2019-2021   
+● Volunteered for the Westchester Amateur Astronomers 2019-2021
+● Board of Directors - Fairfield County Astronomical Society, Stamford CT, 2018-2020
 ● Volunteered for the Westport Astronomical Society 2016-2021  
-● Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2019  
+● Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2020  
 
 ## **Education**
 

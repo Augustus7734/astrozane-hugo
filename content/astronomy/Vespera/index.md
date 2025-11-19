@@ -162,6 +162,11 @@ Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total
 
 Shot from my backyard, 10h 20min, 10s subs, broadband filter.
 
+### NGC 147 & 185 - Andromeda Galaxy Satellites in Cassiopeia
+![cassgroup](images/ZLM31Companions.jpg)
+
+Shot from my backyard, 10h, 10s subs, broadband filter.
+
 ### M77 - Seyfert Galaxy in Cetus
 ![m77](images/ZLM77.jpg)
 
@@ -185,7 +190,7 @@ Shot from my backyard, 5h 45min, broadband filter. Supernova SN2025rbs is visibl
 
 Shot from my backyard, 4h 43min, broadband filter.
 
-### M45 - Pleiades Open Cluster in Taurus 
+### M45 - Pleiades/Subaru Cluster in Taurus 
 ![m45pleiades](images/ZLPleiades.jpg)
 
 Shot mostly at home, 1h 40min with broadband filter, 40 mins of unfiltered data from the Okie-Tex Star Party, total 2h 20min.
@@ -195,7 +200,7 @@ Shot mostly at home, 1h 40min with broadband filter, 40 mins of unfiltered data 
 
 Shot from my backyard, 2h 50min, broadband filter.
 
-### NGC 7789 - Caroline's Rose Open Cluster in Cassiopeia
+### NGC 7789 - Caroline's Rose Cluster in Cassiopeia
 ![ngc7789carolinesrose](images/ZL7789.jpg)
 
 Shot from my backyard, 8h, broadband filter.

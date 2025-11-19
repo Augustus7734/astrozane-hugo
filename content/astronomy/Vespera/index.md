@@ -22,11 +22,17 @@ Entirely shot from my backyard, dual band filter.
 ### M8, the Lagoon Nebula in Sagittarius - 5h 45min
 ![lagoon](images/ZLM8.jpg)
 
+Shot from Sonoita Arizona, unfiltered.
+
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min
 ![ghostofcassiopeia](images/ZLGhostofCassiopeia3h30minv3.jpg)
 
+Shot from the Chiricahua Mountains, unfiltered.
+
 ### IC 2118 - Witch Head Nebula in Eridanus - 7h
 ![ic2118-witch-head](images/ZLWitchHead.jpg)
+
+Shot from the Chiricahua Mountains, unfiltered.
 
 ### IC 1805/1795 - Heart Nebula in Cassiopeia - 19h 35min
 ![heartnebulamosaic](images/ZLHeart.jpg)
@@ -36,11 +42,15 @@ Entirely shot from my backyard, dual band filter.
 ### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion - 8h
 ![horseheadflamenebula](images/ZLHorseheadIC4348hV4.jpg)
 
+Shot mostly at home, dual band filter, with 45 mins of unfiltered data from the Okie-Tex Star Party.
+
 ### M42/M43 - Orion Nebula - 6h
 ![m42orionnebula](images/ZLM426hV4.jpg)
 
 ### NGC 7293 - Helix Nebula in Aquarius - 7h 20min
 ![helixnebula](images/ZLHelix.jpg)
+
+Shot entirely from the Okie-Tex Star Party, unfiltered.
 
 ### NGC 6888 - Crescent Nebula in Cygnus - 9h
 ![crescentnebula](images/ZLCrescent.jpg)
@@ -103,7 +113,7 @@ Entirely shot from my backyard, dual band filter.
 ### NGC 7000 - North America Nebula (Cygnus Wall) - 10h
 ![cygnuswall](images/ZLNAWall.jpg)
 
-Shot from my backyard and from a Bortle 2 site with full Moon, dual band filter.
+Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter.
 
 ### NGC 7008 - Planetary Nebula in Cygnus - 2h 50min
 ![ngc7008](images/ZLFetus.jpg)
@@ -125,35 +135,65 @@ Taken at the Okie-Tex Star Party, unfiltered, 20s subs.
 ### IC 342/Caldwell 5 - Hidden Galaxy in Camelopardalis - 19h 30min
 ![ic342](images/ZLIC342.jpg)
 
+Shot from my backyard, 20s subs, broadband filter.
+
 ### NGC 253 - Sculptor Galaxy - 3h
 ![ngc253](images/ZL253.jpg)
+
+Shot from the Chiricahua Mountains, unfiltered.
 
 ### M31 - Andromeda Galaxy - 10h 20min
 ![m31andromeda](images/ZLM31.jpg)
 
+Shot from my backyard, 10s subs, broadband filter.
+
 ### M77 - Seyfert Galaxy in Cetus - 4h 20min
 ![m77](images/ZLM77.jpg)
+
+Shot from my backyard, 10s subs, broadband filter.
 
 ### M33 - Triangulum Galaxy - 8h 5min
 ![m33triangulum](images/ZLM33.jpg)
 
+Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
+Remainder taken at home, broadband filter.
+
 ### NGC 7331 - Deer Lick Group in Pegasus - 5h 45min
 ![deerlickgroup](images/ZLDeerlickSupernova.jpg)
+
+Shot from my backyard, broadband filter. Supernova SN2025rbs is visible.
 
 ## Open Star Clusters
 
 ### NGC 869 & NGC 884 - Double Cluster in Perseus - 4h 43min
 ![doublecluster](images/ZLDoubleCluster.jpg)
 
+Shot from my backyard, broadband filter.
+
 ### M45 - Pleiades Open Cluster in Taurus - 2h 20min
 ![m45pleiades](images/ZLPleiades.jpg)
 
+Shot mostly at home, broadband filter. 45 mins of unfiltered data from the Okie-Tex Star Party.
 
 ### M11 - Wild Duck Cluster in Scutum - 2h 50min
 ![m11wildduck](images/ZLM11WildDucks.jpg)
 
+Shot from my backyard, broadband filter.
+
 ### NGC 7789 - Caroline's Rose Open Cluster in Cassiopeia - 8h
 ![ngc7789carolinesrose](images/ZL7789.jpg)
 
+Shot from my backyard, broadband filter.
 
 
+## Comets
+
+### Comet SWAN - 10-19-25 - 10 mins
+![doublecluster](images/ZLSWAN1019.jpg)
+
+Shot from TAAA Chiricahua Astronomy Complex, unfiltered.
+
+### Comet Lemmon - 10-27-25 - 4 mins
+![doublecluster](images/ZLLemmon1027.jpg)
+
+Shot from my backyard, broadband filter.

@@ -15,20 +15,15 @@ Additional images that I'm not entirely done with yet.
 
 Shot entirely from my backyard, 4h, dual band filter.
 
-### NGC 7822 - Emission Nebula in Cepheus
-![ngc7822](images/ZL7822.jpg)
-
-Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
-
-### NGC 281 - Pacman Nebula in Cassiopeia
-![pacmannebula](images/ZLPacmanNebula.jpg)
-
-Entirely shot from my backyard, 11h, dual band filter.
-
 ### NGC 2174 - Monkey Head Nebula in Gemini
 ![monkeyhead](images/ZLMonkeyHead.jpg)
 
 Shot from my backyard, dual band filter, 5h total.
+
+### NGC 7822 - Emission Nebula in Cepheus
+![ngc7822](images/ZL7822.jpg)
+
+Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
 
 ## Supernova Remnants
 

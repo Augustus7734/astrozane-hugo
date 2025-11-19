@@ -22,7 +22,7 @@ Entirely shot from my backyard, dual band filter.
 ### M8, the Lagoon Nebula in Sagittarius - 5h 45min
 ![lagoon](images/ZLM8.jpg)
 
-Shot from Sonoita Arizona, unfiltered.
+Shot from Sonoita Arizona, unfiltered. This one was processed by my friend Steve Labkoff in PixInsight with BlurXterminator - thanks Steve!
 
 ### IC 59 & IC 63 - Ghost of Cassiopeia - 3h 30min
 ![ghostofcassiopeia](images/ZLGhostofCassiopeia3h30minv3.jpg)

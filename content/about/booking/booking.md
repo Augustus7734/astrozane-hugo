@@ -1,5 +1,5 @@
 ---
-title: "Booking"
+title: "Book A Star Party"
 layout: "single"
 url: "/about/booking/"
 ---
@@ -7,8 +7,6 @@ url: "/about/booking/"
 # Star Party Bookings
 
 Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (deep-sky objects will require reasonably dark conditions for a good view).
-
-I also have telescopes available for daytime solar viewing of sunspots (no H-alpha as of yet)
 
 Approximate pricing is as follows:
 

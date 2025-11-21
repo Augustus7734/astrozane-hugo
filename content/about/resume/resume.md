@@ -10,20 +10,20 @@ Results-driven Marketing Specialist with 8 years of experience in digital market
 
 **Marketing Consultant | 2025-Present**  
 Energy, Utility, & Environment Conference (EUEC), Tucson, AZ 
-•	Drive digital marketing strategy that attracted 500+ registrants to virtual conference, exceeding attendance goals by 35%
-•	Manage HubSpot CRM and marketing automation workflows, optimizing email campaigns that achieved 28% open rate and 8% click-through rate (above industry average)
-•	Coordinate speaker recruitment and management for 40+ industry experts across energy and utilities sectors
-•	Develop lead generation programs through webinars and virtual workshops, generating 200+ qualified leads for exhibitors
-•	Launch and maintain blog, newsletter (1,500+ subscribers), and webinar series to establish year-round engagement
-•	Create sponsorship packages and marketing collateral that secured $50K+ in virtual exhibitor revenue
+● Drive digital marketing strategy that attracted 500+ registrants to virtual conference, exceeding attendance goals by 35%
+● Manage HubSpot CRM and marketing automation workflows, optimizing email campaigns that achieved 28% open rate and 8% click-through rate (above industry average)
+● Coordinate speaker recruitment and management for 40+ industry experts across energy and utilities sectors
+● Develop lead generation programs through webinars and virtual workshops, generating 200+ qualified leads for exhibitors
+● Launch and maintain blog, newsletter (1,500+ subscribers), and webinar series to establish year-round engagement
+● Create sponsorship packages and marketing collateral that secured $50K+ in virtual exhibitor revenue
 
 **Marketing Intern | Q2/Q3 2025**  
 Universal Avionics, Tucson, AZ 
-•	Developed and executed social media strategy for aviation technology company, increasing engagement by 45% across LinkedIn, Instagram, and Twitter/X platforms
-•	Created 50+ pieces of short-form and long-form content including blog posts, case studies, and video scripts to promote avionics systems to commercial and defense aviation markets
-•	Collaborated with engineering teams to translate complex technical specifications into customer-focused marketing materials, improving sales team close rate by 20%
-•	Conducted competitive analysis of 15+ aerospace companies to identify market positioning opportunities
-•	Supported product launches for next-generation flight management systems targeting $2M+ revenue goals
+● Developed and executed social media strategy for aviation technology company, increasing engagement by 45% across LinkedIn, Instagram, and Twitter/X platforms
+● Created 50+ pieces of short-form and long-form content including blog posts, case studies, and video scripts to promote avionics systems to commercial and defense aviation markets
+● Collaborated with engineering teams to translate complex technical specifications into customer-focused marketing materials, improving sales team close rate by 20%
+● Conducted competitive analysis of 15+ aerospace companies to identify market positioning opportunities
+● Supported product launches for next-generation flight management systems targeting $2M+ revenue goals
 
 **Marketing Intern | Q1/Q2 2025**  
 EUEC, Tucson, AZ  
@@ -53,12 +53,12 @@ Optical Mechanics, Perth, Australia (Freelance/part time)
 **Entrepreneur | March 2017 – Present** 
 AstroZane.com/eBay, (Self-employed)
 
-•	Founded and manage multi-platform e-commerce business specializing in telescopes and astronomical equipment
-•	Process 300+ annual transactions totaling $50K+ in revenue through eBay, proprietary website, and marketplace channels
-•	Maintain 97% positive seller rating through exceptional customer service and quality assurance
-•	Perform optical diagnosis and minor to major repairs on precision equipment valued up to $5,000 per unit
-•	Arrange party events for clients with astronomical telescopes and entertainment
-•	Perform in-person sales, acquisitions, negotiations of high-value items
+● Founded and manage multi-platform e-commerce business specializing in telescopes and astronomical equipment
+● Process 300+ annual transactions totaling $50K+ in revenue through eBay, proprietary website, and marketplace channels
+● Maintain 97% positive seller rating through exceptional customer service and quality assurance
+● Perform optical diagnosis and minor to major repairs on precision equipment valued up to $5,000 per unit
+● Arrange party events for clients with astronomical telescopes and entertainment
+● Perform in-person sales, acquisitions, negotiations of high-value items
 
 ## **Skills**
 ● Writer/editor with extensive knowledge of classical and modern history/geopolitics, aerospace, optics, astronomy, and other science/engineering topics  

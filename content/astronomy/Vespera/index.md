@@ -76,15 +76,15 @@ Entirely shot from my backyard, 3h 30min, dual band filter.
 
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
+### NGC 2174 - Monkey Head Nebula in Gemini
+![monkeyhead](images/ZLMonkeyHead7h30Min.jpg)
+
+Shot from my backyard, dual band filter, 7h 30min total.
+
 ### IC 5146 - Cocoon Nebula in Cygnus
 ![cocoonnebula](images/ZLCocoon.jpg)
 
 Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
-
-### NGC 7822 - Emission Nebula in Cepheus
-![ngc7822](images/ZL7822.jpg)
-
-Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
 
 ### NGC 281 - Pacman Nebula in Cassiopeia
 ![pacmannebula](images/ZLPacmanNebula.jpg)

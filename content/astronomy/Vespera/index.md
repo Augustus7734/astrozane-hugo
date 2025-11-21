@@ -77,7 +77,7 @@ Entirely shot from my backyard, 3h 30min, dual band filter.
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
 ### NGC 2174 - Monkey Head Nebula in Gemini
-![monkeyhead](images/ZLMonkeyHead7h30Min.jpg)
+![monkeyhead](images/ZLMonkeyHead7h30min.jpg)
 
 Shot from my backyard, dual band filter, 7h 30min total.
 

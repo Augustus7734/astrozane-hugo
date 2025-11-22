@@ -29,6 +29,18 @@ If you're interested in booking your own private event at home or for your venue
 - **January 23** 5:30 PM - 9:30 PM
 - **January 24** 5:30 PM - 9:30 PM
 
+## Public Star Parties & Other Upcoming Events
+
+### [Huachuca Astronomy Club of Sierra Vista](https://www.hacastronomy.org/club-info/)
+
+### RFTStars Tucson
+
+- **December 13** 5:00 PM - 9:00 PM @ Gabe Zimmerman Trailhead, Vail, Arizona
+
+### DarkSky Southern Arizona
+
+- **January 17** 6:30 PM - 8:30 PM @ Oracle State Park, Oracle, Arizona
+
 ## Photos
 
 ![6swastro](images/6swastro.JPEG)

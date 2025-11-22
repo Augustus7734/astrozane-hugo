@@ -6,12 +6,13 @@ url: "/about/booking/"
 
 # Star Party Bookings
 
+![starpartydemo](images/spsabino.JPG)
+
 Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (deep-sky objects will require reasonably dark conditions for a good view).
 
 Approximate pricing is as follows:
 
 - **$100 for 1 hour**
-- **$150 for 2 hours**
 - **$200 for 3 hours**
 
 For events further outside Tucson I am willing to travel for an additional cost.

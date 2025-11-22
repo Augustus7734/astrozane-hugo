@@ -1,5 +1,5 @@
 ---
-title: "Astronomy Outreach"
+title: "Astronomy Outreach Events"
 layout: "single"
 url: "/astronomy/astronomyoutreach"
 date: 2024-01-01
@@ -9,7 +9,9 @@ In today's digitally saturated world, astronomy outreach, particularly in the fo
 
 Sidewalk astronomy, however, provides an unmediated connection. It turns distant worlds from abstract concepts into vivid realities, witnessed firsthand. The sheer thrill of seeing the rings of Saturn or the craters on the Moon through a telescope often leaves a lasting impression, igniting a lifelong interest in science and exploration. 
 
-## Sidewalk Astronomy
+If you're interested in booking your own private event at home or for your venue., [head on over to my booking page](https://astrozane.com/about/booking).
+
+## Sidewalk Astronomy on University Blvd
 
 ### Schedule
 
@@ -26,11 +28,6 @@ Sidewalk astronomy, however, provides an unmediated connection. It turns distant
 - **January 22** 5:30 PM - 9:30 PM
 - **January 23** 5:30 PM - 9:30 PM
 - **January 24** 5:30 PM - 9:30 PM
-
-## Astronomy Club Events
-
-- **HAC Kartchner Caverns Star Party:** 12 PM - 9 PM, April 26
-- **HAC Astronomy Day Star Party:** 12 PM - 11 PM, May 3
 
 ## Photos
 

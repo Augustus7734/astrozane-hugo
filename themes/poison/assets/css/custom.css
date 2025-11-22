@@ -1,12 +1,1 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
-document.addEventListener('DOMContentLoaded', function() {
-  if (window.location.hash) {
-    const target = document.querySelector(window.location.hash);
-    if (target) {
-      const navbarHeight = document.querySelector('your-navbar-selector').offsetHeight;  // e.g., '.navbar'
-      const offset = navbarHeight + 10;  // Add extra padding if needed
-      const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
-      window.scrollTo({ top: targetPosition, behavior: 'smooth' });
-    }
-  }
-});

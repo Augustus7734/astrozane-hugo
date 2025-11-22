@@ -1,0 +1,11 @@
+<script>
+  window.addEventListener('load', function() {
+    if (window.innerWidth <= 768) {  // Mobile breakpoint; adjust if needed based on your theme's CSS
+      var nav = document.querySelector('.sidebar');  // Poison's nav class
+      if (nav) {
+        var navHeight = nav.offsetHeight;
+        window.scrollTo({ top: navHeight, behavior: 'instant' });  // 'smooth' for animation if preferred
+      }
+    }
+  });
+</script>

@@ -15,11 +15,6 @@ Additional images that I'm not entirely done with yet.
 
 Shot entirely from my backyard, 4h, dual band filter.
 
-### NGC 2174 - Monkey Head Nebula in Gemini
-![monkeyhead](images/ZLMonkeyHead.jpg)
-
-Shot from my backyard, dual band filter, 5h total.
-
 ### NGC 7822 - Emission Nebula in Cepheus
 ![ngc7822](images/ZL7822.jpg)
 

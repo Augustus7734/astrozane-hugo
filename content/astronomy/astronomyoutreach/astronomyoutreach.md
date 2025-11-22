@@ -13,9 +13,19 @@ Sidewalk astronomy, however, provides an unmediated connection. It turns distant
 
 ### Schedule
 
-- **May 3:** 7 PM - 11 PM
-- **May 9:** 7 PM - 11 PM
-- **May 10:** 7 PM - 11 PM
+- **November 28** 5:30 PM - 9:30 PM
+- **December 4** 6:00 PM - 9:00 PM
+- **December 5** 5:30 PM - 9:30 PM
+- **December 6** 5:30 PM - 9:30 PM
+- **December 11** 6:00 PM - 9:00 PM
+- **December 12** 5:30 PM - 9:30 PM
+- **January 1** 5:30 PM - 9:30 PM
+- **January 2** 5:30 PM - 9:30 PM
+- **January 3** 5:30 PM - 9:30 PM
+- **January 8** 6:00 PM - 9:00 PM
+- **January 22** 5:30 PM - 9:30 PM
+- **January 23** 5:30 PM - 9:30 PM
+- **January 24** 5:30 PM - 9:30 PM
 
 ## Astronomy Club Events
 

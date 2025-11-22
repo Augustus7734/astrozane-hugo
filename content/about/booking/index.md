@@ -6,7 +6,7 @@ url: "/about/booking/"
 
 # Star Party Bookings
 
-![starpartydemo](images/spsabino.JPG)
+![starpartydemo](images/spsabino.JPEG)
 
 Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (deep-sky objects will require reasonably dark conditions for a good view).
 

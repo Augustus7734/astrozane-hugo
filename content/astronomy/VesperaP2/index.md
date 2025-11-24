@@ -1,7 +1,7 @@
 ---
 title: "Astrophotography - Additional Images"
 layout: "single"
-url: "/astronomy/vesperaP2"
+url: "/astronomy/astrophotography2"
 date: 2024-01-01
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Astrophotography"
 layout: "single"
-url: "/astronomy/vespera"
+url: "/astronomy/astrophotography"
 date: 2024-01-01
 draft: false
 ---
@@ -133,9 +133,9 @@ Shot from a mix of locations, 2h 50min total, dual band filter.
 Shot entirely from the Okie-Tex Star Party, 7h 20min, unfiltered.
 
 ### M27 - Dumbbell Nebula in Vulpecula
-![dumbbellm27](images/ZLM2793minsV1.jpg)
+![dumbbellm27](images/ZLM27133minsV2.jpg)
 
-Shot from Mt Graham, AZ and from my backyard, broadband filter, 93 mins total.
+Shot from Mt Graham, AZ and from my backyard, broadband filter, 133 mins total.
 
 ## Galaxies
 

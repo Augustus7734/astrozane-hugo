@@ -76,6 +76,11 @@ Entirely shot from my backyard, 3h 30min, dual band filter.
 
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
+### IC 2177 - Seagull Nebula in Canis Major/Monoceros
+![seagullnebula](images/ZLSeagull12h45minV1.jpg)
+
+Shot entirely from my backyard, 12h 45min, dual band filter.
+
 ### NGC 2174 - Monkey Head Nebula in Gemini
 ![monkeyhead](images/ZLMonkeyHead7h30min.jpg)
 

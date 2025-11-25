@@ -31,20 +31,15 @@ Shot from the Chiricahua Mountains, 3h 30min, unfiltered.
 
 Shot from the Chiricahua Mountains, 7h, unfiltered.
 
-### IC 1805/1795 - Heart Nebula in Cassiopeia
-![heartnebulamosaic](images/ZLHeart.jpg)
-
-Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
-
-### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
-![horseheadflamenebula](images/ZLHorseheadIC4348hV4.jpg)
-
-Shot mostly at home, 7h 15min with dual band filter, with 45 mins of unfiltered data from the Okie-Tex Star Party. 8h total.
-
 ### M42/M43 - Orion Nebula
 ![m42orionnebula](images/ZLM426hV4.jpg)
 
 2h from the Okie-Tex Star Party unfiltered, 4h from my backyard with broadband filter, f6h total.
+
+### IC 2177 - Seagull Nebula in Canis Major/Monoceros
+![seagullnebula](images/ZLSeagull12h45minV1.jpg)
+
+Shot entirely from my backyard, 12h 45min, dual band filter.
 
 ### NGC 2237 - Rosette Nebula in Monoceros
 ![rosettenebula](images/ZLRosette.jpg)
@@ -76,11 +71,6 @@ Entirely shot from my backyard, 3h 30min, dual band filter.
 
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
-### IC 2177 - Seagull Nebula in Canis Major/Monoceros
-![seagullnebula](images/ZLSeagull12h45minV1.jpg)
-
-Shot entirely from my backyard, 12h 45min, dual band filter.
-
 ### NGC 2174 - Monkey Head Nebula in Gemini
 ![monkeyhead](images/ZLMonkeyHead7h30min.jpg)
 
@@ -90,6 +80,16 @@ Shot from my backyard, dual band filter, 7h 30min total.
 ![cocoonnebula](images/ZLCocoon.jpg)
 
 Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
+
+### IC 1805/1795 - Heart Nebula in Cassiopeia
+![heartnebulamosaic](images/ZLHeart.jpg)
+
+Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
+
+### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
+![horseheadflamenebula](images/ZLHorseheadIC4348hV4.jpg)
+
+Shot mostly at home, 7h 15min with dual band filter, with 45 mins of unfiltered data from the Okie-Tex Star Party. 8h total.
 
 ### NGC 281 - Pacman Nebula in Cassiopeia
 ![pacmannebula](images/ZLPacmanNebula.jpg)

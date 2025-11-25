@@ -10,11 +10,6 @@ Additional images that I'm not entirely done with yet.
 
 ## Emission & Reflection Nebulae
 
-### IC 2177 - Seagull Nebula in Canis Major/Monoceros
-![seagullnebula](images/ZLSeagull.jpg)
-
-Shot entirely from my backyard, 4h, dual band filter.
-
 ### NGC 7822 - Emission Nebula in Cepheus
 ![ngc7822](images/ZL7822.jpg)
 

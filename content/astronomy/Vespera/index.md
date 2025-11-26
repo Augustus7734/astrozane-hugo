@@ -87,9 +87,9 @@ Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
 Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
 
 ### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
-![horseheadflamenebula](images/ZLHorseheadIC4348hV4.jpg)
+![horseheadflamenebula](images/ZLHorseheadV4.jpg)
 
-Shot mostly at home, 7h 15min with dual band filter, with 45 mins of unfiltered data from the Okie-Tex Star Party. 8h total.
+Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band filter, with 45 mins of unfiltered data (10s subs) from the Okie-Tex Star Party. 17h 45min total.
 
 ### NGC 281 - Pacman Nebula in Cassiopeia
 ![pacmannebula](images/ZLPacmanNebula.jpg)

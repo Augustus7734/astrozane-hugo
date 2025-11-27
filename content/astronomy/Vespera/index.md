@@ -113,7 +113,7 @@ Entirely shot from my backyard, 9h, dual band filter.
 ### IC 443 - Jellyfish Nebula in Gemini
 ![jellyfishnebula](images/ZLJellyfish.jpg)
 
-Entirely shot from my backyard, 15h, dual band filter.
+Entirely shot from my backyard, 19h, dual band filter.
 
 ### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus 
 ![ngc6960witchesbroom](images/ZLVeilBroom.jpg)

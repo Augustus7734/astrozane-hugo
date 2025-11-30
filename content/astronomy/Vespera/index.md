@@ -120,6 +120,11 @@ Entirely shot from my backyard, 19h, dual band filter.
 
 Shot with a mix of dual/broadband filters, 13h of 10s and 20s subs, from my backyard and Mt Graham.
 
+### Veil Nebula in Cygnus 
+![ngc6960witchesbroom](images/VeilBinned.jpg)
+
+Shot with a mix of dual/broadband filters, 22h of 10s and 20s subs, from my backyard and Mt Graham. This is binned to 1/2 scale, still adding data for the full res version.
+
 ## Planetary Nebulae
 
 ### M27 - Dumbbell Nebula in Vulpecula
@@ -154,11 +159,6 @@ Shot from my backyard, 6h, 10s subs, broadband filter.
 
 Shot from my backyard, 19h 30min, 20s subs, broadband filter.
 
-### NGC 253 - Sculptor Galaxy
-![ngc253](images/ZL253.jpg)
-
-Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total (50% from home, 50% from the Chiricahuas) but Vespera's auto-focus failed and ruined most of the data.
-
 ### M31 - Andromeda Galaxy
 ![m31andromeda](images/ZLM31.jpg)
 
@@ -174,6 +174,11 @@ Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min 
 ![m77](images/ZLM77.jpg)
 
 Shot from my backyard, 4h 20min, 10s subs, broadband filter.
+
+### NGC 253 - Sculptor Galaxy
+![ngc253](images/ZL253.jpg)
+
+Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total (50% from home, 50% from the Chiricahuas) but Vespera's auto-focus failed and ruined most of the data.
 
 ### NGC 6946 - Fireworks Galaxy in Cepheus
 ![fireworksgalaxy](images/ZLFireworksOkietex.jpg)

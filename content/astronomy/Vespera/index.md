@@ -42,9 +42,9 @@ Shot from the Chiricahua Mountains, 7h, unfiltered.
 Shot entirely from my backyard, 12h 45min, dual band filter.
 
 ### NGC 2237 - Rosette Nebula in Monoceros
-![rosettenebula](images/ZLRosette.jpg)
+![rosettenebula](images/ZLRosette2.jpg)
 
-Entirely shot from my backyard, 8h 45min, dual band filter. This one uses 20s subs rather than the usual 10.
+Entirely shot from my backyard, 1h 30min, dual band filter. This one uses 20s subs rather than the usual 10.
 
 ### M8 - Lagoon Nebula in Sagittarius
 ![lagoon](images/ZLM8.jpg)
@@ -99,9 +99,9 @@ Entirely shot from my backyard, 11h, dual band filter.
 ## Wolf-Rayet Shell Nebulae
 
 ### NGC 2359 - Thor's Helmet Nebula in Canis Major 
-![ngc2359-thors-helmet](images/ZLThorsHelmet3h52minV2.jpg)
+![ngc2359-thors-helmet](images/ZLThorsHelmet10h50minV3.jpg)
 
-Entirely shot from my backyard, 3h 52min, dual band filter.
+Entirely shot from my backyard, 10h 50min, dual band filter.
 
 ### NGC 6888 - Crescent Nebula in Cygnus
 ![crescentnebula](images/ZLCrescent.jpg)
@@ -158,6 +158,12 @@ Shot from my backyard, 19h 30min, 20s subs, broadband filter.
 ![ngc253](images/ZL253.jpg)
 
 Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total (50% from home, 50% from the Chiricahuas) but Vespera's auto-focus failed and ruined most of the data.
+
+### M33 - Triangulum Galaxy - 8h 5min
+![m33triangulum](images/ZLM33V5.jpg)
+
+Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
+Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min total exposure time, remaining 7h 20min with broadband filter.
 
 ### M31 - Andromeda Galaxy
 ![m31andromeda](images/ZLM31.jpg)

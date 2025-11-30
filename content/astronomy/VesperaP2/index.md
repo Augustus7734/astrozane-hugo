@@ -29,12 +29,6 @@ Entirely shot from my backyard, 4h 20min, broadband filter.
 
 Shot from my backyard, 10h, 10s subs, broadband filter.
 
-### M33 - Triangulum Galaxy - 8h 5min
-![m33triangulum](images/ZLM33.jpg)
-
-Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
-Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min total exposure time, remaining 7h 20min with broadband filter.
-
 ## Globular Star Clusters
 
 ### M13 - Great Hercules Cluster

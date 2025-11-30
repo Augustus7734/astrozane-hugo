@@ -26,25 +26,30 @@ Entirely shot from my backyard, 22h, dual band filter. My longest total exposure
 
 Shot from the Chiricahua Mountains, 3h 30min, unfiltered.
 
+### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
+![horseheadflamenebula](images/ZLHorseheadV4.jpg)
+
+Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band filter, with 45 mins of unfiltered data (10s subs) from the Okie-Tex Star Party. 17h 45min total.
+
+### IC 1805/1795 - Heart Nebula in Cassiopeia
+![heartnebulamosaic](images/ZLHeart.jpg)
+
+Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
+
 ### IC 2118 - Witch Head Nebula in Eridanus
 ![ic2118-witch-head](images/ZLWitchHead.jpg)
 
 Shot from the Chiricahua Mountains, 7h, unfiltered.
-
-### M42/M43 - Orion Nebula
-![m42orionnebula](images/ZLM426hV4.jpg)
-
-2h from the Okie-Tex Star Party unfiltered, 4h from my backyard with broadband filter, f6h total.
 
 ### IC 2177 - Seagull Nebula in Canis Major/Monoceros
 ![seagullnebula](images/ZLSeagull12h45minV1.jpg)
 
 Shot entirely from my backyard, 12h 45min, dual band filter.
 
-### NGC 2237 - Rosette Nebula in Monoceros
-![rosettenebula](images/ZLRosette2.jpg)
+### IC 5146 - Cocoon Nebula in Cygnus
+![cocoonnebula](images/ZLCocoon.jpg)
 
-Entirely shot from my backyard, 1h 30min, dual band filter. This one uses 20s subs rather than the usual 10.
+Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
 
 ### M8 - Lagoon Nebula in Sagittarius
 ![lagoon](images/ZLM8.jpg)
@@ -56,45 +61,40 @@ Shot from Sonoita Arizona, 5h 45min unfiltered. This one was processed by my fri
 
 Shot from Sonoita and Mt Graham Arizona, 4h 45min unfiltered.
 
+### M42/M43 - Orion Nebula
+![m42orionnebula](images/ZLM426hV4.jpg)
+
+2h from the Okie-Tex Star Party unfiltered, 4h from my backyard with broadband filter, f6h total.
+
 ### M78 - Reflection Nebula in Orion
 ![m78](images/ZLM7812hV1.jpg)
 
 Shot entirely from my backyard, 12h unfiltered! I needed to remove the broadband filter to get this one as it's entirely a reflection nebula.
 
-### NGC 7380 - Wizard Nebula in Cepheus
-![wizardnebula](images/ZLWizardV3.jpg)
+### NGC 281 - Pacman Nebula in Cassiopeia
+![pacmannebula](images/ZLPacmanNebula.jpg)
 
-Entirely shot from my backyard, 3h 30min, dual band filter.
-
-### NGC 7000 - North America Nebula (Cygnus Wall)
-![cygnuswall](images/ZLNAWall.jpg)
-
-Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
+Entirely shot from my backyard, 11h, dual band filter.
 
 ### NGC 2174 - Monkey Head Nebula in Gemini
 ![monkeyhead](images/ZLMonkeyHead7h30min.jpg)
 
 Shot from my backyard, dual band filter, 7h 30min total.
 
-### IC 5146 - Cocoon Nebula in Cygnus
-![cocoonnebula](images/ZLCocoon.jpg)
+### NGC 2237 - Rosette Nebula in Monoceros
+![rosettenebula](images/ZLRosette2.jpg)
 
-Entirely shot from my backyard, 10h 45min, 20s subs, broadband filter.
+Entirely shot from my backyard, 11h 30min, dual band filter. This one uses 20s subs rather than the usual 10.
 
-### IC 1805/1795 - Heart Nebula in Cassiopeia
-![heartnebulamosaic](images/ZLHeart.jpg)
+### NGC 7000 - North America Nebula (Cygnus Wall)
+![cygnuswall](images/ZLNAWall.jpg)
 
-Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
+Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
-### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
-![horseheadflamenebula](images/ZLHorseheadV4.jpg)
+### NGC 7380 - Wizard Nebula in Cepheus
+![wizardnebula](images/ZLWizardV3.jpg)
 
-Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band filter, with 45 mins of unfiltered data (10s subs) from the Okie-Tex Star Party. 17h 45min total.
-
-### NGC 281 - Pacman Nebula in Cassiopeia
-![pacmannebula](images/ZLPacmanNebula.jpg)
-
-Entirely shot from my backyard, 11h, dual band filter.
+Entirely shot from my backyard, 3h 30min, dual band filter.
 
 ## Wolf-Rayet Shell Nebulae
 
@@ -122,6 +122,11 @@ Shot with a mix of dual/broadband filters, 13h of 10s and 20s subs, from my back
 
 ## Planetary Nebulae
 
+### M27 - Dumbbell Nebula in Vulpecula
+![dumbbellm27](images/ZLM27133minsV2.jpg)
+
+Shot from Mt Graham, AZ and from my backyard, broadband filter, 133 mins total.
+
 ### NGC 1360 - Robin's Egg Nebula in Fornax
 ![ngc1360robins-egg](images/ZLEgg.jpg)
 
@@ -137,17 +142,12 @@ Shot from a mix of locations, 2h 50min total, dual band filter.
 
 Shot entirely from the Okie-Tex Star Party, 7h 20min, unfiltered.
 
-### M27 - Dumbbell Nebula in Vulpecula
-![dumbbellm27](images/ZLM27133minsV2.jpg)
-
-Shot from Mt Graham, AZ and from my backyard, broadband filter, 133 mins total.
-
 ## Galaxies
 
-### NGC 6946 - Fireworks Galaxy in Cepheus
-![fireworksgalaxy](images/ZLFireworksOkietex.jpg)
+### IC 10 - Irregular Galaxy in Cassiopeia
+![IC10](images/ZLIC10.jpg)
 
-Taken at the Okie-Tex Star Party, unfiltered, 12h total exposure time, 20s subs.
+Shot from my backyard, 6h, 10s subs, broadband filter.
 
 ### IC 342/Caldwell 5 - Hidden Galaxy in Camelopardalis
 ![ic342](images/ZLIC342.jpg)
@@ -159,26 +159,26 @@ Shot from my backyard, 19h 30min, 20s subs, broadband filter.
 
 Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total (50% from home, 50% from the Chiricahuas) but Vespera's auto-focus failed and ruined most of the data.
 
-### M33 - Triangulum Galaxy - 8h 5min
-![m33triangulum](images/ZLM33V5.jpg)
-
-Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
-Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min total exposure time, remaining 7h 20min with broadband filter.
-
 ### M31 - Andromeda Galaxy
 ![m31andromeda](images/ZLM31.jpg)
 
 Shot from my backyard, 10h 20min, 10s subs, broadband filter.
+
+### M33 - Triangulum Galaxy
+![m33triangulum](images/ZLM33V5.jpg)
+
+Shot from the Chiricahua Mountains and Mt Graham unfiltered for around half
+Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min total exposure time, remaining 7h 20min with broadband filter.
 
 ### M77 - Seyfert Galaxy in Cetus
 ![m77](images/ZLM77.jpg)
 
 Shot from my backyard, 4h 20min, 10s subs, broadband filter.
 
-### IC 10 - Irregular Galaxy in Cassiopeia
-![IC10](images/ZLIC10.jpg)
+### NGC 6946 - Fireworks Galaxy in Cepheus
+![fireworksgalaxy](images/ZLFireworksOkietex.jpg)
 
-Shot from my backyard, 6h, 10s subs, broadband filter.
+Taken at the Okie-Tex Star Party, unfiltered, 12h total exposure time, 20s subs.
 
 ### NGC 7331 - Deer Lick Group in Pegasus
 ![deerlickgroup](images/ZLDeerlickSupernova.jpg)
@@ -187,20 +187,20 @@ Shot from my backyard, 5h 45min, broadband filter. Supernova SN2025rbs is visibl
 
 ## Open Star Clusters
 
-### NGC 869 & NGC 884 - Double Cluster in Perseus
-![doublecluster](images/ZLDoubleCluster.jpg)
+### M11 - Wild Duck Cluster in Scutum
+![m11wildduck](images/ZLM11WildDucks.jpg)
 
-Shot from my backyard, 4h 43min, broadband filter.
+Shot from my backyard, 2h 50min, broadband filter.
 
 ### M45 - Pleiades/Subaru Cluster in Taurus 
 ![m45pleiades](images/ZLPleiades.jpg)
 
 Shot mostly at home, 1h 40min with broadband filter, 40 mins of unfiltered data from the Okie-Tex Star Party, total 2h 20min.
 
-### M11 - Wild Duck Cluster in Scutum
-![m11wildduck](images/ZLM11WildDucks.jpg)
+### NGC 869 & NGC 884 - Double Cluster in Perseus
+![doublecluster](images/ZLDoubleCluster.jpg)
 
-Shot from my backyard, 2h 50min, broadband filter.
+Shot from my backyard, 4h 43min, broadband filter.
 
 ### NGC 7789 - Caroline's Rose Cluster in Cassiopeia
 ![ngc7789carolinesrose](images/ZL7789.jpg)

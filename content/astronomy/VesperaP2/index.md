@@ -8,13 +8,6 @@ draft: false
 
 Additional images that I'm not entirely done with yet.
 
-## Emission & Reflection Nebulae
-
-### NGC 7822 - Emission Nebula in Cepheus
-![ngc7822](images/ZL7822.jpg)
-
-Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
-
 ## Supernova Remnants
 
 ### M1 - Crab Nebula SN1054 in Taurus

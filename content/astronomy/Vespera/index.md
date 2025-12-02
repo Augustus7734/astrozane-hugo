@@ -31,6 +31,11 @@ Shot from the Chiricahua Mountains, 3h 30min, unfiltered.
 
 Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band filter, with 45 mins of unfiltered data (10s subs) from the Okie-Tex Star Party. 17h 45min total.
 
+### IC 1396 - Elephant Trunk Nebula in Cepheus
+![jellyfishnebula](images/ZLTrunkNew.jpg)
+
+Entirely shot from my backyard, 23h 20min, dual band filter, 4h 20min of 15s subs, remaining 10s subs.
+
 ### IC 1805/1795 - Heart Nebula in Cassiopeia
 ![heartnebulamosaic](images/ZLHeart.jpg)
 
@@ -96,6 +101,11 @@ Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual b
 
 Entirely shot from my backyard, 3h 30min, dual band filter.
 
+### NGC 7822 - Emission Nebula in Cepheus
+![ngc7822](images/ZL7822new.jpg)
+
+Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
+
 ## Wolf-Rayet Shell Nebulae
 
 ### NGC 2359 - Thor's Helmet Nebula in Canis Major 
@@ -111,19 +121,19 @@ Entirely shot from my backyard, 9h, dual band filter.
 ## Supernova Remnants
 
 ### IC 443 - Jellyfish Nebula in Gemini
-![jellyfishnebula](images/ZLJellyfish.jpg)
+![jellyfishnebula](images/ZLJellyfish2.jpg)
 
-Entirely shot from my backyard, 19h, dual band filter.
+Entirely shot from my backyard, 23h 20min, dual band filter, 4h 20min of 15s subs, remaining 10s subs.
 
 ### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus 
 ![ngc6960witchesbroom](images/ZLVeilBroom.jpg)
 
 Shot with a mix of dual/broadband filters, 13h of 10s and 20s subs, from my backyard and Mt Graham.
 
-### Veil Nebula in Cygnus 
+### Mosaic - Veil Nebula in Cygnus 
 ![ngc6960witchesbroom](images/VeilBinned.jpg)
 
-Shot with a mix of dual/broadband filters, 22h of 10s and 20s subs, from my backyard and Mt Graham. This is binned to 1/2 scale, still adding data for the full res version.
+Shot with a mix of dual/broadband filters, 24h of 10s and 20s subs, from my backyard and Mt Graham. This is binned to 1/2 scale, still adding data for the full res version.
 
 ## Planetary Nebulae
 

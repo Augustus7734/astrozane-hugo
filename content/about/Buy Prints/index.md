@@ -20,9 +20,9 @@ Approximate pricing is as follows:
 - **$200 for 2 hours**
 - **$250 for 3 hours**
 
-For events further outside Tucson I am willing to travel for an additional cost.
+For events further outside Tucson/Pima County I am willing to travel for an additional cost.
 
-*Pricing is subject to change depending on event specifics.*
+*Pricing is subject to change depending on event specifics. Please contact me to discuss further details and requirements.*
 
 For more details, please [contact me](https://astrozane.com/links/contact).
 

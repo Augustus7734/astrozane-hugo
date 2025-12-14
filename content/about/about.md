@@ -6,7 +6,9 @@ url: "/about/"
 
 ## Introduction
 
-I'm Zane Landers, an astronomer, writer, and digital marketing/communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona. I am currently looking for a full-time job position, but I also work as a writer/editor and marketing consultant for [TelescopicWatch](https://telescopicwatch.com), [EUEC](https://euec.com), and CBX Astro (formerly Farpoint/Lumicon) part-time.
+I'm Zane Landers, an astronomer, writer, and digital marketing/communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona. I am currently looking for a full-time job position, but I also work as a writer/editor and marketing consultant for [TelescopicWatch](https://telescopicwatch.com), [EUEC](https://euec.com), and [Farpoint Astro](https://farpointastro.com/) part-time.
+
+You can regularly find me setting up telescopes on the University of Arizona campus, at [HAC](https://www.hacastronomy.org/club-info/) and [DarkSky Southern Arizona](https://darkskysoaz.org/) events around Pima and Cochise County, and [I am avaialble to bring my telescopes to your event/venue](https://astrozane.com/about/booking/).
 
 ### Professional Experience
 

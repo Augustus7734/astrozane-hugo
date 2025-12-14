@@ -37,9 +37,9 @@ Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band fi
 Entirely shot from my backyard, 23h 20min, dual band filter, 4h 20min of 15s subs, remaining 10s subs.
 
 ### IC 1805/1795 - Heart Nebula in Cassiopeia
-![heartnebulamosaic](images/ZLHeart.jpg)
+![heartnebulamosaic](images/ZLHeartV5.jpg)
 
-Entirely shot from my backyard, 19h 35min, dual band filter. This is a mosaic which I manually stitched together in Siril.
+Entirely shot from my backyard, 41 hours total exposure time, dual band filter.
 
 ### IC 2118 - Witch Head Nebula in Eridanus
 ![ic2118-witch-head](images/ZLWitchHead.jpg)
@@ -97,7 +97,7 @@ Entirely shot from my backyard, 11h 30min, dual band filter. This one uses 20s s
 Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
 
 ### NGC 7380 - Wizard Nebula in Cepheus
-![wizardnebula](images/ZLWizardV3.jpg)
+![wizardnebula](images/ZLWizardV4.jpg)
 
 Entirely shot from my backyard, 3h 30min, dual band filter.
 
@@ -121,7 +121,7 @@ Entirely shot from my backyard, 9h, dual band filter.
 ## Supernova Remnants
 
 ### IC 443 - Jellyfish Nebula in Gemini
-![jellyfishnebula](images/ZLJellyfish2.jpg)
+![jellyfishnebula](images/ZLJellyfish3.jpg)
 
 Entirely shot from my backyard, 23h 20min, dual band filter, 4h 20min of 15s subs, remaining 10s subs.
 

@@ -16,19 +16,13 @@ I have telescopes available up to 22" in aperture as well as a PVS-7 night visio
 
 Approximate pricing is as follows:
 
-### Small Groups (20 or fewer guests)
+### Small Groups (25 or fewer guests)
 
 - **$125 for 1 hour**
 - **$200 for 2 hours**
 - **$250 for 3 hours**
 
-### Medium-sized Groups (approx. 25-50 guests)
-
-- **$250 for 1 hour**
-- **$375 for 2 hours**
-- **$450 for 3 hours**
-
-### Large Groups (over 50 guests) - contact for pricing & details
+### Large Groups (over 25 guests) - contact for pricing & details
 
 For events further outside Tucson/Pima County I am willing to travel for an additional cost.
 

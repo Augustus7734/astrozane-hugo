@@ -25,8 +25,8 @@ Approximate pricing is as follows:
 ### Medium-sized Groups (approx. 25-50 guests)
 
 - **$250 for 1 hour**
-- **$350 for 2 hours**
-- **$400 for 3 hours**
+- **$375 for 2 hours**
+- **$450 for 3 hours**
 
 ### Large Groups (over 50 guests) - contact for pricing & details
 

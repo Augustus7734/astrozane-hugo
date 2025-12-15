@@ -14,21 +14,17 @@ Experience the night sky like never before with a private star party. Utilizing 
 
 I have telescopes available up to 22" in aperture as well as a PVS-7 night vision device for viewing nebulae even under fairly poor conditions.
 
-Approximate pricing is as follows:
+Approximate pricing for events local to Tucson is as follows for small Groups (20 or fewer guests):
 
-### Small Groups (25 or fewer guests)
+- **$150 for 1 hour**
+- **$225 for 2 hours**
+- **$275 for 3 hours**
 
-- **$125 for 1 hour**
-- **$200 for 2 hours**
-- **$250 for 3 hours**
+For more details and to discuss larger group sizes, please [contact me](https://astrozane.com/links/contact).
 
-### Large Groups (over 25 guests) - contact for pricing & details
-
-For events further outside Tucson/Pima County I am willing to travel for an additional cost.
+For events further outside the Tucson metro area, I am willing to travel for an additional cost.
 
 *Pricing is subject to change depending on event specifics. Please contact me to discuss further details and requirements.*
-
-For more details, please [contact me](https://astrozane.com/links/contact).
 
 ---
 

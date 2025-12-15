@@ -20,11 +20,13 @@ Approximate pricing for events local to Tucson is as follows for small Groups (2
 - **$225 for 2 hours**
 - **$275 for 3 hours**
 
+*Pricing is subject to change depending on event specifics - this is just a base estimate. Please contact me to discuss further details and requirements.*
+
 For more details and to discuss larger group sizes, please [contact me](https://astrozane.com/links/contact).
 
 For events further outside the Tucson metro area, I am willing to travel for an additional cost.
 
-*Pricing is subject to change depending on event specifics. Please contact me to discuss further details and requirements.*
+
 
 ---
 

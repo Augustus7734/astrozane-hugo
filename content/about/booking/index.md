@@ -8,7 +8,7 @@ url: "/about/booking/"
 
 ![starpartydemo](images/spsabino.JPEG)
 
-Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more (most nebulae and galaxies will require reasonably dark conditions for a good view). I have telescopes available up to 22" in aperture as well as a PVS-7 night vision device for viewing nebulae even under fairly poor conditions, such as the Horsehead Nebula in the image below:
+Experience the night sky like never before with a private star party. Utilizing my large telescopes, I can provide fantastic views of the Moon, planets, star clusters, galaxies, nebulae, and more. I have telescopes up to 22" in aperture for viewing as well as a PVS-7 night vision device for observing nebulae even under fairly poor conditions, such as the Horsehead Nebula in the image below taken with my 6" telescope:
 
 ![pvs7view](images/pvs7view.JPEG)
 

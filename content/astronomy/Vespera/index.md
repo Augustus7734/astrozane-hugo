@@ -6,7 +6,7 @@ date: 2024-01-01
 draft: false
 ---
 
-I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. My review will be up shortly on TelescopicWatch.com. 
+I was sent a Vaonis Vespera II smart telescope in July 2025. Here are some images I've taken with it. [I have a review of it on TelescopicWatch.com](https://telescopicwatch.com/vaonis-vespera-ii-review/)
 
 These images were taken using the stock Vespera II with the included dual band/broadband filters, or unfiltered from a dark sky. Unless otherwise noted, I used 10s subs and did processing in the free Siril astroimage processing app.
 
@@ -123,6 +123,11 @@ Entirely shot from my backyard, 9h, dual band filter.
 
 Entirely shot from my backyard, 23h 20min, dual band filter, 4h 20min of 15s subs, remaining 10s subs.
 
+### M1 - Crab Nebula in Taurus
+![crabnebula](images/ZLM1V3.jpg)
+
+Entirely shot from my backyard, 3 hours of data, broadband filter.
+
 ### NGC 6960 - Witch's Broom (Western Veil Nebula) in Cygnus 
 ![ngc6960witchesbroom](images/ZLVeilBroom.jpg)
 
@@ -189,7 +194,7 @@ Shot from my backyard, 4h 20min, 10s subs, broadband filter.
 Shot from my backyard, 10h, 10s subs, broadband filter.
 
 ### NGC 253 - Sculptor Galaxy
-![ngc253](images/ZL253.jpg)
+![ngc253](images/ZL253V4.jpg)
 
 Shot from the Chiricahua Mountains, 3h unfiltered. I actually did 13 hours total (50% from home, 50% from the Chiricahuas) but Vespera's auto-focus failed and ruined most of the data.
 

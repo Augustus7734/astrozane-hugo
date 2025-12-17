@@ -12,8 +12,6 @@ These images were taken using the stock Vespera II with the included dual band/b
 
 These should load in full resolution by default thanks to the way my website is coded - if you're on a desktop, just right click to "open in new tab" - if you're on mobile, you can just zoom in or save the photos to your device.
 
-I have more images that I'm not entirely happy yet with on a separate page.
-
 ## Emission & Reflection Nebulae
 
 ### Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula
@@ -27,7 +25,7 @@ Entirely shot from my backyard, 22h, dual band filter. My longest total exposure
 Shot from the Chiricahua Mountains, 3h 30min, unfiltered.
 
 ### IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion
-![horseheadflamenebula](images/ZLHorseheadV4.jpg)
+![horseheadflamenebula](images/ZLHorseheadV6.jpg)
 
 Shot mostly at home, 9h of 10s subs/dual band filter, 8h of 5s subs/dual band filter, with 45 mins of unfiltered data (10s subs) from the Okie-Tex Star Party. 17h 45min total.
 
@@ -47,7 +45,7 @@ Entirely shot from my backyard, 41 hours total exposure time, dual band filter.
 Shot from the Chiricahua Mountains, 7h, unfiltered.
 
 ### IC 2177 - Seagull Nebula in Canis Major/Monoceros
-![seagullnebula](images/ZLSeagull12h45minV1.jpg)
+![seagullnebula](images/ZLSeagull12h45minV3.jpg)
 
 Shot entirely from my backyard, 12h 45min, dual band filter.
 
@@ -87,14 +85,14 @@ Entirely shot from my backyard, 11h, dual band filter.
 Shot from my backyard, dual band filter, 7h 30min total.
 
 ### NGC 2237 - Rosette Nebula in Monoceros
-![rosettenebula](images/ZLRosette2.jpg)
+![rosettenebula](images/ZLRosette3.jpg)
 
-Entirely shot from my backyard, 11h 30min, dual band filter. This one uses 20s subs rather than the usual 10.
+Entirely shot from my backyard, 14h 20min, dual band filter. This one uses 20s subs rather than the usual 10.
 
 ### NGC 7000 - North America Nebula (Cygnus Wall)
-![cygnuswall](images/ZLNAWall.jpg)
+![cygnuswall](images/ZLNANeb.jpg)
 
-Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual band filter, 10h total.
+Shot from my backyard and from the Chiricahua Sky Village with full Moon, dual band filter, 10h total.
 
 ### NGC 7380 - Wizard Nebula in Cepheus
 ![wizardnebula](images/ZLWizardV4.jpg)
@@ -102,7 +100,7 @@ Shot from my backyard and from the Chiricahua Sky Vilalge with full Moon, dual b
 Entirely shot from my backyard, 3h 30min, dual band filter.
 
 ### NGC 7822 - Emission Nebula in Cepheus
-![ngc7822](images/ZL7822new.jpg)
+![ngc7822](images/ZL78223.jpg)
 
 Entirely shot from my backyard, 14h 30min, dual band filter. 15s subs on this one.
 
@@ -170,7 +168,7 @@ Shot from my backyard, 6h, 10s subs, broadband filter.
 Shot from my backyard, 19h 30min, 20s subs, broadband filter.
 
 ### M31 - Andromeda Galaxy
-![m31andromeda](images/ZLM31.jpg)
+![m31andromeda](images/ZLM31V5.jpg)
 
 Shot from my backyard, 10h 20min, 10s subs, broadband filter.
 
@@ -184,6 +182,11 @@ Remainder taken at home, 45 mins of at-home data with dual band filter, 8h 5min 
 ![m77](images/ZLM77.jpg)
 
 Shot from my backyard, 4h 20min, 10s subs, broadband filter.
+
+### NGC 147 & 185 - Andromeda Galaxy Satellites in Cassiopeia
+![cassgroup](images/ZLM31Companions2.jpg)
+
+Shot from my backyard, 10h, 10s subs, broadband filter.
 
 ### NGC 253 - Sculptor Galaxy
 ![ngc253](images/ZL253.jpg)

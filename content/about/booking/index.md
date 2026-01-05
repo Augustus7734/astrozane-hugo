@@ -14,7 +14,7 @@ Experience the night sky like never before with a private star party. Utilizing 
 
 ## Pricing & Details
 
-Approximate pricing for events local to Tucson is as follows for small Groups (20 or fewer guests):
+Approximate pricing for events local to Tucson is as follows for small groups (20 or fewer guests):
 
 - **$150 for 1 hour**
 - **$225 for 2 hours**

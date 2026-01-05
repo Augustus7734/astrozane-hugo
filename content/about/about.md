@@ -6,15 +6,11 @@ url: "/about/"
 
 ## Introduction
 
-I'm Zane Landers, an astronomer, writer, and digital marketing/communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona. I am currently looking for a full-time job position, but I also work as a writer/editor and marketing consultant for [TelescopicWatch](https://telescopicwatch.com), [EUEC](https://euec.com), and [Farpoint Astro](https://farpointastro.com/) part-time.
+I'm Zane Landers, an astronomer, writer, and digital marketing/communications specialist. Most of my hobbies are pretty hands-on - whether it's stargazing, working on my Miata, or roller skating. I have a Master's degree in marketing from the University of Arizona. I am currently looking for a full-time job position, but I also work as a writer/editor and marketing consultant for [TelescopicWatch](https://telescopicwatch.com), [EUEC](https://euec.com), and [Farpoint Astro](https://farpointastro.com/) part-time. Since 2017, I've been building, buying, repairing, and reselling telescopes. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. 
 
 You can regularly find me setting up telescopes on the University of Arizona campus, at [HAC](https://www.hacastronomy.org/club-info/) and [DarkSky Southern Arizona](https://darkskysoaz.org/) events around Pima and Cochise County, and [I am avaialble to bring my telescopes to your event/venue](https://astrozane.com/about/booking/).
 
-### Professional Experience
-
-My professional experience spans multiple disciplines. Since 2017, I've been building, buying, repairing, and reselling telescopes. This experience led me to work as a writer/editor for [TelescopicWatch](https://telescopicwatch.com) since 2018, where I review commercially manufactured telescopes and write guides for both beginners and experienced astronomers. 
-
-I've previously worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and [Universal Avionics](https://universalavionics.com/). [See my resume for more details](https://astrozane.com/resume/). I can code (I programmed this website using Hugo, which is not exactly easy), I'm a master of AI prompting, and I have plenty of sales and marketing experience.
+I've also previously worked as a communications/marketing intern for [NSF's NOIRLab](https://noirlab.edu/public/) and [Universal Avionics](https://universalavionics.com/). [See my resume for more details](https://astrozane.com/resume/). I can code (I programmed this website using Hugo, which is not exactly easy), I'm a master of AI prompting, and I have plenty of sales and marketing experience.
 
 ## Astronomy
 

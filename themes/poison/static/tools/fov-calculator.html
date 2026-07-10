@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eyepiece Field Calculator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0e1c;
+    --panel:#121a30;
+    --panel2:#0f1628;
+    --line:#233150;
+    --line2:#1a2540;
+    --ink:#e9edf7;
+    --mute:#8892ab;
+    --faint:#5c6683;
+    --amber:#f0b45f;
+    --amber-dim:#c99248;
+    --teal:#5fc9d6;      /* Setup A */
+    --violet:#b98cf0;    /* Setup B */
+    --coral:#e88a72;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    background:
+      radial-gradient(1200px 700px at 80% -10%, #16203b 0%, transparent 55%),
+      radial-gradient(900px 600px at -10% 110%, #14182e 0%, transparent 50%),
+      var(--bg);
+    color:var(--ink);
+    font-family:"Space Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.5;min-height:100vh;padding:clamp(16px,4vw,44px);
+  }
+  .wrap{max-width:1080px;margin:0 auto}
+  .dim{color:var(--faint)}
+
+  header{margin-bottom:22px}
+  .eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.32em;text-transform:uppercase;color:var(--teal);opacity:.85;margin-bottom:10px}
+  h1{font-weight:700;font-size:clamp(26px,5vw,40px);letter-spacing:-.02em;line-height:1.05}
+  h1 .glow{color:var(--amber)}
+  .sub{color:var(--mute);margin-top:8px;max-width:56ch;font-size:14.5px}
+
+  /* ---- control bar ---- */
+  .bar{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin-bottom:18px}
+  .switch{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px 8px 6px 14px}
+  .switch-label{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);margin-right:2px}
+  .switch button{background:none;border:none;color:var(--mute);cursor:pointer;font-family:"Space Grotesk",sans-serif;font-size:13.5px;font-weight:500;padding:6px 12px;border-radius:8px;transition:.15s}
+  .switch button[aria-pressed=true]{background:var(--teal);color:#08121a;font-weight:600}
+  .switch button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+  .cmp-btn{background:var(--panel);border:1px solid var(--line);color:var(--ink);cursor:pointer;font-family:"Space Grotesk",sans-serif;font-size:13.5px;font-weight:500;padding:11px 16px;border-radius:12px;transition:.15s}
+  .cmp-btn:hover{border-color:var(--violet);color:#fff}
+  .cmp-btn.on{background:rgba(185,140,240,.12);border-color:var(--violet)}
+  .cmp-btn:focus-visible{outline:2px solid var(--violet);outline-offset:2px}
+
+  .card{background:linear-gradient(180deg,var(--panel) 0%,var(--panel2) 100%);border:1px solid var(--line);border-radius:16px;padding:20px}
+
+  /* ---- preview ---- */
+  .preview-card{margin-bottom:18px}
+  .card-title{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--faint);margin-bottom:16px;display:flex;align-items:center;gap:9px}
+  .card-title::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--teal)}
+  .preview{display:flex;gap:26px;align-items:center}
+  @media(max-width:560px){ .preview{flex-direction:column;text-align:center} }
+  .scope{flex-shrink:0}
+  .scope svg{display:block;width:250px;height:250px}
+  @media(max-width:560px){ .scope svg{width:210px;height:210px} }
+  #moon,#jupiter,#andromeda,#m13,#m82,#ringA,#ringB,#labelA,#labelB{transition:opacity .25s ease}
+  .readback{min-width:0}
+  .legend{display:flex;flex-direction:column;gap:9px;margin-bottom:14px}
+  .lg-row{display:flex;align-items:center;gap:10px;font-size:14px}
+  .sw{width:13px;height:13px;border-radius:3px;flex-shrink:0}
+  .sw.a{background:var(--teal)} .sw.b{background:var(--violet)}
+  .lg-name{color:var(--mute);min-width:74px}
+  .lg-val{font-family:"IBM Plex Mono",monospace;color:var(--ink);font-weight:500;font-size:16px}
+  .lg-arc{font-family:"IBM Plex Mono",monospace;color:var(--faint);font-size:12.5px}
+  .cmp{color:var(--mute);font-size:13.5px;line-height:1.5;max-width:40ch}
+  .cmp b{color:var(--ink);font-weight:500}
+  .ratio{margin-top:12px;padding:11px 14px;border:1px dashed var(--line);border-radius:11px;font-size:13.5px;color:var(--mute);background:var(--panel2)}
+  .ratio b{color:var(--amber);font-family:"IBM Plex Mono",monospace;font-weight:600}
+  .ratio.hide{display:none}
+
+  /* ---- setups ---- */
+  .setups{display:grid;grid-template-columns:1fr;gap:18px}
+  .setups.compare{grid-template-columns:1fr 1fr}
+  @media(max-width:820px){ .setups.compare{grid-template-columns:1fr} }
+  .setup{background:linear-gradient(180deg,var(--panel) 0%,var(--panel2) 100%);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .setup.b{border-color:var(--line2)}
+  .setup-head{display:flex;align-items:center;gap:9px;font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin-bottom:18px}
+  .dot{width:9px;height:9px;border-radius:50%}
+  .dot.a{background:var(--teal)} .dot.b{background:var(--violet)}
+  #wrapB.hide{display:none}
+
+  .field{margin-bottom:16px}
+  .field > label{display:block;font-size:13px;color:var(--mute);margin-bottom:7px;font-weight:500}
+  .inrow{display:flex;gap:8px}
+  input[type=number]{flex:1;width:100%;background:var(--panel2);border:1px solid var(--line);color:var(--ink);font-family:"IBM Plex Mono",monospace;font-size:16px;font-weight:500;padding:10px 12px;border-radius:10px;-moz-appearance:textfield}
+  input[type=number]::-webkit-outer-spin-button,input[type=number]::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+  input[type=number]:focus{outline:none;border-color:var(--amber);box-shadow:0 0 0 3px rgba(240,180,95,.15)}
+  .hint{font-size:11.5px;color:var(--faint);margin-top:6px;line-height:1.4}
+
+  .unit{display:flex;background:var(--panel2);border:1px solid var(--line);border-radius:10px;overflow:hidden;flex-shrink:0}
+  .unit button{background:none;border:none;color:var(--faint);cursor:pointer;font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:500;padding:0 13px;transition:.15s}
+  .unit button[aria-pressed=true]{background:var(--amber);color:#1a1206;font-weight:600}
+  .unit button:focus-visible{outline:2px solid var(--teal);outline-offset:-2px}
+
+  .chips{display:flex;flex-direction:column;gap:8px}
+  .chip{display:flex;align-items:center;gap:11px;cursor:pointer;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:9px 13px;transition:.15s;user-select:none}
+  .chip:hover{border-color:var(--line2)}
+  .chip:has(input:checked){border-color:var(--teal);background:rgba(95,201,214,.08)}
+  .chip input{position:absolute;opacity:0;width:0;height:0}
+  .box{width:18px;height:18px;border-radius:5px;flex-shrink:0;border:1.5px solid var(--line);display:grid;place-items:center;transition:.15s}
+  .chip:has(input:checked) .box{background:var(--teal);border-color:var(--teal)}
+  .box svg{opacity:0;transition:.15s}
+  .chip:has(input:checked) .box svg{opacity:1}
+  .chip-txt{font-size:13px;color:var(--ink)}
+  .chip-txt b{font-family:"IBM Plex Mono",monospace;color:var(--teal);font-weight:600}
+  .chip input:focus-visible ~ .box{outline:2px solid var(--amber);outline-offset:2px}
+
+  .train{display:flex;gap:18px;flex-wrap:wrap;padding:11px 14px;border:1px dashed var(--line);border-radius:11px;background:var(--panel2);margin:4px 0 14px}
+  .train div{display:flex;flex-direction:column;gap:2px}
+  .train .k{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+  .train .v{font-family:"IBM Plex Mono",monospace;font-size:15px;color:var(--ink);font-weight:500}
+
+  .outs{display:grid;grid-template-columns:repeat(auto-fit,minmax(112px,1fr));gap:10px}
+  .out{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:13px 13px 12px;position:relative}
+  .out .k{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-bottom:8px}
+  .out .v{font-family:"IBM Plex Mono",monospace;font-size:23px;font-weight:600;color:var(--amber);line-height:1;letter-spacing:-.01em}
+  .out .v .u{font-size:13px;color:var(--amber-dim);font-weight:500;margin-left:2px}
+  .out .note{font-size:11px;color:var(--faint);margin-top:7px;line-height:1.35;min-height:1px}
+  .out .note.warn{color:var(--coral)}
+  .out.est .note{color:var(--faint)}
+
+  footer{margin-top:22px;color:var(--faint);font-size:12px;line-height:1.6}
+  footer code{font-family:"IBM Plex Mono",monospace;color:var(--mute)}
+
+  @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Eyepiece · Field of View</div>
+    <h1>What will you <span class="glow">actually see</span>?</h1>
+    <p class="sub">Enter a scope and eyepiece. Pick a reference object, or add a second setup to overlay both true fields on the same sky.</p>
+  </header>
+
+  <div class="bar">
+    <div class="switch" id="objSwitch">
+      <span class="switch-label">Reference</span>
+      <button type="button" data-obj="moon" aria-pressed="true">Moon</button>
+      <button type="button" data-obj="jupiter">Jupiter</button>
+      <button type="button" data-obj="m13">M13</button>
+      <button type="button" data-obj="m82">M82</button>
+      <button type="button" data-obj="andromeda">Andromeda</button>
+    </div>
+    <button type="button" class="cmp-btn" id="cmpToggle">+ Add a second setup</button>
+  </div>
+
+  <section class="card preview-card">
+    <div class="card-title">The view</div>
+    <div class="preview">
+      <div class="scope" aria-hidden="true">
+        <svg viewBox="0 0 200 200" id="fovSvg">
+          <defs>
+            <radialGradient id="sky" cx="50%" cy="45%" r="60%">
+              <stop offset="0%" stop-color="#0e1730"/><stop offset="100%" stop-color="#060a16"/>
+            </radialGradient>
+            <radialGradient id="moonG" cx="38%" cy="35%" r="75%">
+              <stop offset="0%" stop-color="#eef1f8"/><stop offset="70%" stop-color="#cdd3e2"/><stop offset="100%" stop-color="#9aa2ba"/>
+            </radialGradient>
+            <radialGradient id="moonMare" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#8b93a9" stop-opacity="0.55"/><stop offset="70%" stop-color="#8b93a9" stop-opacity="0.18"/><stop offset="100%" stop-color="#8b93a9" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="jupG" cx="42%" cy="36%" r="72%">
+              <stop offset="0%" stop-color="#f4e3bd"/><stop offset="58%" stop-color="#ddbd8d"/><stop offset="100%" stop-color="#b1875c"/>
+            </radialGradient>
+            <radialGradient id="andHalo" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#98a4c8" stop-opacity="0.16"/><stop offset="70%" stop-color="#98a4c8" stop-opacity="0.03"/><stop offset="100%" stop-color="#98a4c8" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="andDisk" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#c2cbe6" stop-opacity="0.4"/><stop offset="60%" stop-color="#93a0c6" stop-opacity="0.1"/><stop offset="100%" stop-color="#93a0c6" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="andCore" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#f6efdb" stop-opacity="0.95"/><stop offset="45%" stop-color="#ddceb0" stop-opacity="0.4"/><stop offset="100%" stop-color="#ddceb0" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="m13Glow" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#eaf0ff" stop-opacity="0.5"/><stop offset="32%" stop-color="#cad5f2" stop-opacity="0.28"/><stop offset="66%" stop-color="#aab6d8" stop-opacity="0.08"/><stop offset="100%" stop-color="#aab6d8" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="m82Body" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#eae2cf" stop-opacity="0.7"/><stop offset="55%" stop-color="#b9ac8e" stop-opacity="0.2"/><stop offset="100%" stop-color="#b9ac8e" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="m82Core" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#f7f0dc" stop-opacity="0.9"/><stop offset="50%" stop-color="#d8c9a6" stop-opacity="0.35"/><stop offset="100%" stop-color="#d8c9a6" stop-opacity="0"/>
+            </radialGradient>
+            <clipPath id="fieldClip"><circle cx="100" cy="100" r="82"/></clipPath>
+          </defs>
+
+          <circle cx="100" cy="100" r="82" fill="url(#sky)"/>
+          <g clip-path="url(#fieldClip)">
+            <g id="stars"></g>
+
+            <g id="moon" opacity="0"><g id="scale_moon" transform="translate(100,100) scale(40)">
+              <circle r="1" fill="url(#moonG)"/>
+              <ellipse cx="0.15" cy="-0.28" rx="0.4" ry="0.34" fill="url(#moonMare)"/>
+              <ellipse cx="0.42" cy="0.02" rx="0.24" ry="0.3" fill="url(#moonMare)"/>
+              <ellipse cx="0.08" cy="0.28" rx="0.22" ry="0.18" fill="url(#moonMare)"/>
+              <ellipse cx="-0.22" cy="-0.05" rx="0.16" ry="0.22" fill="url(#moonMare)"/>
+              <circle cx="-0.1" cy="0.45" r="0.05" fill="#eef1f8" opacity="0.5"/>
+              <circle cx="0.3" cy="-0.5" r="0.035" fill="#eef1f8" opacity="0.45"/>
+            </g></g>
+
+            <g id="jupiter" opacity="0"><g id="scale_jupiter" transform="translate(100,100) scale(6)">
+              <ellipse cx="0" cy="0" rx="1" ry="0.935" fill="url(#jupG)"/>
+              <ellipse cx="0" cy="-0.32" rx="0.85" ry="0.11" fill="#a9764c" opacity="0.85"/>
+              <ellipse cx="0" cy="-0.02" rx="0.9" ry="0.06" fill="#bc8c5f" opacity="0.55"/>
+              <ellipse cx="0" cy="0.34" rx="0.8" ry="0.12" fill="#9c6a43" opacity="0.85"/>
+              <ellipse cx="0.36" cy="0.35" rx="0.16" ry="0.095" fill="#c17a5f" opacity="0.9"/>
+              <ellipse cx="0" cy="0" rx="1" ry="0.935" fill="none" stroke="#3a2a18" stroke-width="0.05" opacity="0.35"/>
+            </g></g>
+
+            <g id="andromeda" opacity="0"><g id="scale_andromeda" transform="translate(100,100) scale(30)">
+              <g transform="rotate(-30)">
+                <ellipse rx="1" ry="0.34" fill="url(#andHalo)"/>
+                <ellipse rx="0.82" ry="0.24" fill="url(#andDisk)"/>
+                <ellipse rx="0.5" ry="0.16" fill="url(#andDisk)"/>
+                <ellipse cx="-0.08" cy="0.07" rx="0.72" ry="0.03" fill="#0a0e1c" opacity="0.5"/>
+                <ellipse cx="0.25" cy="0.1" rx="0.45" ry="0.025" fill="#0a0e1c" opacity="0.4"/>
+                <ellipse rx="0.24" ry="0.19" fill="url(#andCore)"/>
+                <ellipse rx="0.11" ry="0.1" fill="url(#andCore)"/>
+              </g>
+              <!-- companions in sky frame (1 unit = M31's 1.5° radius): M32 ~24′ S of core, M110 ~34′ NW -->
+              <ellipse cx="0" cy="0.27" rx="0.06" ry="0.05" fill="url(#andCore)" opacity="0.95"/>
+              <ellipse cx="0.28" cy="-0.26" rx="0.14" ry="0.09" fill="url(#andDisk)" opacity="0.7"/>
+              <ellipse cx="0.28" cy="-0.26" rx="0.05" ry="0.04" fill="url(#andCore)" opacity="0.7"/>
+            </g></g>
+
+            <g id="m13" opacity="0"><g id="scale_m13" transform="translate(100,100) scale(30)">
+              <circle r="1.05" fill="url(#m13Glow)"/>
+              <g id="m13Stars"></g>
+            </g></g>
+
+            <g id="m82" opacity="0"><g id="scale_m82" transform="translate(100,100) scale(20)">
+              <g transform="rotate(-25)">
+                <ellipse rx="1" ry="0.4" fill="url(#m82Body)"/>
+                <ellipse rx="0.6" ry="0.3" fill="url(#m82Core)"/>
+                <ellipse rx="0.28" ry="0.22" fill="url(#m82Core)"/>
+                <ellipse cx="-0.05" cy="0" rx="0.06" ry="0.34" fill="#0a0e1c" opacity="0.45" transform="rotate(12)"/>
+                <ellipse cx="0.18" cy="0.02" rx="0.05" ry="0.28" fill="#0a0e1c" opacity="0.4" transform="rotate(12)"/>
+                <ellipse cx="-0.28" cy="0.01" rx="0.05" ry="0.24" fill="#0a0e1c" opacity="0.32" transform="rotate(12)"/>
+                <ellipse rx="0.14" ry="0.11" fill="#c66a5a" opacity="0.16"/>
+              </g>
+              <!-- M81 group, sky frame: N up / E left, 1 unit = M82's 5.5' radius. Neighbors emerge at low power. -->
+              <g transform="translate(0.18,6.73) rotate(18)">
+                <ellipse rx="2.45" ry="1.4" fill="url(#andHalo)"/>
+                <ellipse rx="1.7" ry="0.95" fill="url(#andDisk)"/>
+                <ellipse rx="0.55" ry="0.45" fill="url(#andCore)"/>
+                <ellipse rx="0.2" ry="0.17" fill="url(#andCore)"/>
+              </g>
+              <g transform="translate(-7.45,10.36)">
+                <ellipse rx="0.55" ry="0.5" fill="url(#andHalo)"/>
+                <ellipse rx="0.26" ry="0.23" fill="url(#andCore)" opacity="0.85"/>
+              </g>
+              <g transform="translate(8.73,19.27) rotate(40)">
+                <ellipse rx="0.7" ry="0.32" fill="url(#andDisk)" opacity="0.75"/>
+                <ellipse rx="0.26" ry="0.15" fill="url(#andCore)" opacity="0.6"/>
+              </g>
+            </g></g>
+          </g>
+
+          <circle id="ringB" cx="100" cy="100" r="82" fill="none" stroke="#b98cf0" stroke-width="1.6" opacity="0"/>
+          <circle id="ringA" cx="100" cy="100" r="82" fill="none" stroke="#5fc9d6" stroke-width="2" opacity="0.9"/>
+          <circle cx="100" cy="100" r="82" fill="none" stroke="#5fc9d6" stroke-width="8" opacity="0.06"/>
+          <text id="labelA" x="0" y="0" fill="#5fc9d6" font-family="IBM Plex Mono, monospace" font-size="11" font-weight="600" text-anchor="middle" paint-order="stroke" stroke="#0a0e1c" stroke-width="3" opacity="0">A</text>
+          <text id="labelB" x="0" y="0" fill="#b98cf0" font-family="IBM Plex Mono, monospace" font-size="11" font-weight="600" text-anchor="middle" paint-order="stroke" stroke="#0a0e1c" stroke-width="3" opacity="0">B</text>
+        </svg>
+      </div>
+      <div class="readback">
+        <div class="legend" id="legend"></div>
+        <div class="cmp" id="cmp"></div>
+        <div class="ratio hide" id="ratio"></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="setups" id="setups">
+    <div id="wrapA"></div>
+    <div id="wrapB" class="hide"></div>
+  </div>
+
+  <footer>
+    <code>mag = effective FL &divide; eyepiece FL &nbsp;·&nbsp; TFOV = AFOV &divide; mag &nbsp;·&nbsp; exit pupil = aperture(mm) &divide; mag &nbsp;·&nbsp; field stop &asymp; AFOV &times; EP focal length &divide; 57.2958</code>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const MM_PER_IN = 25.4;
+  const $ = id => document.getElementById(id);
+  const CHK = '<svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6.5L4.5 9L10 3" stroke="#08121a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  const OBJECTS = {
+    moon:      { deg:0.5,      label:'the ½° Moon' },
+    jupiter:   { deg:47/3600,  label:'Jupiter (~47″ at opposition)' },
+    m13:       { deg:20/60,    label:'M13 (~20′), the Hercules globular' },
+    m82:       { deg:11/60,    label:'M82 & the M81 group' },
+    andromeda: { deg:3.0,      label:'Andromeda (~3° across)' }
+  };
+
+  const U = { A:{ap:'in',fl:'mm'}, B:{ap:'in',fl:'mm'} };
+  let compareOn = false;
+  let currentObject = 'moon';
+
+  const DEFAULTS = {
+    A:{ name:'Setup A', ap:'14.7', apU:'in', fl:'1650', flU:'mm', fr:'4.4', coma:true,  barlow:false, reducer:false, epfl:'13', afov:'100' },
+    B:{ name:'Setup B', ap:'14.7', apU:'in', fl:'1650', flU:'mm', fr:'4.4', coma:true,  barlow:false, reducer:false, epfl:'30', afov:'82'  }
+  };
+
+  // ---- scatter static background stars once ----
+  (function seedStars(){
+    const g = $('stars'); let s='';
+    const pts=[[72,58,.9],[128,70,.7],[95,42,1.1],[140,110,.8],[60,120,.7],[110,140,.9],[150,90,.6],[52,88,.8],[86,150,.7],[135,150,.6],[45,60,.6],[160,130,.7],[78,105,.5],[120,55,.6],[100,165,.7],[65,155,.5],[155,60,.6],[48,130,.5],[125,120,.5],[90,80,.5]];
+    pts.forEach(([x,y,r])=>{ s+=`<circle cx="${x}" cy="${y}" r="${r}" fill="#aeb8d6" opacity="${(0.35+Math.random()*0.4).toFixed(2)}"/>`; });
+    g.innerHTML=s;
+  })();
+
+  // ---- build the M13 globular star swarm once (concentrated core) ----
+  (function seedM13(){
+    const g = $('m13Stars'); if(!g) return;
+    const warm=['#fff4db','#ffe8c4'], cool=['#dde7ff','#eef3ff'], plain='#f4f7ff';
+    let s='';
+    for(let i=0;i<200;i++){
+      const a=Math.random()*Math.PI*2, rad=Math.pow(Math.random(),1.9)*0.98;
+      const x=Math.cos(a)*rad, y=Math.sin(a)*rad, size=0.007+Math.random()*0.018;
+      const t=Math.random(), col=t>0.9?warm[Math.floor(Math.random()*2)]:(t>0.72?cool[Math.floor(Math.random()*2)]:plain);
+      s+=`<circle cx="${x.toFixed(3)}" cy="${y.toFixed(3)}" r="${size.toFixed(3)}" fill="${col}" opacity="${(0.5+Math.random()*0.5).toFixed(2)}"/>`;
+    }
+    g.innerHTML=s;
+  })();
+
+  // ---- build a setup card ----
+  function buildSetup(S, d){
+    const pr = (u,v)=> u===v ? 'aria-pressed="true"' : '';
+    const ck = b => b ? 'checked' : '';
+    const cls = S==='B' ? ' b' : '';
+    return `
+    <section class="setup${cls}">
+      <div class="setup-head"><span class="dot ${S.toLowerCase()}"></span>${d.name}</div>
+      <div class="field">
+        <label for="ap_${S}">Aperture</label>
+        <div class="inrow">
+          <input type="number" id="ap_${S}" value="${d.ap}" step="0.1" min="0" inputmode="decimal">
+          <div class="unit" id="apUnit_${S}"><button type="button" data-u="mm" ${pr(d.apU,'mm')}>mm</button><button type="button" data-u="in" ${pr(d.apU,'in')}>in</button></div>
+        </div>
+      </div>
+      <div class="field">
+        <label for="fl_${S}">Focal length</label>
+        <div class="inrow">
+          <input type="number" id="fl_${S}" value="${d.fl}" step="1" min="0" inputmode="decimal">
+          <div class="unit" id="flUnit_${S}"><button type="button" data-u="mm" ${pr(d.flU,'mm')}>mm</button><button type="button" data-u="in" ${pr(d.flU,'in')}>in</button></div>
+        </div>
+      </div>
+      <div class="field">
+        <label for="fr_${S}">Focal ratio <span class="dim">(f/·, optional)</span></label>
+        <input type="number" id="fr_${S}" value="${d.fr}" step="0.1" min="0" inputmode="decimal">
+        <div class="hint">Native, before the optical train. Type it to fill in focal length, or leave it — it auto-fills.</div>
+      </div>
+      <div class="field">
+        <label>Optical train</label>
+        <div class="chips">
+          <label class="chip"><input type="checkbox" id="coma_${S}" ${ck(d.coma)}><span class="box">${CHK}</span><span class="chip-txt">Coma corrector <b>1.15×</b></span></label>
+          <label class="chip"><input type="checkbox" id="barlow_${S}" ${ck(d.barlow)}><span class="box">${CHK}</span><span class="chip-txt">Barlow <b>2×</b></span></label>
+          <label class="chip"><input type="checkbox" id="reducer_${S}" ${ck(d.reducer)}><span class="box">${CHK}</span><span class="chip-txt">Focal reducer <b>0.66×</b></span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label for="epfl_${S}">Eyepiece focal length <span class="dim">(mm)</span></label>
+        <input type="number" id="epfl_${S}" value="${d.epfl}" step="0.1" min="0" inputmode="decimal">
+      </div>
+      <div class="field">
+        <label for="afov_${S}">Eyepiece apparent FOV <span class="dim">(°)</span></label>
+        <input type="number" id="afov_${S}" value="${d.afov}" step="1" min="0" max="120" inputmode="decimal">
+      </div>
+      <div class="train">
+        <div><span class="k">Effective FL</span><span class="v" id="efffl_${S}">—</span></div>
+        <div><span class="k">Effective f-ratio</span><span class="v" id="efffr_${S}">—</span></div>
+      </div>
+      <div class="outs">
+        <div class="out"><div class="k">Magnification</div><div class="v" id="mag_${S}">—</div><div class="note" id="magNote_${S}"></div></div>
+        <div class="out"><div class="k">True FOV</div><div class="v" id="tfov_${S}">—</div><div class="note" id="tfovNote_${S}"></div></div>
+        <div class="out"><div class="k">Exit pupil</div><div class="v" id="exit_${S}">—</div><div class="note" id="exitNote_${S}"></div></div>
+        <div class="out"><div class="k">Mag / inch</div><div class="v" id="mpi_${S}">—</div><div class="note" id="mpiNote_${S}"></div></div>
+        <div class="out est"><div class="k">Field stop</div><div class="v" id="fs_${S}">—</div><div class="note">estimate</div></div>
+        <div class="out"><div class="k">Étendue</div><div class="v" id="etendue_${S}">—</div><div class="note">cm²·deg² · light grasp</div></div>
+        <div class="out"><div class="k">Transit @ eq.</div><div class="v" id="transit_${S}">—</div><div class="note">untracked drift across field</div></div>
+        <div class="out"><div class="k">Resolution</div><div class="v" id="resView_${S}">—</div><div class="note">this view (~1′ eye)</div></div>
+        <div class="out"><div class="k">Telescope res.</div><div class="v" id="resMax_${S}">—</div><div class="note">Dawes limit</div></div>
+      </div>
+    </section>`;
+  }
+
+  $('wrapA').innerHTML = buildSetup('A', DEFAULTS.A);
+  $('wrapB').innerHTML = buildSetup('B', DEFAULTS.B);
+
+  // ---- helpers ----
+  const toMM = (v,u)=> u==='in' ? v*MM_PER_IN : v;
+  const num = id => parseFloat($(id).value);
+  const chk = id => $(id).checked;
+  const fmt = (n,d)=> !isFinite(n) ? '—' : n.toFixed(d);
+  const fmtMag = m => !isFinite(m) ? '—' : (m>=100 ? Math.round(m).toString() : m.toFixed(1));
+  const fmtTfov = t => !isFinite(t) ? '—' : (t<1 ? t.toFixed(3) : t.toFixed(2));
+  function fmtTime(s){
+    if(!isFinite(s)) return '—';
+    if(s<60) return s.toFixed(0)+'s';
+    const m=Math.floor(s/60), sec=Math.round(s%60);
+    return sec===0 ? m+'m' : m+'m '+sec+'s';
+  }
+  function fmtEtendue(e){
+    if(!isFinite(e)) return '—';
+    if(e>=10000) return (e/1000).toFixed(0)+'k';
+    if(e>=1000)  return (e/1000).toFixed(1)+'k';
+    if(e>=100)   return e.toFixed(0);
+    return e.toFixed(1);
+  }
+  function setVal(el, main, unit){ el.innerHTML = main==='—' ? '—' : (unit ? `${main}<span class="u">${unit}</span>` : main); }
+
+  function readSetup(S){
+    const ap = toMM(num('ap_'+S), U[S].ap);
+    const fl = toMM(num('fl_'+S), U[S].fl);
+    const epfl = num('epfl_'+S);
+    const afov = num('afov_'+S);
+    const factor = (chk('coma_'+S)?1.15:1)*(chk('barlow_'+S)?2:1)*(chk('reducer_'+S)?0.66:1);
+    const effFL = fl*factor;
+    const apIN = ap/MM_PER_IN;
+    const effFR = ap>0 ? effFL/ap : NaN;
+    const mag = epfl>0 ? effFL/epfl : NaN;
+    const tfov = mag>0 ? afov/mag : NaN;
+    const exit = mag>0 ? ap/mag : NaN;
+    const mpi = apIN>0 ? mag/apIN : NaN;
+    const fs = afov*epfl/57.29578;
+
+    const D_cm = ap/10;
+    const etendue = (ap>0 && isFinite(tfov)) ? (Math.PI*Math.pow(D_cm/2,2)) * (Math.PI*Math.pow(tfov/2,2)) : NaN;
+    const SIDEREAL = 360/86164;            // deg per second (sidereal rate)
+    const transit = isFinite(tfov) ? tfov/SIDEREAL : NaN;   // seconds, object at δ=0
+    const resView = mag>0 ? 60/mag : NaN;  // arcsec on sky, ~1' eye acuity
+    const resMax  = ap>0 ? 116/ap : NaN;   // Dawes limit, arcsec
+
+    return { ap, fl, effFL, effFR, mag, tfov, exit, mpi, fs, etendue, transit, resView, resMax, valid: isFinite(tfov)&&tfov>0 };
+  }
+
+  function renderOutputs(S, r){
+    setVal($('efffl_'+S), isFinite(r.effFL)?Math.round(r.effFL).toString():'—', isFinite(r.effFL)?' mm':'');
+    $('efffr_'+S).textContent = isFinite(r.effFR)? 'f/'+r.effFR.toFixed(1) : '—';
+
+    // sync native focal-ratio field unless the user is typing in it
+    const frEl = $('fr_'+S);
+    if(document.activeElement !== frEl){
+      const nfr = r.ap>0 ? r.fl/r.ap : NaN;
+      frEl.value = isFinite(nfr) ? +nfr.toFixed(2) : '';
+    }
+
+    setVal($('mag_'+S), fmtMag(r.mag), '×');
+    setVal($('tfov_'+S), fmtTfov(r.tfov), '°');
+    setVal($('exit_'+S), fmt(r.exit,2), 'mm');
+    setVal($('mpi_'+S), fmt(r.mpi,1), '×/in');
+    setVal($('fs_'+S), fmt(r.fs,1), 'mm');
+    setVal($('etendue_'+S), fmtEtendue(r.etendue), '');
+    setVal($('transit_'+S), fmtTime(r.transit), '');
+    setVal($('resView_'+S), fmt(r.resView,2), '″');
+    setVal($('resMax_'+S), fmt(r.resMax,2), '″');
+
+    let en='', ew=false;
+    if(isFinite(r.exit)){
+      if(r.exit>7){ en='Above ~7 mm — light spills past a dark-adapted pupil.'; ew=true; }
+      else if(r.exit<0.5){ en='Below ~0.5 mm — dim, floaters intrude.'; ew=true; }
+    }
+    $('exitNote_'+S).textContent=en; $('exitNote_'+S).classList.toggle('warn',ew);
+
+    let mn='', mw=false;
+    if(isFinite(r.mpi)){
+      if(r.mpi>50){ mn='Past the ~50×/in ceiling.'; mw=true; }
+      else if(r.mpi<7){ mn='Low power, rich-field.'; }
+    }
+    $('mpiNote_'+S).textContent=mn; $('mpiNote_'+S).classList.toggle('warn',mw);
+
+    $('magNote_'+S).textContent = isFinite(r.mag) ? '' : 'Set an eyepiece focal length.';
+  }
+
+  function showObject(key){
+    for(const k in OBJECTS){ $(k).style.opacity = (k===key) ? 1 : 0; }
+  }
+  function setRing(el, r, color, show){
+    if(!show || r==null){ el.style.opacity=0; return; }
+    el.setAttribute('r', r.toFixed(1));
+    el.setAttribute('stroke', color);
+    el.style.opacity = 0.95;
+  }
+  function placeLabel(el, r, show){
+    if(!show){ el.style.opacity=0; return; }
+    // upper-right of the ring
+    el.setAttribute('x', (100 + r*0.62).toFixed(1));
+    el.setAttribute('y', (100 - r*0.72).toFixed(1));
+    el.style.opacity = 1;
+  }
+
+  function renderPreview(rA, rB){
+    const obj = OBJECTS[currentObject];
+    const fieldR = 82;
+    const active = [];
+    if(rA.valid) active.push(rA.tfov);
+    if(rB && rB.valid) active.push(rB.tfov);
+
+    const legend = $('legend'), cmp = $('cmp'), ratio = $('ratio');
+
+    if(active.length===0){
+      showObject(null);
+      setRing($('ringA'), null); setRing($('ringB'), null);
+      placeLabel($('labelA'), 0, false); placeLabel($('labelB'), 0, false);
+      legend.innerHTML=''; cmp.textContent='Enter valid values to preview the field.'; ratio.classList.add('hide');
+      return;
+    }
+
+    const widest = Math.max.apply(null, active);
+
+    // rings (widest = porthole edge at fieldR)
+    setRing($('ringA'), rA.valid ? (rA.tfov/widest)*fieldR : null, '#5fc9d6', rA.valid);
+    setRing($('ringB'), (rB && rB.valid) ? (rB.tfov/widest)*fieldR : null, '#b98cf0', compareOn && rB && rB.valid);
+    placeLabel($('labelA'), rA.valid ? (rA.tfov/widest)*fieldR : 0, compareOn && rA.valid);
+    placeLabel($('labelB'), (rB && rB.valid) ? (rB.tfov/widest)*fieldR : 0, compareOn && rB && rB.valid);
+
+    // object to scale against the widest field
+    showObject(currentObject);
+    let objR = (obj.deg/widest)*fieldR;
+    const overflow = objR > fieldR;
+    objR = Math.min(Math.max(objR, 2), fieldR*6);
+    $('scale_'+currentObject).setAttribute('transform', `translate(100,100) scale(${objR.toFixed(2)})`);
+
+    // legend
+    let lg='';
+    if(compareOn){
+      if(rA.valid) lg += `<div class="lg-row"><span class="sw a"></span><span class="lg-name">Setup A</span><span class="lg-val">${fmtTfov(rA.tfov)}°</span><span class="lg-arc">${(rA.tfov*60).toFixed(0)}′</span></div>`;
+      if(rB && rB.valid) lg += `<div class="lg-row"><span class="sw b"></span><span class="lg-name">Setup B</span><span class="lg-val">${fmtTfov(rB.tfov)}°</span><span class="lg-arc">${(rB.tfov*60).toFixed(0)}′</span></div>`;
+    } else if(rA.valid){
+      lg += `<div class="lg-row"><span class="sw a"></span><span class="lg-name">True field</span><span class="lg-val">${fmtTfov(rA.tfov)}°</span><span class="lg-arc">${(rA.tfov*60).toFixed(0)} arcmin</span></div>`;
+    }
+    legend.innerHTML = lg;
+
+    // caption
+    cmp.innerHTML = overflow
+      ? `Rings shown to scale — <b>${obj.label}</b> extends beyond ${compareOn?'the wider field':'the field'}.`
+      : `Rings shown to scale against <b>${obj.label}</b>.`;
+
+    // comparison ratio
+    if(compareOn && rA.valid && rB.valid){
+      const w = Math.max(rA.tfov, rB.tfov), n = Math.min(rA.tfov, rB.tfov);
+      const rw = w/n, wider = rA.tfov>rB.tfov ? 'A' : 'B';
+      ratio.innerHTML = `Setup ${wider} is <b>${rw.toFixed(2)}×</b> wider — about <b>${(rw*rw).toFixed(1)}×</b> the sky area.`;
+      ratio.classList.remove('hide');
+    } else {
+      ratio.classList.add('hide');
+    }
+  }
+
+  function render(){
+    const rA = readSetup('A'); renderOutputs('A', rA);
+    let rB = null;
+    if(compareOn){ rB = readSetup('B'); renderOutputs('B', rB); }
+    renderPreview(rA, rB);
+  }
+
+  // ---- wiring ----
+  function wireUnit(groupId, S, key, targetId){
+    $(groupId).querySelectorAll('button').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        const to = btn.dataset.u;
+        if(to === U[S][key]) return;
+        const inp = $(targetId); const v = parseFloat(inp.value);
+        if(isFinite(v)){
+          if(U[S][key]==='mm' && to==='in') inp.value = +(v/MM_PER_IN).toFixed(2);
+          else if(U[S][key]==='in' && to==='mm') inp.value = +(v*MM_PER_IN).toFixed(0);
+        }
+        U[S][key] = to;
+        $(groupId).querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed', b.dataset.u===to));
+        render();
+      });
+    });
+  }
+
+  function wireSetup(S){
+    ['ap','fl','epfl','afov','coma','barlow','reducer'].forEach(f=>{
+      const el = $(f+'_'+S);
+      el.addEventListener('input', render);
+      el.addEventListener('change', render);
+    });
+    // focal ratio drives focal length (given aperture)
+    $('fr_'+S).addEventListener('input', ()=>{
+      const ratio = num('fr_'+S);
+      const apMM = toMM(num('ap_'+S), U[S].ap);
+      if(isFinite(ratio) && ratio>0 && isFinite(apMM) && apMM>0){
+        const flMM = apMM*ratio;
+        $('fl_'+S).value = U[S].fl==='in' ? +(flMM/MM_PER_IN).toFixed(2) : Math.round(flMM);
+      }
+      render();
+    });
+    wireUnit('apUnit_'+S, S, 'ap', 'ap_'+S);
+    wireUnit('flUnit_'+S, S, 'fl', 'fl_'+S);
+  }
+  wireSetup('A');
+  wireSetup('B');
+
+  // object switcher
+  $('objSwitch').querySelectorAll('button').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      currentObject = btn.dataset.obj;
+      $('objSwitch').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed', b.dataset.obj===currentObject));
+      render();
+    });
+  });
+
+  // compare toggle
+  $('cmpToggle').addEventListener('click', ()=>{
+    compareOn = !compareOn;
+    $('wrapB').classList.toggle('hide', !compareOn);
+    $('setups').classList.toggle('compare', compareOn);
+    $('cmpToggle').classList.toggle('on', compareOn);
+    $('cmpToggle').textContent = compareOn ? '− Remove comparison' : '+ Add a second setup';
+    render();
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

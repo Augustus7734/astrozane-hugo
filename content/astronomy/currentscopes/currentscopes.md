@@ -5,9 +5,9 @@ url: "/astronomy/currentscopes"
 date: 2024-01-01
 ---
 
-I have owned over 470 telescopes. [The full list is here.](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link)
+I have owned over 500 telescopes. [The full list is here.](https://docs.google.com/document/d/10u__j-BPwaRjkedsvcIMpclY8nEwKfm2i86mk1ffOos/edit?usp=drive_link)
 
-Currently I observe with my 14.7" f/2.9 Dob and a Celestron C11 Schmidt-Cassegrain, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
+Currently I mainly observe with my 14.7" f/2.9 Dob, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
 
 ## Reflectors
 ### [14.7" f/2.9 Dob built by me](https://astrozane.com/projects/147-inch-f29/)
@@ -45,10 +45,3 @@ I have had a lot of ETXes; my first, like this one, was an RA unit with a non-wo
 ![Mak70](images/mak70.JPEG)
 
 I have 2 of these presently, the second was purchased for a video review. Very good lunar, planetary, and double star instruments.
-
-## Refractors
-
-### Meade #312 (80mm f/11) built late 1970s
-![Meade80](images/meade80.jpeg)
-
-I found this telescope on Craigslist. It is one of the best achromats I have used; the tube and mount were both made by Mizar in Japan. The mount is a little cumbersome to take apart so I mostly use it in my backyard. The Orion SkyView Deluxe (made by GSO) happens to be a near-exact copy of the Mizar mount so I took a polar scope and clock drive off one and put it on the 312.

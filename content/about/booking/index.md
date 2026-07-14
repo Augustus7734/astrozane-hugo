@@ -16,7 +16,7 @@ I bring excellent telescopes, along with a PVS-14 night vision device that pulls
 
 **Now booking private events for August, September, November, and December 2026.**
 
-## Why Book With Me
+## Why Book With Me?
 
 I've been sharing the night sky for over ten years, with experience through DarkSky Southern Arizona, Telescopicwatch, RFTS, and the Stamford Observatory. Here's what sets my events apart:
 
@@ -58,14 +58,6 @@ Beyond star parties, I also help with telescope repair and setup. Whether your s
 Shopping for a telescope or accessories? I'd recommend starting at [telescopicwatch.com](https://telescopicwatch.com) for reviews and buying guides, then reaching out if you'd like a second opinion.
 
 [Contact me](https://astrozane.com/links/contact) to book a session or ask a question.
-
----
-title: "Star Party FAQ"
-layout: "single"
-url: "/about/booking/faq/"
-description: "Answers to common questions about booking a private star party in Tucson and Southern Arizona — weather policy, what you'll see, group sizes, kids, locations, and more."
-summary: "Everything you need to know before booking a star party: what you'll see through the telescope, how weather is handled, whether kids can participate, where events can be held, and how far in advance to book."
----
 
 ## Star Party FAQ
 

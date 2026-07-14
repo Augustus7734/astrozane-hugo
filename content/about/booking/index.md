@@ -11,7 +11,7 @@ description: "Private, expert-guided star parties and telescope viewing in Tucso
 
 Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group — whether that's a birthday, a corporate outing, a private gathering, or simply a night out under the stars.
 
-I bring excellent telescopes, along with a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
+I bring excellent telescopes, along with a PVS-14 night vision device that pulls crisp views of nebulae out of the sky even when conditions aren't ideal.
 
 **Now booking private events for August, September, November, and December 2026.**
 

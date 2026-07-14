@@ -1,5 +1,6 @@
 ---
-title: "Resume — Zane Landers | Digital Marketing & Communications Specialist, Tucson AZ"
+title: "Resume"
+summary: "Digital marketing and communications specialist (M.S. Marketing, University of Arizona) with expertise in SEO, marketing automation, HubSpot, and technical content strategy. Experience at Universal Avionics, NSF NOIRLab, EUEC, Live Science, and TelescopicWatch."
 layout: "single"
 url: "/about/resume/"
 aliases: ["/resume/"]
@@ -11,7 +12,7 @@ description: "Resume of Zane Landers, a Tucson-based digital marketing and commu
 **Digital Marketing & Communications Specialist | Content Strategist | M.S. Marketing**
 Tucson, Arizona · [LinkedIn](https://linkedin.com/in/astrozane) · [Contact](https://astrozane.com/links/contact/)
 
-Results-driven digital marketing and communications specialist with expertise in SEO, marketing automation, and technical content. I've driven 300%+ web traffic growth through SEO, generated 1,000+ event registrations through automated email and ad campaigns, and have written professionally about telescopes and astronomy since 2018 — including for [TelescopicWatch](https://telescopicwatch.com) and Live Science. I specialize in translating complex technical subjects (aerospace, optics, astronomy, AI) into content that ranks, converts, and builds trust.
+Results-driven digital marketing and communications specialist with expertise in SEO, marketing automation, and technical content. I've driven 300%+ web traffic growth through SEO, generated 1,000+ event registrations through automated email and ad campaigns, and have produced professional technical content since 2018, including for [TelescopicWatch](https://telescopicwatch.com) and Live Science. I specialize in translating complex technical subjects — aerospace, AI, SaaS, optics, and consumer technology — into content that ranks, converts, and builds trust.
 
 ## Work History
 
@@ -91,7 +92,7 @@ HubSpot Inbound Marketing (2025) · HubSpot Content Marketing (2025) · Google A
 - Volunteer — Huachuca Astronomy Club / Patterson Observatory (2022–Present)
 - Volunteer — Tucson Amateur Astronomy Association (2022–Present)
 - Board of Directors — Fairfield County Astronomical Society / Stamford Observatory, Stamford, CT (2017–2020)
-- Volunteer — Westport Astronomical Society/Westport Observatory (2016–2021) and Westchester Amateur Astronomers (2019–2021)
+- Volunteer — Westport Astronomical Society (2016–2021) and Westchester Amateur Astronomers (2019–2021)
 
 I also regularly run [independent astronomy outreach events](https://astrozane.com/astronomy/astronomyoutreach/) around Tucson.
 

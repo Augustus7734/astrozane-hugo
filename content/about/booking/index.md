@@ -58,3 +58,45 @@ Beyond star parties, I also help with telescope repair and setup. Whether your s
 Shopping for a telescope or accessories? I'd recommend starting at [telescopicwatch.com](https://telescopicwatch.com) for reviews and buying guides, then reaching out if you'd like a second opinion.
 
 [Contact me](https://astrozane.com/links/contact) to book a session or ask a question.
+
+---
+title: "Star Party FAQ"
+layout: "single"
+url: "/about/booking/faq/"
+description: "Answers to common questions about booking a private star party in Tucson and Southern Arizona — weather policy, what you'll see, group sizes, kids, locations, and more."
+summary: "Everything you need to know before booking a star party: what you'll see through the telescope, how weather is handled, whether kids can participate, where events can be held, and how far in advance to book."
+---
+
+## Star Party FAQ
+
+### What will we actually see?
+
+It depends on the Moon, the season, and your location, but a typical session includes some mix of: the Moon in crater-by-crater detail, planets (Saturn's rings and Jupiter's moons are perennial crowd favorites), colorful double stars, star clusters, and — from darker locations — galaxies and nebulae. With my night vision device, nebulae are visible in real time with an amount of detail that surprises even experienced observers. I plan each session around what's best placed in the sky on your date.
+
+### What if we mainly want to see the Moon and planets?
+
+Then a shorter session is your best value — an hour is plenty, and it doesn't need to be dark-sky conditions. The Moon and planets are bright enough to look spectacular from a backyard in the middle of Tucson. Save the longer, darker-location sessions for when you want galaxies and nebulae.
+
+### What happens if it's cloudy?
+
+Southern Arizona is one of the most reliably clear places in the country, which is why professional observatories cluster here — weather cancellations are far less common than most people expect. If clouds do threaten your date, we'll reschedule at no charge. I watch the forecast closely in the days leading up to every event and will keep you informed.
+
+### Where do star parties happen?
+
+Wherever works for you: your backyard, a park, a resort, a business, or a wedding venue. For deep-sky viewing I can recommend darker locations around Tucson, and I'm willing to travel well outside the metro area for an additional cost.
+
+### Is this good for kids?
+
+Absolutely — kids are often the most enthusiastic observers of the night. Everything is hands-on and screen-free, and I adjust the pacing and explanations to the audience. Star parties work well for birthday parties, scout groups, and school events.
+
+### How many people can attend?
+
+My standard pricing covers groups of 20 or fewer. Larger groups are welcome — [contact me](https://astrozane.com/links/contact/) to discuss logistics and pricing, since bigger crowds benefit from longer sessions so everyone gets solid eyepiece time.
+
+### How far in advance should I book?
+
+Earlier is better, especially for weekend dates — and note that the Moon phase matters for deep-sky viewing, so if you want galaxies and nebulae, booking around the new Moon is ideal. I can advise on the best dates for your month when you reach out. I'm currently booking for August, September, November, and December 2026.
+
+### Do you provide the telescopes?
+
+Yes — I bring everything: telescopes, eyepieces, night vision equipment, and the expertise to run it all. You don't need to own or know anything about telescopes. If you *do* own a telescope and want to learn to use it, I offer help and repair services too.

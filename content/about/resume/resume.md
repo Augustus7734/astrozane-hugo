@@ -1,116 +1,113 @@
 ---
-title: "Resume"
+title: "Resume — Zane Landers | Digital Marketing & Communications Specialist, Tucson AZ"
 layout: "single"
 url: "/about/resume/"
+aliases: ["/resume/"]
+description: "Resume of Zane Landers, a Tucson-based digital marketing and communications specialist (M.S. Marketing, University of Arizona) and science writer for TelescopicWatch and Live Science, with experience at Universal Avionics, NSF NOIRLab, EUEC, and Farpoint Astro."
 ---
 
-Results-driven Marketing Specialist with 8 years of experience in digital marketing, content strategy, and science communication with focus on aerospace and technology sectors. Proven track record increasing web traffic by 300%+ through SEO optimization and driving 1000+ event registrations through targeted email campaigns. Expertise in B2B/B2C marketing, data-driven decision making, web ads, and cross-functional collaboration with technical teams. Master's degree in Marketing with specialized knowledge in aviation, aerospace, SAAS, AI, and emerging technologies.
+# Zane Landers
 
-## **Work History**
+**Digital Marketing & Communications Specialist | Content Strategist | M.S. Marketing**
+Tucson, Arizona · [LinkedIn](https://linkedin.com/in/astrozane) · [Contact](https://astrozane.com/links/contact/)
 
-**Marketing Consultant | 2025-Present**  
-Energy, Utility, & Environment Conference (EUEC), Tucson, AZ 
-● Drive digital marketing strategy that attracted 500+ registrants to virtual conference, exceeding attendance goals by 35%
-● Manage HubSpot CRM and marketing automation workflows, optimizing email campaigns that achieved 28% open rate and 8% click-through rate (above industry average)
-● Coordinate speaker recruitment and management for 40+ industry experts across energy and utilities sectors
-● Develop lead generation programs through webinars and virtual workshops, generating 200+ qualified leads for exhibitors
-● Launch and maintain blog, newsletter (1,500+ subscribers), and webinar series to establish year-round engagement
-● Create sponsorship packages and marketing collateral that secured $50K+ in virtual exhibitor revenue
+Results-driven digital marketing and communications specialist with expertise in SEO, marketing automation, and technical content. I've driven 300%+ web traffic growth through SEO, generated 1,000+ event registrations through automated email and ad campaigns, and have written professionally about telescopes and astronomy since 2018 — including for [TelescopicWatch](https://telescopicwatch.com) and Live Science. I specialize in translating complex technical subjects (aerospace, optics, astronomy, AI) into content that ranks, converts, and builds trust.
 
-**Marketing Intern | Q2/Q3 2025**  
-Universal Avionics, Tucson, AZ 
-● Developed and executed social media strategy for aviation technology company, increasing engagement by 45% across LinkedIn, Instagram, and Twitter/X platforms
-● Created 50+ pieces of short-form and long-form content including blog posts, case studies, and video scripts to promote avionics systems to commercial and defense aviation markets
-● Collaborated with engineering teams to translate complex technical specifications into customer-focused marketing materials, improving sales team close rate by 20%
-● Conducted competitive analysis of 15+ aerospace companies to identify market positioning opportunities
-● Supported product launches for next-generation flight management systems targeting $2M+ revenue goals
+## Work History
 
-**Marketing Intern | Q1/Q2 2025**  
-EUEC, Tucson, AZ  
-● Attracting attendees using HubSpot to optimize email campaigns, social media efforts, and other digital strategies to drive attendee registrations.  
-● Promoting & coordinating speaker participation for the virtual conference.  
-● Crafting lead generation strategies through workshops and webinars, giving exhibitors the opportunity to showcase their products and services in an engaging virtual format.  
+**Marketing Consultant / Customer Service — [Farpoint Astro](https://farpointastro.com/)** | Remote | *March 2026 – Present, part-time*
 
-**Science Communications Intern | Q1/Q2 2022**  
-National Science Foundation NOIRLab, Tucson, AZ  
+- Identified manual e-commerce processes and implemented AI-assisted automation improvements, reducing operational overhead
+- Develop marketing strategies for telescope accessories and astrophotography hardware, including hands-on product testing of filters and focusers
+- Manage Shopify, WordPress, and Mailchimp platforms for content creation and digital campaigns
+- Identify and engage influencers to promote the brand through short- and long-form content
+- Provide customer service support, resolving complaints and order questions quickly and professionally
 
-● Promoted space science research through key communication initiatives.  
-● Updated Web pages and scheduled announcements of upcoming events.  
-● Assisted in stakeholder presentations and data dissemination.
+**Contributing Writer — Live Science** | Remote | *February 2026 – Present, freelance*
 
-**Lead Writer/Editor | 2018-Present**  
-iQuese Media (Freelance/part time)  
+- Write in-depth telescope and astronomy-gear reviews for a leading consumer science publication, grounded in hands-on field testing
+- Produce SEO-optimized buying guides and how-to articles for a broad general-science audience
+- Translate technical astronomy and astrophotography concepts into clear, engaging content on editorial deadlines
 
-● Review commercially manufactured telescopes targeted towards a range of astronomy enthusiasts.  
-● Maximize search engine optimization methods to generate first page search results on Google.  
+**Marketing Intern — [Universal Avionics](https://universalavionics.com/)** | Tucson, AZ | *April – September 2025, full-time*
 
-**Lead Writer/Editor | 2019-2023**  
-Optical Mechanics, Perth, Australia (Freelance/part time)  
+- Developed and executed social media strategy for an aviation technology company, increasing engagement 45% across LinkedIn, Instagram, and X using Google Analytics insights
+- Created 50+ pieces of content — technical manuals, blog posts, case studies, video scripts — promoting avionics systems to commercial and defense aviation markets
+- Collaborated with engineering teams to translate complex technical specifications into customer-focused materials, improving sales close rates by 20%
+- Conducted competitive analysis of 15+ aerospace companies supporting next-generation flight management system launches targeting $2M+ revenue
 
-● Write reviews of commercially manufactured telescopes targeted towards beginners and experienced astronomy enthusiasts.  
-● Hire new writers, and engage with manufacturers and vendors about their products.  
+**Marketing Consultant — [EUEC Conference](https://euec.com)** | Tucson, AZ | *January – December 2025, part-time*
 
-**Entrepreneur | March 2017 – Present** 
-AstroZane.com/eBay, (Self-employed)
+- Drove digital marketing strategy that attracted 500+ registrants to a virtual conference, exceeding attendance goals by 35%
+- Managed HubSpot CRM and automation workflows, achieving above-industry-average email performance
+- Coordinated speaker recruitment for 40+ industry experts and developed lead-generation webinars producing 200+ qualified leads for exhibitors
+- Created sponsorship packages and collateral that secured $50K+ in virtual exhibitor revenue
 
-● Founded and manage multi-platform e-commerce business specializing in telescopes and astronomical equipment
-● Process 300+ annual transactions totaling $50K+ in revenue through eBay, proprietary website, and marketplace channels
-● Maintain 97% positive seller rating through exceptional customer service and quality assurance
-● Perform optical diagnosis and minor to major repairs on precision equipment valued up to $5,000 per unit
-● Arrange party events for clients with astronomical telescopes and entertainment
-● Perform in-person sales, acquisitions, negotiations of high-value items
+**Science Communications Intern — [NSF NOIRLab](https://noirlab.edu/public/)** | Tucson, AZ | *January – June 2022, full-time*
 
-## **Skills**
-● Writer/editor with extensive knowledge of classical and modern history/geopolitics, aerospace, optics, astronomy, and other science/engineering topics  
-● Code: HTML/CSS, Python, Visual Studio  
-● Webdev: WordPress, HubSpot, Wix, Hugo (this site was made using Hugo)  
-● Ads: Meta, Google, TikTok  
-● Social media: Moderator for Reddit/Discord communities, [over 3,000 Instagram followers](https://www.instagram.com/astro_zane/)  
-● Office: MS Office Suite and G-Suite (I am particularly good with sheets/Excel)  
-● CRM tools: HubSpot, SalesForce, Tableau  
-● AI prompting and coding: I mostly use GPT, Claude, and DeepSeek personally  
-● Hardware: Extensive experience with working with precision small parts such as optics, PC parts  
-● Fabrication: Trained in stick and MIG welding, cabinetry/woodworking  
-● Familiar with tech topics such as GDPR and other regulatory aspects
-● Marketing Platforms: HubSpot, Marketo, Salesforce, Google Analytics, Google Ads, Meta Business Suite, Hootsuite, Mailchimp, Cvent, ZoomInfo
-● Design & Content: WordPress, Wix, Adobe Creative Suite, Canva, SharePoint, Microsoft Office 365, Google Workspace
-● Data & Analysis: Tableau, SPSS, Qualtrics, Excel (Advanced including VBA), Power BI, SQL (basic)
-● AI & Emerging Tech: ChatGPT, Claude, Grok, Microsoft Copilot, Prompt Engineering, AI-assisted content creation
-● E-commerce & CRM: eBay Seller Hub, Shopify, WooCommerce, CRM systems, CloudResearch
-Code: Python, JavaScript, HTML proficient (I made this website)
-● Other: CAD software, 3D printing, packing/shipping, project management tools (Asana, Monday.com)
+- Supported public outreach for international astronomy research programs with $40M+ annual budgets
+- Updated and maintained 30+ web pages in WordPress, improving navigation and user experience
+- Coordinated promotion of 12+ virtual public events and press announcements reaching 10,000+ stakeholders
+- Collaborated with research teams across six countries to disseminate scientific findings
 
+**Lead Writer & Editor — [TelescopicWatch](https://telescopicwatch.com) (iQuese Media)** | Remote | *August 2018 – Present, freelance*
 
-## **Volunteering**
+- Produce telescope reviews and buying guides for a top-ranked astronomy platform with 1.75M monthly impressions, consistently earning page-one Google rankings for high-intent keywords
+- Helped grow the site to 30,000+ monthly visitors with a 2.5-minute average session duration
+- Collaborate with manufacturers on authentic, data-driven content that drives affiliate revenue
+- Mentor junior writers and enforce brand voice and editorial standards
 
-In addition to working with the groups below, [I regularly do astronomy outreach events on my own](https://astrozane.com/astronomy/astronomyoutreach/).
+**E-commerce & Events Business Owner — AstroZane.com / eBay** | Self-employed | *March 2017 – Present*
 
-● **Board of Directors - DarkSky Southern Arizona, Tucson, AZ, 2022-Present**  
-● Board of Directors - Reach for the Stars Non-Profit, Tucson, AZ, 2022-23    
-● **Volunteer for the Huachuca Astronomy Club 2022-Present**      
-● **Volunteer for the Tucson Amateur Astronomy Association 2022-Present**    
-● Volunteered for the Westchester Amateur Astronomers 2019-2021
-● Board of Directors - Fairfield County Astronomical Society, Stamford CT, 2018-2020
-● Volunteered for the Westport Astronomical Society 2016-2021  
-● Volunteered for the Fairfield County Astronomical Society (defunct) 2017-2020  
+- Founded and manage a multi-platform e-commerce business specializing in telescopes and astronomical equipment
+- Process 300+ annual transactions totaling $50K+ in revenue with a 100% positive seller rating
+- Plan, promote, and host [paid stargazing events](https://astrozane.com/about/booking/) at the Mount Lemmon Lodge and other venues, plus private star parties for clients
+- Perform optical diagnosis and precision repairs on equipment valued up to $5,000 per unit
 
-## **Education**
+## Education
 
-● Master of Science in Marketing, University of Arizona 2025  
-● Bachelor of Arts in Communications, University of Connecticut 2022
+- **Master of Science in Marketing** — University of Arizona, Tucson, AZ (2025)
+- **Bachelor of Arts in Communications** — University of Connecticut, Storrs, CT (2022)
 
-## **Articles**
+## Certifications
 
-● A New Generation Picks Up the Torch - Sky & Telescope, 2018  
-● [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) - TIME, 2018  
-● [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) - National Geographic, 2018  
-● [Bringing astronomy to Tucson streets: How this 19-year-old is sharing his love for space](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) - Tucson.com, 2022  
+HubSpot Inbound Marketing (2025) · HubSpot Content Marketing (2025) · Google Analytics Individual Qualification, GAIQ (2024) · Google Ads Search (2024) · Meta Certified Digital Marketing Associate (2024) · CITI Program Research Ethics (2022)
 
-## **Presentations**
+## Skills
 
-● [On The Shoulders of Giants - 2022 Portland XV Alt Az Workshop Presentation](https://www.youtube.com/watch?v=qvIA89RlEvE)  
-● [A New Generation of Dobsonians - Huachuca Astronomy Club Presentation](https://www.youtube.com/watch?v=wke4turTjWw)  
-● [A New Generation of Dobsonians - Okie-Tex 2022 Presentation](https://www.youtube.com/watch?v=REPh57ASyS4)  
-● [A Thin Mirror 14.7" RFT & Other Projects - Portland XIII Alt Az Workshop Presentation](https://www.youtube.com/watch?v=1_PflwLDL8k)  
-● The Next Generation of Amateur Telescope Making - AstroAssembly 2019  
-● Adventures & Techniques In Spray Silvering & Sub-F/4 Mirrors - Portland XII Alt-Az Workshop  
+- **Marketing platforms:** HubSpot, Marketo, Salesforce, Google Analytics, Google Ads, Meta Ads Manager, SEMrush
+- **Design & content:** WordPress, Hugo (I built this site), Adobe Creative Suite, Figma, Google Workspace, Microsoft Office 365
+- **Data & analysis:** Tableau, Excel (advanced, including VBA), Power BI, Looker Studio, SQL (basic), A/B testing
+- **AI & emerging tech:** ChatGPT, Claude, Grok, Microsoft Copilot, prompt engineering, AI-assisted automation
+- **E-commerce & CRM:** Shopify, WooCommerce, Klaviyo, eBay Seller Hub
+- **Code:** Python, JavaScript, HTML/CSS — scripting and automation
+- **Community & social:** Moderator of Reddit and Discord astronomy communities; [3,000+ Instagram followers](https://www.instagram.com/astro_zane/)
+- **Hands-on:** Precision optics, 3D printing, CAD, stick/MIG welding, woodworking
+
+## Volunteering & Nonprofit
+
+- **Board of Directors — [DarkSky Southern Arizona](https://darkskysoaz.org/)**, Tucson, AZ (2023–Present)
+- Board of Directors — Reach For The Stars Arizona (2022–2023)
+- Volunteer — Huachuca Astronomy Club / Patterson Observatory (2022–Present)
+- Volunteer — Tucson Amateur Astronomy Association (2022–Present)
+- Board of Directors — Fairfield County Astronomical Society / Stamford Observatory, Stamford, CT (2017–2020)
+- Volunteer — Westport Astronomical Society/Westport Observatory (2016–2021) and Westchester Amateur Astronomers (2019–2021)
+
+I also regularly run [independent astronomy outreach events](https://astrozane.com/astronomy/astronomyoutreach/) around Tucson.
+
+## Press & Media Features
+
+My astronomy and telescope-making work has been covered by national media:
+
+- [These Amateur Astronomers Found Dark Sky Paradise on a Tiny Vermont Hill](https://time.com/longform/amateur-astronomers-stargazing-photos/) — TIME, 2018
+- [Why these people build telescopes from scratch](https://www.nationalgeographic.com/science/article/telescope-festival) — National Geographic, 2018
+- A New Generation Picks Up the Torch — Sky & Telescope, 2018
+- [Bringing astronomy to Tucson streets](https://tucson.com/article_71f39754-bad3-11ec-aa9b-9bb23a1063c4.html) — Arizona Daily Star / Tucson.com, 2022
+
+## Presentations
+
+- [On The Shoulders of Giants](https://www.youtube.com/watch?v=qvIA89RlEvE) — Portland Alt-Az Workshop XV, 2022
+- [A New Generation of Dobsonians](https://www.youtube.com/watch?v=REPh57ASyS4) — Okie-Tex Star Party, 2022 ([also presented to the Huachuca Astronomy Club](https://www.youtube.com/watch?v=wke4turTjWw))
+- [A Thin Mirror 14.7" RFT & Other Projects](https://www.youtube.com/watch?v=1_PflwLDL8k) — Portland Alt-Az Workshop XIII
+- The Next Generation of Amateur Telescope Making — AstroAssembly, 2019
+- Adventures & Techniques in Spray Silvering & Sub-f/4 Mirrors — Portland Alt-Az Workshop XII

@@ -2,7 +2,7 @@
 title: "Book A Star Party"
 layout: "single"
 url: "/about/booking/"
-description: "Private, expert-guided star parties and telescope viewing in Tucson and across Southern Arizona — plus Saturday stargazing at the Mount Lemmon Lodge."
+description: "Private, expert-guided star parties and telescope viewing in Tucson and across Southern Arizona."
 ---
 
 # Star Party Bookings
@@ -44,9 +44,24 @@ I'm also happy to travel for events outside the Tucson metro area for an additio
 
 ## Stargazing at Mount Lemmon Lodge
 
-On select Saturday evenings, I host stargazing events at the [Mount Lemmon Lodge](https://mountlemmonlodge.com/), high in the Santa Catalina Mountains above Tucson. Up there the air is thin, the horizon is high, and the sky is genuinely dark — a completely different experience from observing down in the city.
+On select Saturday evenings, I host stargazing events at the [Mount Lemmon Lodge](https://mountlemmonlodge.com/), high in the Santa Catalina Mountains above Tucson. Up there the air is thinner, the seeing is spectacularly good, and the sky is quite dark — a completely different experience from observing down in the city.
 
 If you're staying at the Lodge, it's a perfect way to spend an evening under a truly dark sky with telescopes and a guide on hand. Check the Lodge's [event calendar](https://mountlemmonlodge.com/mount-lemmon-event-calender/) for upcoming star party dates.
+
+---
+
+## The Telescopes
+
+The main telescopes I typically use are:
+
+- **6" f/4.3 Newtonian** — Very wide field of view for night vision or star clusters, also great on the Moon and planets. Mirror handmade by me.
+- **Celestron C8** — Ideal for the Moon/planets and short sessions - very sharp optics and motorized tracking.
+- **14.7" f/2.9 Dobsonian** — Homemade structure and other parts by me, great for deep-sky views, especially with night vision. Has motorized tracking too.
+- **22" f/4.3 Obsession Ultra-Compact** - Ideal for dark skies and viewing galaxies, globular clusters etc. close up.
+
+In addition, I bring a PVS-14 night vision device to all my events, which can be used at 1x/3x without a telescope as well as coupled to my telescopes with a hydrogen-alpha filter.
+
+You'll also get to try out some of my finest astronomy binoculars, which are great for viewing the Milky Way and large star clusters, especially from a comfortable seat.
 
 ---
 

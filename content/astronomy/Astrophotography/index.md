@@ -109,18 +109,12 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< ssslide img="images/dwarfminisun342026.jpeg" title="The Sun" telescope="Dwarf Mini" camera="Built-in" date="March 4, 2026" location="Tucson, AZ" >}}
 {{< /carousel >}}
 
-### Moon
+### The Moon
 
 {{< carousel id="moon" >}}
 {{< ssslide img="images/takmoon6819.jpg" title="The Moon" telescope="Takahashi FC-76" camera="Canon T3i" date="June 8, 2019" location="Stamford, CT" >}}
 {{< ssslide img="images/DwarfMini 332026EclipseMosaic.jpg" title="Total Lunar Eclipse Mosaic" telescope="Dwarf Mini" camera="Built-in" date="March 3, 2026" location="Tucson, AZ" >}}
 {{< ssslide img="images/c90besttotal.jpg" title="Total Lunar Eclipse" telescope="Celestron C90" camera="Canon T3i" date="January 20, 2019" location="Stamford, CT" >}}
-{{< /carousel >}}
-
-### Jupiter
-
-{{< carousel id="jupiter" >}}
-{{< ssslide img="images/c8jupitermay2326.jpg" title="Jupiter" telescope="Celestron C8" camera="Player One Uranus-C Pro" date="May 23, 2026" location="Mount Lemmon, AZ" >}}
 {{< /carousel >}}
 
 ### Dwarf Planets
@@ -141,6 +135,6 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< carousel id="landscapes" >}}
 {{< lslide img="images/Better22s.jpg" title="Nightscape - Oracle State Park" camera="Nikon D5300" lens="Rokinon 14mm f/2.8" location="Oracle State Park, AZ" >}}
 {{< lslide img="images/ZLIronwoodVenusV1.jpg" title="Venus over Ironwood Forest National Monument" camera="Seestar S30 Pro (wide-angle sensor)" location="Ironwood Forest National Monument, AZ" >}}
-{{< lslide img="images/baboquivaritrails.jpg" title="Star Trails over Baboquivari Peak" camera="Seestar S30 Pro (wide-angle sensor)" location="Buenos Aires NWR, AZ" >}}
+{{< lslide img="images/baboquivaritrails.jpeg" title="Star Trails over Baboquivari Peak" camera="Seestar S30 Pro (wide-angle sensor)" location="Buenos Aires NWR, AZ" >}}
 {{< lslide img="images/ZL S30TrailsBearCanyon.jpg" title="Star Trails - Bear Canyon" camera="Seestar S30 Pro (wide-angle sensor)" location="Coronado National Forest, AZ" >}}
 {{< /carousel >}}

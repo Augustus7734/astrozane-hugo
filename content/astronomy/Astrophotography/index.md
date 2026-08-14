@@ -103,12 +103,6 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 
 ## Solar System
 
-### Sun
-
-{{< carousel id="sun" >}}
-{{< ssslide img="images/dwarfminisun342026.jpeg" title="The Sun" telescope="Dwarf Mini" camera="Built-in" date="March 4, 2026" location="Tucson, AZ" >}}
-{{< /carousel >}}
-
 ### The Moon
 
 {{< carousel id="moon" >}}

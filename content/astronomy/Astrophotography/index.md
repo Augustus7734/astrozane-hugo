@@ -33,17 +33,17 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZLNANeb.jpg" title="NGC 7000 - North America Nebula (Cygnus Wall)" integration="600" location="Chiricahua Sky Village, AZ" >}}
 {{< slide img="images/ZLWizardV4.jpg" title="NGC 7380 - Wizard Nebula in Cepheus" integration="210" >}}
 {{< slide img="images/ZL78223.jpg" title="NGC 7822 - Emission Nebula in Cepheus" integration="870" sublength="15s" >}}
-{{< slide img="images/ZLSeeStarM8M201h40minV2r.jpg" title="M8 & M20 - Lagoon & Trifid Nebulae in Sagittarius" telescope="Seestar S30 Pro" sublength="30s" integration="100" location="Chiricahua Mountains, AZ" >}}
-{{< slide img="images/ZLS30ProNGC70002h47minV1.jpg" title="NGC 7000 - North America Nebula (S30 Pro)" telescope="Seestar S30 Pro" sublength="30s" integration="167" location="Mt Graham, AZ" >}}
-{{< slide img="images/ZLRhoOph1hV2.jpg" title="Rho Ophiuchi Cloud Complex" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
-{{< slide img="images/ZLCaliforniaDwarf17hV3.jpg" title="NGC 1499 - California Nebula in Perseus" telescope="Dwarf Mini" sublength="60s" integration="1020" >}}
-{{< slide img="images/ZLFlamingStar3hV1.jpg" title="IC 405 - Flaming Star Nebula in Auriga" telescope="Dwarf Mini" sublength="60s" integration="180" location="Southern Arizona" skyquality="Bortle 2" >}}
+{{< slide img="images/ZL SeeStar M8 M20 1h 40min V2r.jpg" title="M8 & M20 - Lagoon & Trifid Nebulae in Sagittarius" telescope="Seestar S30 Pro" sublength="30s" integration="100" location="Chiricahua Mountains, AZ" >}}
+{{< slide img="images/ZL S30 Pro NGC 7000 2h 47min V1.jpg" title="NGC 7000 - North America Nebula (S30 Pro)" telescope="Seestar S30 Pro" sublength="30s" integration="167" location="Mt Graham, AZ" >}}
+{{< slide img="images/ZL RhoOph 1h V2.jpg" title="Rho Ophiuchi Cloud Complex" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
+{{< slide img="images/ZL California Dwarf 17h V3.jpg" title="NGC 1499 - California Nebula in Perseus" telescope="Dwarf Mini" sublength="60s" integration="1020" >}}
+{{< slide img="images/ZL Flaming Star 3h V1.jpg" title="IC 405 - Flaming Star Nebula in Auriga" telescope="Dwarf Mini" sublength="60s" integration="180" location="Southern Arizona" skyquality="Bortle 2" >}}
 {{< /carousel >}}
 
 ## Globular Clusters
 
 {{< carousel id="globular-clusters" >}}
-{{< slide img="images/ZLS30ProOmegaCen75minsV2.jpg" title="Omega Centauri (NGC 5139) - Globular Cluster in Centaurus" telescope="Seestar S30 Pro" sublength="10s" integration="75" location="Mt Graham, AZ" >}}
+{{< slide img="images/ZL S30 Pro Omega Cen 75mins V2.jpg" title="Omega Centauri (NGC 5139) - Globular Cluster in Centaurus" telescope="Seestar S30 Pro" sublength="10s" integration="75" location="Mt Graham, AZ" >}}
 {{< /carousel >}}
 
 ## Wolf-Rayet Shell Nebulae
@@ -83,11 +83,11 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZL253V4.jpg" title="NGC 253 - Sculptor Galaxy" integration="180" location="Chiricahua Mountains, AZ" >}}
 {{< slide img="images/ZLFireworksOkietex.jpg" title="NGC 6946 - Fireworks Galaxy in Cepheus" integration="720" sublength="20s" location="Okie-Tex Star Party" >}}
 {{< slide img="images/ZLDeerlickSupernova.jpg" title="NGC 7331 - Deer Lick Group in Pegasus (Supernova SN2025rbs visible)" integration="345" >}}
-{{< slide img="images/ZLS30NGC26711hV1.jpg" title="NGC 2671 - Galaxy in Puppis" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
-{{< slide img="images/ZLS30ProM10442minsV1.jpg" title="M104 - Sombrero Galaxy in Virgo" telescope="Seestar S30 Pro" sublength="30s" integration="42" location="Whipple Obs, AZ" >}}
-{{< slide img="images/ZLNGC423617h20minS30V1.jpg" title="NGC 4236 - Barred Spiral Galaxy in Draco" telescope="Seestar S30 Pro" sublength="20s" integration="1040" >}}
-{{< slide img="images/ZLS30ProCenA1h5minV1.jpg" title="Centaurus A (NGC 5128) - Galaxy in Centaurus" telescope="Seestar S30 Pro" sublength="30s" integration="65" location="Whipple Obs, AZ" >}}
-{{< slide img="images/ZLDwarfMini30hM101V1.jpg" title="M101 - Pinwheel Galaxy in Ursa Major" telescope="Dwarf Mini" sublength="60s & 120s" integration="1800" location="Various sites, AZ" skyquality="Bortle 1–5 (mixed sites)" >}}
+{{< slide img="images/ZL S30 NGC 2671 1h V1.jpg" title="NGC 2671 - Galaxy in Puppis" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
+{{< slide img="images/ZL S30 Pro M104 42mins V1.jpg" title="M104 - Sombrero Galaxy in Virgo" telescope="Seestar S30 Pro" sublength="30s" integration="42" location="Whipple Obs, AZ" >}}
+{{< slide img="images/ZL NGC 4236 17h 20min S30 V1.jpg" title="NGC 4236 - Barred Spiral Galaxy in Draco" telescope="Seestar S30 Pro" sublength="20s" integration="1040" >}}
+{{< slide img="images/ZL S30 Pro CenA 1h5min V1.jpg" title="Centaurus A (NGC 5128) - Galaxy in Centaurus" telescope="Seestar S30 Pro" sublength="30s" integration="65" location="Whipple Obs, AZ" >}}
+{{< slide img="images/ZL Dwarf Mini 30h M101 V1.jpg" title="M101 - Pinwheel Galaxy in Ursa Major" telescope="Dwarf Mini" sublength="60s & 120s" integration="1800" location="Various sites, AZ" skyquality="Bortle 1–5 (mixed sites)" >}}
 {{< /carousel >}}
 
 ## Open Star Clusters

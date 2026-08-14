@@ -8,11 +8,13 @@ draft: false
 
 Test
 
-All images below were taken with the stock Vaonis Vespera II unless otherwise noted. Filters used are noted where relevant; unless noted, images used a mix of dual-band and broadband filters or no filter at all depending on target and conditions.
+All deep sky images below were taken with the stock unless otherwise noted. Filters used are noted where relevant; unless noted, images used a mix of dual-band and broadband filters or no filter at all depending on target and conditions.
 
 Swipe or use the arrows to browse each category below. Click any image to open it full resolution in a new tab.
 
-## Emission & Reflection Nebulae
+## Deep Sky
+
+### Emission & Reflection Nebulae
 
 {{< carousel id="emission-nebulae" >}}
 {{< slide img="images/ZLCone.jpg" title="Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula" integration="1320" >}}
@@ -40,20 +42,14 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZL Flaming Star 3h V1.jpg" title="IC 405 - Flaming Star Nebula in Auriga" telescope="Dwarf Mini" sublength="60s" integration="180" location="Southern Arizona" skyquality="Bortle 2" >}}
 {{< /carousel >}}
 
-## Globular Clusters
-
-{{< carousel id="globular-clusters" >}}
-{{< slide img="images/ZL S30 Pro Omega Cen 75mins V2.jpg" title="Omega Centauri (NGC 5139) - Globular Cluster in Centaurus" telescope="Seestar S30 Pro" sublength="10s" integration="75" location="Mt Graham, AZ" >}}
-{{< /carousel >}}
-
-## Wolf-Rayet Shell Nebulae
+### Wolf-Rayet Shell Nebulae
 
 {{< carousel id="wolf-rayet-nebulae" >}}
 {{< slide img="images/ZLThorsHelmet10h50minV3.jpg" title="NGC 2359 - Thor's Helmet Nebula in Canis Major" integration="650" >}}
 {{< slide img="images/ZLCrescent.jpg" title="NGC 6888 - Crescent Nebula in Cygnus" integration="540" >}}
 {{< /carousel >}}
 
-## Supernova Remnants
+### Supernova Remnants
 
 {{< carousel id="supernova-remnants" >}}
 {{< slide img="images/ZLJellyfish3.jpg" title="IC 443 - Jellyfish Nebula in Gemini" integration="1400" sublength="15s & 10s" >}}
@@ -62,7 +58,7 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/VeilBinned.jpg" title="Mosaic - Veil Nebula in Cygnus" integration="1440" sublength="10s & 20s" location="Mt Graham, AZ" >}}
 {{< /carousel >}}
 
-## Planetary Nebulae
+### Planetary Nebulae
 
 {{< carousel id="planetary-nebulae" >}}
 {{< slide img="images/ZLM27133minsV2.jpg" title="M27 - Dumbbell Nebula in Vulpecula" integration="133" location="Mt Graham, AZ" >}}
@@ -71,7 +67,13 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZLHelix.jpg" title="NGC 7293 - Helix Nebula in Aquarius" integration="440" location="Okie-Tex Star Party" >}}
 {{< /carousel >}}
 
-## Galaxies
+### Globular Clusters
+
+{{< carousel id="globular-clusters" >}}
+{{< slide img="images/ZL S30 Pro Omega Cen 75mins V2.jpg" title="Omega Centauri (NGC 5139) - Globular Cluster in Centaurus" telescope="Seestar S30 Pro" sublength="10s" integration="75" location="Mt Graham, AZ" >}}
+{{< /carousel >}}
+
+### Galaxies
 
 {{< carousel id="galaxies" >}}
 {{< slide img="images/ZLIC10.jpg" title="IC 10 - Irregular Galaxy in Cassiopeia" integration="360" >}}
@@ -90,7 +92,7 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZL Dwarf Mini 30h M101 V1.jpg" title="M101 - Pinwheel Galaxy in Ursa Major" telescope="Dwarf Mini" sublength="60s & 120s" integration="1800" location="Various sites, AZ" skyquality="Bortle 1–5 (mixed sites)" >}}
 {{< /carousel >}}
 
-## Open Star Clusters
+### Open Star Clusters
 
 {{< carousel id="star-clusters" >}}
 {{< slide img="images/ZLM11WildDucks.jpg" title="M11 - Wild Duck Cluster in Scutum" integration="170" >}}
@@ -99,9 +101,46 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZL7789.jpg" title="NGC 7789 - Caroline's Rose Cluster in Cassiopeia" integration="480" >}}
 {{< /carousel >}}
 
-## Comets
+## Solar System
+
+### Sun
+
+{{< carousel id="sun" >}}
+{{< ssslide img="images/dwarfminisun342026.jpeg" title="The Sun" telescope="Dwarf Mini" camera="Built-in" date="March 4, 2026" location="Tucson, AZ" >}}
+{{< /carousel >}}
+
+### Moon
+
+{{< carousel id="moon" >}}
+{{< ssslide img="images/takmoon6819.jpg" title="The Moon" telescope="Takahashi FC-76" camera="Canon T3i" date="June 8, 2019" location="Stamford, CT" >}}
+{{< ssslide img="images/DwarfMini 332026EclipseMosaic.jpg" title="Total Lunar Eclipse Mosaic" telescope="Dwarf Mini" camera="Built-in" date="March 3, 2026" location="Tucson, AZ" >}}
+{{< ssslide img="images/c90besttotal.jpg" title="Total Lunar Eclipse" telescope="Celestron C90" camera="Canon T3i" date="January 20, 2019" location="Stamford, CT" >}}
+{{< /carousel >}}
+
+### Jupiter
+
+{{< carousel id="jupiter" >}}
+{{< ssslide img="images/c8jupitermay2326.jpg" title="Jupiter" telescope="Celestron C8" camera="Player One Uranus-C Pro" date="May 23, 2026" location="Mount Lemmon, AZ" >}}
+{{< /carousel >}}
+
+### Dwarf Planets
+
+{{< carousel id="dwarf-planets" >}}
+{{< ssslide img="images/Makemake3frames.jpg" title="136472 Makemake (3 frames over 20h, showing orbital motion)" telescope="Dwarf Mini (EQ mode)" camera="Built-in" date="March 25–27, 2026" location="Tucson, AZ" >}}
+{{< /carousel >}}
+
+### Comets
 
 {{< carousel id="comets" >}}
-{{< slide img="images/ZLSWAN1019.jpg" title="Comet SWAN - 10-19-25" integration="10" location="TAAA Chiricahua Astronomy Complex, AZ" >}}
-{{< slide img="images/ZLLemmon1027.jpg" title="Comet Lemmon - 10-27-25" integration="4" >}}
+{{< ssslide img="images/ZLSWAN1019.jpg" title="Comet SWAN" telescope="Vaonis Vespera II" camera="Built-in" date="October 19, 2025" location="TAAA Chiricahua Astronomy Complex, AZ" >}}
+{{< ssslide img="images/ZLLemmon1027.jpg" title="Comet Lemmon" telescope="Vaonis Vespera II" camera="Built-in" date="October 27, 2025" location="Tucson, AZ" >}}
+{{< /carousel >}}
+
+## Landscapes
+
+{{< carousel id="landscapes" >}}
+{{< lslide img="images/Better22s.jpg" title="Nightscape - Oracle State Park" camera="Nikon D5300" lens="Rokinon 14mm f/2.8" location="Oracle State Park, AZ" >}}
+{{< lslide img="images/ZLIronwoodVenusV1.jpg" title="Venus over Ironwood Forest National Monument" camera="Seestar S30 Pro (wide-angle sensor)" location="Ironwood Forest National Monument, AZ" >}}
+{{< lslide img="images/baboquivaritrails.jpg" title="Star Trails over Baboquivari Peak" camera="Seestar S30 Pro (wide-angle sensor)" location="Buenos Aires NWR, AZ" >}}
+{{< lslide img="images/ZL S30TrailsBearCanyon.jpg" title="Star Trails - Bear Canyon" camera="Seestar S30 Pro (wide-angle sensor)" location="Coronado National Forest, AZ" >}}
 {{< /carousel >}}

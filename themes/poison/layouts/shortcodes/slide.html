@@ -2,6 +2,14 @@
 {{ $sublength := .Get "sublength" | default "10s" }}
 {{ $location := .Get "location" | default "Tucson, AZ" }}
 {{ $locLower := lower $location }}
+{{ $sensor := .Get "sensor" }}
+{{ if not $sensor }}
+  {{ if in (lower $telescope) "dwarf" }}
+    {{ $sensor = "IMX662" }}
+  {{ else }}
+    {{ $sensor = "IMX585" }}
+  {{ end }}
+{{ end }}
 {{ $skyquality := .Get "skyquality" }}
 {{ if not $skyquality }}
   {{ if or (in $locLower "chiricahua") (in $locLower "rucker") (in $locLower "okie-tex") }}
@@ -22,6 +30,7 @@
     <h4>{{ .Get "title" }}</h4>
     <ul class="zl-carousel-meta">
       <li><strong>Telescope:</strong> {{ $telescope }}</li>
+      <li><strong>Sensor:</strong> {{ $sensor }}</li>
       <li><strong>Integration time:</strong> {{ .Get "integration" }} min</li>
       <li><strong>Sub length:</strong> {{ $sublength }}</li>
       <li><strong>Location:</strong> {{ $location }}</li>

@@ -1,7 +1,7 @@
 ---
 title: "Current Telescopes"
 layout: "single"
-url: "/astronomy/currentscopes"
+url: "/astronomy/telescopes"
 date: 2024-01-01
 ---
 

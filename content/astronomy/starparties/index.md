@@ -8,7 +8,7 @@ description: "Private, expert-guided star parties and telescope viewing serving 
 
 # Star Party Bookings
 
-![Star party dates and pricing for Mount Lemmon Lodge stargazing, Tucson AZ](static/images/lemmondates.jpg)
+![Star party dates and pricing for Mount Lemmon Lodge stargazing, Tucson AZ](images/lemmondates.jpg)
 
 Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group - whether that's a birthday, a corporate outing, your resort, a private gathering, or simply a night out under the stars.
 

@@ -11,7 +11,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand = "Zane Landers"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     brand_image = "/images/webprofilepic.jpg"    # path to the image shown in the sidebar
-    description = "Building telescopes, writing for TelescopicWatch and Live Science, and hosting star parties under Arizona's darkest skies." # Used as default meta description if not specified in front matter
+    description = "Building telescopes and hosting star parties under Arizona's darkest skies." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 

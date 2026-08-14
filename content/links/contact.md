@@ -8,6 +8,6 @@ url: "/links/contact/"
 - [LinkedIn](https://linkedin.com/in/astrozane)
 - [Instagram](https://instagram.com/astro_zane)
 - [YouTube Channel](https://www.youtube.com/@astro_zane)
-- [Email](mailto:zdlanders@gmail.com)
+- [Email](mailto:starparties@astrozane.com)
 - [Discord](https://discord.gg/astronomy)
 - Phone: 203-895-7426

@@ -8,20 +8,20 @@ description: "Private, expert-guided star parties and telescope viewing in Tucso
 
 # Star Party Bookings
 
-![A star party near Sabino Canyon in Tucson, with guests viewing through a telescope](images/spsabino.JPEG)
+![Ad copy for star party](images/lemmondates.jpeg)
 
 Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group — whether that's a birthday, a corporate outing, a private gathering, or simply a night out under the stars.
 
-I bring excellent telescopes, along with a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
+I bring my homemade 14.7" and 6" telescopes plus pairs of binoculars for guests, along with a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
 
-**Now booking private events for August, September, November, and December 2026.**
+**Now booking private events for November 2026 through May 2027.**
 
-## Why Book With Me?
+## Why Book a Star Party With Me?
 
 I've been sharing the night sky for over ten years, with experience through DarkSky Southern Arizona, Telescopicwatch, RFTS, and the Stamford Observatory. Here's what sets my events apart:
 
 - **A genuine, unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be.
-- **Plenty to see.** I'll guide you through a wide range of objects in a single night, so there's always something new to look at.
+- **Plenty to see.** I'll guide you through a wide range of objects in a single night, so there's always something new to look at. My telescopes and night vision device are powerful enough that there's always a lot to look at, even under sub-par conditions.
 - **Fun for all ages.** Whether your group is kids, adults, or a mix, the experience stays engaging and easy to enjoy — no background knowledge needed.
 - **Optional presentation.** I can add a short PowerPoint talk to set the scene before you head to the telescopes.
 - **Dependable skies.** Southern Arizona has some of the clearest, darkest skies in the country, which means far fewer weather cancellations than most places.
@@ -29,11 +29,11 @@ I've been sharing the night sky for over ten years, with experience through Dark
 
 ## Private Star Parties
 
-Approximate pricing for events local to Tucson, for small groups of 20 or fewer guests:
+Approximate pricing for events local to Tucson, for small groups of 25 or fewer guests:
 
-- **$180** — 1 hour
-- **$300** — 2 hours
-- **$450** — 3 hours
+- **$300** — 1 hour
+- **$450** — 2 hours
+- **$550** — 3 hours
 
 *These are base estimates. Final pricing depends on group size, location, and event specifics.* For larger groups or a custom experience, [get in touch](https://astrozane.com/links/contact) and we'll work out the details.
 

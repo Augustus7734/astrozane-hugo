@@ -1,5 +1,7 @@
 <div class="zl-carousel-slide">
-  <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" loading="lazy">
+  <a class="zl-carousel-imgwrap" href="{{ .Get "img" }}" target="_blank" rel="noopener">
+    <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" loading="lazy">
+  </a>
   <div class="zl-carousel-caption">
     <h4>{{ .Get "title" }}</h4>
     <p>{{ .Get "caption" }}</p>

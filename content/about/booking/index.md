@@ -8,7 +8,7 @@ description: "Private, expert-guided star parties and telescope viewing in Tucso
 
 # Star Party Bookings
 
-![Ad copy for star party](images/lemmondates.jpeg)
+![Ad copy for star party](images/lemmondates.jpg)
 
 Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group — whether that's a birthday, a corporate outing, a private gathering, or simply a night out under the stars.
 
@@ -31,9 +31,9 @@ I've been sharing the night sky for over ten years, with experience through Dark
 
 Approximate pricing for events local to Tucson, for small groups of 25 or fewer guests:
 
-- **$300** — 1 hour
-- **$450** — 2 hours
-- **$550** — 3 hours
+- **$250** — 1 hour
+- **$400** — 2 hours
+- **$500** — 3 hours
 
 *These are base estimates. Final pricing depends on group size, location, and event specifics.* For larger groups or a custom experience, [get in touch](https://astrozane.com/links/contact) and we'll work out the details.
 

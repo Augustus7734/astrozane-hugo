@@ -9,7 +9,7 @@ description: "Zane Landers is a digital marketing and communications specialist 
 
 I'm a digital marketing and communications specialist with an M.S. in Marketing from the University of Arizona. I build content and campaigns for technical industries: I've driven 300%+ organic traffic growth through SEO, generated 1,000+ event registrations through automated email and ad campaigns, and created marketing content for aerospace ([Universal Avionics](https://universalavionics.com/)), federal science research ([NSF NOIRLab](https://noirlab.edu/public/)), conferences ([EUEC](https://euec.com)), and e-commerce brands. My specialty is taking complex technical subjects and turning them into content that ranks, converts, and builds trust.
 
-**I'm currently open to full-time marketing and communications roles.** [View my resume →](https://astrozane.com/about/resume/) · [Contact me →](https://astrozane.com/links/contact/)
+**I'm currently open to full-time marketing and communications roles.** [Contact me →](https://astrozane.com/links/contact/)
 
 ---
 

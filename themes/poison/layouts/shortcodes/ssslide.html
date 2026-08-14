@@ -1,0 +1,14 @@
+<div class="zl-carousel-slide">
+  <a class="zl-carousel-imgwrap" href="{{ .Get "img" }}" target="_blank" rel="noopener">
+    <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" loading="lazy">
+  </a>
+  <div class="zl-carousel-caption">
+    <h4>{{ .Get "title" }}</h4>
+    <ul class="zl-carousel-meta">
+      <li><strong>Telescope:</strong> {{ .Get "telescope" | default "Vaonis Vespera II" }}</li>
+      <li><strong>Camera:</strong> {{ .Get "camera" | default "Built-in" }}</li>
+      <li><strong>Date:</strong> {{ .Get "date" | default "TBD" }}</li>
+      <li><strong>Location:</strong> {{ .Get "location" | default "Tucson, AZ" }}</li>
+    </ul>
+  </div>
+</div>

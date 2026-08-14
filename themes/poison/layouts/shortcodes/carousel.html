@@ -3,16 +3,26 @@
   <div class="zl-carousel-viewport">
     {{ .Inner }}
   </div>
-  <button class="zl-carousel-btn zl-carousel-prev" aria-label="Previous image" onclick="zlCarouselMove('{{ $id }}', -1)">&#10094;</button>
-  <button class="zl-carousel-btn zl-carousel-next" aria-label="Next image" onclick="zlCarouselMove('{{ $id }}', 1)">&#10095;</button>
-  <div class="zl-carousel-counter"><span class="zl-current">1</span> / <span class="zl-total"></span></div>
+  <button class="zl-carousel-btn zl-carousel-prev" aria-label="Previous image" onclick="zlCarouselMove(this.closest('.zl-carousel'), -1)">&#10094;</button>
+  <button class="zl-carousel-btn zl-carousel-next" aria-label="Next image" onclick="zlCarouselMove(this.closest('.zl-carousel'), 1)">&#10095;</button>
+  <div class="zl-carousel-counter"><span class="zl-current">1</span> / <span class="zl-total">1</span></div>
+  <script>
+  (function() {
+    var root = document.currentScript.closest('.zl-carousel');
+    if (!root) return;
+    var slides = root.querySelectorAll('.zl-carousel-slide');
+    var totalEl = root.querySelector('.zl-total');
+    if (totalEl) totalEl.textContent = slides.length;
+    if (slides.length) slides[0].classList.add('zl-active');
+  })();
+  </script>
 </div>
 
 <style>
 .zl-carousel { position: relative; margin: 1.5rem 0 2rem; }
 .zl-carousel-viewport { position: relative; width: 100%; }
 .zl-carousel-slide { display: none; flex-direction: column; }
-.zl-carousel-slide.active { display: flex; }
+.zl-carousel-slide.zl-active { display: flex; }
 .zl-carousel-imgwrap {
   display: flex;
   align-items: center;
@@ -31,8 +41,10 @@
   display: block;
 }
 .zl-carousel-caption { padding: 0.6rem 0.25rem 0; }
-.zl-carousel-caption h4 { margin: 0 0 0.25rem; font-size: 1rem; }
-.zl-carousel-caption p { margin: 0; font-size: 0.85rem; opacity: 0.75; }
+.zl-carousel-caption h4 { margin: 0 0 0.35rem; font-size: 1rem; }
+.zl-carousel-meta { list-style: none; margin: 0; padding: 0; font-size: 0.85rem; opacity: 0.85; }
+.zl-carousel-meta li { margin: 0.15rem 0; }
+.zl-carousel-meta strong { opacity: 1; }
 .zl-carousel-btn {
   position: absolute;
   top: 50%;
@@ -63,32 +75,20 @@
 </style>
 
 <script>
-function zlCarouselInit(id) {
-  var el = document.getElementById(id);
-  if (!el) return;
-  var slides = el.querySelectorAll('.zl-carousel-slide');
+function zlCarouselMove(root, dir) {
+  if (!root) return;
+  var slides = root.querySelectorAll('.zl-carousel-slide');
   if (!slides.length) return;
-  var hasActive = false;
-  slides.forEach(function(s) { if (s.classList.contains('active')) hasActive = true; });
-  if (!hasActive) slides[0].classList.add('active');
-  var total = el.querySelector('.zl-total');
-  if (total) total.textContent = slides.length;
-}
-function zlCarouselMove(id, dir) {
-  var el = document.getElementById(id);
-  var slides = el.querySelectorAll('.zl-carousel-slide');
   var current = 0;
-  slides.forEach(function(s, i) { if (s.classList.contains('active')) current = i; });
-  slides[current].classList.remove('active');
+  slides.forEach(function(s, i) { if (s.classList.contains('zl-active')) current = i; });
+  slides[current].classList.remove('zl-active');
   var next = (current + dir + slides.length) % slides.length;
-  slides[next].classList.add('active');
-  el.querySelector('.zl-current').textContent = next + 1;
+  slides[next].classList.add('zl-active');
+  var counter = root.querySelector('.zl-current');
+  if (counter) counter.textContent = next + 1;
 }
-if (!window.__zlCarouselInited) {
-  window.__zlCarouselInited = true;
-  document.addEventListener('DOMContentLoaded', function() {
-    document.querySelectorAll('.zl-carousel').forEach(function(el) { zlCarouselInit(el.id); });
-  });
+if (!window.__zlCarouselSwipeBound) {
+  window.__zlCarouselSwipeBound = true;
   document.addEventListener('touchstart', function(e) {
     var vp = e.target.closest('.zl-carousel-viewport');
     if (vp) vp.dataset.touchStartX = e.touches[0].clientX;
@@ -98,11 +98,9 @@ if (!window.__zlCarouselInited) {
     if (!vp || vp.dataset.touchStartX === undefined) return;
     var dx = e.changedTouches[0].clientX - parseFloat(vp.dataset.touchStartX);
     if (Math.abs(dx) > 40) {
-      zlCarouselMove(vp.closest('.zl-carousel').id, dx < 0 ? 1 : -1);
+      zlCarouselMove(vp.closest('.zl-carousel'), dx < 0 ? 1 : -1);
     }
     delete vp.dataset.touchStartX;
   }, { passive: true });
-} else {
-  document.querySelectorAll('.zl-carousel').forEach(function(el) { zlCarouselInit(el.id); });
 }
 </script>

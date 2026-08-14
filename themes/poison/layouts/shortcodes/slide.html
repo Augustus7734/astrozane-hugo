@@ -1,9 +1,31 @@
+{{ $telescope := .Get "telescope" | default "Vaonis Vespera II" }}
+{{ $sublength := .Get "sublength" | default "10s" }}
+{{ $location := .Get "location" | default "Tucson, AZ" }}
+{{ $locLower := lower $location }}
+{{ $skyquality := .Get "skyquality" }}
+{{ if not $skyquality }}
+  {{ if or (in $locLower "chiricahua") (in $locLower "rucker") (in $locLower "okie-tex") }}
+    {{ $skyquality = "Bortle 1" }}
+  {{ else if or (in $locLower "baboquivari") (in $locLower "mt graham") (in $locLower "mount graham") }}
+    {{ $skyquality = "Bortle 2" }}
+  {{ else if or (in $locLower "empire") (in $locLower "sonoita") (in $locLower "oracle") (in $locLower "whipple") }}
+    {{ $skyquality = "Bortle 3" }}
+  {{ else }}
+    {{ $skyquality = "Bortle 5" }}
+  {{ end }}
+{{ end }}
 <div class="zl-carousel-slide">
   <a class="zl-carousel-imgwrap" href="{{ .Get "img" }}" target="_blank" rel="noopener">
     <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" loading="lazy">
   </a>
   <div class="zl-carousel-caption">
     <h4>{{ .Get "title" }}</h4>
-    <p>{{ .Get "caption" }}</p>
+    <ul class="zl-carousel-meta">
+      <li><strong>Telescope:</strong> {{ $telescope }}</li>
+      <li><strong>Integration time:</strong> {{ .Get "integration" }} min</li>
+      <li><strong>Sub length:</strong> {{ $sublength }}</li>
+      <li><strong>Location:</strong> {{ $location }}</li>
+      <li><strong>Sky Quality:</strong> {{ $skyquality }}</li>
+    </ul>
   </div>
 </div>

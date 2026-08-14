@@ -1,14 +1,14 @@
 ---
-title: "Book A Star Party | Tucson & Southern Arizona"
+title: "Book A Star Party"
 summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for birthdays, corporate events, and gatherings — plus Saturday stargazing at the Mount Lemmon Lodge and telescope repair services. Now booking for late 2026."
 layout: "single"
-url: "/about/starparties/"
+url: "/astronomy/starparties/"
 description: "Private, expert-guided star parties and telescope viewing serving Tucson, Oro Valley, Phoenix, and Southern Arizona — plus Saturday stargazing at the Mount Lemmon Lodge."
 ---
 
 # Star Party Bookings
 
-![Star party dates and pricing for Mount Lemmon Lodge stargazing, Tucson AZ](images/lemmondates.jpg)
+![Star party dates and pricing for Mount Lemmon Lodge stargazing, Tucson AZ](static/images/lemmondates.jpg)
 
 Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group - whether that's a birthday, a corporate outing, your resort, a private gathering, or simply a night out under the stars.
 

@@ -22,8 +22,6 @@ While most of my events are in and around Tucson, I regularly travel throughout 
 
 ## Why Book a Star Party With Me?
 
-## Why Book a Star Party With Me?
-
 For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch, grinding the mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
 
 Here's what sets my events apart:

@@ -8,9 +8,16 @@ description: "Private, expert-guided star parties and telescope viewing serving 
 
 # Star Party Bookings
 
-![Star party dates and pricing for Mount Lemmon Lodge stargazing, Tucson AZ](images/lemmondates.jpg)
+{{< carousel id="starparty-promo" >}}
+{{< pslide img="/images/lemmondates.jpg" alt="Mount Lemmon Lodge star party dates and pricing, Tucson AZ" >}}
+{{< pslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
+{{< pslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
+{{< pslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
+{{< pslide img="/images/09-orion-all-season.jpg" alt="The Orion Nebula, a winter star party highlight in Southern Arizona" >}}
+{{< pslide img="/images/10-start-with-the-moon.jpg" alt="Craters and terminator shadows on the Moon seen through a telescope" >}}
+{{< /carousel >}}
 
-Experience the night sky like never before. Using my telescopes and years of hands-on observing, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group - whether that's a birthday, a corporate outing, your resort, a private gathering, or simply a night out under the stars.
+Experience the night sky like never before. Using my telescopes and years of hands-on experience, I can show you the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is tailored to your group - whether that's a birthday, a corporate outing, your resort, a private gathering, or simply a night out under the stars.
 
 I bring my homemade 14.7" and 6" telescopes plus pairs of binoculars for guests, along with a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
 

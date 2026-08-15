@@ -22,13 +22,17 @@ While most of my events are in and around Tucson, I regularly travel throughout 
 
 ## Why Book a Star Party With Me?
 
-I've been sharing the night sky for over ten years, with experience through DarkSky Southern Arizona, TelescopicWatch, RFTS, and the Stamford Observatory. Here's what sets my events apart:
+## Why Book a Star Party With Me?
 
-- **A genuine, unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be.
-- **Plenty to see.** I'll guide you through a wide range of objects in a single night, so there's always something new to look at. My telescopes and night vision device are powerful enough that there's always a lot to look at, even under sub-par conditions.
+For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch, grinding the mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
+
+Here's what sets my events apart:
+
+- **A genuine, unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be. When you're not looking through a telescope, I'll provide binoculars for you to explore the sky with while you wait.
+- **Plenty to see.** I'll guide you through a wide range of objects in a single night, and my hand-built telescopes and night vision device pull in detail even when conditions aren't perfect.
 - **Fun for all ages.** Whether your group is kids, adults, or a mix, the experience stays engaging and easy to enjoy — no background knowledge needed.
-- **Optional presentation.** I can add a short PowerPoint talk to set the scene before you head to the telescopes.
-- **Dependable skies.** Southern Arizona and the wider southwestern United States have some of the clearest, darkest skies in the country, which means far fewer weather cancellations than most places.
+- **Optional presentation.** I can add a short talk to set the scene before you head to the telescopes.
+- **Dependable skies.** Southern Arizona and the wider Southwest have some of the clearest, darkest skies in the country, which means far fewer weather cancellations than most places.
 - **Built around you.** I'll work with your venue, schedule, and preferences to shape the right event for your group.
 
 ## Pricing
@@ -41,7 +45,7 @@ Approximate pricing for events local to Tucson, for small groups of 20 or fewer 
 
 *These are base estimates. Final pricing depends on group size, location, and event specifics.* For larger groups, a custom experience, or an event outside the Tucson metro area, [get in touch](https://astrozane.com/links/contact) and we'll work out the details.
 
-**Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
+**Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 
 ---
 
@@ -67,21 +71,9 @@ Shopping for a telescope or accessories? I'd recommend starting at [telescopicwa
 
 It depends on the Moon, the season, and your location, but a typical session includes some mix of: the Moon in crater-by-crater detail, planets (Saturn's rings and Jupiter's moons are perennial crowd favorites), colorful double stars, star clusters, and — from darker locations — galaxies and nebulae. With my night vision device, nebulae are visible in real time with an amount of detail that surprises even experienced observers. I plan each session around what's best placed in the sky on your date.
 
-### What if we mainly want to see the Moon and planets?
+### Do you provide the telescopes?
 
-Then a shorter session is your best value — an hour is plenty, and it doesn't need to be dark-sky conditions. The Moon and planets are bright enough to look spectacular from a backyard in the middle of Tucson. Save the longer, darker-location sessions for when you want galaxies and nebulae.
-
-### What happens if it's cloudy?
-
-Southern Arizona is one of the most reliably clear places in the country, which is why professional observatories cluster here — weather cancellations are far less common than most people expect. If clouds do threaten your date, we'll reschedule at no charge. I watch the forecast closely in the days leading up to every event and will keep you informed.
-
-### Where do star parties happen?
-
-Wherever works for you: your backyard, a park, a resort, a business, or a wedding venue. For deep-sky viewing I can recommend darker locations around Tucson, and I'm willing to travel well outside the metro area for an additional cost.
-
-### How far are you willing to travel?
-
-I'm willing to travel anywhere around the Southwest — whether you're in Tucson, Oro Valley, Phoenix, Sierra Vista, San Diego, Las Cruces, or Flagstaff — contact me and we can work out logistics and pricing.
+Yes — I bring everything: telescopes, eyepieces, night vision equipment, and the expertise to run it all. You don't need to own or know anything about telescopes. Binoculars are nice to have on hand for guests if you own some, but I can provide a few pairs of my own. If you *do* own a telescope and want to learn to use it, I offer help and repair services too.
 
 ### Is this good for kids?
 
@@ -91,10 +83,27 @@ Absolutely — kids are often the most enthusiastic observers of the night. Ever
 
 My standard pricing covers groups of 20 or fewer. Larger groups are welcome — [contact me](https://astrozane.com/links/contact/) to discuss logistics and pricing, since bigger crowds benefit from longer sessions so everyone gets solid eyepiece time.
 
+### Where do star parties happen, and how far will you travel?
+
+Wherever works for you: your backyard, a park, a resort, a business, or a wedding venue. For deep-sky viewing I can recommend darker locations around Tucson, and I'm glad to travel well outside the metro area for an additional cost — Oro Valley, Phoenix, Sierra Vista, Flagstaff, Las Cruces, San Diego, and most anywhere else in the Southwest. Reach out and we'll work out logistics and pricing.
+
+### How long should our session be?
+
+If you mainly want the Moon and planets, an hour is plenty and it doesn't need to be dark-sky conditions — those targets are bright enough to look spectacular from a backyard in the middle of Tucson. Save the longer sessions at darker locations for when you want galaxies and nebulae.
+
+### What happens if it's cloudy?
+
+Southern Arizona is one of the most reliably clear places in the country, which is why professional observatories cluster here — weather cancellations are far less common than most people expect. If clouds do threaten your date, we'll reschedule at no charge. I watch the forecast closely in the days leading up to every event and will keep you informed.
+
 ### How far in advance should I book?
 
-Earlier is better, especially for weekend dates — and note that the Moon phase matters for deep-sky viewing, so if you want galaxies and nebulae, booking around the new Moon is ideal. I can advise on the best dates for your month when you reach out. I'm currently booking for November and December 2026 as well as January, February, March, April, and May 2027.
+Earlier is better, especially for weekend dates. The Moon phase also matters for deep-sky viewing, so if you want galaxies and nebulae, booking near the new Moon is ideal — I can advise on the best dates for your month when you reach out. I'm currently booking November 2026 through May 2027.
 
-### Do you provide the telescopes?
+### What should we bring?
 
-Yes — I bring everything: telescopes, eyepieces, night vision equipment, and the expertise to run it all. You don't need to own or know anything about telescopes. If you *do* own a telescope and want to learn to use it, I offer help and repair services too. Binoculars are also great to have on hand for guests if you own some, but I can provide a few pairs of my own.
+Not much — but a few things make the night better:
+
+- **Warm layers.** Desert nights get cold fast once the sun goes down, even in summer, and you'll be standing still for most of the session. Bring more than you think you need.
+- **Closed-toe shoes**, especially if we're heading somewhere dark and off-pavement.
+- **Binoculars, if you own a pair.** Even ordinary 8x42s or 10x50s show star clusters, the Milky Way, and craters on the Moon beautifully, and having your own means you're never waiting for a turn at the eyepiece. I bring a few pairs to share, but the more the better.
+- **Red light only.** Your eyes need about 20–30 minutes in darkness to reach full sensitivity, and a single glance at a white phone screen resets that for everyone nearby. Most phones can switch to a red display — on iPhone, set up a Red Filter shortcut under Accessibility; on Android, look for a night or red-screen filter in Display settings or a free red-light app. If you have a flashlight, red is best; otherwise I'll have red lights on hand and I'll ask that white lights stay off once we've started.

@@ -78,6 +78,8 @@ For over ten years I've been showing people the night sky — thousands of them,
 
 ## Night Vision: Nebulae in Real Time
 
+I use a PVS-14 night vision device to enhance views of nebulae in real time. We'll take a look at these and many other objects using regular eyepieces, too, but night vision reveals details that are often washed out by light pollution or even invisible to the unaided eye altogether.
+
 These clips were filmed with a phone held up to the night vision eyepiece on my 14.7" telescope. Nothing is stacked, stretched, or processed afterward — this is the live view, as it happens, and a phone camera only catches part of what your eye picks up at the eyepiece.
 
 {{< cliprow >}}

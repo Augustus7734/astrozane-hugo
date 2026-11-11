@@ -82,7 +82,7 @@ For over ten years I've been showing people the night sky — thousands of them,
 
 ## Night Vision: Nebulae in Real Time
 
-These clips were filmed with a phone held up to the night vision eyepiece on my 14.7" telescope. Nothing is stacked, stretched, or processed afterward — this is the live view, as it happens, and a phone camera only catches part of what your eye picks up at the eyepiece.
+I use a PVS-14 night vision device to enhance views of nebulae in real time. We'll take a look at these and many other objects using regular eyepieces, too, but night vision reveals details that are often washed out by light pollution or even invisible to the unaided eye altogether. These clips were filmed with a phone held up to the night vision eyepiece on my 14.7" telescope. Nothing is stacked, stretched, or processed afterward — this is the live view, as it happens, and a phone camera only catches part of what your eye picks up at the eyepiece.
 
 {{< cliprow >}}
 {{< timelapse src="/videos/night-vision-orion-nebula.mp4" poster="/images/night-vision-orion-nebula-poster.jpg" alt="The Orion Nebula seen live through a PVS-14 night vision device on a 14.7-inch telescope" caption="The Orion Nebula, live" >}}

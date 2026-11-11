@@ -19,16 +19,19 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ic-434-horsehead-flame-nebula-orion-seestar-s50-pro.jpg" title="IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="660" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZLHorseheadV6.jpg" title="IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion" integration="1065" sublength="10s & 5s" >}}
 {{< slide img="images/ZLRosette3.jpg" title="NGC 2237 - Rosette Nebula in Monoceros" integration="860" sublength="20s" >}}
-{{< slide img="images/ZLHeartV5.jpg" title="IC 1805/1795 - Heart Nebula in Cassiopeia" integration="2460" >}}
 {{< slide img="images/ic-1805-ic-1848-heart-soul-nebulae-mosaic-seestar-s50-pro.jpg" title="IC 1805 & IC 1848 - Heart & Soul Nebulae Mosaic in Cassiopeia (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="44" location="Okie-Tex Star Party" >}}
+{{< slide img="images/ZLHeartV5.jpg" title="IC 1805/1795 - Heart Nebula in Cassiopeia" integration="2460" >}}
 {{< slide img="images/ZLNANeb.jpg" title="NGC 7000 - North America Nebula (Cygnus Wall)" integration="600" location="Chiricahua Sky Village, AZ" >}}
 {{< slide img="images/ZL S30 Pro NGC 7000 2h 47min V1.jpg" title="NGC 7000 - North America Nebula (S30 Pro)" telescope="Seestar S30 Pro" sublength="30s" integration="167" location="Mt Graham, AZ" >}}
 {{< slide img="images/ZLM8.jpg" title="M8 - Lagoon Nebula in Sagittarius" integration="345" location="Sonoita, AZ" >}}
 {{< slide img="images/ZL SeeStar M8 M20 1h 40min V2r.jpg" title="M8 & M20 - Lagoon & Trifid Nebulae in Sagittarius" telescope="Seestar S30 Pro" sublength="30s" integration="100" location="Chiricahua Mountains, AZ" >}}
 {{< slide img="images/ZLSwanNebula.jpg" title="M17 - Swan Nebula in Sagittarius" integration="285" location="Sonoita, AZ" >}}
+{{< slide img="images/m16-m17-eagle-swan-nebulae-seestar-s30-pro.jpg" title="M16 & M17 - Eagle & Swan Nebulae Wide Field (Seestar S30 Pro)" telescope="Seestar S30 Pro" integration="15" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZL RhoOph 1h V2.jpg" title="Rho Ophiuchi Cloud Complex" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
 {{< slide img="images/ZL California Dwarf 17h V3.jpg" title="NGC 1499 - California Nebula in Perseus" telescope="Dwarf Mini" sublength="60s" integration="1020" >}}
+{{< slide img="images/ic-1318-butterfly-nebula-cygnus-vespera.jpg" title="IC 1318 - Butterfly Nebula (Sadr Region) in Cygnus" telescope="Vaonis Vespera II" integration="450" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZLTrunkNew.jpg" title="IC 1396 - Elephant Trunk Nebula in Cepheus" integration="1400" sublength="15s & 10s" >}}
+{{< slide img="images/ngc-6188-fighting-dragons-of-ara-seestar-s30-pro.jpg" title="NGC 6188 - Fighting Dragons of Ara (Seestar S30 Pro)" telescope="Seestar S30 Pro" integration="260" location="Mount Lemmon & Baboquivari, AZ" skyquality="Bortle 2–3" >}}
 {{< slide img="images/ZLCone.jpg" title="Cone Nebula, Christmas Tree Cluster & Hubble's Variable Nebula" integration="1320" >}}
 {{< slide img="images/ZLPacmanNebula.jpg" title="NGC 281 - Pacman Nebula in Cassiopeia" integration="660" >}}
 {{< slide img="images/ZLMonkeyHead7h30min.jpg" title="NGC 2174 - Monkey Head Nebula in Gemini" integration="450" >}}
@@ -41,6 +44,7 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZLWizardV4.jpg" title="NGC 7380 - Wizard Nebula in Cepheus" integration="210" >}}
 {{< slide img="images/ZLGhostofCassiopeia3h30minv3.jpg" title="IC 59 & IC 63 - Ghost of Cassiopeia" integration="210" location="Chiricahua Mountains, AZ" >}}
 {{< slide img="images/ZL78223.jpg" title="NGC 7822 - Emission Nebula in Cepheus" integration="870" sublength="15s" >}}
+{{< slide img="images/ZL S30 NGC 2671 1h V1.jpg" title="NGC 2671 - Emission Nebula in Puppis" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
 {{< slide img="images/sh2-261-lowers-nebula-orion-seestar-s50-pro.jpg" title="Sh2-261 - Lower's Nebula in Orion (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="325" location="Okie-Tex Star Party" >}}
 {{< /carousel >}}
 
@@ -78,12 +82,14 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 ### Galaxies
 
 {{< carousel id="galaxies" >}}
+{{< slide img="images/m31-andromeda-galaxy-seestar-s50-pro.jpg" title="M31 - Andromeda Galaxy with M32 & M110 (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="510" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZLM31V5.jpg" title="M31 - Andromeda Galaxy" integration="620" >}}
 {{< slide img="images/m33-triangulum-galaxy-seestar-s50-pro.jpg" title="M33 - Triangulum Galaxy (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="270" location="Okie-Tex Star Party" >}}
 {{< slide img="images/ZLM33V5.jpg" title="M33 - Triangulum Galaxy" integration="485" location="Chiricahua Mountains, AZ" >}}
 {{< slide img="images/ZL Dwarf Mini 30h M101 V1.jpg" title="M101 - Pinwheel Galaxy in Ursa Major" telescope="Dwarf Mini" sublength="60s & 120s" integration="1800" location="Various sites, AZ" skyquality="Bortle 1–5 (mixed sites)" >}}
 {{< slide img="images/ZL S30 Pro M104 42mins V1.jpg" title="M104 - Sombrero Galaxy in Virgo" telescope="Seestar S30 Pro" sublength="30s" integration="42" location="Whipple Obs, AZ" >}}
 {{< slide img="images/ZL S30 Pro CenA 1h5min V1.jpg" title="Centaurus A (NGC 5128) - Galaxy in Centaurus" telescope="Seestar S30 Pro" sublength="30s" integration="65" location="Whipple Obs, AZ" >}}
+{{< slide img="images/ngc-253-sculptor-galaxy-seestar-s50-pro.jpg" title="NGC 253 - Sculptor Galaxy (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="10s" integration="135" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZL253V4.jpg" title="NGC 253 - Sculptor Galaxy" integration="180" location="Chiricahua Mountains, AZ" >}}
 {{< slide img="images/ngc-55-galaxy-sculptor-seestar-s50-pro.jpg" title="NGC 55 - Galaxy in Sculptor (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="240" location="Cosmic Campground, NM" >}}
 {{< slide img="images/ngc-6946-fireworks-galaxy-ngc-6939-seestar-s50-pro.jpg" title="NGC 6946 & NGC 6939 - Fireworks Galaxy & Open Cluster in Cepheus (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="705" location="Okie-Tex Star Party" >}}
@@ -96,7 +102,6 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< slide img="images/ZLM31Companions2.jpg" title="NGC 147 & 185 - Andromeda Galaxy Satellites in Cassiopeia" integration="600" >}}
 {{< slide img="images/ZLIC10.jpg" title="IC 10 - Irregular Galaxy in Cassiopeia" integration="360" >}}
 {{< slide img="images/ZL NGC 4236 17h 20min S30 V1.jpg" title="NGC 4236 - Barred Spiral Galaxy in Draco" telescope="Seestar S30 Pro" sublength="20s" integration="1040" >}}
-{{< slide img="images/ZL S30 NGC 2671 1h V1.jpg" title="NGC 2671 - Galaxy in Puppis" telescope="Seestar S30 Pro" sublength="30s" integration="60" location="Baboquivari, AZ" >}}
 {{< /carousel >}}
 
 ### Open Star Clusters
@@ -132,9 +137,11 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 {{< ssslide img="images/ZLLemmon1027.jpg" title="Comet Lemmon" telescope="Vaonis Vespera II" camera="Built-in" date="October 27, 2025" location="Tucson, AZ" >}}
 {{< /carousel >}}
 
-## Landscapes
+## Nightscapes & Wide-Field
 
 {{< carousel id="landscapes" >}}
+{{< lslide img="images/orion-wide-field-hovatter-road-seestar-s50-pro.jpg" title="Orion Wide Field over Hovatter Road - 2h of 20s Subs (Seestar S50 Pro)" camera="Seestar S50 Pro (wide-angle sensor)" lens="6mm built-in wide-angle" location="Hovatter Road, AZ (Bortle 2)" >}}
+{{< lslide img="images/cygnus-milky-way-baboquivari-seestar-s50-pro.jpg" title="Cygnus Milky Way Wide Field from Baboquivari - 77min of 20s Subs (Seestar S50 Pro)" camera="Seestar S50 Pro (wide-angle sensor)" lens="6mm built-in wide-angle" location="Baboquivari, AZ (Bortle 2)" >}}
 {{< lslide img="images/Better22s.jpg" title="Nightscape - Oracle State Park" camera="Nikon D5300" lens="Rokinon 14mm f/2.8" location="Oracle State Park, AZ" >}}
 {{< lslide img="images/ZLIronwoodVenusV1.jpg" title="Venus over Ironwood Forest National Monument" camera="Seestar S30 Pro (wide-angle sensor)" location="Ironwood Forest National Monument, AZ" >}}
 {{< lslide img="images/baboquivaritrails.jpeg" title="Star Trails over Baboquivari Peak" camera="Seestar S30 Pro (wide-angle sensor)" location="Buenos Aires NWR, AZ" >}}

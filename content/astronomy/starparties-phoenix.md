@@ -80,6 +80,19 @@ For over ten years I've been showing people the night sky — thousands of them,
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds. I can shoot one of your night, too." >}}
 
+## Night Vision: Nebulae in Real Time
+
+These clips were filmed with a phone held up to the night vision eyepiece on my 14.7" telescope. Nothing is stacked, stretched, or processed afterward — this is the live view, as it happens, and a phone camera only catches part of what your eye picks up at the eyepiece.
+
+{{< cliprow >}}
+{{< timelapse src="/videos/night-vision-orion-nebula.mp4" poster="/images/night-vision-orion-nebula-poster.jpg" alt="The Orion Nebula seen live through a PVS-14 night vision device on a 14.7-inch telescope" caption="The Orion Nebula, live" >}}
+{{< timelapse src="/videos/night-vision-horsehead-nebula.mp4" poster="/images/night-vision-horsehead-nebula-poster.jpg" alt="The Horsehead Nebula and Flame Nebula seen live through a PVS-14 night vision device on a 14.7-inch telescope" caption="The Horsehead and Flame nebulae, live" >}}
+{{< timelapse src="/videos/night-vision-rosette-nebula.mp4" poster="/images/night-vision-rosette-nebula-poster.jpg" alt="The Rosette Nebula seen live through a PVS-14 night vision device on a 14.7-inch telescope" caption="The Rosette Nebula, live" >}}
+{{< timelapse src="/videos/night-vision-seagull-nebula.mp4" poster="/images/night-vision-seagull-nebula-poster.jpg" alt="The Seagull Nebula seen live through a night vision eyepiece on a 14.7-inch telescope" caption="The Seagull Nebula, live" >}}
+{{< /cliprow >}}
+
+The Horsehead is famously one of the hardest objects to see in any telescope. With night vision, your whole group can see it in a few seconds each, even with some moonlight or city glow in the sky.
+
 ## Phoenix Star Party Pricing
 
 Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests. Phoenix-area events have a two-hour minimum:

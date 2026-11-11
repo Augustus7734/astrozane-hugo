@@ -1,0 +1,12 @@
+{{- /* Lays out the {{< timelapse >}} clips inside it side by side (stacked on narrow screens).
+  {{< cliprow >}}
+    {{< timelapse src="/videos/a.mp4" ... >}}
+    {{< timelapse src="/videos/b.mp4" ... >}}
+  {{< /cliprow >}} */ -}}
+<div class="az-cliprow">
+{{ .Inner }}
+</div>
+<style>
+.az-cliprow{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;max-width:720px;margin:1.5rem auto}
+.az-cliprow .az-timelapse{margin:0!important;max-width:none!important}
+</style>

@@ -1,0 +1,15 @@
+{{- /* One slide inside {{< promo >}}.
+  img, alt  required
+  kicker, title, text  optional live-text caption (leave off for slides with text baked into the image)
+  pos       optional CSS object-position for the square crop, e.g. "50% 80%"
+  eager     set "true" on the first slide so it loads immediately */ -}}
+<figure class="azp-slide">
+  <img src="{{ .Get "img" }}" alt="{{ .Get "alt" }}" width="1600" height="1600" loading="{{ if eq (.Get "eager") "true" }}eager{{ else }}lazy{{ end }}" decoding="async"{{ with .Get "pos" }} style="{{ printf "object-position:%s" . | safeCSS }}"{{ end }}>
+  {{- if or (.Get "title") (.Get "text") }}
+  <figcaption class="azp-cap">
+    {{- with .Get "kicker" }}<span class="azp-kicker">{{ . }}</span>{{ end }}
+    {{- with .Get "title" }}<span class="azp-title">{{ . }}</span>{{ end }}
+    {{- with .Get "text" }}<span class="azp-text">{{ . }}</span>{{ end }}
+  </figcaption>
+  {{- end }}
+</figure>

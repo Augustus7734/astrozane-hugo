@@ -1,0 +1,8 @@
+{{- /* Service JSON-LD built from the page's front-matter `service` block. */ -}}
+{{- $p := .Page.Params.service -}}
+{{- $areas := slice -}}
+{{- range $p.areas }}{{ $areas = $areas | append (dict "@type" "City" "name" .) }}{{ end -}}
+{{- $offers := slice -}}
+{{- range $p.prices }}{{ $offers = $offers | append (dict "@type" "Offer" "name" (printf "%s private star party (up to 20 guests, %s)" .length $p.region) "price" (string .price) "priceCurrency" "USD") }}{{ end -}}
+{{- $schema := dict "@context" "https://schema.org" "@type" "Service" "name" $p.name "serviceType" "Private guided stargazing and telescope viewing" "description" .Page.Description "url" .Page.Permalink "image" (absURL "images/starparty-hero-wide.jpg") "provider" (dict "@type" "Organization" "name" "AstroZane" "url" (absURL "")) "audience" (dict "@type" "Audience" "audienceType" "Families, bachelor and bachelorette parties, birthday parties, couples, corporate groups, resorts") "areaServed" $areas "offers" $offers -}}
+{{ printf `<script type="application/ld+json">%s</script>` ($schema | jsonify) | safeHTML }}

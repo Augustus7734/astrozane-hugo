@@ -1,0 +1,67 @@
+# Shared FAQ groups shown on every star party page via {{< faq shared="starparty_faq" >}}.
+# Keep answers city-neutral; anything about price or location belongs in the page's own front matter.
+- group: "What to expect"
+  items:
+    - q: "What is a private star party?"
+      a: |
+        It's a guided night of stargazing for just your group. I bring the telescopes, binoculars, and night vision gear to your backyard, rental, resort, or a dark-sky site, then spend the session finding things in the sky and showing them to you at the eyepiece — the Moon, planets, star clusters, nebulae, and galaxies. No experience or equipment needed on your end.
+    - q: "What will we actually see?"
+      a: |
+        It depends on the Moon, the season, and your location, but a typical session includes some mix of: the Moon in crater-by-crater detail, planets (Saturn's rings and Jupiter's moons are perennial crowd favorites), colorful double stars, star clusters, and — from darker locations — galaxies and nebulae. With my night vision device, nebulae are visible in real time with an amount of detail that surprises even experienced observers. I plan each session around what's best placed in the sky on your date.
+    - q: "What's in the sky during the November–May season?"
+      a: |
+        This is the best stretch of the year for bright showpieces. Saturn is up in the early evening through about January, and Jupiter is well placed all winter and spring. The Pleiades, the Orion Nebula, and the winter Milky Way dominate from December through March, and by April and May the spring galaxies take over. When you reach out I'll tell you exactly what's up on your date.
+    - q: "Do you provide the telescopes?"
+      a: |
+        Yes — I bring everything: telescopes, eyepieces, night vision equipment, and the expertise to run it all. You don't need to own or know anything about telescopes. Binoculars are nice to have on hand for guests if you own some, but I can provide a few pairs of my own. If you *do* own a telescope and want to learn to use it, I offer help and repair services too.
+    - q: "Do we have to climb a ladder to look through the telescope?"
+      a: |
+        No. My 14.7" telescope is built for seated viewing — you sit down at the eyepiece, get comfortable, and take your time, which also makes it easy for kids and for anyone who'd rather not stand. The hand-built 24" telescope arriving in spring 2027 needs only a short ladder, and only for objects high in the sky.
+    - q: "What is night vision astronomy?"
+      a: |
+        I use a PVS-14, a handheld image intensifier that amplifies faint light in real time. Held up to the sky or to a telescope, it shows nebulae that are otherwise invisible to the eye — live, through an eyepiece rather than on a screen — and it keeps working when the Moon is up or there's some city glow. Most guests have never looked through one.
+    - q: "Can you take photos or a timelapse of our group?"
+      a: |
+        Yes. On request I'll set up a camera to shoot a timelapse of your night, or a portrait of your group under the stars — with the Milky Way behind you when it's up and the site is dark enough. The camera runs by itself in the background and you get the results afterward. During the star party itself we don't look at screens; the whole point is your own eyes at the eyepiece.
+    - q: "How is this different from an observatory program?"
+      a: |
+        It's private, it comes to you, and it runs on your schedule. There's no shared tour group and no fixed program: your group gets all the eyepiece time, I pick targets for the people in front of me, and we can linger on whatever you like best.
+- group: "Small groups, families & parties"
+  items:
+    - q: "What's the smallest group you'll do?"
+      a: |
+        There's no minimum. Couples, date nights, and single families are some of my favorite nights, because everyone gets as much time at the eyepiece as they want.
+    - q: "Is this good for kids?"
+      a: |
+        Absolutely — kids are often the most enthusiastic observers of the night. Everything is hands-on and screen-free, viewing at the main telescope is seated, and I adjust the pacing and explanations to the audience. Star parties work well for birthday parties, scout groups, and school events.
+    - q: "Is a star party a good bachelor or bachelorette party activity?"
+      a: |
+        Yes — it's an easy first night or wind-down night for the weekend. I come to your rental or meet you at a dark-sky site, it works for a group with mixed interests, and nobody needs to know anything about astronomy. Seeing Saturn's rings for the first time tends to get a bigger reaction than people expect, and a group portrait under the stars makes a better souvenir than most.
+    - q: "Can you come to our Airbnb, vacation rental, or campsite?"
+      a: |
+        Yes. All I need is a reasonably flat spot with a view of the sky and somewhere to park nearby. Send me the address or a pin and I'll check the horizon and the local light pollution ahead of time and tell you what to expect.
+    - q: "How many people can attend?"
+      a: |
+        My base pricing covers groups of 20 or fewer. Larger groups are welcome — [contact me](https://astrozane.com/links/contact/) to discuss logistics and pricing, since bigger crowds benefit from longer sessions so everyone gets solid eyepiece time.
+- group: "Booking & planning"
+  items:
+    - q: "How long should our session be?"
+      a: |
+        If you mainly want the Moon and planets, the shortest session is plenty and it doesn't need to be dark-sky conditions — those targets are bright enough to look spectacular from a backyard in the middle of the city. Save the longer sessions at darker locations for when you want galaxies and nebulae.
+    - q: "How far in advance should I book?"
+      a: |
+        Earlier is better, especially for weekend dates. The Moon phase also matters for deep-sky viewing, so if you want galaxies and nebulae, booking near the new Moon is ideal — I can advise on the best dates for your month when you reach out. I'm currently booking November 2026 through May 2027.
+    - q: "What time does a star party start?"
+      a: |
+        Usually about an hour after sunset, once the sky is properly dark — earlier if the Moon and planets are the main event. In winter that can be as early as 6:30 pm, which makes it easy with young kids or before a late dinner.
+    - q: "What happens if it's cloudy?"
+      a: |
+        Southern Arizona is one of the most reliably clear places in the country, which is why professional observatories cluster here — weather cancellations are far less common than most people expect. If clouds do threaten your date, we'll reschedule at no charge. I watch the forecast closely in the days leading up to every event and will keep you informed.
+    - q: "What should we bring?"
+      a: |
+        Not much — but a few things make the night better:
+
+        - **Warm layers.** Desert nights get cold fast once the sun goes down, even in summer, and you'll be sitting or standing still for most of the session. Bring more than you think you need.
+        - **Closed-toe shoes**, especially if we're heading somewhere dark and off-pavement.
+        - **Binoculars, if you own a pair.** Even ordinary 8x42s or 10x50s show star clusters, the Milky Way, and craters on the Moon beautifully, and having your own means you're never waiting for a turn at the eyepiece. I bring a few pairs to share, but the more the better.
+        - **Red light only.** Your eyes need about 20–30 minutes in darkness to reach full sensitivity, and a single glance at a white phone screen resets that for everyone nearby. Most phones can switch to a red display — on iPhone, set up a Red Filter shortcut under Accessibility; on Android, look for a night or red-screen filter in Display settings or a free red-light app. If you have a flashlight, red is best; otherwise I'll have red lights on hand and I'll ask that white lights stay off once we've started.

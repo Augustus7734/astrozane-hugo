@@ -1,0 +1,38 @@
+{{- /* Renders the page's front-matter `faq` list as an accordion AND as FAQPage JSON-LD,
+  Page-specific groups come from front matter; {{< faq shared="starparty_faq" >}} then
+  appends the groups in data/starparty_faq.yaml, shared by every star party page,
+  so the visible answers and the structured data can never drift apart.
+  Front matter shape:
+    faq:
+      - group: "Booking"
+        items:
+          - q: "Question?"
+            a: "Answer in **markdown**."            */ -}}
+{{- $page := .Page -}}
+{{- $groups := default slice $page.Params.faq -}}
+{{- with .Get "shared" }}{{ $groups = $groups | append (index site.Data .) }}{{ end -}}
+{{- $entities := slice -}}
+<div class="az-faq">
+{{- range $groups }}
+  <h3>{{ .group }}</h3>
+  {{- range .items }}
+  {{- $html := $page.RenderString (dict "display" "block") .a }}
+  <details>
+    <summary>{{ .q }}</summary>
+    <div class="az-faq-a">{{ $html }}</div>
+  </details>
+  {{- $plain := trim ($html | plainify | htmlUnescape | replaceRE `\s+` " ") " " }}
+  {{- $entities = $entities | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" $plain)) }}
+  {{- end }}
+{{- end }}
+</div>
+<style>
+.az-faq details{border-bottom:1px solid rgba(128,128,128,.35);padding:.15rem 0}
+.az-faq summary{cursor:pointer;font-weight:600;padding:.7rem 1.6rem .7rem 0;list-style:none;position:relative}
+.az-faq summary::-webkit-details-marker{display:none}
+.az-faq summary::after{content:"+";position:absolute;right:.2rem;top:.55rem;font-size:1.3rem;font-weight:400;color:#E5483F}
+.az-faq details[open] summary::after{content:"\2212"}
+.az-faq-a{padding:0 0 .9rem}
+.az-faq-a>:first-child{margin-top:0}
+</style>
+{{ printf `<script type="application/ld+json">%s</script>` (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $entities | jsonify) | safeHTML }}

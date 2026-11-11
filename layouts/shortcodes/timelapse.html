@@ -1,0 +1,16 @@
+{{- /* Looping timelapse. Renders nothing if the file is missing from static/.
+  {{< timelapse src="/videos/x.mp4" poster="/images/x.jpg" alt="..." caption="..." maxwidth="360px" >}}
+  .mp4/.webm play as a silent autoplaying loop; .gif also works. */ -}}
+{{- $src := .Get "src" -}}
+{{- if fileExists (printf "static%s" $src) -}}
+<figure class="az-timelapse" style="{{ printf "margin:1.5rem auto;max-width:%s" (.Get "maxwidth" | default "720px") | safeCSS }}">
+  {{- if strings.HasSuffix (lower $src) ".gif" }}
+  <img src="{{ $src }}" alt="{{ .Get "alt" }}" loading="lazy" style="display:block;width:100%;height:auto;border-radius:10px">
+  {{- else }}
+  <video autoplay muted loop playsinline preload="metadata"{{ with .Get "poster" }} poster="{{ . }}"{{ end }} aria-label="{{ .Get "alt" }}" style="display:block;width:100%;height:auto;border-radius:10px">
+    <source src="{{ $src }}" type="video/{{ if strings.HasSuffix (lower $src) ".webm" }}webm{{ else }}mp4{{ end }}">
+  </video>
+  {{- end }}
+  {{- with .Get "caption" }}<figcaption style="font-size:.9rem;opacity:.8;margin-top:.4rem;text-align:center">{{ . }}</figcaption>{{ end }}
+</figure>
+{{- end -}}

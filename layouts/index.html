@@ -1,0 +1,87 @@
+{{ define "main" -}}
+{{/*
+  Home page for astrozane.com (overrides the Poison theme's layouts/index.html).
+  Everything on the page comes from content/_index.md:
+    - hero, cards and faq from the front matter
+    - the long-form sections from the Markdown body
+  Classes are prefixed zl- so they cannot collide with theme classes.
+*/}}
+<style>
+  .zl-home { color: var(--text-color); }
+  .zl-home .zl-eyebrow { margin: 0 0 .5rem; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--date-color); }
+  .zl-home h1.zl-h1 { margin: 0 0 1rem; font-size: 2rem; line-height: 1.2; color: var(--post-title-color); text-wrap: balance; }
+  .zl-home .zl-lead { margin: 0 0 1.25rem; font-size: 1.1rem; line-height: 1.6; }
+  .zl-home .zl-hero-img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px; margin: 0 0 1.5rem; }
+  .zl-home .zl-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin: 0 0 2rem; }
+  .zl-home a.zl-btn { display: inline-block; padding: .6rem 1.1rem; border-radius: 4px; font-weight: 700; text-decoration: none; border: 2px solid #CF3B33; }
+  .zl-home a.zl-btn-primary { background: #CF3B33; color: #fff; }
+  .zl-home a.zl-btn-secondary { background: transparent; color: var(--text-color); }
+  .zl-home a.zl-btn:hover, .zl-home a.zl-btn:focus { filter: brightness(1.1); text-decoration: none; }
+  .zl-home .zl-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 0 0 2.5rem; padding: 0; list-style: none; }
+  .zl-home .zl-card { margin: 0; padding: 1rem 1.1rem; border: 1px solid var(--table-border-color); border-radius: 6px; background: var(--table-stripe-color); }
+  .zl-home .zl-card h2 { margin: 0 0 .4rem; font-size: 1.05rem; line-height: 1.3; color: var(--post-title-color); }
+  .zl-home .zl-card p { margin: 0 0 .6rem; font-size: .95rem; line-height: 1.5; }
+  .zl-home .zl-card a { font-weight: 700; }
+  .zl-home .zl-body h2, .zl-home .zl-faq > h2 { margin-top: 2.5rem; }
+  .zl-home .zl-body table { width: 100%; font-size: .95rem; }
+  .zl-home .zl-faq h3 { margin: 1.5rem 0 .4rem; font-size: 1.05rem; }
+  .zl-home .zl-faq p { margin: 0; }
+  .zl-home .zl-updated { margin-top: 2.5rem; font-size: .85rem; color: var(--date-color); }
+  @media (max-width: 38em) {
+    .zl-home .zl-cards { grid-template-columns: 1fr; }
+    .zl-home h1.zl-h1 { font-size: 1.6rem; }
+    .zl-home .zl-body table { display: block; overflow-x: auto; }
+  }
+</style>
+
+<article class="post zl-home">
+  {{ with .Params.hero }}
+  <header>
+    {{ with .eyebrow }}<p class="zl-eyebrow">{{ . }}</p>{{ end }}
+    <h1 class="zl-h1">{{ .heading | default $.Title }}</h1>
+    {{ with .image }}
+    <img class="zl-hero-img" src="{{ . | relURL }}" alt="{{ $.Params.hero.image_alt }}" fetchpriority="high" decoding="async">
+    {{ end }}
+    {{ with .lead }}<p class="zl-lead">{{ . }}</p>{{ end }}
+    {{ with .buttons }}
+    <p class="zl-actions">
+      {{ range . }}<a class="zl-btn {{ if eq .style "solid" }}zl-btn-primary{{ else }}zl-btn-secondary{{ end }}" href="{{ .url }}">{{ .label }}</a>
+      {{ end }}
+    </p>
+    {{ end }}
+  </header>
+  {{ end }}
+
+  {{ with .Params.cards }}
+  <ul class="zl-cards">
+    {{ range . }}
+    <li class="zl-card">
+      <h2>{{ .title }}</h2>
+      <p>{{ .text }}</p>
+      <a href="{{ .url }}"{{ if hasPrefix .url "http" }} rel="noopener"{{ end }}>{{ .label }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <div class="zl-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.faq }}
+  <section class="zl-faq" id="faq">
+    <h2>Frequently asked questions</h2>
+    {{ range . }}
+    <h3>{{ .q }}</h3>
+    <p>{{ .a }}</p>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{ if not .Lastmod.IsZero }}
+  <p class="zl-updated">Last updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 2, 2006" }}</time>.</p>
+  {{ end }}
+</article>
+
+{{ partial "home/jsonld.html" . }}
+{{- end }}

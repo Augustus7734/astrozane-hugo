@@ -1,0 +1,9 @@
+# astrozane.com
+# Content signals: allow search indexing, allow AI assistants to read and cite
+# this site when answering questions, and allow use in AI training.
+# Change ai-train to "no" if you would rather not be in training data.
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+Sitemap: https://astrozane.com/sitemap.xml

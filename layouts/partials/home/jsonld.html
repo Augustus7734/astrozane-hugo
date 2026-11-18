@@ -1,0 +1,191 @@
+{{/*
+  Structured data for the home page: WebSite, ProfilePage, Person, the star party
+  business, the organizations Zane is tied to, and an FAQPage built from the faq
+  list in content/_index.md (so the visible FAQ and the markup always match).
+
+  If an older Person / LocalBusiness JSON-LD block is still on the home page,
+  remove it so the two do not describe the same things twice.
+*/}}
+{{ $base := "https://astrozane.com/" }}
+{{ $personID := printf "%s#zane-landers" $base }}
+{{ $bizID := printf "%s#star-parties" $base }}
+{{ $siteID := printf "%s#website" $base }}
+{{ $twID := "https://telescopicwatch.com/#organization" }}
+{{ $dsID := "https://darkskysoaz.org/#organization" }}
+
+{{ $az := dict "@type" "State" "name" "Arizona" }}
+
+{{ $website := dict
+  "@type" "WebSite"
+  "@id" $siteID
+  "url" $base
+  "name" "AstroZane"
+  "alternateName" "Zane Landers"
+  "description" .Params.description
+  "inLanguage" "en-US"
+  "publisher" (dict "@id" $personID)
+}}
+
+{{ $profile := dict
+  "@type" "ProfilePage"
+  "@id" (printf "%s#profile" $base)
+  "url" $base
+  "name" (.Params.seo_title | default .Title)
+  "isPartOf" (dict "@id" $siteID)
+  "about" (dict "@id" $personID)
+  "mainEntity" (dict "@id" $personID)
+  "dateModified" (.Lastmod.Format "2006-01-02")
+}}
+
+{{ $telescopicwatch := dict
+  "@type" "Organization"
+  "@id" $twID
+  "name" "TelescopicWatch"
+  "url" "https://telescopicwatch.com/"
+  "description" "Telescope review site that ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use."
+}}
+
+{{ $darksky := dict
+  "@type" "NGO"
+  "@id" $dsID
+  "name" "DarkSky Southern Arizona"
+  "url" "https://darkskysoaz.org/"
+  "description" "Official southern Arizona chapter of DarkSky International, working to reduce light pollution through lighting codes, education and sky-brightness monitoring."
+  "areaServed" "Southern Arizona"
+  "parentOrganization" (dict "@type" "NGO" "name" "DarkSky International" "url" "https://darksky.org/")
+}}
+
+{{ $person := dict
+  "@type" "Person"
+  "@id" $personID
+  "name" "Zane Landers"
+  "alternateName" (slice "AstroZane" "astro_zane")
+  "url" $base
+  "image" "https://astrozane.com/images/webprofilepic.jpg"
+  "description" (.Params.hero.lead | default .Params.description)
+  "jobTitle" (slice "Lead Writer and Editor" "Star party host" "Telescope maker" "Digital marketing and communications specialist")
+  "email" "starparties@astrozane.com"
+  "homeLocation" (dict "@type" "City" "name" "Tucson" "containedInPlace" $az)
+  "address" (dict "@type" "PostalAddress" "addressLocality" "Tucson" "addressRegion" "AZ" "addressCountry" "US")
+  "alumniOf" (slice
+    (dict "@type" "CollegeOrUniversity" "name" "University of Arizona" "url" "https://www.arizona.edu/")
+    (dict "@type" "CollegeOrUniversity" "name" "University of Connecticut" "url" "https://uconn.edu/")
+  )
+  "hasCredential" (slice
+    (dict "@type" "EducationalOccupationalCredential" "name" "M.S. in Marketing" "credentialCategory" "degree" "recognizedBy" (dict "@type" "CollegeOrUniversity" "name" "University of Arizona"))
+    (dict "@type" "EducationalOccupationalCredential" "name" "B.A. in Communications" "credentialCategory" "degree" "recognizedBy" (dict "@type" "CollegeOrUniversity" "name" "University of Connecticut"))
+  )
+  "worksFor" (slice
+    (dict "@id" $twID)
+    (dict "@type" "Organization" "name" "Live Science" "url" "https://www.livescience.com/")
+  )
+  "affiliation" (slice (dict "@id" $dsID))
+  "memberOf" (slice (dict "@id" $dsID))
+  "owns" (dict "@id" $bizID)
+  "knowsAbout" (slice
+    "Amateur astronomy"
+    "Telescope making"
+    "Mirror grinding"
+    "Dobsonian telescopes"
+    "Telescope reviews"
+    "Visual observing"
+    "Night vision astronomy"
+    "Astrophotography"
+    "Star parties"
+    "Astrotourism in Arizona"
+    "Light pollution"
+    "Dark sky advocacy"
+    "Science communication"
+    "Search engine optimization"
+    "Content strategy"
+    "Digital marketing"
+  )
+  "sameAs" (slice
+    "https://linkedin.com/in/astrozane"
+    "https://www.instagram.com/astro_zane/"
+    "https://www.youtube.com/@astro_zane"
+    "https://telescopicwatch.com/author/_augustus_/"
+    "https://www.livescience.com/author/zane-landers"
+  )
+}}
+
+{{ $tucsonAreas := slice "Tucson" "Oro Valley" "Marana" "Catalina Foothills" "Vail" "Green Valley" "Sahuarita" "Sierra Vista" }}
+{{ $phoenixAreas := slice "Phoenix" "Scottsdale" }}
+{{ $areas := slice }}
+{{ range (union $tucsonAreas $phoenixAreas) }}
+  {{ $areas = $areas | append (dict "@type" "City" "name" . "containedInPlace" $az) }}
+{{ end }}
+{{ $areas = $areas | append $az }}
+
+{{ $offerTucson := dict
+  "@type" "Offer"
+  "name" "Private star party in Tucson and Southern Arizona"
+  "url" "https://astrozane.com/astronomy/starparties/tucson/"
+  "description" "Private guided star party for up to 20 guests. Base price from $300 for one hour, $400 for two hours and $500 for three hours."
+  "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" 300 "priceCurrency" "USD")
+  "availabilityStarts" "2026-11-01"
+  "availabilityEnds" "2027-05-31"
+}}
+{{ $offerPhoenix := dict
+  "@type" "Offer"
+  "name" "Private star party in Phoenix and Scottsdale"
+  "url" "https://astrozane.com/astronomy/starparties/phoenix/"
+  "description" "Private guided star party for up to 20 guests. Base price from $500 with a two-hour minimum, travel included."
+  "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" 500 "priceCurrency" "USD")
+  "availabilityStarts" "2026-11-01"
+  "availabilityEnds" "2027-05-31"
+}}
+{{ $offerDestination := dict
+  "@type" "Offer"
+  "name" "Destination star party in the Southwest"
+  "url" "https://astrozane.com/astronomy/starparties/"
+  "description" "Star parties at the Grand Canyon, Organ Pipe Cactus National Monument, Cosmic Campground, City of Rocks and elsewhere in the region. Base price from $500, quoted individually."
+  "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" 500 "priceCurrency" "USD")
+  "availabilityStarts" "2026-11-01"
+  "availabilityEnds" "2027-05-31"
+}}
+
+{{ $business := dict
+  "@type" "EntertainmentBusiness"
+  "@id" $bizID
+  "name" "AstroZane Star Parties"
+  "alternateName" "AstroZane"
+  "url" "https://astrozane.com/astronomy/starparties/"
+  "image" "https://astrozane.com/images/webprofilepic.jpg"
+  "description" "Private, guided star parties in Tucson, Phoenix and across the Southwest for groups of 2 to 20, using hand-built telescopes, binoculars and night vision. Screen-free viewing of the Moon, planets, star clusters, galaxies and nebulae."
+  "email" "starparties@astrozane.com"
+  "priceRange" "From $300"
+  "founder" (dict "@id" $personID)
+  "address" (dict "@type" "PostalAddress" "addressLocality" "Tucson" "addressRegion" "AZ" "addressCountry" "US")
+  "areaServed" $areas
+  "knowsAbout" (slice "Stargazing" "Private star parties" "Astronomy events" "Telescope repair")
+  "hasOfferCatalog" (dict
+    "@type" "OfferCatalog"
+    "name" "Private star parties"
+    "itemListElement" (slice $offerTucson $offerPhoenix $offerDestination)
+  )
+  "sameAs" (slice "https://www.instagram.com/astro_zane/")
+}}
+
+{{ $graph := slice $website $profile $person $business $telescopicwatch $darksky }}
+
+{{ with .Params.faq }}
+  {{ $questions := slice }}
+  {{ range . }}
+    {{ $questions = $questions | append (dict
+      "@type" "Question"
+      "name" .q
+      "acceptedAnswer" (dict "@type" "Answer" "text" .a)
+    ) }}
+  {{ end }}
+  {{ $graph = $graph | append (dict
+    "@type" "FAQPage"
+    "@id" (printf "%s#faq" $base)
+    "url" (printf "%s#faq" $base)
+    "isPartOf" (dict "@id" $siteID)
+    "mainEntity" $questions
+  ) }}
+{{ end }}
+
+{{ $ld := dict "@context" "https://schema.org" "@graph" $graph }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>

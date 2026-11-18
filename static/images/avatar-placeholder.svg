@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Dobsonian telescope pointed at a star">
+  <defs>
+    <radialGradient id="sky" cx="68%" cy="24%" r="95%">
+      <stop offset="0" stop-color="#27304a"/>
+      <stop offset="0.55" stop-color="#161b2b"/>
+      <stop offset="1" stop-color="#0d1019"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#sky)"/>
+  <!-- stars -->
+  <g fill="#F5F1E6">
+    <circle cx="150" cy="170" r="5"/><circle cx="255" cy="96" r="3.5"/><circle cx="118" cy="330" r="3.5"/>
+    <circle cx="372" cy="150" r="4"/><circle cx="660" cy="350" r="4"/>
+    <circle cx="470" cy="70" r="3"/><circle cx="225" cy="250" r="2.5"/><circle cx="690" cy="470" r="3"/>
+    <circle cx="90" cy="500" r="2.5"/><circle cx="560" cy="110" r="2.5"/>
+  </g>
+  <!-- target star -->
+  <g transform="translate(640 150)" fill="#E5483F">
+    <path d="M0 -38 L8 -8 L38 0 L8 8 L0 38 L-8 8 L-38 0 L-8 -8 Z"/>
+  </g>
+  <!-- ground -->
+  <rect x="0" y="668" width="800" height="132" fill="#090b12"/>
+  <!-- telescope: truss Dobsonian aimed at the star -->
+  <g fill="none" stroke="#F5F1E6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- rocker box -->
+    <path d="M250 668 L250 560 Q250 548 262 548 L438 548 Q450 548 450 560 L450 668 Z" fill="#F5F1E6" stroke="none"/>
+    <!-- tube assembly, rotated to point up and to the right -->
+    <g transform="rotate(38 350 520)">
+      <!-- mirror box -->
+      <rect x="282" y="420" width="136" height="130" rx="10" fill="#F5F1E6" stroke="none"/>
+      <!-- truss poles -->
+      <path d="M296 420 L318 196 M404 420 L382 196 M296 420 L382 196 M404 420 L318 196" stroke-width="11"/>
+      <!-- upper cage -->
+      <rect x="300" y="140" width="100" height="60" rx="8" fill="#F5F1E6" stroke="none"/>
+    </g>
+    <!-- altitude bearing -->
+    <circle cx="350" cy="520" r="62" fill="#161b2b" stroke-width="14"/>
+    <circle cx="350" cy="520" r="12" fill="#F5F1E6" stroke="none"/>
+  </g>
+</svg>

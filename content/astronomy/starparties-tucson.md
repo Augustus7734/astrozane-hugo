@@ -114,6 +114,10 @@ The rate is for the group, not per person. At the base rate, a two-hour night fo
 
 **Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 
+## What Guests Say
+
+{{< zl-quotes >}}
+
 ## Where to Stargaze Near Tucson
 
 The easiest star party is the one at your place: a backyard, rental, resort, or venue anywhere in Tucson, Oro Valley, Marana, the Catalina Foothills, Vail, Green Valley, Sahuarita, or Sierra Vista. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one.
@@ -124,9 +128,15 @@ The easiest star party is the one at your place: a backyard, rental, resort, or 
 - **Oracle State Park** — a certified International Dark Sky Park in the foothills north of Tucson, about an hour from town.
 - **Chiricahua National Park** — America's newest national park and a certified International Dark Sky Park, about two hours southeast near Willcox. Some of the darkest skies in Arizona, above a landscape of stone spires.
 
-## Stargazing at Mount Lemmon Lodge
+## Venues I've Worked With
 
-On select Saturday evenings, I host stargazing events at the [Mount Lemmon Lodge](https://mountlemmonlodge.com/), high in the Santa Catalina Mountains above Tucson. Up there the air is thin, the horizon is high, and the sky is properly dark — a completely different experience from observing down in the city. Check the Lodge's [event calendar](https://mountlemmonlodge.com/mount-lemmon-event-calender/) for upcoming star party dates.
+Alongside private parties, I host star parties for venues around Tucson:
+
+- **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
+- **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
+- **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+
+Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 
 ## Star Party FAQ
 

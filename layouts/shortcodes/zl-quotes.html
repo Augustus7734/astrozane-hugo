@@ -1,0 +1,15 @@
+{{/*
+  Guest quotes from data/starparty_quotes.yaml.
+  Usage:  {{< zl-quotes >}}
+*/}}
+{{ with site.Data.starparty_quotes }}
+<div class="zl-quotes">
+{{ range . }}<figure class="zl-quote"><blockquote>{{ .quote }}</blockquote><figcaption><strong>{{ .who }}</strong>{{ with .context }} · {{ . }}{{ end }}</figcaption></figure>
+{{ end }}</div>
+<style>
+.zl-quotes{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:1.2rem 0 1.6rem}
+.zl-quote{margin:0;padding:14px 16px;border:1px solid color-mix(in srgb,currentColor 20%,transparent);border-left:4px solid #CF3B33;border-radius:6px}
+.zl-quote blockquote{margin:0 0 8px;padding:0;border:0;font-style:normal;color:inherit}
+.zl-quote figcaption{font-size:.85em;opacity:.8}
+</style>
+{{ end }}

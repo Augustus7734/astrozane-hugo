@@ -116,6 +116,10 @@ The rate is for the group, not per person, and it includes my travel from Tucson
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 
+## What Guests Say
+
+{{< zl-quotes >}}
+
 ## Where to Stargaze Near Phoenix
 
 The easiest star party is the one at your place: a backyard, rental, or resort anywhere in Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria, Fountain Hills, or Cave Creek. The Moon and planets look great from the middle of the city. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one.

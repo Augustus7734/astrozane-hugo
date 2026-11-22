@@ -27,8 +27,6 @@ hero:
       url: "/links/contact/"
     - label: "Telescope repair"
       url: "/astronomy/telescope-repair/"
-    - label: "Hire me"
-      url: "#hire-me-marketing-communications-and-content"
     - label: "eBay store"
       url: "https://www.ebay.com/str/astrozane"
       external: true
@@ -128,8 +126,8 @@ For hands-on help, I do [telescope repair and setup](/astronomy/telescope-repair
 - [24-inch f/4 Dobsonian](/projects/24-inch-f4/): My newest telescope project, to be completed 2027
 - [24-inch f/3.5 Dobsonian](/projects/24-inch/): My previous big telescope, which now lives in California.
 - [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope which won an award at Stellafane 2018 for optical quality.
-- [20.5-inch f/4.3 Dobsonian](/projects/other-telescope-projects/#205-inch-f45-dobsonian-telescope): Built around a spray-silvered mirror.
-- 16-inch f/4.7 Dobsonian: My first large Dob.
+- [20.5-inch f/4.5 Dobsonian](/projects/other-telescope-projects/#205-inch-f45-dobsonian-telescope): Built around a spray-silvered mirror.
+- 16-inch f/4.9 Dobsonian: My first large Dob.
 - [10-inch f/3.2 Newtonian](/projects/other-telescope-projects/#10-inch-f32-newtonian-telescope): The first telescope I built faster than f/4.
 - [Hadley 114](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig): A 3D-printed 114mm Newtonian that I helped design.
 

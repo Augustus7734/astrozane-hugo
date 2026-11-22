@@ -1,0 +1,89 @@
+---
+title: "Bachelor and Bachelorette Star Parties in Scottsdale"
+linkTitle: "Bachelor & Bachelorette Star Parties"
+description: "A private, guided star party for your bachelor or bachelorette weekend in Scottsdale or Phoenix, at your rental or a dark-sky site an hour away. Telescopes, night vision and a group portrait under the stars. Base rates from $500."
+layout: "single"
+url: "/astronomy/starparties/scottsdale-bachelor-bachelorette/"
+images: ["/images/starparty-hero-wide.jpg"]
+sidebar_hide: true
+zl_service:
+  name: "Bachelor and bachelorette star parties in Scottsdale and Phoenix"
+  type: "Private guided star party for bachelor and bachelorette groups"
+  provider: "business"
+  audience: "Bachelor and bachelorette parties visiting Scottsdale and Phoenix"
+  areas: ["Scottsdale", "Phoenix", "Tempe", "Fountain Hills", "Cave Creek"]
+  offers:
+    - name: "2-hour star party"
+      description: "Private guided star party for up to 20 guests, at your rental or a dark-sky site. Travel included."
+      min_price: 500
+    - name: "3-hour star party"
+      description: "A longer night for up to 20 guests, best at a dark-sky site outside the Valley."
+      min_price: 600
+zl_breadcrumb:
+  - {name: "Zane Landers", url: "/"}
+  - {name: "Book A Star Party", url: "/astronomy/starparties/"}
+  - {name: "Phoenix and Scottsdale", url: "/astronomy/starparties/phoenix/"}
+  - {name: "Bachelor and Bachelorette Star Parties", url: "/astronomy/starparties/scottsdale-bachelor-bachelorette/"}
+zl_faq:
+  - q: "How much does a bachelor or bachelorette star party in Scottsdale cost?"
+    a: "Base pricing starts at about $500 for two hours and $600 for three hours, for a group of up to 20, with travel from Tucson included. The price is for the group, not per person. Every event is quoted individually, and a deposit is required to hold the date."
+  - q: "Where does the star party happen?"
+    a: "At your rental or resort anywhere in Scottsdale or Phoenix, or at a dark-sky site about an hour away, such as Picketpost Trailhead near Superior. The Moon and planets look great from town. The Milky Way needs the drive."
+  - q: "What if most of the group is not into astronomy?"
+    a: "That is the usual case, and it works fine. Nobody needs to know anything. Saturn's rings and the Moon's craters get a reaction from almost everyone, and the night vision device shows nebulae live at the eyepiece."
+  - q: "What time does it start, and how long does it take?"
+    a: "About an hour after sunset, and two hours is the minimum in the Phoenix area. In winter that can mean starting as early as 6:30 pm, which leaves the rest of the night free."
+  - q: "Can we get photos of the group?"
+    a: "Yes. On request I set up a camera for a group portrait under the stars, with the Milky Way behind you when it is up and the site is dark enough, or a timelapse of the night."
+  - q: "How far ahead should we book?"
+    a: "As early as you can for a weekend date. Bookings are open for January through May 2027 and August through December 2027. June and July are by request only."
+---
+
+A star party is an easy night to add to a bachelor or bachelorette weekend in Scottsdale. I bring the telescopes to your rental, or meet your group at a dark-sky site about an hour out of town, and spend two or three hours showing you the Moon, planets, star clusters and nebulae at the eyepiece. Nobody needs to know anything about astronomy, and it works for a group with mixed interests.
+
+![Guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona](/images/starparty-hero-wide.jpg)
+
+**Now booking January through May 2027 and August through December 2027.** June and July are by request only. [Check a date →](/links/contact/)
+
+## Why it works for a group weekend
+
+- **It fits either end of the trip.** A first-night activity while everyone is still arriving, or a wind-down night after the big one.
+- **It comes to you.** At your rental or resort, there is nothing to drive to and nobody has to be the designated driver.
+- **Everyone does it together.** Viewing is one at a time at the telescope, with binoculars to pass around in between, so there is plenty of time to talk.
+- **It is not a lecture.** I find the objects, you look. Saturn's rings get a bigger reaction than people expect.
+- **You get the photo.** On request I shoot a portrait of the group under the stars, or a timelapse of the night.
+- **Night vision.** A PVS-14 [night vision device](/astronomy/night-vision/) shows nebulae live, even from town. Most people have never looked through one.
+
+## In town or out of it?
+
+**At your rental or resort.** The Moon, Saturn, Jupiter and bright star clusters look just as good from Scottsdale as from the desert, and night vision pulls nebulae out of a city sky. This is the easy option.
+
+**At a dark-sky site.** For the Milky Way overhead and galaxies in the telescope, the group drives about an hour. Picketpost Trailhead near Superior is where both of the groups quoted below went. See [stargazing spots near Phoenix and Scottsdale](/astronomy/stargazing-near-phoenix/) for the others.
+
+## What guests say
+
+{{< zl-quotes >}}
+
+## Pricing
+
+Base pricing for the Phoenix area, for groups of up to 20, with a two-hour minimum:
+
+- **from $500** for 2 hours
+- **from $600** for 3 hours
+- **from $700** for 4 hours
+
+These are base estimates, not fixed quotes. The final figure depends on the date, the location and what you would like included. The rate is for the group, not per person: at the base rate, two hours for a party of ten comes to about $50 each. A deposit is required to hold your date.
+
+## Common questions
+
+{{< zl-faq >}}
+
+## Book it
+
+Send me your dates, your group size and where you are staying, and I will tell you what is in the sky that weekend and which option I would pick.
+
+**[Contact me to book →](/links/contact/)**
+
+More detail on the telescopes and what you will see is on the main [Phoenix and Scottsdale star party page](/astronomy/starparties/phoenix/). Having the party in Tucson instead? See [star parties in Tucson](/astronomy/starparties/tucson/).
+
+{{< zl-schema >}}

@@ -38,7 +38,7 @@ Anywhere in the Valley, plus dark-sky sites like Picketpost Trailhead, the Tonto
 
 ### Groups of more than 20
 
-Base pricing covers up to 20 guests. For **21 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **41 to 100 guests** I bring more telescopes: **from $700** for 41 to 70 and **from $950** for 71 to 100. Phoenix-area events add $100. Tell me the headcount and I'll put together a quote.
+Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100. Phoenix-area events run about $100 more. Tell me the headcount and I'll put together a quote.
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
 
@@ -56,12 +56,16 @@ Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties 
 
 For trips, retreats, and once-a-year skies, I travel across the Southwest. **Destination events start at $600**; that's a base figure, and each one is quoted individually based on distance, length, and group size.
 
+- **Sedona** — an International Dark Sky Community since 2014, with red rock country all around it. A good fit for retreats and group trips.
+- **Flagstaff** — the world's first International Dark Sky City, named in 2001, at 7,000 feet among the pines and close to Lowell Observatory.
 - **Grand Canyon National Park** — a certified International Dark Sky Park. The Milky Way over the rim is hard to beat.
 - **Organ Pipe Cactus National Monument** — southwest of Tucson near Ajo, and Arizona's newest International Dark Sky Park, certified in 2026.
 - **Cosmic Campground, New Mexico** — an International Dark Sky Sanctuary in the Gila National Forest, with a 360° horizon and essentially no artificial light.
 - **City of Rocks State Park, New Mexico** — camping among volcanic boulders between Deming and Silver City, under a very dark sky.
 
-I also travel to Flagstaff, Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
+Trailheads, national forests and other ordinary public land need no call ahead, so they are much easier to schedule. National parks and state parks have to be arranged with the park first. If you have a park in mind, plan on extra lead time.
+
+I also travel to Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
 
 ---
 
@@ -72,7 +76,7 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
 - **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
 - **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
-- **El Conquistador Tucson, A Hilton Resort.** A stargazing night at the Oro Valley resort, run with Reach for the Stars Arizona.
+- **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 

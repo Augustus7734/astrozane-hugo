@@ -7,10 +7,14 @@
 - [Book a star party](https://astrozane.com/astronomy/starparties/): private, screen-free star parties for groups of 2 to 20, with hand-built telescopes and night vision. Bookings open January through May 2027 and August through December 2027; June and July by request only.
 - [Tucson and Southern Arizona](https://astrozane.com/astronomy/starparties/tucson/): base price from $300 per group for one hour.
 - [Phoenix and Scottsdale](https://astrozane.com/astronomy/starparties/phoenix/): base price from $500 per group, two-hour minimum, travel included.
-- Destination star parties (Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and elsewhere in the Southwest): base price from $600, quoted individually.
-- Larger events, Tucson area: from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100, with extra telescopes above 40.
+- Destination star parties (Sedona, Flagstaff, Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and elsewhere in the Southwest): base price from $600, quoted individually.
+- Larger events, Tucson area: from $500 for 20 to 40 guests, $700 for 40 to 70 and $999 for 70 to 100, with extra telescopes above 40.
 - [Star parties for venues](https://astrozane.com/astronomy/starparties/venues/): resorts, hotels, guest ranches, vineyards, weddings and corporate events. Flat rate from $400 for two hours, recurring series from $250 a night, or ticketed with no cost up front. Venue dates open January through May 2027 and August through December 2027.
-- Venues worked with: Mount Lemmon Lodge, White Stallion Ranch, Tucson Mountain Guest Ranch, and El Conquistador Tucson, A Hilton Resort (with Reach for the Stars Arizona).
+- Venues worked with: Mount Lemmon Lodge, White Stallion Ranch, Tucson Mountain Guest Ranch, and El Conquistador Tucson, A Hilton Resort.
+- [Bachelor and bachelorette star parties in Scottsdale](https://astrozane.com/astronomy/starparties/scottsdale-bachelor-bachelorette/): at a rental or a dark-sky site about an hour from the Valley, base price from $500 for two hours.
+- [Best stargazing spots near Tucson](https://astrozane.com/astronomy/stargazing-near-tucson/): fifteen sites with drive times, including Sabino Canyon, Tanque Verde lower trailhead, Saguaro National Park, Gabe Zimmerman Trailhead, Ridgeline Loop trailhead, Ironwood Forest, Empire Ranch, the Whipple Observatory astronomy pads, Apache Springs Trailhead, Mount Lemmon, Oracle State Park, Buenos Aires National Wildlife Refuge, Aravaipa Canyon west trailhead, Chiricahua National Park and Mount Graham. Trailheads and other public land need no call ahead; national and state parks do.
+- [Best stargazing spots near Phoenix and Scottsdale](https://astrozane.com/astronomy/stargazing-near-phoenix/): Fountain Hills, Badger Springs Trailhead, Picketpost Trailhead, Tonto National Forest, Hovatter Road, Roosevelt Lake and Alamo Lake.
+- [Night vision astronomy explained](https://astrozane.com/astronomy/night-vision/): how a PVS-14 image intensifier shows nebulae live at the eyepiece, and how it differs from a smart telescope.
 - [Sidewalk astronomy and public outreach](https://astrozane.com/astronomy/sidewalk-astronomy/): free looks at the Moon and planets on University Boulevard in Tucson and at public events, since 2022. Past outreach with the Westport Astronomical Society and Reach for the Stars Arizona; ongoing outreach with the Huachuca Astronomy Club.
 - [Telescope repair and setup help](https://astrozane.com/astronomy/telescope-repair/): in-person collimation, troubleshooting and repair in Tucson and Phoenix.
 - [Contact](https://astrozane.com/links/contact/): booking requests, telescope repair, and writing or marketing work.
@@ -28,6 +32,10 @@
 - [Telescope FOV and magnification calculator](https://astrozane.com/calculators/FOV/)
 - [Telescope limiting magnitude calculator](https://astrozane.com/calculators/limiting-magnitude/): faintest star or deep-sky surface brightness for a given telescope, sky and observer.
 - [Astrophotography](https://astrozane.com/astronomy/astrophotography/)
+
+## About, press and speaking
+
+- [About Zane Landers: press and speaking](https://astrozane.com/about/press/): coverage in TIME, National Geographic, The Guardian and Sky & Telescope, recorded talks, and booking for talks on telescope making, night vision astronomy, public outreach and smart telescopes.
 
 ## Elsewhere
 

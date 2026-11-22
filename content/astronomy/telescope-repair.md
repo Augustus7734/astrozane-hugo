@@ -23,6 +23,14 @@ zl_faq:
     a: "Yes. I collimate Newtonians, Dobsonians and Schmidt-Cassegrains, and I will show you how to do it yourself."
   - q: "Is my telescope worth fixing?"
     a: "Some are not. If yours is one of them, I will say so."
+  - q: "Can you set up a telescope I got as a gift?"
+    a: "Yes. I will put it together properly, align the finder, check the optics, and take you through a first night with it so you can find things on your own afterward."
+  - q: "Do you make house calls?"
+    a: "Yes, in the Tucson and Phoenix areas. For setup help and a first night out, your own backyard is the best place to do it."
+  - q: "Do you work on computerized and smart telescopes?"
+    a: "Yes. That includes GoTo mounts that will not align or track, and smart telescopes. I have owned and reviewed nearly every smart telescope on the market."
+  - q: "Can you tell me what an old or inherited telescope is worth?"
+    a: "Yes. Send me photos and any names or numbers on it. I have owned more than 500 telescopes and sell them regularly, so I can tell you what it is, what it is worth, and whether it is worth cleaning up before you sell or use it."
 ---
 
 I fix telescopes and help people get theirs working, in person, in the Tucson and Phoenix areas.
@@ -38,6 +46,9 @@ I have been building and repairing telescopes since 2016 and have owned more tha
 - **Cleaning optics.** Mirrors and lenses, done safely.
 - **Restoring older telescopes.** Some of my own [restoration projects](/projects/restoration-projects/) are here.
 - **A second opinion before you buy**, new or used.
+- **Gift telescopes.** Setting up one you were given, at your house, and showing you how to use it.
+- **Computerized and smart telescopes.** GoTo mounts that will not align, and smart telescopes that will not connect or focus.
+- **Old and inherited telescopes.** Working out what you have and what it is worth.
 
 ## How it works
 

@@ -24,7 +24,7 @@ faq:
           No. Pricing is for the group, covering up to 20 guests, so the cost per person drops fast: at the base rate, a two-hour night for a family of five works out to about $80 each, and for a party of ten about $40 each.
       - q: "Can you host more than 20 guests?"
         a: |
-          Yes, up to 100. For 21 to 40 guests, sessions run two hours or longer and start at about $500. For 41 to 100 guests I bring more telescopes, starting at about $700 for 41 to 70 guests and $950 for 71 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $500. For 40 to 100 guests I bring more telescopes, starting at about $700 for 40 to 70 guests and $999 for 70 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
       - q: "Is a deposit required?"
         a: |
           Yes. A deposit is required to hold your date.
@@ -96,7 +96,7 @@ These clips were filmed with a phone held up to the night vision eyepiece on my 
 {{< timelapse src="/videos/night-vision-seagull-nebula.mp4" poster="/images/night-vision-seagull-nebula-poster.jpg" alt="The Seagull Nebula seen live through a night vision eyepiece on a 14.7-inch telescope" caption="The Seagull Nebula, live" >}}
 {{< /cliprow >}}
 
-The Horsehead is famously one of the hardest objects to see in any telescope. With night vision, your whole group can see it in a few seconds each, even with some moonlight or city glow in the sky.
+The Horsehead is famously one of the hardest objects to see in any telescope. With night vision, your whole group can see it in a few seconds each, even with some moonlight or city glow in the sky. More on how it works: [night vision astronomy explained](/astronomy/night-vision/).
 
 ## Tucson Star Party Pricing
 
@@ -110,7 +110,7 @@ Base pricing for the Tucson area, for small groups of 20 or fewer guests:
 
 The rate is for the group, not per person. At the base rate, a two-hour night for a family of five comes to about $80 a person; for a party of ten, about $40.
 
-**More than 20 guests?** For 21 to 40 guests, sessions run two hours or longer and start at **$500**. For 41 to 100 guests I bring more telescopes: **from $700** for 41 to 70 and **from $950** for 71 to 100.
+**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$500**. For 40 to 100 guests I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100.
 
 **Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 
@@ -120,7 +120,7 @@ The rate is for the group, not per person. At the base rate, a two-hour night fo
 
 ## Where to Stargaze Near Tucson
 
-The easiest star party is the one at your place: a backyard, rental, resort, or venue anywhere in Tucson, Oro Valley, Marana, the Catalina Foothills, Vail, Green Valley, Sahuarita, or Sierra Vista. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one.
+The easiest star party is the one at your place: a backyard, rental, resort, or venue anywhere in Tucson, Oro Valley, Marana, the Catalina Foothills, Vail, Green Valley, Sahuarita, or Sierra Vista. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one. My full guide to [stargazing spots near Tucson](/astronomy/stargazing-near-tucson/) has drive times and tips for each.
 
 - **Gabe Zimmerman Trailhead** — on the Arizona Trail near Vail, southeast of town. A quick drive, easy parking, and a real step up from city skies.
 - **Saguaro National Park** — on the edge of the city on both sides, and a certified Urban Night Sky Place. Stargazing among the saguaros without a long drive.
@@ -135,7 +135,7 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
 - **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
 - **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
-- **El Conquistador Tucson, A Hilton Resort.** A stargazing night at the Oro Valley resort, run with Reach for the Stars Arizona.
+- **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 

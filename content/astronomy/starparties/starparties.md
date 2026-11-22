@@ -1,5 +1,6 @@
 ---
 title: "Book A Star Party"
+weight: 1
 summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, and telescope repair. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/"

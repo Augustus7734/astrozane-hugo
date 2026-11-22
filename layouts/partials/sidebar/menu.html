@@ -36,16 +36,22 @@
                             <li class="bullet">
                                 <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
                             </li>
-                            {{/* astrozane.com change: links to other sites listed in this menu entry's "Extra",
-                                 each shown right after the page named in its "After".
-                                 Config:  Extra = [{Name = "Choose A Telescope", URL = "https://telescopicwatch.com/", After = "Current Telescopes"}] */}}
+                            {{/* astrozane.com change: extra links listed in this menu entry's "Extra". One with "After" set to a
+                                 page's sidebar name is shown right after that page; the rest go at the end of the list.
+                                 A link to another site (starting with http) opens in a new tab.
+                                 Config:  Extra = [{Name = "Contact", URL = "/links/contact/"}, {Name = "Choose A Telescope", URL = "https://telescopicwatch.com/"}] */}}
                             {{ $lt := .LinkTitle }}
                             {{ range $menu_item.Extra }}{{ if eq .After $lt }}
                             <li class="bullet">
-                                <a href="{{ .URL }}" target="_blank" rel="noopener">{{ .Name }}</a>
+                                <a href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Name }}</a>
                             </li>
                             {{ end }}{{ end }}
                         {{ end }}
+                        {{ range $menu_item.Extra }}{{ if not .After }}
+                            <li class="bullet">
+                                <a href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Name }}</a>
+                            </li>
+                        {{ end }}{{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}

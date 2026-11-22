@@ -23,11 +23,10 @@ title = "Zane Landers"
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-    {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 8, Extra = [{Name = "Choose A Telescope", URL = "https://telescopicwatch.com/", After = "Current Telescopes"}]},
-    {Name = "About", URL = "/about/", HasChildren = true, Limit = 7},
+    {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 8, Extra = [{Name = "Choose A Telescope", URL = "https://telescopicwatch.com/"}]},
+    {Name = "About", URL = "/about/", HasChildren = true, Limit = 7, Extra = [{Name = "Current Telescopes", URL = "/astronomy/telescopes/"}, {Name = "Contact", URL = "/links/contact/"}]},
     {Name = "Calculators", URL = "/calculators/", HasChildren = true, Limit = 5},
-    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 4},
-    {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5},
+    {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 4, Extra = [{Name = "Telescope Making Links", URL = "/links/atmlinks/"}]},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 

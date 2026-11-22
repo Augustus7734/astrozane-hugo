@@ -1,5 +1,6 @@
 ---
 title: "Current Telescopes"
+sidebar_hide: true
 layout: "single"
 url: "/astronomy/telescopes"
 date: 2024-01-01

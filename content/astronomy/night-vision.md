@@ -1,5 +1,6 @@
 ---
 title: "Night Vision Astronomy Explained"
+weight: 3
 linkTitle: "Night Vision Astronomy"
 description: "What night vision astronomy is, how a PVS-14 image intensifier shows nebulae live at the eyepiece, what it can and cannot do, and how it compares with smart telescopes, from Tucson astronomer Zane Landers."
 layout: "single"

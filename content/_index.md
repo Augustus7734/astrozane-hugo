@@ -107,10 +107,11 @@ I also help moderate [r/telescopes](https://www.reddit.com/r/telescopes/) on Red
 ## Telescopes I have built
 
 - [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): my main telescope
-- [24-inch f/4 Dobsonian]: My newest telescope project
-- [24-inch f/3.5 Dobsonian](/projects/24-inch/):
-- [22-inch f/2.8 meniscus mirror](/projects/22inch-f28/): an ongoing mirror-making project.
-- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): my first homemade telescope which won an award at Stellafane 2018 for optical quality.
+- [24-inch f/4 Dobsonian]: My newest telescope project, to be completed 2027
+- [24-inch f/3.5 Dobsonian](/projects/24-inch/) 
+- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope which won an award at Stellafane 2018 for optical quality.
+
+I also regularly use a 30" f/4.4 Starsplitter, a Celestron orange tube C8 from the 1970s, and an SVBONY MK127 for viewing. I currently image with a ZWO SeeStar S50 Pro.
 
 See [all current telescopes](/astronomy/telescopes/), [more projects](/projects/) and my [astrophotography](/astronomy/astrophotography/).
 

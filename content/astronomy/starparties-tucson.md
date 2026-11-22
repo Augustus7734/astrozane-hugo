@@ -3,6 +3,7 @@ title: "Star Parties in Tucson"
 summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Tucson, Oro Valley, Marana, Vail, and Southern Arizona. Base rates from $300. Now booking November 2026 through May 2027."
 layout: "single"
 url: "/astronomy/starparties/tucson/"
+sidebar_hide: true
 description: "Private, guided star parties in Tucson and Southern Arizona for families, bachelor and bachelorette parties, and small groups. Hand-built telescopes, seated viewing, night vision, base rates from $300."
 images: ["/images/starparty-hero-wide.jpg"]
 service:

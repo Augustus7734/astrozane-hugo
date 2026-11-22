@@ -48,11 +48,14 @@ content/, layouts/, assets/ or static/ folders with them.
   pages and after "Book A Star Party". If one does not show under Astronomy, raise the
   Limit on the Astronomy line of your menu config.
   content/calculators/limiting-magnitude.md
-                                       New page at /calculators/limiting-magnitude/. It loads
-                                       /tools/limiting-magnitude-calculator.html, so put that file in
-                                       static/tools/ next to fov-calculator.html.
-  layouts/shortcodes/tool.html         Used by that page: embeds a tool from static/tools/ in a frame
-                                       that resizes to fit.
+                                       Page at /calculators/limiting-magnitude/. It now holds the
+                                       calculator itself, through the limiting-mag shortcode.
+  layouts/shortcodes/limiting-mag.html The limiting magnitude calculator (the Nov 11 version, with
+                                       your two corrections). It sits inline in the page, so it uses
+                                       the site font and follows light and dark mode. Nothing needs
+                                       to go in static/tools/ for it.
+  layouts/shortcodes/tool.html         No longer used by that page. Embeds any file from
+                                       static/tools/ in a frame that resizes to fit, if you want it.
   layouts/shortcodes/phone.html        Click-to-reveal phone number. In your contact page, replace the
                                        typed number with  {{< phone "##########" >}}  (ten digits). The
                                        digits no longer appear in the page source.
@@ -91,12 +94,39 @@ Structured data on the venue and repair pages
 
 Sidebar: Calculators
 --------------------
-In your site config, add this line to the params.menu list, after the Projects line:
+Calculators does not show until your site config says so. In hugo.toml (or config.toml)
+find the menu = [ ... ] list under [params] and add this line where you want it:
 
     {Name = "Calculators", URL = "/calculators/", HasChildren = true, Limit = 5},
 
-Also check the Limit on your Projects line. There are now eight project pages, so a
-Limit of 7 would push Furniture Projects off the sidebar.
+Telescope Repair stays nested under Astronomy and needs no config line.
+
+  layouts/partials/sidebar/menu.html   Copy of the theme's sidebar menu with one working
+                                       addition: a page with "sidebar_hide: true" in its
+                                       front matter is left out of its section's list. (It
+                                       also accepts "Link = true" on a menu line for a
+                                       top-level link to a single page, which nothing uses
+                                       right now.) If you already have your own
+                                       layouts/partials/sidebar/menu.html, keep yours and
+                                       tell me; I will merge the two.
+
+Trimming the sidebar
+--------------------
+Any page with this line in its front matter is left out of the sidebar. The page itself
+and every link to it keep working:
+
+    sidebar_hide: true
+
+Already set in this package: the venue page. Add the line yourself to
+these four pages (anywhere between the two --- lines, not indented):
+
+    Star Parties in Tucson
+    Star Parties in Phoenix & Scottsdale
+    Other Telescope Projects
+    Furniture Projects
+
+The Tucson and Phoenix copies in REPLACE-MANUALLY already have it, if you would rather
+paste those over again.
 
 Before you deploy
 -----------------

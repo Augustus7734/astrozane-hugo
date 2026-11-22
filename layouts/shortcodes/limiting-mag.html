@@ -1,0 +1,394 @@
+{{/*
+  Telescope limiting magnitude calculator, inline in the page so it picks up the
+  site font and light/dark mode. Usage:  {{< limiting-mag >}}
+*/}}
+<div class="lmcalc" id="lmcalc">
+  <div class="lm-head">
+    <div class="lm-title">Limiting Magnitude Calculator</div>
+    <div class="lm-seg" role="tablist" aria-label="Mode">
+      <button type="button" data-mode="star" class="on" role="tab">Stars</button>
+      <button type="button" data-mode="dso" role="tab">Deep-sky (surface brightness)</button>
+    </div>
+  </div>
+
+  <div class="lm-grid">
+    <div class="lm-inputs">
+
+      <fieldset>
+        <legend>Sky</legend>
+        <div class="lm-row2">
+          <label>Bortle class
+            <select id="lm-bortle">
+              <option value="1">1 – Excellent dark site</option>
+              <option value="2">2 – Truly dark site</option>
+              <option value="3">3 – Rural</option>
+              <option value="4">4 – Rural/suburban transition</option>
+              <option value="5">5 – Suburban</option>
+              <option value="6">6 – Bright suburban</option>
+              <option value="7">7 – Suburban/urban transition</option>
+              <option value="8">8 – City</option>
+              <option value="9">9 – Inner city</option>
+            </select>
+          </label>
+          <label>SQM (mag/arcsec²)
+            <input type="number" id="lm-sqm" min="16" max="22.2" step="0.05" value="21.1">
+          </label>
+        </div>
+        <input type="range" id="lm-sqm-r" min="16" max="22.2" step="0.05" value="21.1" aria-label="SQM slider">
+      </fieldset>
+
+      <fieldset>
+        <legend>Site &amp; atmosphere</legend>
+        <div class="lm-row2">
+          <label>Site elevation
+            <span class="lm-unit">
+              <input type="number" id="lm-elev" min="0" max="15000" step="100" value="2500">
+              <select id="lm-elev-u" aria-label="Elevation unit"><option value="ft">ft</option><option value="m">m</option></select>
+            </span>
+          </label>
+          <label>Object altitude in sky <output id="lm-alt-o"></output>
+            <input type="range" id="lm-alt" min="5" max="90" step="1" value="60">
+          </label>
+        </div>
+        <label>Relative humidity <output id="lm-rh-o"></output>
+          <input type="range" id="lm-rh" min="5" max="95" step="1" value="40">
+        </label>
+        <label>Dust / aerosols <output id="lm-aer-o"></output>
+          <input type="range" id="lm-aer" min="0" max="10" step="0.5" value="3">
+        </label>
+        <label>Seeing <output id="lm-see-o"></output>
+          <input type="range" id="lm-see" min="0.5" max="5" step="0.1" value="2">
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Telescope</legend>
+        <div class="lm-row2">
+          <label>Aperture
+            <span class="lm-unit">
+              <input type="number" id="lm-ap" min="1" max="2000" step="0.1" value="8">
+              <select id="lm-ap-u" aria-label="Aperture unit"><option value="in">in</option><option value="mm">mm</option></select>
+            </span>
+          </label>
+          <label>Type
+            <select id="lm-type">
+              <option value="refractor">Refractor (no obstruction)</option>
+              <option value="newtonian" selected>Newtonian (25% obstruction)</option>
+              <option value="cat">Catadioptric (33% obstruction)</option>
+            </select>
+          </label>
+        </div>
+        <div class="lm-row2">
+          <label>Magnification
+            <span class="lm-unit">
+              <input type="number" id="lm-mag" min="1" max="5000" step="1" value="100">
+              <span class="lm-x">×</span>
+            </span>
+          </label>
+          <label>Viewing
+            <select id="lm-view">
+              <option value="mono">Single eyepiece</option>
+              <option value="binoviewer">Binoviewer (~20% dimmer)</option>
+              <option value="binoscope">Binoscope (~1.4× brighter)</option>
+            </select>
+          </label>
+        </div>
+        <label class="lm-check"><input type="checkbox" id="lm-auto" checked> Use the optimal magnification</label>
+      </fieldset>
+
+      <fieldset id="lm-obj" hidden>
+        <legend>Object size</legend>
+        <div class="lm-row2">
+          <label>Major axis (arcmin)
+            <input type="number" id="lm-sa" min="0.05" max="600" step="0.1" value="5">
+          </label>
+          <label>Minor axis (arcmin)
+            <input type="number" id="lm-sb" min="0.05" max="600" step="0.1" value="3">
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Observer</legend>
+        <div class="lm-seg lm-skill" id="lm-skill">
+          <button type="button" data-skill="beginner">Beginner</button>
+          <button type="button" data-skill="intermediate" class="on">Intermediate</button>
+          <button type="button" data-skill="advanced">Advanced</button>
+          <button type="button" data-skill="expert">Expert</button>
+        </div>
+      </fieldset>
+    </div>
+
+    <div class="lm-out">
+      <div class="lm-big">
+        <div class="lm-big-label" id="lm-big-label"></div>
+        <div class="lm-big-val"><span id="lm-big-val"></span><small id="lm-big-unit"></small></div>
+        <div class="lm-big-sub" id="lm-big-sub"></div>
+      </div>
+      <div class="lm-note" id="lm-note"></div>
+      <div class="lm-chart" id="lm-chart" role="img" aria-label="Limit versus magnification"></div>
+      <dl class="lm-stats" id="lm-stats"></dl>
+      <p class="lm-fine">Assumes a fully dark-adapted 7&nbsp;mm pupil, averted vision and clean optics. SQM is taken at the zenith; the sky is modelled brighter toward the horizon. Real results vary with the observer and the night.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.lmcalc{--lm-accent:#4f8cff;--lm-line:color-mix(in srgb,currentColor 20%,transparent);--lm-soft:color-mix(in srgb,currentColor 6%,transparent);--lm-dim:color-mix(in srgb,currentColor 65%,transparent);
+  box-sizing:border-box;max-width:960px;margin:0 auto;padding:4px;font:inherit;font-family:inherit;line-height:1.4;color:inherit}
+.lmcalc *,.lmcalc *::before,.lmcalc *::after{box-sizing:border-box}
+.lmcalc .lm-head{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;margin-bottom:14px}
+.lmcalc .lm-title{font-size:1.25em;font-weight:700}
+.lmcalc .lm-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:720px){.lmcalc .lm-grid{grid-template-columns:minmax(0,1fr)}.lmcalc .lm-out{order:-1}}
+.lmcalc fieldset{border:1px solid var(--lm-line);border-radius:10px;margin:0 0 12px;padding:10px 12px 12px;min-width:0}
+.lmcalc legend{font-size:.8em;font-weight:700;text-transform:uppercase;letter-spacing:.06em;padding:0 6px;color:var(--lm-dim)}
+.lmcalc label{display:block;font-size:.9em;margin:8px 0 0;min-width:0}
+.lmcalc .lm-row2{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px}
+@media (max-width:420px){.lmcalc .lm-row2{grid-template-columns:minmax(0,1fr)}}
+.lmcalc input[type=number],.lmcalc select{display:block;width:100%;margin-top:4px;padding:7px 8px;font:inherit;font-size:1em;color:inherit;background:var(--lm-soft);border:1px solid var(--lm-line);border-radius:7px;min-width:0}
+.lmcalc select option{color:#111;background:#fff}
+.lmcalc input:disabled{opacity:.55}
+.lmcalc input[type=range]{display:block;width:100%;margin:8px 0 2px;accent-color:var(--lm-accent)}
+.lmcalc output{float:right;color:var(--lm-dim);font-variant-numeric:tabular-nums}
+.lmcalc .lm-unit{display:flex;gap:6px;align-items:center}
+.lmcalc .lm-unit input{flex:1 1 auto}
+.lmcalc .lm-unit select{flex:0 0 4.2em;width:4.2em}
+.lmcalc .lm-x{margin-top:4px;color:var(--lm-dim)}
+.lmcalc .lm-check{display:flex;gap:8px;align-items:center;margin-top:10px}
+.lmcalc .lm-check input{accent-color:var(--lm-accent);width:1.05em;height:1.05em;margin:0}
+.lmcalc .lm-seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--lm-line);border-radius:9px;overflow:hidden}
+.lmcalc .lm-seg button{font:inherit;font-size:.9em;color:inherit;background:transparent;border:0;padding:7px 12px;cursor:pointer;flex:1 1 auto}
+.lmcalc .lm-seg button+button{border-left:1px solid var(--lm-line)}
+.lmcalc .lm-seg button.on{background:var(--lm-accent);color:#fff}
+.lmcalc .lm-skill{display:flex;margin-top:4px}
+@media (max-width:420px){.lmcalc .lm-skill button{flex:1 1 50%}.lmcalc .lm-skill button:nth-child(3){border-left:0}.lmcalc .lm-skill button:nth-child(n+3){border-top:1px solid var(--lm-line)}}
+.lmcalc .lm-out{border:1px solid var(--lm-line);border-radius:10px;padding:16px;position:sticky;top:12px}
+@media (max-width:720px){.lmcalc .lm-out{position:static}}
+.lmcalc .lm-big-label{font-size:.8em;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--lm-dim)}
+.lmcalc .lm-big-val{font-size:3em;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums;color:var(--lm-accent)}
+.lmcalc .lm-big-val small{font-size:.32em;font-weight:600;margin-left:.4em;color:var(--lm-dim)}
+.lmcalc .lm-big-sub{font-size:.9em;color:var(--lm-dim);min-height:1.4em}
+.lmcalc .lm-note{font-size:.9em;margin:10px 0 4px;padding:8px 10px;border-radius:8px;background:var(--lm-soft)}
+.lmcalc .lm-chart{margin:10px 0 4px}
+.lmcalc .lm-chart svg{display:block;width:100%;height:auto;overflow:visible}
+.lmcalc .lm-stats{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 12px;margin:10px 0 0;font-size:.9em}
+.lmcalc .lm-stats dt{color:var(--lm-dim);font-weight:400;margin:0}
+.lmcalc .lm-stats dd{margin:0;text-align:right;font-variant-numeric:tabular-nums}
+.lmcalc .lm-fine{font-size:.78em;color:var(--lm-dim);margin:12px 0 0}
+</style>
+
+<script>
+(function(){
+// MODEL-START
+var LM=(function(){
+  var PUPIL=7;            // dark-adapted eye pupil, mm
+  var THROUGHPUT=0.85;    // optics transmission before central obstruction
+  var ZP_STAR=1.61;       // zero point: expert, point sources (calibrated to 14.7" benchmark)
+  var ZP_EXT=1.5;         // zero point: expert, large low-contrast objects
+  var SKILL={beginner:-1.4,intermediate:-0.8,advanced:-0.35,expert:0};
+  var OBSTR={refractor:0,newtonian:0.25,cat:0.33};
+  var VIEW={mono:1,binoscope:1.4,binoviewer:0.8};
+  var FC_PER_NL_AS2=6.950e-18; // foot-candles from 1 nL over 1 arcsec^2
+  function log10(x){return Math.log(x)/Math.LN10;}
+  function sqmToNl(mu){return 34.08*Math.exp(20.7233-0.92104*mu);}
+  function nlToSqm(b){return (20.7233-Math.log(b/34.08))/0.92104;}
+  function airmass(alt){var c=Math.sin(alt*Math.PI/180);return 1/(c+0.025*Math.exp(-11*c));}
+  // extinction coefficient, mag per airmass (Rayleigh + ozone + aerosol + water vapour)
+  function extinction(elevKm,rh,aer){
+    var r=Math.min(0.97,Math.max(0.03,rh/100));
+    var hum=Math.pow((1-0.32/Math.log(r))/(1-0.32/Math.log(0.4)),1.33);
+    var load=0.25*Math.pow(16,aer/10);
+    return 0.1066*Math.exp(-elevKm/8.2)+0.031+0.12*load*hum*Math.exp(-elevKm/1.5)+0.03*r*Math.exp(-elevKm/3);
+  }
+  // sky brightness at the object's altitude given zenith SQM
+  function skyAt(mu,alt){var s=Math.cos(alt*Math.PI/180);return mu-2.5*log10(0.4+0.6/Math.sqrt(1-0.96*s*s));}
+  // threshold illuminance (fc) of a point source against background B (nL), Hecht/Schaefer
+  function pointThr(B){
+    var sc=Math.pow(10,-9.8)*Math.pow(1+Math.sqrt(Math.pow(10,-1.9)*B),2);
+    var ph=Math.pow(10,-8.35)*Math.pow(1+Math.sqrt(Math.pow(10,-5.9)*B),2);
+    return Math.min(sc,ph);
+  }
+  function calc(p){
+    var D=p.D,M=Math.max(1,p.M),o=OBSTR[p.type]||0;
+    var exitP=D/M,dEff=Math.min(exitP,PUPIL),Deff=dEff*M;
+    var T=THROUGHPUT*(1-o*o);
+    var tau=T*Math.pow(dEff/PUPIL,2);           // surface-brightness factor at the eye
+    var k=extinction(p.elevKm,p.rh,p.aerosol),X=airmass(p.alt),ext=k*X;
+    var muSky=skyAt(p.sqm,p.alt);
+    var Ba=sqmToNl(muSky)*tau;
+    // sky-brightness penalty beyond the eyepiece-background physics (dark adaptation, scattered light)
+    var skill=(SKILL[p.skill]||0)-(p.mode==='dso'?0.2*Math.max(0,21.6-p.sqm):2.0*(1-Math.exp(-(22-p.sqm)/3)));
+    var view=VIEW[p.view]||1;
+    var out={exitPupil:exitP,Deff:Deff,k:k,X:X,ext:ext,muSky:muSky,stopped:exitP>PUPIL*1.02};
+    if(p.mode==='dso'){
+      var area=Math.PI/4*p.sizeA*p.sizeB*3600;  // arcsec^2
+      var Aa=area*M*M;
+      var ricco=pointThr(Ba)/FC_PER_NL_AS2/Aa/(Math.pow(10,0.4*(skill+ZP_STAR))*view);
+      var plat=0.25*Math.pow(1+Math.sqrt(Ba/2.6),2)/(Math.pow(10,0.4*(skill+ZP_EXT))*view);
+      var dB=Math.pow(Math.sqrt(ricco)+Math.sqrt(plat),2);
+      var Bobj=dB/(tau*Math.pow(10,-0.4*ext));
+      out.limit=nlToSqm(Bobj);
+      out.area=area;
+      out.intMag=out.limit-2.5*log10(area);
+      out.apparentDeg=Math.sqrt(p.sizeA*p.sizeB)*M/60;
+      out.contrast=Bobj/sqmToNl(muSky);
+    }else{
+      var theta=Math.sqrt(p.seeing*p.seeing+Math.pow(116/Deff,2)); // arcsec
+      var Fr=Math.pow(1+Math.pow(2*theta*M/900,2),0.25);
+      out.limit=-16.57-2.5*log10(pointThr(Ba))+2.5*log10(T*Math.pow(Deff/PUPIL,2))-ext-2.5*log10(Fr)+2.5*log10(view)+skill+ZP_STAR;
+      out.blurArcmin=theta*M/60;
+    }
+    return out;
+  }
+  function magRange(D){return [Math.max(1,D/10),Math.max(20,D*3.5)];}
+  function curve(p,n){
+    var r=magRange(p.D),pts=[],q={},i,key;
+    for(key in p)q[key]=p[key];
+    for(i=0;i<n;i++){q.M=r[0]*Math.pow(r[1]/r[0],i/(n-1));pts.push([q.M,calc(q).limit]);}
+    return pts;
+  }
+  function optimum(p){
+    var pts=curve(p,240),b=pts[0],i;
+    for(i=1;i<pts.length;i++)if(pts[i][1]>b[1])b=pts[i];
+    return {M:b[0],limit:b[1]};
+  }
+  return {calc:calc,curve:curve,optimum:optimum,magRange:magRange,PUPIL:PUPIL};
+})();
+// MODEL-END
+if(typeof module!=='undefined'&&module.exports){module.exports=LM;return;}
+
+var root=document.getElementById('lmcalc');if(!root)return;
+function $(id){return document.getElementById(id);}
+var BORTLE_SQM=[22.0,21.93,21.8,21.1,20.0,19.2,18.65,18.1,17.5];
+function sqmToBortle(s){return s>=21.99?1:s>=21.89?2:s>=21.69?3:s>=20.49?4:s>=19.5?5:s>=18.94?6:s>=18.38?7:s>=17.8?8:9;}
+var state={mode:'star',skill:'intermediate'};
+function num(id,fallback){var v=parseFloat($(id).value);return isFinite(v)?v:fallback;}
+function clamp(v,a,b){return Math.min(b,Math.max(a,v));}
+function fmt(v,d){return v.toFixed(d);}
+
+function setSqm(v,from){
+  v=clamp(v,16,22.2);
+  if(from!=='num')$('lm-sqm').value=fmt(v,2);
+  if(from!=='range')$('lm-sqm-r').value=v;
+  if(from!=='bortle')$('lm-bortle').value=sqmToBortle(v);
+}
+$('lm-bortle').addEventListener('change',function(){setSqm(BORTLE_SQM[this.value-1],'bortle');update();});
+$('lm-sqm').addEventListener('input',function(){var v=parseFloat(this.value);if(isFinite(v)){setSqm(v,'num');update();}});
+$('lm-sqm').addEventListener('change',function(){setSqm(num('lm-sqm',21),'');update();});
+$('lm-sqm-r').addEventListener('input',function(){setSqm(parseFloat(this.value),'range');update();});
+
+$('lm-ap-u').addEventListener('change',function(){
+  var v=num('lm-ap',8);
+  $('lm-ap').value=this.value==='mm'?Math.round(v*25.4):+(v/25.4).toFixed(1);
+  $('lm-ap').step=this.value==='mm'?1:0.1;update();
+});
+$('lm-elev-u').addEventListener('change',function(){
+  var v=num('lm-elev',0);
+  $('lm-elev').value=this.value==='m'?Math.round(v*0.3048/10)*10:Math.round(v/0.3048/100)*100;
+  $('lm-elev').step=this.value==='m'?50:100;update();
+});
+Array.prototype.forEach.call(root.querySelectorAll('.lm-head .lm-seg button'),function(b){
+  b.addEventListener('click',function(){state.mode=b.getAttribute('data-mode');
+    Array.prototype.forEach.call(b.parentNode.children,function(c){c.classList.toggle('on',c===b);});
+    $('lm-obj').hidden=state.mode!=='dso';update();});
+});
+Array.prototype.forEach.call($('lm-skill').children,function(b){
+  b.addEventListener('click',function(){state.skill=b.getAttribute('data-skill');
+    Array.prototype.forEach.call(b.parentNode.children,function(c){c.classList.toggle('on',c===b);});update();});
+});
+['lm-elev','lm-alt','lm-rh','lm-aer','lm-see','lm-ap','lm-type','lm-mag','lm-view','lm-auto','lm-sa','lm-sb'].forEach(function(id){
+  $(id).addEventListener('input',update);$(id).addEventListener('change',update);
+});
+
+function aerLabel(v){return v<=1?'pristine':v<=3.5?'clean':v<=6?'average':v<=8?'hazy':'heavy haze / smoke';}
+function seeLabel(v){return v<=1?'excellent':v<=1.8?'good':v<=3?'average':'poor';}
+
+function params(){
+  var ap=clamp(num('lm-ap',8),0.1,5000);
+  var D=$('lm-ap-u').value==='in'?ap*25.4:ap;
+  var el=clamp(num('lm-elev',0),0,20000);
+  return {mode:state.mode,skill:state.skill,sqm:clamp(num('lm-sqm',21),16,22.2),
+    elevKm:($('lm-elev-u').value==='ft'?el*0.3048:el)/1000,
+    rh:num('lm-rh',40),aerosol:num('lm-aer',3),seeing:num('lm-see',2),alt:num('lm-alt',60),
+    D:Math.max(10,D),M:Math.max(1,num('lm-mag',100)),type:$('lm-type').value,view:$('lm-view').value,
+    sizeA:Math.max(0.01,num('lm-sa',5)),sizeB:Math.max(0.01,num('lm-sb',3))};
+}
+
+function chart(p,pts,opt,cur){
+  var W=440,H=210,l=40,r=12,t=12,b=34,i;
+  var x0=Math.log(pts[0][0]),x1=Math.log(pts[pts.length-1][0]);
+  var ymax=-1e9,ymin=1e9;
+  for(i=0;i<pts.length;i++){if(pts[i][1]>ymax)ymax=pts[i][1];if(pts[i][1]<ymin)ymin=pts[i][1];}
+  ymin=Math.max(ymin,ymax-4);
+  var step=(ymax-ymin)>2.2?1:0.5;
+  var yb=Math.floor(ymin/step)*step,yt=Math.ceil((ymax+0.05)/step)*step;
+  function X(m){return l+(Math.log(m)-x0)/(x1-x0)*(W-l-r);}
+  function Y(v){return t+(yt-Math.max(yb,v))/(yt-yb)*(H-t-b);}
+  var s='<svg viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg" font-size="11" fill="currentColor">';
+  for(var y=yb;y<=yt+1e-6;y+=step){
+    s+='<line x1="'+l+'" x2="'+(W-r)+'" y1="'+Y(y)+'" y2="'+Y(y)+'" stroke="currentColor" stroke-opacity=".15"/>';
+    s+='<text x="'+(l-6)+'" y="'+(Y(y)+4)+'" text-anchor="end" fill-opacity=".7">'+(step<1?y.toFixed(1):y.toFixed(0))+'</text>';
+  }
+  [5,10,20,50,100,200,500,1000,2000,5000].forEach(function(m){
+    if(Math.log(m)<x0||Math.log(m)>x1)return;
+    s+='<line x1="'+X(m)+'" x2="'+X(m)+'" y1="'+(H-b)+'" y2="'+(H-b+4)+'" stroke="currentColor" stroke-opacity=".5"/>';
+    s+='<text x="'+X(m)+'" y="'+(H-b+16)+'" text-anchor="middle" fill-opacity=".7">'+m+'×</text>';
+  });
+  s+='<text x="'+((l+W-r)/2)+'" y="'+(H-2)+'" text-anchor="middle" fill-opacity=".7">Magnification</text>';
+  var d='';
+  for(i=0;i<pts.length;i++)d+=(i?'L':'M')+X(pts[i][0]).toFixed(1)+' '+Y(pts[i][1]).toFixed(1);
+  s+='<line x1="'+X(opt.M)+'" x2="'+X(opt.M)+'" y1="'+t+'" y2="'+(H-b)+'" stroke="currentColor" stroke-opacity=".45" stroke-dasharray="3 3"/>';
+  s+='<path d="'+d+'" fill="none" stroke="var(--lm-accent)" stroke-width="2.5" stroke-linejoin="round"/>';
+  var cm=clamp(p.M,pts[0][0],pts[pts.length-1][0]);
+  s+='<circle cx="'+X(cm)+'" cy="'+Y(cur.limit)+'" r="5" fill="var(--lm-accent)" stroke="#fff" stroke-width="1.5"/>';
+  s+='</svg>';
+  return s;
+}
+
+function update(){
+  var p=params(),auto=$('lm-auto').checked;
+  $('lm-alt-o').textContent=p.alt+'°';
+  $('lm-rh-o').textContent=p.rh+'%';
+  $('lm-aer-o').textContent=aerLabel(p.aerosol);
+  $('lm-see-o').textContent=fmt(p.seeing,1)+'″ ('+seeLabel(p.seeing)+')';
+  var opt=LM.optimum(p);
+  $('lm-mag').disabled=auto;
+  if(auto){p.M=Math.round(opt.M);$('lm-mag').value=p.M;}
+  var r=LM.calc(p),pts=LM.curve(p,120),dso=p.mode==='dso';
+  $('lm-big-label').textContent=dso?'Faintest detectable surface brightness':'Faintest detectable star';
+  $('lm-big-val').textContent=fmt(r.limit,1);
+  $('lm-big-unit').textContent=dso?'mag/arcsec²':'mag';
+  $('lm-big-sub').textContent=dso
+    ?'For a '+p.sizeA+'′ × '+p.sizeB+'′ object: about magnitude '+fmt(r.intMag,1)+' integrated'
+    :'at '+Math.round(p.M)+'× ('+fmt(r.exitPupil,1)+' mm exit pupil)';
+  var note,loss=opt.limit-r.limit;
+  if(r.stopped)note='Exit pupil is wider than a '+LM.PUPIL+' mm eye pupil, so the aperture is effectively stopped down to '+Math.round(r.Deff)+' mm. Use more magnification.';
+  else if(loss<0.08)note='You are at or near the optimal magnification for these conditions.';
+  else if(p.M<opt.M)note=dso
+    ?'Below optimal: the object is still too small in the eyepiece. About '+Math.round(opt.M)+'× gains '+fmt(loss,1)+' mag.'
+    :'Below optimal: the sky background is still bright in the eyepiece. About '+Math.round(opt.M)+'× gains '+fmt(loss,1)+' mag.';
+  else note=dso
+    ?'Above optimal: the object and sky are both too dim in the eyepiece. About '+Math.round(opt.M)+'× gains '+fmt(loss,1)+' mag.'
+    :'Above optimal: seeing and diffraction are smearing stars. About '+Math.round(opt.M)+'× gains '+fmt(loss,1)+' mag.';
+  $('lm-note').textContent=note;
+  $('lm-chart').innerHTML=chart(p,pts,opt,r);
+  var rows=[
+    ['Optimal magnification',Math.round(opt.M)+'× → '+fmt(opt.limit,1)],
+    ['Exit pupil',fmt(r.exitPupil,1)+' mm'],
+    ['Sky at object altitude',fmt(r.muSky,2)+' mag/arcsec²'],
+    ['Extinction',fmt(r.k,2)+' mag/airmass × '+fmt(r.X,2)+' = '+fmt(r.ext,2)+' mag']
+  ];
+  if(dso){
+    rows.push(['Apparent size in eyepiece',fmt(r.apparentDeg,1)+'°']);
+    rows.push(['Object vs. sky at the limit',(r.contrast>=1?fmt(r.contrast,1)+'×':fmt(r.contrast*100,1)+'%')+' of sky brightness']);
+  }else{
+    rows.push(['Apparent star image size',fmt(r.blurArcmin,1)+'′']);
+  }
+  $('lm-stats').innerHTML=rows.map(function(x){return '<dt>'+x[0]+'</dt><dd>'+x[1]+'</dd>';}).join('');
+  if(window.parent!==window){try{window.parent.postMessage({lmcalcHeight:document.documentElement.scrollHeight},'*');}catch(e){}}
+}
+setSqm(21.1,'');update();
+window.addEventListener('resize',update);
+})();
+</script>

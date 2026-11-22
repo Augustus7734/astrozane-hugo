@@ -45,7 +45,7 @@
     {{ with .lead }}<p class="zl-lead">{{ . }}</p>{{ end }}
     {{ with .buttons }}
     <p class="zl-actions">
-      {{ range . }}<a class="zl-btn {{ if eq .style "solid" }}zl-btn-primary{{ else }}zl-btn-secondary{{ end }}" href="{{ .url }}">{{ .label }}</a>
+      {{ range . }}<a class="zl-btn {{ if eq .style "solid" }}zl-btn-primary{{ else }}zl-btn-secondary{{ end }}" href="{{ .url }}"{{ if .external }} target="_blank" rel="noopener"{{ end }}>{{ .label }}</a>
       {{ end }}
     </p>
     {{ end }}

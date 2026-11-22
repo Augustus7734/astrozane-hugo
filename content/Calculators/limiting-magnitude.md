@@ -7,7 +7,7 @@ weight: 2
 
 How faint can you go? This estimates the faintest star you can see through a given telescope, or the faintest surface brightness for a deep-sky object, under your sky.
 
-{{< tool src="/tools/limiting-magnitude-calculator.html" title="Telescope limiting magnitude calculator" >}}
+{{< limiting-mag >}}
 
 ## What it takes into account
 

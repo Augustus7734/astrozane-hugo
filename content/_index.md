@@ -18,6 +18,7 @@ hero:
   # image: "/images/zane-landers-telescope-milky-way.jpg"
   # image_alt: "Zane Landers beside his hand-built 14.7-inch Dobsonian telescope under the Milky Way near Tucson, Arizona"
   # Buttons under the intro. style: "solid" fills the button red; anything else gives a red outline.
+  # external: true opens the link in a new tab.
   buttons:
     - label: "Book a star party"
       url: "/astronomy/starparties/"
@@ -26,6 +27,9 @@ hero:
       url: "/links/contact/"
     - label: "Hire me"
       url: "#hire-me-marketing-communications-and-content"
+    - label: "eBay store"
+      url: "https://www.ebay.com/str/astrozane"
+      external: true
 
 cards:
   - title: "Book a private star party"

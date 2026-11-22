@@ -3,6 +3,7 @@ title: "Star Parties for Resorts, Hotels, Vineyards and Venues"
 description: "Guided star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Flat-rate, ticketed and guest add-on options."
 layout: "single"
 url: "/astronomy/starparties/venues/"
+sidebar_hide: true
 zl_service:
   name: "Star parties for resorts, hotels, vineyards and venues"
   type: "Guided star party and stargazing event"

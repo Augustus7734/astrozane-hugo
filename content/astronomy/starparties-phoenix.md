@@ -3,6 +3,7 @@ title: "Star Parties in Phoenix & Scottsdale"
 summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Phoenix, Scottsdale, and the Valley — at your place or a dark-sky site. Base rates from $500. Now booking November 2026 through May 2027."
 layout: "single"
 url: "/astronomy/starparties/phoenix/"
+sidebar_hide: true
 description: "Private, guided star parties in Phoenix, Scottsdale, and the Valley for families, bachelor and bachelorette parties, and small groups. Hand-built telescopes, seated viewing, night vision, base rates from $500."
 images: ["/images/starparty-hero-wide.jpg"]
 service:

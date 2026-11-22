@@ -53,7 +53,7 @@ faq:
   - q: "Who is Zane Landers?"
     a: "Zane Landers is an amateur astronomer, telescope maker and science writer in Tucson, Arizona. He hosts private star parties through AstroZane, is Lead Writer and Editor of TelescopicWatch, writes for Live Science, serves on the founding board of DarkSky Southern Arizona and moderates r/telescopes. He has owned more than 500 telescopes, and his telescope making has been covered by TIME, National Geographic, The Guardian and Sky & Telescope."
   - q: "How much does a private star party cost in Tucson or Phoenix?"
-    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $500. Larger events are available for up to 100 guests, from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
+    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $600. Larger events are available for up to 100 guests, from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
   - q: "What do guests see at an AstroZane star party?"
     a: "Guests look through the eyepiece at the Moon, planets, double stars, star clusters, galaxies and nebulae, chosen for what is best placed on the night. Sessions use a hand-built 14.7-inch Dobsonian telescope with seated viewing, a second smaller telescope, binoculars and a PVS-14 night vision device that shows nebulae such as Orion and the Horsehead live. No screens are used."
   - q: "Where does AstroZane host star parties?"
@@ -86,19 +86,20 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 |---|---|---|
 | [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours |
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
-| [Destination star parties](/astronomy/starparties/) | From $500 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
+| [Destination star parties](/astronomy/starparties/) | From $600 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
+| [Large groups](/astronomy/starparties/) | From $500 | 21 to 100 guests, with extra telescopes above 40 |
 
-Prices are base estimates for up to 20 guests and depend on the date, location and extras. Larger events for up to 100 guests start at $500. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
+Prices are base estimates and depend on the date, location and extras. The first three rows are for up to 20 guests. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 
 **[See star party details and pricing](/astronomy/starparties/)** or **[ask about a date](/links/contact/)**.
 
 Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options for January through May 2027 and August through December 2027.
 
-I also set up telescopes on the sidewalk in Tucson for anyone walking by. That is free: see [sidewalk astronomy](/astronomy/sidewalk-astronomy/).
+I also set up telescopes on the sidewalk in Tucson for anyone walking by, and I do public outreach with the Huachuca Astronomy Club in Sierra Vista. That is free: see [sidewalk astronomy](/astronomy/sidewalk-astronomy/).
 
 ## Telescope reviews and buying advice
 
-Since 2018 I have been Lead Writer and Editor at [TelescopicWatch](https://telescopicwatch.com/), a telescope review site that ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use. I have owned more than 500 telescopes, and I test the optics of most instruments I review on the bench or on a star. That includes nearly every smart telescope on the market, which I have owned and reviewed for TelescopicWatch: ZWO's Seestars, the Dwarf telescopes, the Vaonis Vespera and more. My [astrophotography](/astronomy/astrophotography/) page shows what each of them can do.
+Since 2018 I have been Lead Writer and Editor at [TelescopicWatch](https://telescopicwatch.com/), a telescope review site that ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use. I have owned more than 500 telescopes from nearly every brand, including premium names like Questar, Astro-Physics, Takahashi and Obsession, and I test the optics of most instruments I review on the bench or on a star. That includes nearly every smart telescope on the market, which I have owned and reviewed for TelescopicWatch: ZWO's Seestars, the Dwarf telescopes, the Vaonis Vespera and more. My [astrophotography](/astronomy/astrophotography/) page shows what each of them can do.
 
 If you are choosing a first telescope, start with the [TelescopicWatch telescope rankings](https://telescopicwatch.com/best-telescope-reviews/). They cover Dobsonians, refractors, computerized and smart telescopes at every budget, and they say plainly which popular models to avoid.
 
@@ -122,16 +123,16 @@ For hands-on help, I do [telescope repair and setup](/astronomy/telescope-repair
 
 ## Telescopes I have built
 
-- [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): my main telescope
+- [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): My main telescope, built around a quartz mirror by Steve Dodds of Nova Optical.
 - [24-inch f/4 Dobsonian](/projects/24-inch-f4/): My newest telescope project, to be completed 2027
-- [24-inch f/3.5 Dobsonian](/projects/24-inch/): My previous big telescope, which now lives in California.
-- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope which won an award at Stellafane 2018 for optical quality.
+- [24-inch f/3.5 Dobsonian](/projects/24-inch/): My previous big telescope. I sold it while living in a studio apartment, and it now lives in California.
+- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope, with a mirror I ground myself. It won an award at Stellafane 2018 for optical quality.
 - [20.5-inch f/4.5 Dobsonian](/projects/other-telescope-projects/#205-inch-f45-dobsonian-telescope): Built around a spray-silvered mirror.
 - 16-inch f/4.9 Dobsonian: My first large Dob.
 - [10-inch f/3.2 Newtonian](/projects/other-telescope-projects/#10-inch-f32-newtonian-telescope): The first telescope I built faster than f/4.
 - [Hadley 114](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig): A 3D-printed 114mm Newtonian that I helped design.
 
-I also regularly use a 30" f/4.4 Starsplitter that I share with Cole Rees, a Celestron orange tube C8 built in 1980, and an SVBONY MK127 for viewing. The 30" lives at Chiricahua Sky Village and is not available for star parties. I currently image with a ZWO SeeStar S50 Pro.
+I also regularly use a 30" f/4.4 Starsplitter that I share with Cole Rees, an 8" f/6 Dobsonian built by John Dobson himself, a Celestron orange tube C8 built in 1980, and an SVBONY MK127 for viewing. The 30" lives at Chiricahua Sky Village and is not available for star parties. I currently image with a ZWO SeeStar S50 Pro.
 
 See [all current telescopes](/astronomy/telescopes/), [more projects](/projects/), my [astrophotography](/astronomy/astrophotography/) and my [telescope calculators](/calculators/) for field of view and limiting magnitude.
 

@@ -20,7 +20,7 @@ Unlike my previous builds, I designed, welded, and constructed the mirror cell o
 
 ![Compacted](images/invan.jpeg)
 
-The scope was rebuilt in late 2021 for a lighter weight, but I never used it much after moving to Tucson, so it is now in a new home in California.
+The scope was rebuilt in late 2021 for a lighter weight, but I never used it much after moving to Tucson. I was living in a studio apartment at the time and had nowhere to keep a 24" telescope, so I sold it, and it is now in a new home in California.
 
 ![DPAC image](images/dpaccropped.jpg)
 

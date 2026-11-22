@@ -26,7 +26,7 @@ zl_service:
       description: "A private 2-hour evening for the client's group, scheduled around dinner or the reception."
       min_price: 500
     - name: "Larger events, 41 to 100 guests"
-      description: "More telescopes and up to 3 hours. From $700 for 41 to 70 guests and from $950 for 71 to 100."
+      description: "More telescopes and up to 3 hours. From $700 for 40 to 70 guests and from $950 for 70 to 100."
       min_price: 700
 zl_breadcrumb:
   - {name: "Zane Landers", url: "/"}

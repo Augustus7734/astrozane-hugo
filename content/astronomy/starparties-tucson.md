@@ -24,7 +24,7 @@ faq:
           No. Pricing is for the group, covering up to 20 guests, so the cost per person drops fast: at the base rate, a two-hour night for a family of five works out to about $80 each, and for a party of ten about $40 each.
       - q: "Can you host more than 20 guests?"
         a: |
-          Yes, up to 100. For 21 to 40 guests, sessions run two hours or longer and start at about $500. For 41 to 100 guests I bring more telescopes, starting at about $700 for 41 to 70 guests and $950 for 71 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $500. For 40 to 100 guests I bring more telescopes, starting at about $700 for 40 to 70 guests and $999 for 70 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
       - q: "Is a deposit required?"
         a: |
           Yes. A deposit is required to hold your date.
@@ -110,7 +110,7 @@ Base pricing for the Tucson area, for small groups of 20 or fewer guests:
 
 The rate is for the group, not per person. At the base rate, a two-hour night for a family of five comes to about $80 a person; for a party of ten, about $40.
 
-**More than 20 guests?** For 21 to 40 guests, sessions run two hours or longer and start at **$500**. For 41 to 100 guests I bring more telescopes: **from $700** for 41 to 70 and **from $950** for 71 to 100.
+**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$500**. For 40 to 100 guests I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 71 to 100.
 
 **Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 

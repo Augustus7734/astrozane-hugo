@@ -86,7 +86,7 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 |---|---|---|
 | [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours |
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
-| [Destination star parties](/astronomy/starparties/) | From $500 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
+| [Destination star parties](/astronomy/starparties/) | From $600 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
 
 Prices are base estimates for up to 20 guests and depend on the date, location and extras. Larger events for up to 100 guests start at $500. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 

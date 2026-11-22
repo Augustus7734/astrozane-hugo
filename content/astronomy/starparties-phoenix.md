@@ -24,19 +24,19 @@ faq:
           No. Pricing is for the group, covering up to 20 guests. At the base rate, a two-hour night for a party of ten works out to about $50 each.
       - q: "Can you host more than 20 guests?"
         a: |
-          Yes, up to 100. For 21 to 40 guests, sessions run two hours or longer and start at about $600. For 41 to 100 guests I bring more telescopes, starting at about $800 for 41 to 70 guests and $1,050 for 71 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $600. For over 40 guests I bring more telescopes, starting at about $800 for 40 to 70 guests. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
       - q: "Is a deposit required?"
         a: |
           Yes. A deposit is required to hold your date.
       - q: "Why does Phoenix cost more than Tucson?"
         a: |
-          I'm based in Tucson, so a Phoenix-area event adds several hours of driving with a truckload of telescopes. The Phoenix base rate and two-hour minimum account for that travel.
+          I'm based in Tucson, so a Phoenix-area event adds several hours of driving with my telescopes, binoculars, and other equipment. The Phoenix base rate and two-hour minimum account for that travel.
       - q: "Where in the Phoenix area do you do star parties?"
         a: |
           Anywhere in the Valley — Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria, Fountain Hills, and Cave Creek — at your home, rental, resort, or venue, plus dark-sky sites outside the metro area.
       - q: "Where is the best stargazing near Phoenix?"
         a: |
-          East of the Valley, Picketpost Trailhead near Superior and the Tonto National Forest are the quickest escapes from the city glow. To the west, the Hovatter Road observing field off I-10 is a longtime favorite of Phoenix astronomy clubs, and Alamo Lake State Park is one of the darkest places in Arizona you can drive to on pavement.
+          East of the Valley, Picketpost Trailhead near Superior and other sites around the Tonto National Forest are the quickest escapes from the city glow. To the west, the Hovatter Road observing field off I-10 is a longtime favorite of Phoenix astronomy clubs, and Alamo Lake State Park is one of the darkest places in Arizona you can drive to on pavement.
       - q: "Can we stargaze from a Scottsdale backyard or resort?"
         a: |
           Yes. The Moon, planets, double stars, and bright clusters look spectacular from the middle of the Valley, and night vision pulls nebulae out of a city sky. A dark site is worth the drive when you want the Milky Way overhead and galaxies in the telescope.
@@ -112,7 +112,7 @@ Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests.
 
 The rate is for the group, not per person, and it includes my travel from Tucson with a truckload of telescopes. At the base rate, a two-hour night for a party of ten comes to about $50 a person; for a family of five, about $100.
 
-**More than 20 guests?** For 21 to 40 guests, sessions run two hours or longer and start at **$600**. For 41 to 100 guests I bring more telescopes: **from $800** for 41 to 70 and **from $1,050** for 71 to 100.
+**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$600**. For 40 to 100 guests I bring more telescopes: **from $800** for 40 to 70 and **from $1099** for 70 to 100.
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 

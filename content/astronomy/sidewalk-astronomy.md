@@ -13,7 +13,7 @@ zl_photos:
     caption: "A busy night with my 6-inch f/4.3."
   - src: "/astronomy/sidewalk-astronomy/sidewalk-astronomy-8-inch-dobsonian.jpg"
     alt: "A child on a step stool looks through an 8-inch Dobsonian telescope on a Tucson sidewalk while a family member watches"
-    caption: "The 8-inch Dobsonian, plus a step stool."
+    caption: "The 8-inch built by John Dobson."
 zl_breadcrumb:
   - {name: "Zane Landers", url: "/"}
   - {name: "Astronomy", url: "/astronomy/"}
@@ -24,14 +24,14 @@ zl_faq:
   - q: "Where does Zane Landers do sidewalk astronomy in Tucson?"
     a: "Mostly on University Boulevard next to the University of Arizona, and at public star parties around Tucson. There is no fixed schedule. It depends on the weather and on what is up."
   - q: "What can you see through a telescope from a city sidewalk?"
-    a: "The Moon's craters, Saturn's rings, Jupiter's cloud bands and its four big moons, the phases of Venus, and bright double stars. City lights don't hurt any of these."
+    a: "The Moon's craters, Saturn's rings, Jupiter's cloud bands and its four big moons, the phases of Venus, albedo features on Mars, and bright double stars. City lights don't hurt any of these."
   - q: "Does it cost anything?"
     a: "No. Sidewalk astronomy is free. For a private or hosted evening, see the [star party page](/astronomy/starparties/)."
 ---
 
 Sidewalk astronomy is about as simple as astronomy gets. You put a telescope on a busy sidewalk, point it at the Moon or a planet, and let anyone walking by have a look. It's free, and nobody has to plan anything.
 
-I have been doing it in Tucson since 2022, mostly on University Boulevard next to the University of Arizona, and at public star parties around town.
+I have been doing it in Tucson since 2022, mostly on University Boulevard next to the University of Arizona, as well as at Windy Point on Mount Lemmon and a few other locations around town.
 
 {{< zl-photos >}}
 

@@ -1,9 +1,8 @@
 ---
 title: "Star Parties in Phoenix & Scottsdale"
-summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Phoenix, Scottsdale, and the Valley — at your place or a dark-sky site. Base rates from $500. Now booking November 2026 through May 2027."
+summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Phoenix, Scottsdale, and the Valley — at your place or a dark-sky site. Base rates from $500. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/phoenix/"
-sidebar_hide: true
 description: "Private, guided star parties in Phoenix, Scottsdale, and the Valley for families, bachelor and bachelorette parties, and small groups. Hand-built telescopes, seated viewing, night vision, base rates from $500."
 images: ["/images/starparty-hero-wide.jpg"]
 service:
@@ -41,12 +40,13 @@ faq:
       - q: "Can we stargaze from a Scottsdale backyard or resort?"
         a: |
           Yes. The Moon, planets, double stars, and bright clusters look spectacular from the middle of the Valley, and night vision pulls nebulae out of a city sky. A dark site is worth the drive when you want the Milky Way overhead and galaxies in the telescope.
+sidebar_hide: true
 ---
 
 # Private Star Parties in Phoenix & Scottsdale
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · Nov 2026 – May 2027" title="Your own night under the desert stars" text="Private, guided star parties for groups of 2 to 20 in Phoenix, Scottsdale, and across the Valley." >}}
+{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the desert stars" text="Private, guided star parties for groups of 2 to 20 in Phoenix, Scottsdale, and across the Valley." >}}
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
@@ -58,7 +58,7 @@ faq:
 
 Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley — or meet you at a dark-sky site outside it — and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
-**Now booking private events for November 2026 through May 2027.** [Check a date or ask a question →](https://astrozane.com/links/contact)
+**Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 
 ## Made for Small Groups
 

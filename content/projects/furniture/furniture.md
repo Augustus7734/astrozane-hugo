@@ -3,6 +3,7 @@ title: "Furniture Projects"
 weight: 99
 layout: "single"
 url: "/projects/furniture"
+sidebar_hide: true
 draft: false
 ---
 

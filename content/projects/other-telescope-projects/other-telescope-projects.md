@@ -3,6 +3,7 @@ title: "Other Telescope Projects"
 weight: 9
 layout: "single"
 url: "/projects/other-telescope-projects/"
+sidebar_hide: true
 draft: false
 ---
 # Builds

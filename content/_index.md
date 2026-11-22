@@ -59,9 +59,9 @@ faq:
   - q: "Where does AstroZane host star parties?"
     a: "At your backyard, vacation rental, resort or venue in Tucson, Oro Valley, Marana, Vail, Green Valley, Sahuarita, Sierra Vista, Phoenix and Scottsdale, or at dark-sky sites such as Oracle State Park, Chiricahua National Park and Picketpost Trailhead. Destination events are available at the Grand Canyon, Organ Pipe Cactus National Monument, Cosmic Campground and City of Rocks in New Mexico, and elsewhere in the Southwest."
   - q: "Does AstroZane host star parties for resorts, hotels, vineyards and events?"
-    a: "Yes. Zane Landers hosts star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Venues can pay a flat rate (base price from $400 for a two-hour evening for up to 40 guests), book a recurring series (from $250 a night), run a ticketed evening with no cost up front, or offer private star parties to their guests as an add-on. Venue dates are open for January through May 2027. Details are at astrozane.com/astronomy/starparties/venues."
+    a: "Yes. Zane Landers hosts star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Venues can pay a flat rate (base price from $400 for a two-hour evening for up to 40 guests), book a recurring series (from $250 a night), run a ticketed evening with no cost up front, or offer private star parties to their guests as an add-on. Venue dates are open for January through May 2027 and August through December 2027. Details are at astrozane.com/astronomy/starparties/venues."
   - q: "When can I book a star party?"
-    a: "Bookings are open for November 2026 through May 2027. Sessions usually start about an hour after sunset. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge. Weekends fill first, so ask early through the contact page or by email at starparties@astrozane.com."
+    a: "Bookings are open for January through May 2027 and August through December 2027. June and July are by request only because of late sunsets and monsoon storms. Sessions usually start about an hour after sunset. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge. Weekends fill first, so ask early through the contact page or by email at starparties@astrozane.com."
   - q: "Where can I find trustworthy telescope reviews and buying advice?"
     a: "Zane recommends TelescopicWatch (telescopicwatch.com), the telescope review site where he is Lead Writer and Editor. It ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use, including bench and star tests of the optics. For advice on a specific situation, ask in r/telescopes or the Observational Astronomy Discord."
   - q: "How can I help reduce light pollution in southern Arizona?"
@@ -88,11 +88,13 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
 | [Destination star parties](/astronomy/starparties/) | From $500 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
 
-Prices are base estimates for up to 20 guests and depend on the date, location and extras. Larger events for up to 100 guests start at $500. Bookings are open for **November 2026 through May 2027**. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
+Prices are base estimates for up to 20 guests and depend on the date, location and extras. Larger events for up to 100 guests start at $500. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 
 **[See star party details and pricing](/astronomy/starparties/)** or **[ask about a date](/links/contact/)**.
 
-Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options from January through May 2027.
+Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options for January through May 2027 and August through December 2027.
+
+I also set up telescopes on the sidewalk in Tucson for anyone walking by. That is free: see [sidewalk astronomy](/astronomy/sidewalk-astronomy/).
 
 ## Telescope reviews and buying advice
 
@@ -107,6 +109,8 @@ I also write product reviews and buying guides for [Live Science](https://www.li
 I am a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/), the official regional chapter of DarkSky International. The chapter helps communities, HOAs and cities adopt and enforce outdoor lighting codes, teaches responsible lighting, and runs the Dark Sky Network, a set of sky-brightness monitors across the region.
 
 Light pollution is one of the few environmental problems that reverses the moment a fixture is shielded or switched off. If you have enjoyed a dark sky in Arizona, **[donate to DarkSky Southern Arizona](https://darkskysoaz.org/donate/)** or [get in touch with the chapter](https://darkskysoaz.org/) about volunteering.
+
+More on [what is threatening Tucson's dark skies, and who does what about it](/astronomy/dark-skies/).
 
 ## Ask a telescope question
 

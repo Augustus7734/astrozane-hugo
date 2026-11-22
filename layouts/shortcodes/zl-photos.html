@@ -1,0 +1,19 @@
+{{/*
+  A row of photos with captions, read from zl_photos in the page's front matter:
+    zl_photos:
+      - src: "/astronomy/sidewalk-astronomy/photo.jpg"
+        alt: "What the photo shows"
+        caption: "Short caption"
+  Usage:  {{< zl-photos >}}
+*/}}
+{{ with .Page.Params.zl_photos }}
+<div class="zl-photos">
+{{ range . }}<figure><img src="{{ .src }}" alt="{{ .alt }}" loading="lazy" width="1200" height="1500">{{ with .caption }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
+{{ end }}</div>
+<style>
+.zl-photos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:1.2rem 0 1.5rem}
+.zl-photos figure{margin:0}
+.zl-photos img{display:block;width:100%;height:auto;border-radius:6px;margin:0}
+.zl-photos figcaption{font-size:.85em;opacity:.75;margin-top:6px;line-height:1.35}
+</style>
+{{ end }}

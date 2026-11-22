@@ -44,8 +44,9 @@ Tucson is one of the easiest cities in the country to go stargazing from. It has
 | Tanque Verde lower trailhead | About 35 minutes east | A bit darker than Sabino |
 | Gabe Zimmerman Trailhead | About 35 minutes southeast | Right by I-10, a quick weeknight trip |
 | Ridgeline Loop trailhead | About 40 minutes north | Handy from Oro Valley and Marana |
-| Ironwood Forest National Monument | About 45 minutes northwest | A nearly pristine western and southern sky |
+| Ironwood Forest National Monument | About 45 minutes northwest | Certified dark sky, nearly pristine to the west and south |
 | Windy Point Vista, Mount Lemmon | About 45 minutes | Great view and very steady air |
+| Tubac | About 45 minutes south | A certified dark sky community |
 | Empire Ranch | About 50 minutes southeast | Very dark for the drive, wide open |
 | Whipple Observatory astronomy pads | About an hour south | Concrete pads built for telescopes |
 | Kartchner Caverns State Park | About an hour southeast | Certified dark sky with a campground |
@@ -117,7 +118,7 @@ The highest of the three, above 9,000 feet. It has the best transparency, very g
 
 ### Ironwood Forest National Monument
 
-Open desert northwest of Tucson, past Marana, about 45 minutes from town. The western sky and most of the south are essentially pristine. The roads are dirt, so go in daylight the first time and bring more water than you think you need.
+Open desert northwest of Tucson, past Marana, about 45 minutes from town. The western sky and most of the south are essentially pristine. It is now a certified dark sky place, which DarkSky Southern Arizona worked to get done. The roads are dirt, so go in daylight the first time and bring more water than you think you need.
 
 {{< zl-img src="/astronomy/stargazing/ironwood-forest-saguaro-venus-night-sky.jpg" alt="Venus and a star-filled sky above a saguaro cactus at Ironwood Forest National Monument near Tucson, Arizona" caption="Venus over a saguaro at Ironwood Forest National Monument." >}}
 
@@ -128,6 +129,10 @@ In the Las Cienegas grasslands north of Sonoita. The sky is very good for the dr
 ### Whipple Observatory astronomy pads
 
 On Mount Hopkins Road near Amado, about an hour south. The observatory built a small area for amateur astronomers, with concrete pads and benches at about 5,000 feet. It is one of the few places around Tucson made for setting up a telescope.
+
+### Tubac
+
+About 45 minutes south on I-19, a few minutes past the Whipple turnoff. Tubac was certified as an International Dark Sky Community in 2024, so the village keeps its own lighting shielded and low. Tumacácori National Historical Park, just to the south, has been an International Dark Sky Park since 2018. Tubac is a town and not a trailhead, so it suits a night away with dinner and a look at the sky more than a long telescope session. Tumacácori is a National Park Service site, so check its hours before you plan on it.
 
 ### Kartchner Caverns State Park
 

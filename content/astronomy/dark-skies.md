@@ -26,7 +26,7 @@ zl_faq:
   - q: "Are mines a threat to dark skies in Southern Arizona?"
     a: "They can be, because a large mine works around the clock under lights. It depends on the operator. DarkSky Southern Arizona has talked with the Copper Creek project near Mammoth and is not concerned about it or about South32's Hermosa project near Patagonia. The one the chapter is very worried about is Hudbay's Copper World project in the Santa Rita Mountains south of Tucson, which was approved for construction in October 2026."
   - q: "What is the proposed Copper Corridor dark sky area?"
-    a: "An idea being floated for a protected dark sky area covering the San Pedro, Aravaipa and upper Gila valleys of southeastern Arizona, between the lights of Phoenix, Tucson and the copper mines. It would run from Roosevelt Lake and the Salt River in the north to Interstate 10 in the south, and from the crest of the Santa Catalina and Rincon Mountains east to the New Mexico line. It is a concept for discussion, not an official designation."
+    a: "An idea being floated for a protected dark sky area covering the San Pedro, Aravaipa and upper Gila valleys of southeastern Arizona, along with the Superstition Mountains and Tonto Basin, between the lights of Phoenix, Tucson and the copper mines. It would run from Tonto Creek and the Salt River in the north to Interstate 10 in the south, and from the Verde River, State Route 79 and the crest of the Santa Catalina and Rincon Mountains east to the New Mexico line. It is a concept for discussion, not an official designation."
   - q: "What makes an outdoor light dark-sky friendly?"
     a: "It follows five principles from DarkSky International and the Illuminating Engineering Society. It has a clear purpose, it is shielded and aimed down so light only lands where it is needed, it is no brighter than necessary, it is on a timer or motion sensor so it is off when nobody needs it, and it is a warm color. DarkSky recommends 3000 kelvin or lower, and the Tucson and Pima County code allows no more than 3500 kelvin."
   - q: "How do I report a lighting code violation in Tucson or Pima County?"
@@ -96,19 +96,21 @@ Copper is booming in Southern Arizona, and several new mines are planned in or n
 
 - **Copper Creek**, near Mammoth, has talked with the chapter about its lighting. We are not concerned about it.
 - **South32's Hermosa project**, near Patagonia, does not concern us either.
-- **Copper World**, in the Santa Rita Mountains south of Tucson, is the one we are very worried about. Its owner, Hudbay, spent years trying to build the Rosemont mine on the other side of the same mountains. That plan would have buried nearly two billion tons of waste rock and tailings on Coronado National Forest land, and it only stopped when the courts threw it out. Copper World sits in the same range as the Whipple Observatory. Its owners approved construction in October 2026 and are aiming for first production in 2029, and a later phase would expand onto federal land.
+- **Copper World**, in the Santa Rita Mountains south of Tucson, is the one we are very worried about. Its owner, Hudbay, spent years trying to build the Rosemont mine on the other side of the same mountains. That plan would have buried nearly two billion tons of waste rock and tailings on Coronado National Forest land, and it only stopped when the courts threw it out. Copper World sits in the same range as the Whipple Observatory. Its owners approved construction in October 2026 and are aiming for first production in 2029, and a later phase would expand onto federal land. The tailings question is not settled either. As of November 2026 a permitting bill, the Bipartisan American Affordability and Jobs Act (BAAJA), has cleared the Senate and is in the House. If it passes, the mine could still put its tailings on national forest land.
 - **San Manuel.** Mining activity has started up again at the old San Manuel mine north of Tucson. It may turn out to be only a minor source of skyglow. We do not know yet. It is certainly not good for stargazing right next to it.
 
 ## A Copper Corridor dark sky area
 
-One idea being floated is a dark sky area covering the country between the lights of Phoenix, Tucson and the mines: the San Pedro, Aravaipa and upper Gila valleys. It is some of the darkest land left in Arizona, and it holds the Mount Graham observatory, Aravaipa Canyon, the Galiuros and the old copper towns from Superior down to San Manuel.
+One idea being floated is a dark sky area covering the country between the lights of Phoenix, Tucson and the mines: the San Pedro, Aravaipa and upper Gila valleys, along with the Superstitions and Tonto Basin. It is some of the darkest land left in Arizona, and it holds the Mount Graham observatory, Aravaipa Canyon, the Galiuros and the old copper towns from Superior down to San Manuel.
 
-{{< zl-img src="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map.jpg" href="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map-full.jpg" alt="Map of the proposed Copper Corridor dark sky area in southeastern Arizona, covering the San Pedro, Aravaipa and upper Gila valleys between Phoenix, Tucson and the New Mexico line" caption="The concept boundary. Click for a larger version." width="900" >}}
+{{< zl-img src="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map.jpg" href="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map-full.jpg" alt="Map of the proposed Copper Corridor dark sky area in southeastern Arizona, covering the San Pedro, Aravaipa and upper Gila valleys, the Superstition Mountains and Tonto Basin, between Phoenix, Tucson and the New Mexico line" caption="The concept boundary. Click for a larger version." width="900" >}}
 
 The boundary on this map is a concept for discussion, not a designation:
 
 - **North:** Roosevelt Lake, then the Salt and Black rivers, which are also the northern edge of the San Carlos Apache Reservation.
-- **West and southwest:** a line east of Florence, then the crest of the Santa Catalina and Rincon Mountains, which shield the San Pedro Valley from Tucson.
+- **Northwest:** Tonto Creek down to the north end of Roosevelt Lake, a line across the Mazatzal Mountains from near Jakes Corner to Bartlett Lake, then the Verde River down to the Salt. This corner runs a few miles past the top of the map.
+- **West:** the front of the Superstition Mountains from the Salt River to Florence Junction, then State Route 79 through Florence to Oracle Junction, and State Route 77 to the north edge of Oro Valley.
+- **Southwest:** up to Mount Lemmon, then the crest of the Santa Catalina and Rincon Mountains, which shield the San Pedro Valley from Tucson.
 - **South:** Interstate 10 from Benson to the state line.
 - **East:** the east side of the reservation, then a line passing south of Clifton and Morenci to the New Mexico state line, and the state line down to the interstate.
 

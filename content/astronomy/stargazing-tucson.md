@@ -19,7 +19,7 @@ zl_faq:
   - q: "Do I need a telescope to go stargazing near Tucson?"
     a: "No. From a dark site your eyes are enough for the Milky Way, meteors and satellites, and ordinary binoculars show star clusters, the Andromeda Galaxy and craters on the Moon. A telescope adds planets, nebulae and galaxies."
   - q: "Do I need a reservation or permit to go stargazing near Tucson?"
-    a: "Not at trailheads, national forest land or other ordinary public land. You can just go. National Park Service sites and state parks are different: they have gates, hours and their own rules, so call or check ahead. Oracle State Park, for example, is open for stargazing after hours only by reservation."
+    a: "Not at trailheads, national forest land or other ordinary public land. You can just go. National Park Service sites and state parks are different: they have gates, hours and their own rules, so call or check ahead. Oracle State Park, for example, is open for stargazing after hours only by reservation, for a $12 fee."
   - q: "Where is the best place to stargaze on Mount Lemmon?"
     a: "Windy Point Vista is the shortest drive, has a great view and usually has very steady air. Summerhaven is higher and less windy. The summit, above 9,000 feet, has the clearest air and no passing headlights."
   - q: "Is Tucson a dark sky city?"
@@ -49,7 +49,7 @@ Tucson is one of the easiest cities in the country to go stargazing from. It has
 | Whipple Observatory astronomy pads | About an hour south | Concrete pads built for telescopes |
 | Kartchner Caverns State Park | About an hour southeast | Certified dark sky with a campground |
 | Apache Springs Trailhead | A little over an hour southeast | Dark sky in the Santa Rita foothills |
-| Oracle State Park | About an hour north | Certified dark sky, by reservation |
+| Oracle State Park | About an hour north | Certified dark sky, $12 reservation at night |
 | Summerhaven, Mount Lemmon | About 1 hour 10 minutes | High, and less windy than the summit |
 | Mount Lemmon summit | About 1 hour 20 minutes | Highest, clearest air, no headlights |
 | Buenos Aires National Wildlife Refuge | About 1 hour 15 minutes southwest | Essentially pristine |
@@ -136,7 +136,7 @@ An Arizona Trail trailhead on Gardner Canyon Road, north of Sonoita in the footh
 
 ### Oracle State Park
 
-A certified International Dark Sky Park since 2014, in the foothills north of the Catalinas. Honestly, the sky is not much better than Empire Ranch, Ironwood Forest or the Whipple pads, and those need no reservation. The park itself is open during the day only. For stargazing it offers after-hours access to one of its trailhead lots by reservation, so call the park before you drive up.
+A certified International Dark Sky Park since 2014, in the foothills north of the Catalinas. Honestly, the sky is not much better than Empire Ranch, Ironwood Forest or the Whipple pads, and those need no reservation. The park itself is open during the day only. For stargazing it offers after-hours access to one of its trailhead lots by reservation, for a $12 fee, so call the park before you drive up. Go in knowing what to expect: there are often imagers there with lights on, cars come and go on the road, and there is a near-constant hum from a natural gas turbine across the street.
 
 ## Worth a longer drive
 
@@ -183,11 +183,12 @@ In the national forest above the park. Onion Saddle is even higher and darker th
 
 The campground and parking area at Columbine, near the top of the Swift Trail in the Pinaleño Mountains, sit at about 9,400 feet. It is about three hours from Tucson, so plan to camp. The upper road is closed from mid-November to mid-April.
 
-{{< zl-img src="/astronomy/stargazing/mount-graham-columbine-night-sky.jpg" alt="The night sky above pine forest at Columbine on Mount Graham, Arizona, with the glow of distant towns on the horizon" caption="The sky from Columbine on Mount Graham. The glow on the horizon is from towns far below." width="640" >}}
+{{< zl-img src="/astronomy/stargazing/mount-graham-columbine-night-sky.jpg" alt="The night sky above pine forest at Columbine on Mount Graham, Arizona, with light pollution glowing on the horizon" caption="The sky from Columbine on Mount Graham, with light pollution glowing on the horizon." width="640" >}}
 
 ## Others worth knowing about
 
 - **Cascabel.** There are a lot of good dark spots along the San Pedro River around Cascabel, north of Benson. I do not have one specific pullout to send you to.
+- **San Manuel.** I used to set up on a dirt road next to the old San Manuel copper mine, which is farther from Tucson's glow than Oracle is. New mining activity there has spoiled it for now.
 - **Willow Springs Road.** The area north of Oracle Junction where the 24 Hours in the Old Pueblo mountain bike race is held. I have not observed from there myself, but it should be good. Check land access before you go.
 
 ## Getting the most out of a night

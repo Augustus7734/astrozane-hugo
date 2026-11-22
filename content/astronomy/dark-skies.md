@@ -14,7 +14,7 @@ zl_faq:
   - q: "Does Tucson have an outdoor lighting code?"
     a: "Yes. Tucson and Pima County share an Outdoor Lighting Code, written to protect the observatories around the city. The current version dates from 2012."
   - q: "What is threatening dark skies around Tucson?"
-    a: "Prisons lit with unshielded floodlights, new development with unshielded or far too bright lighting, car dealerships, large data centers including the SpaceX campus proposed near Willcox in Cochise County, and weak enforcement of the lighting code, including on federal and state property such as the federal prison and the University of Arizona campus, where the city and county do not enforce it."
+    a: "Prisons lit with unshielded floodlights, new development with unshielded or far too bright lighting, car dealerships, large data centers including the SpaceX campus proposed near Willcox in Cochise County, new copper mines such as Copper World in the Santa Rita Mountains, and weak enforcement of the lighting code, including on federal and state property such as the federal prison and the University of Arizona campus, where the city and county do not enforce it."
   - q: "How does light pollution affect human health?"
     a: "Light at night, especially blue-rich white light, suppresses melatonin and disrupts the body's daily rhythm, which harms sleep. Studies have linked that disruption to higher rates of obesity, diabetes and some cancers. The American Medical Association recommends outdoor lighting of 3000 kelvin or warmer, and it has called glare the most common health and safety problem caused by badly designed outdoor lighting."
   - q: "How does light pollution affect wildlife?"
@@ -23,6 +23,8 @@ zl_faq:
     a: "City streetlights are a small part of it. A 2019 experiment that dimmed Tucson's streetlights found they produce only about 14 percent of the skyglow over the city. By Zane Landers's estimate the largest single source is the federal prison complex southeast of town, followed by car dealerships, the University of Arizona and brightly lit sports venues."
   - q: "Can a prison be lit without causing light pollution?"
     a: "Yes. Security lighting works just as well when it is fully shielded and aimed down. Vermont's Southern State Correctional Facility, built a few miles from the Stellafane observatory, lights only its building walls and the inside of its perimeter fence with fully shielded fixtures, and Texas has required shielded lighting on state-funded projects, including prisons, since 1999."
+  - q: "Are mines a threat to dark skies in Southern Arizona?"
+    a: "They can be, because a large mine works around the clock under lights. It depends on the operator. DarkSky Southern Arizona has talked with the Copper Creek project near Mammoth and is not concerned about it or about South32's Hermosa project near Patagonia. The one the chapter is very worried about is Hudbay's Copper World project in the Santa Rita Mountains south of Tucson."
   - q: "What makes an outdoor light dark-sky friendly?"
     a: "It follows five principles from DarkSky International and the Illuminating Engineering Society. It has a clear purpose, it is shielded and aimed down so light only lands where it is needed, it is no brighter than necessary, it is on a timer or motion sensor so it is off when nobody needs it, and it is a warm color. DarkSky recommends 3000 kelvin or lower, and the Tucson and Pima County code allows no more than 3500 kelvin."
   - q: "How do I report a lighting code violation in Tucson or Pima County?"
@@ -48,6 +50,7 @@ Unlike most pollution, this kind is gone the moment the light is shielded or swi
 ## What is threatening it
 
 - **Prisons.** Some of the brightest things in Southern Arizona's night sky are prisons lit by unshielded floodlights. More on this below.
+- **Mines.** Southern Arizona is in the middle of a copper boom, and a big mine runs all night under lights. Some operators take that seriously and some worry us a great deal. More on this below too.
 
 - **Careless development.** New subdivisions, gas stations, car lots and billboards all add light, and a lot of it is unshielded or far brighter than it needs to be. The lighting code only works when someone enforces it.
 - **Data centers.** Tucson's City Council voted down the Project Blue data center in 2025, and it moved ahead outside the city limits anyway. Marana approved the rezoning for another in early 2026. Now SpaceX wants a $50 billion campus on about 750 acres near Willcox Playa in Cochise County, under some of the darkest skies left in Southern Arizona. As of November 2026 the county had not voted on it. Sites that size are lit all night.
@@ -60,7 +63,7 @@ Most people assume it is streetlights. It is not. In 2019 the city dimmed its st
 
 Nobody has measured the rest source by source, so what follows is my own rough estimate from years of observing around the city and looking at it from the mountains:
 
-- **The federal prison complex** southeast of town may be responsible for as much as half of it.
+- **The federal prison complex** southeast of town is the largest single source.
 - **Car dealerships** are probably 20 to 30 percent.
 - **The University of Arizona** is probably close to 10 percent.
 - **Topgolf**, in Marana, is easily a major line item on its own. Marana does very little about lighting violations, which is a concern for a town growing as fast as it is.
@@ -74,12 +77,25 @@ Tucson is not the only place with this problem. From sites north of the city, su
 
 None of this is necessary. A prison needs light on its walls, yards and fences, not on the sky, and a shielded fixture puts more of its light where the guards need it. The people who live and work inside are under that light all night too.
 
+DarkSky Southern Arizona is preparing a request for full-cutoff shielding at the Tucson complex, with Kitt Peak National Observatory and NOIRLab as co-signers. We have not yet taken it to the prison.
+
+Places that already do this:
+
 - **Florence, Arizona.** The state prison there sits beside the federal facility, and the state prison is lit much better. Same town, same security needs, very different sky.
 - **Springfield, Vermont.** When Vermont built its Southern State Correctional Facility a few miles from the Stellafane observatory, the state hired a lighting engineering firm to protect the sky. The design lights only the building walls and the inside of the perimeter fence, using fully shielded downlights. Stellafane is where I showed my first homemade telescope.
 - **Texas.** A 1999 state law requires state-funded projects, including new prisons and highways, to use fully shielded lighting.
-- **Mount Graham, Arizona.** The observatory on Mount Graham has worked with the state prison below it on lighting.
+- **Mount Graham, Arizona.** From Columbine, near the top of the mountain, you can barely tell that the state prison at its foot exists, even looking straight down at it. The tomato greenhouses nearby are far brighter.
 
 If a state prison system can do it, the federal government can too.
+
+## Mines
+
+Copper is booming in Southern Arizona, and several new mines are planned in or next to the mountains where people go for dark skies. A large mine works around the clock, so how it is lit matters a lot. So far the operators are very different from one another.
+
+- **Copper Creek**, near Mammoth, has talked with the chapter about its lighting. We are not concerned about it.
+- **South32's Hermosa project**, near Patagonia, does not concern us either.
+- **Copper World**, in the Santa Rita Mountains south of Tucson, is the one we are very worried about. Its owner, Hudbay, spent years trying to build the Rosemont mine on the other side of the same mountains. That plan would have buried nearly two billion tons of waste rock and tailings on Coronado National Forest land, and it only stopped when the courts threw it out. Copper World sits in the same range as the Whipple Observatory.
+- **San Manuel.** Mining activity has started up again at the old San Manuel mine north of Tucson. It may turn out to be only a minor source of skyglow. We do not know yet. It is certainly not good for stargazing right next to it.
 
 ## Who does what
 

@@ -1,0 +1,13 @@
+{{/*
+  Puts two or three zl-img figures side by side (they stack on a narrow screen).
+  Usage:
+    {{< zl-row >}}
+    {{< zl-img src="/a.jpg" alt="..." caption="..." >}}
+    {{< zl-img src="/b.jpg" alt="..." caption="..." >}}
+    {{< /zl-row >}}
+*/}}
+<div class="zl-row">{{ .Inner }}</div>
+<style>
+.zl-row{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin:1.2rem 0 1.5rem}
+.zl-row .zl-img{margin:0;flex:1 1 220px}
+</style>

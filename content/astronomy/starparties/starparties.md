@@ -57,7 +57,7 @@ Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties 
 For trips, retreats, and once-a-year skies, I travel across the Southwest. **Destination events start at $600**; that's a base figure, and each one is quoted individually based on distance, length, and group size.
 
 - **Sedona** — an International Dark Sky Community since 2014, with red rock country all around it. A good fit for retreats and group trips.
-- **Flagstaff** — the world's first International Dark Sky City, named in 2001, at 7,000 feet among the pines and close to Lowell Observatory.
+- **Flagstaff** — the world's first International Dark Sky City, named in 2001, at 7,000 feet among the pines.
 - **Grand Canyon National Park** — a certified International Dark Sky Park. The Milky Way over the rim is hard to beat.
 - **Organ Pipe Cactus National Monument** — southwest of Tucson near Ajo, and Arizona's newest International Dark Sky Park, certified in 2026.
 - **Cosmic Campground, New Mexico** — an International Dark Sky Sanctuary in the Gila National Forest, with a 360° horizon and essentially no artificial light.

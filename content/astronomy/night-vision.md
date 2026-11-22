@@ -41,6 +41,8 @@ Mine is a PVS-14, a handheld unit about the size of a small flashlight. I use it
 - **On my [6" f/4.3 Newtonian](/projects/6inch-f4/).** A wide view for nebulae that are too large for the big telescope.
 - **On my [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/).** This is where faint nebulae turn into bright, detailed objects.
 
+{{< zl-img src="/astronomy/stargazing/night-vision-nebula-6-inch-f4-newtonian.jpg" alt="The Lagoon Nebula, M8, seen live through a PVS-14 night vision device on a 6-inch f/4.3 Newtonian telescope" caption="The Lagoon Nebula (M8) through night vision on my 6-inch f/4.3, with the Trifid Nebula above it. A phone photo of the live view." width="460" >}}
+
 Night vision works best on fast telescopes, meaning ones with a low focal ratio. The lower the f-number, the brighter and cleaner the image, which is one reason my main telescope is f/2.9.
 
 Intensifier tubes are most sensitive to red and near-infrared light. That happens to be where glowing hydrogen gas shines, which is why nebulae are what night vision does best. Adding a narrowband hydrogen-alpha filter blocks most city light and moonlight while letting the nebula through. For targets that do not glow in hydrogen-alpha, such as star clusters and galaxies, I can use an infrared-pass filter instead. It helps, but it is not as good as a dark sky.

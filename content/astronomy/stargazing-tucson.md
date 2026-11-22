@@ -47,6 +47,7 @@ Tucson is one of the easiest cities in the country to go stargazing from. It has
 | Windy Point Vista, Mount Lemmon | About 45 minutes | Great view and very steady air |
 | Empire Ranch | About 50 minutes southeast | Very dark for the drive, wide open |
 | Whipple Observatory astronomy pads | About an hour south | Concrete pads built for telescopes |
+| Kartchner Caverns State Park | About an hour southeast | Certified dark sky with a campground |
 | Apache Springs Trailhead | A little over an hour southeast | Dark sky in the Santa Rita foothills |
 | Oracle State Park | About an hour north | Certified dark sky, by reservation |
 | Summerhaven, Mount Lemmon | About 1 hour 10 minutes | High, and less windy than the summit |
@@ -67,7 +68,7 @@ Drive times are rough and depend on where in town you start.
 
 Mostly no. Trailheads, national forest land and other ordinary public land need no reservation and no phone call. You just go.
 
-National Park Service sites and state parks are the exception. They have gates, hours and their own rules, so call or check ahead before you drive out. On this list that means Saguaro National Park, Chiricahua National Park, Coronado National Memorial (Montezuma Pass), Oracle State Park and Patagonia Lake State Park.
+National Park Service sites and state parks are the exception. They have gates, hours and their own rules, so call or check ahead before you drive out. On this list that means Saguaro National Park, Chiricahua National Park, Coronado National Memorial (Montezuma Pass), Oracle State Park, Kartchner Caverns State Park and Patagonia Lake State Park.
 
 ## In town or right next to it
 
@@ -113,6 +114,8 @@ The highest of the three, above 9,000 feet. It has the best transparency, very g
 
 Open desert northwest of Tucson, past Marana, about 45 minutes from town. The western sky and most of the south are essentially pristine. The roads are dirt, so go in daylight the first time and bring more water than you think you need.
 
+{{< zl-img src="/astronomy/stargazing/ironwood-forest-saguaro-venus-night-sky.jpg" alt="Venus and a star-filled sky above a saguaro cactus at Ironwood Forest National Monument near Tucson, Arizona" caption="Venus over a saguaro at Ironwood Forest National Monument." >}}
+
 ### Empire Ranch
 
 In the Las Cienegas grasslands north of Sonoita. The sky is very good for the drive time, and there is a lot of wide-open space with low horizons in every direction. The historic ranch house is a museum, which makes it worth arriving before sunset.
@@ -120,6 +123,12 @@ In the Las Cienegas grasslands north of Sonoita. The sky is very good for the dr
 ### Whipple Observatory astronomy pads
 
 On Mount Hopkins Road near Amado, about an hour south. The observatory built a small area for amateur astronomers, with concrete pads and benches at about 5,000 feet. It is one of the few places around Tucson made for setting up a telescope.
+
+### Kartchner Caverns State Park
+
+South of Benson, about an hour from Tucson, and a certified International Dark Sky Park. There is a campground, so it works well as an overnight. It is a state park, so check hours and fees ahead.
+
+{{< zl-img src="/astronomy/stargazing/kartchner-caverns-state-park-telescope-stargazing.jpg" alt="An observer at the eyepiece of a 6-inch Newtonian telescope under the stars at Kartchner Caverns State Park, Arizona" caption="Observing with my 6-inch at Kartchner Caverns State Park." width="560" >}}
 
 ### Apache Springs Trailhead
 
@@ -134,6 +143,11 @@ A certified International Dark Sky Park since 2014, in the foothills north of th
 ### Buenos Aires National Wildlife Refuge
 
 Southwest of Tucson, toward Arivaca and Sasabe. The sky is essentially pristine apart from skyglow low in the north, from about north-northwest to north-northeast. That glow comes from Phoenix and Casa Grande, not Tucson. The grassland gives you a full horizon.
+
+{{< zl-row >}}
+{{< zl-img src="/astronomy/stargazing/buenos-aires-national-wildlife-refuge-milky-way-scorpius.jpg" alt="Scorpius and the Milky Way in a dark sky above Buenos Aires National Wildlife Refuge, Arizona" caption="Scorpius and the Milky Way from Buenos Aires." width="300" >}}
+{{< zl-img src="/astronomy/stargazing/buenos-aires-national-wildlife-refuge-star-trails-baboquivari.jpg" alt="Star trails above the silhouette of Baboquivari Peak, seen from Buenos Aires National Wildlife Refuge, Arizona" caption="Star trails over Baboquivari Peak." width="300" >}}
+{{< /zl-row >}}
 
 ### Patagonia Lake State Park
 
@@ -168,6 +182,8 @@ In the national forest above the park. Onion Saddle is even higher and darker th
 ### Mount Graham, Columbine Corrals
 
 The campground and parking area at Columbine, near the top of the Swift Trail in the Pinaleño Mountains, sit at about 9,400 feet. It is about three hours from Tucson, so plan to camp. The upper road is closed from mid-November to mid-April.
+
+{{< zl-img src="/astronomy/stargazing/mount-graham-columbine-night-sky.jpg" alt="The night sky above pine forest at Columbine on Mount Graham, Arizona, with the glow of distant towns on the horizon" caption="The sky from Columbine on Mount Graham. The glow on the horizon is from towns far below." width="640" >}}
 
 ## Others worth knowing about
 

@@ -26,7 +26,7 @@ zl_service:
       description: "A private 2-hour evening for the client's group, scheduled around dinner or the reception."
       min_price: 500
     - name: "Larger events, 40 to 100 guests"
-      description: "More telescopes and up to 3 hours. From $700 for 40 to 70 guests and from $1,050 for 70 to 100."
+      description: "More telescopes and up to 3 hours. From $700 for 40 to 70 guests and from $999 for 70 to 100."
       min_price: 700
 zl_breadcrumb:
   - {name: "Zane Landers", url: "/"}
@@ -70,7 +70,7 @@ I have run a Saturday-evening stargazing series at [Mount Lemmon Lodge](https://
 | Ticketed | No cost to you up front. We both promote it and split ticket sales 50/50. Tickets usually run $45 to $65. | $200 minimum to me per night |
 | Guest add-on | You offer private star parties to overnight guests or event clients at my regular rates, and keep 15% of each booking you send. | From $300 per group |
 | Weddings and corporate events | A private evening for your client's group, scheduled around dinner or the reception. | From $500 for 2 hours |
-| Larger events | For 40 to 100 guests I bring more telescopes, and the evening runs up to 3 hours. | From $700 for 40 to 70 guests, from $1,050 for 70 to 100 |
+| Larger events | For 40 to 100 guests I bring more telescopes, and the evening runs up to 3 hours. | From $700 for 40 to 70 guests, from $999 for 70 to 100 |
 
 These are base estimates for the Tucson area and depend on the date, location, group size and extras. Venues around Sonoita, Elgin, Sierra Vista and Willcox add a $75 travel fee. Phoenix and Scottsdale venues start at $500. A deposit holds each date.
 

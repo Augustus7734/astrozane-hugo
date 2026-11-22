@@ -53,11 +53,11 @@ faq:
   - q: "Who is Zane Landers?"
     a: "Zane Landers is an amateur astronomer, telescope maker and science writer in Tucson, Arizona. He hosts private star parties through AstroZane, is Lead Writer and Editor of TelescopicWatch, writes for Live Science, serves on the founding board of DarkSky Southern Arizona and moderates r/telescopes. He has owned more than 500 telescopes, and his telescope making has been covered by TIME, National Geographic, The Guardian and Sky & Telescope."
   - q: "How much does a private star party cost in Tucson or Phoenix?"
-    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $600. Larger events are available for up to 100 guests, from $500 for 20 to 40 guests, $700 for 40 to 70 and $1,050 for 70 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
+    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as Sedona, Flagstaff or the Grand Canyon, start at $600. Larger events are available for up to 100 guests, from $500 for 20 to 40 guests, $700 for 40 to 70 and $999 for 70 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
   - q: "What do guests see at an AstroZane star party?"
     a: "Guests look through the eyepiece at the Moon, planets, double stars, star clusters, galaxies and nebulae, chosen for what is best placed on the night. Sessions use a hand-built 14.7-inch Dobsonian telescope with seated viewing, a second smaller telescope, binoculars and a PVS-14 night vision device that shows nebulae such as Orion and the Horsehead live. No screens are used."
   - q: "Where does AstroZane host star parties?"
-    a: "At your backyard, vacation rental, resort or venue in Tucson, Oro Valley, Marana, Vail, Green Valley, Sahuarita, Sierra Vista, Phoenix and Scottsdale, or at dark-sky sites such as Oracle State Park, Chiricahua National Park and Picketpost Trailhead. Destination events are available at the Grand Canyon, Organ Pipe Cactus National Monument, Cosmic Campground and City of Rocks in New Mexico, and elsewhere in the Southwest."
+    a: "At your backyard, vacation rental, resort or venue in Tucson, Oro Valley, Marana, Vail, Green Valley, Sahuarita, Sierra Vista, Phoenix and Scottsdale, or at dark-sky sites such as Oracle State Park, Chiricahua National Park and Picketpost Trailhead. Destination events are available in Sedona and Flagstaff, at the Grand Canyon, Organ Pipe Cactus National Monument, Cosmic Campground and City of Rocks in New Mexico, and elsewhere in the Southwest."
   - q: "Does AstroZane host star parties for resorts, hotels, vineyards and events?"
     a: "Yes. Zane Landers hosts star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Venues can pay a flat rate (base price from $400 for a two-hour evening for up to 40 guests), book a recurring series (from $250 a night), run a ticketed evening with no cost up front, or offer private star parties to their guests as an add-on. Venue dates are open for January through May 2027 and August through December 2027. Details are at astrozane.com/astronomy/starparties/venues."
   - q: "When can I book a star party?"
@@ -86,7 +86,7 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 |---|---|---|
 | [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours |
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
-| [Destination star parties](/astronomy/starparties/) | From $600 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
+| [Destination star parties](/astronomy/starparties/) | From $600 | Sedona, Flagstaff, Grand Canyon, Cosmic Campground, City of Rocks and beyond |
 | [Large groups](/astronomy/starparties/) | From $500 | 20 to 100 guests, with extra telescopes above 40 |
 
 Prices are base estimates and depend on the date, location and extras. The first three rows are for up to 20 guests. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
@@ -96,6 +96,8 @@ Prices are base estimates and depend on the date, location and extras. The first
 Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options for January through May 2027 and August through December 2027.
 
 I also set up telescopes on the sidewalk in Tucson for anyone walking by, and I do public outreach with the Huachuca Astronomy Club in Sierra Vista. That is free: see [sidewalk astronomy](/astronomy/sidewalk-astronomy/).
+
+Going out on your own? My guides to the [best stargazing spots near Tucson](/astronomy/stargazing-near-tucson/) and [near Phoenix and Scottsdale](/astronomy/stargazing-near-phoenix/) cover where to go and when. I also explain [how night vision astronomy works](/astronomy/night-vision/).
 
 ## Telescope reviews and buying advice
 
@@ -112,6 +114,10 @@ I am a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.o
 Light pollution is one of the few environmental problems that reverses the moment a fixture is shielded or switched off. If you have enjoyed a dark sky in Arizona, **[donate to DarkSky Southern Arizona](https://darkskysoaz.org/donate/)** or [get in touch with the chapter](https://darkskysoaz.org/) about volunteering.
 
 More on [what is threatening Tucson's dark skies, and who does what about it](/astronomy/dark-skies/).
+
+## Press and speaking
+
+My telescopes and outreach have been covered by TIME, National Geographic, The Guardian and Sky & Telescope. I give talks to astronomy clubs, star parties and conferences on telescope making, night vision astronomy, public outreach and smart telescopes. See [press and speaking](/about/press/) for coverage, recorded talks and how to book one.
 
 ## Ask a telescope question
 

@@ -1,0 +1,14 @@
+{{/*
+  One centered image with an optional caption, capped in width so a square photo
+  does not fill the whole screen.
+  Usage:  {{< zl-img src="/images/photo.jpg" alt="What it shows" caption="Optional caption" width="520" >}}
+*/}}
+<figure class="zl-img" style="max-width:{{ .Get "width" | default "520" }}px">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+<style>
+.zl-img{margin:1.2rem auto 1.5rem}
+.zl-img img{display:block;width:100%;height:auto;border-radius:6px;margin:0}
+.zl-img figcaption{font-size:.85em;opacity:.75;margin-top:6px;line-height:1.35;text-align:center}
+</style>

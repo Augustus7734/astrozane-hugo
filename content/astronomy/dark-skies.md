@@ -15,6 +15,10 @@ zl_faq:
     a: "Yes. Tucson and Pima County share an Outdoor Lighting Code, written to protect the observatories around the city. The current version dates from 2012."
   - q: "What is threatening dark skies around Tucson?"
     a: "New development with unshielded or far too bright lighting, large data centers including the SpaceX campus proposed near Willcox in Cochise County, and weak enforcement of the lighting code, including on state property such as the University of Arizona campus, where the city and county do not enforce it."
+  - q: "What makes an outdoor light dark-sky friendly?"
+    a: "It follows five principles from DarkSky International and the Illuminating Engineering Society. It has a clear purpose, it is shielded and aimed down so light only lands where it is needed, it is no brighter than necessary, it is on a timer or motion sensor so it is off when nobody needs it, and it is a warm color. DarkSky recommends 3000 kelvin or lower, and the Tucson and Pima County code allows no more than 3500 kelvin."
+  - q: "How do I report a lighting code violation in Tucson or Pima County?"
+    a: "Inside the Tucson city limits, contact City of Tucson Code Enforcement at (520) 791-5843 or through the city's online complaint form. In unincorporated Pima County, contact Pima County Development Services at (520) 724-9000. Oro Valley, Marana and Sahuarita have their own code offices. Give the address, say what the light is doing, and take a photo at night if you can. If it is a neighbor's light, a friendly conversation first often fixes it."
   - q: "How can I help protect dark skies in Southern Arizona?"
     a: "Shield your own outdoor lights and use warm bulbs on timers or motion sensors, speak up when a brightly lit project is proposed near you, and [donate to DarkSky Southern Arizona](https://darkskysoaz.org/donate/)."
 ---

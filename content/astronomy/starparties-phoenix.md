@@ -24,7 +24,7 @@ faq:
           No. Pricing is for the group, covering up to 20 guests. At the base rate, a two-hour night for a party of ten works out to about $50 each.
       - q: "Can you host more than 20 guests?"
         a: |
-          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $600. For 40 to 100 guests I bring more telescopes, starting at about $800 for 40 to 70 guests and $1,150 for 70 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $600. For 40 to 100 guests I bring more telescopes, starting at about $800 for 40 to 70 guests and $1,100 for 70 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
       - q: "Is a deposit required?"
         a: |
           Yes. A deposit is required to hold your date.
@@ -65,7 +65,7 @@ Experience the night sky like never before. I bring hand-built telescopes, binoc
 Most of my star parties are for a handful of people, not a crowd. With a small group nobody waits long for the eyepiece, everyone gets their questions answered, and I can chase whatever your group gets excited about. Pricing is by the group, not per person, and covers up to 20 guests.
 
 - **Families.** Screen-free, hands-on, and paced for whoever's there, from six-year-olds to grandparents. Viewing is seated, and winter sessions can start early enough to finish before bedtime.
-- **Bachelor and bachelorette parties.** A first-night or wind-down activity for a Scottsdale or Phoenix weekend that the whole group can do together. I come to your rental or meet you at a dark-sky site, and can send you home with a group portrait under the stars.
+- **Bachelor and bachelorette parties.** A first-night or wind-down activity for a Scottsdale or Phoenix weekend that the whole group can do together. I come to your rental or meet you at a dark-sky site, and can send you home with a group portrait under the stars. See [bachelor and bachelorette star parties in Scottsdale](/astronomy/starparties/scottsdale-bachelor-bachelorette/).
 - **Birthdays.** For kids or adults, in the backyard or out of town. Saturn's rings make a good surprise.
 - **Couples.** Date nights, anniversaries, and proposals. A private telescope under a dark sky sets the scene; I'm happy to help plan the moment, photograph it, and otherwise stay out of the way.
 - **Visitors and vacation rentals.** In Phoenix for a week, or have family in town? Seeing the desert sky properly is the thing they'll talk about when they get home.
@@ -98,7 +98,7 @@ I use a PVS-14 night vision device to enhance views of nebulae in real time. We'
 {{< timelapse src="/videos/night-vision-seagull-nebula.mp4" poster="/images/night-vision-seagull-nebula-poster.jpg" alt="The Seagull Nebula seen live through a night vision eyepiece on a 14.7-inch telescope" caption="The Seagull Nebula, live" >}}
 {{< /cliprow >}}
 
-The Horsehead is famously one of the hardest objects to see in any telescope. With night vision, your whole group can see it in a few seconds each, even with some moonlight or city glow in the sky.
+The Horsehead is famously one of the hardest objects to see in any telescope. With night vision, your whole group can see it in a few seconds each, even with some moonlight or city glow in the sky. More on how it works: [night vision astronomy explained](/astronomy/night-vision/).
 
 ## Phoenix Star Party Pricing
 
@@ -112,7 +112,7 @@ Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests.
 
 The rate is for the group, not per person, and it includes my travel from Tucson with a truckload of telescopes. At the base rate, a two-hour night for a party of ten comes to about $50 a person; for a family of five, about $100.
 
-**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$600**. For 40 to 100 guests I bring more telescopes: **from $800** for 40 to 70 and **from $1,150** for 70 to 100.
+**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$600**. For 40 to 100 guests I bring more telescopes: **from $800** for 40 to 70 and **from $1,100** for 70 to 100.
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 
@@ -122,7 +122,7 @@ The rate is for the group, not per person, and it includes my travel from Tucson
 
 ## Where to Stargaze Near Phoenix
 
-The easiest star party is the one at your place: a backyard, rental, or resort anywhere in Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria, Fountain Hills, or Cave Creek. The Moon and planets look great from the middle of the city. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one.
+The easiest star party is the one at your place: a backyard, rental, or resort anywhere in Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria, Fountain Hills, or Cave Creek. The Moon and planets look great from the middle of the city. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one. My full guide to [stargazing spots near Phoenix and Scottsdale](/astronomy/stargazing-near-phoenix/) has drive times and tips for each.
 
 - **Picketpost Trailhead** — near Superior, about an hour east of the Valley, with Picketpost Mountain on the horizon.
 - **Tonto National Forest** — the nearest big stretch of dark sky to the Phoenix metro, north and east of the city.

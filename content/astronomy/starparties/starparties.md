@@ -38,7 +38,7 @@ Anywhere in the Valley, plus dark-sky sites like Picketpost Trailhead, the Tonto
 
 ### Groups of more than 20
 
-Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $1,050** for 70 to 100. Phoenix-area events add $100. Tell me the headcount and I'll put together a quote.
+Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100. Phoenix-area events run about $100 more. Tell me the headcount and I'll put together a quote.
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
 
@@ -56,12 +56,16 @@ Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties 
 
 For trips, retreats, and once-a-year skies, I travel across the Southwest. **Destination events start at $600**; that's a base figure, and each one is quoted individually based on distance, length, and group size.
 
+- **Sedona** — an International Dark Sky Community since 2014, with red rock country all around it. A good fit for retreats and group trips.
+- **Flagstaff** — the world's first International Dark Sky City, named in 2001, at 7,000 feet among the pines and close to Lowell Observatory.
 - **Grand Canyon National Park** — a certified International Dark Sky Park. The Milky Way over the rim is hard to beat.
 - **Organ Pipe Cactus National Monument** — southwest of Tucson near Ajo, and Arizona's newest International Dark Sky Park, certified in 2026.
 - **Cosmic Campground, New Mexico** — an International Dark Sky Sanctuary in the Gila National Forest, with a 360° horizon and essentially no artificial light.
 - **City of Rocks State Park, New Mexico** — camping among volcanic boulders between Deming and Silver City, under a very dark sky.
 
-I also travel to Flagstaff, Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
+Sites on ordinary public land, like national forests, are much easier to schedule than national parks, where a commercial event needs a permit from each park. If you have a park in mind, plan on extra lead time.
+
+I also travel to Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
 
 ---
 

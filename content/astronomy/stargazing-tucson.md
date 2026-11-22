@@ -133,7 +133,7 @@ A certified International Dark Sky Park since 2014, in the foothills north of th
 
 ### Buenos Aires National Wildlife Refuge
 
-Southwest of Tucson, toward Arivaca and Sasabe. The sky is essentially pristine apart from Tucson's glow low in the north, from about north-northwest to north-northeast. The grassland gives you a full horizon.
+Southwest of Tucson, toward Arivaca and Sasabe. The sky is essentially pristine apart from skyglow low in the north, from about north-northwest to north-northeast. That glow comes from Phoenix and Casa Grande, not Tucson. The grassland gives you a full horizon.
 
 ### Patagonia Lake State Park
 
@@ -141,7 +141,7 @@ South of Sonoita, near Patagonia. A dark sky with a campground, so it is an easy
 
 ### Aravaipa Canyon west trailhead
 
-About 90 minutes north, past Mammoth. It is remote and very quiet, and the sky is essentially pristine apart from light pollution low in the west, from about west-southwest to west-northwest. The trailhead parking area is all you need; hiking into the canyon itself takes a permit.
+About 90 minutes north, past Mammoth. It is remote and very quiet, and the sky is essentially pristine apart from light pollution low in the west, from about west-southwest to west-northwest. That comes as much from the Phoenix area and the prisons at Florence as it does from Tucson. The trailhead parking area is all you need; hiking into the canyon itself takes a permit.
 
 ### Cochise Stronghold
 

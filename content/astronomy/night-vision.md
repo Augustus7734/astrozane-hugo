@@ -13,11 +13,13 @@ zl_faq:
   - q: "What is night vision astronomy?"
     a: "Using an image intensifier, the same kind of device used in night vision goggles, to look at the sky. It amplifies faint light in real time, so nebulae that are invisible or barely visible to the eye show up live, either through a telescope or with the device held up to the sky."
   - q: "Does night vision work in light pollution or moonlight?"
-    a: "Yes, much better than ordinary observing does. With a narrowband filter in front of it, a night vision device shows bright nebulae from a city backyard and with the Moon up. A dark sky still shows more."
+    a: "Yes, much better than ordinary observing does, though light pollution and moonlight still hurt it, just less. With a hydrogen-alpha filter, a night vision device shows bright nebulae from a city backyard and with the Moon up. For star clusters and galaxies an infrared-pass filter helps, but it is not as good as a dark sky."
   - q: "Is night vision astronomy the same as using a smart telescope or a camera?"
     a: "No. A smart telescope takes many exposures, stacks them and shows the result on a screen after a few minutes. Night vision is live and analog: light goes in one end and you look into the other with your own eye. Nothing is stacked or processed."
   - q: "What can you see with night vision?"
-    a: "Emission nebulae are the big one: the Orion Nebula, the Horsehead, the Rosette, the North America Nebula and many more. The Milky Way, star clusters and globular clusters also gain a lot. It does little for the Moon and planets, which are already bright."
+    a: "Emission nebulae are the big one: the Orion Nebula, the Horsehead, the Rosette, the North America Nebula and many more. The Milky Way and star clusters also gain a lot, though clusters lose their color. Galaxies are generally poor, although night vision does make faint ones visible. It does little for the Moon and planets, which are already bright."
+  - q: "What kind of telescope works best with night vision?"
+    a: "A fast one, meaning a low focal ratio. The lower the f-number, the brighter and cleaner the image. Zane Landers uses his night vision device on a 14.7-inch f/2.9 Dobsonian and, for wider fields, a 6-inch f/4.3 Newtonian."
   - q: "Does night vision show color?"
     a: "No. The view is a single color, set by the device's phosphor screen. What you gain is brightness and detail."
   - q: "How much does night vision for astronomy cost?"
@@ -32,12 +34,16 @@ Night vision astronomy means looking at the sky through an image intensifier, th
 
 An image intensifier takes the few photons coming from a faint object, turns them into electrons, multiplies them thousands of times, and fires them at a phosphor screen that you look at through an eyepiece. It all happens instantly. There is no exposure, no stacking and no screen in the usual sense: you are looking into an eyepiece, and when the telescope moves, the view moves with it.
 
-Mine is a PVS-14, a handheld unit about the size of a small flashlight. I use it two ways:
+Mine is a PVS-14, a handheld unit about the size of a small flashlight. I use it four ways:
 
 - **By hand.** Held up to the sky like a small spyglass, it shows the Milky Way and the largest nebulae across a wide field.
-- **At the telescope.** On my [14.7" Dobsonian](/projects/147-inch-f29/), it turns faint nebulae into bright, detailed objects.
+- **With a 3x lens.** A small magnifying lens on the front gives a closer look at big nebulae and star clouds, still handheld.
+- **On my [6" f/4.3 Newtonian](/projects/6inch-f4/).** A wide view for nebulae that are too large for the big telescope.
+- **On my [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/).** This is where faint nebulae turn into bright, detailed objects.
 
-Intensifier tubes are most sensitive to red and near-infrared light. That happens to be where glowing hydrogen gas shines, which is why nebulae are what night vision does best. Adding a narrowband hydrogen-alpha filter blocks most city light and moonlight while letting the nebula through.
+Night vision works best on fast telescopes, meaning ones with a low focal ratio. The lower the f-number, the brighter and cleaner the image, which is one reason my main telescope is f/2.9.
+
+Intensifier tubes are most sensitive to red and near-infrared light. That happens to be where glowing hydrogen gas shines, which is why nebulae are what night vision does best. Adding a narrowband hydrogen-alpha filter blocks most city light and moonlight while letting the nebula through. For targets that do not glow in hydrogen-alpha, such as star clusters and galaxies, I can use an infrared-pass filter instead. It helps, but it is not as good as a dark sky.
 
 ## What it looks like
 
@@ -57,11 +63,12 @@ The Horsehead Nebula is famously one of the hardest objects to see in any telesc
 - **Emission nebulae.** Orion, the Horsehead and Flame, the Rosette, the Lagoon, the North America Nebula and dozens more.
 - **The Milky Way.** By hand, with no telescope, dark dust lanes and glowing clouds stand out along its whole length.
 - **Star clusters.** Globular clusters break up into far more stars than the eye alone can pick out.
-- **Bad conditions.** It keeps working from a city backyard, and when the Moon is up.
+- **Poor conditions.** City light and moonlight still affect it, but much less than they affect ordinary observing.
 
 ## What it does not do
 
-- **Color.** The view is one color, set by the phosphor screen.
+- **Color.** The view is one color, set by the phosphor screen. Star clusters lose the colors of their stars.
+- **Galaxies.** They are generally poor. Night vision at least makes faint ones visible, but a galaxy looks better in a regular eyepiece under a dark sky.
 - **The Moon and planets.** They are already bright. A regular eyepiece shows them better.
 - **A perfectly clean image.** On the faintest objects you see a fine sparkle, a little like film grain.
 - **Replace a dark sky.** It helps a great deal in the city, but a dark site still shows more.

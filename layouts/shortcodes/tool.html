@@ -1,0 +1,22 @@
+{{- /* Embeds a self-contained tool from static/tools/ in a frame that resizes to fit.
+       Usage:  {{< tool src="/tools/limiting-magnitude-calculator.html" title="Limiting magnitude calculator" >}}
+       Optional: height="1500" sets the starting height in pixels. */ -}}
+<iframe class="zl-tool" src="{{ .Get "src" }}" title="{{ .Get "title" | default "Calculator" }}" loading="lazy"
+        style="width:100%;border:0;height:{{ .Get "height" | default "1500" }}px"></iframe>
+<script>
+if (!window.zlToolResize) {
+  window.zlToolResize = true;
+  window.addEventListener('message', function (e) {
+    if (e.origin !== location.origin) return;
+    var d = e.data, h = 0;
+    if (d && typeof d === 'object') {
+      h = d.lmcalcHeight || d.height || (d.type === 'lmcalcHeight' ? d.value : 0);
+    }
+    h = parseInt(h, 10);
+    if (!h || h < 200) return;
+    document.querySelectorAll('iframe.zl-tool').forEach(function (f) {
+      if (f.contentWindow === e.source) f.style.height = (h + 20) + 'px';
+    });
+  });
+}
+</script>

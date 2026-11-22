@@ -10,6 +10,13 @@ I have owned over 500 telescopes. [The full list is here.](https://docs.google.c
 Currently I mainly observe with my 14.7" f/2.9 Dob, with my 6" f/4.3 for wide-field views. Most of my other telescopes are used for outreach events or quick lunar/planetary views at home.
 
 ## Reflectors
+### 30" f/4.4 Starsplitter Dobsonian
+![30" f/4.4 Starsplitter Dobsonian next to its ladder](images/30-inch-starsplitter.jpg)
+
+I share this one with Cole Rees. It lives at Chiricahua Sky Village and stays there, so it is not available for star parties. The focal length is 3353mm, hence the ladder.
+
+The biggest scope I can bring to an event will be my [24" f/4](/projects/24-inch-f4/), once it's finished in 2027.
+
 ### [14.7" f/2.9 Dob built by me](https://astrozane.com/projects/147-inch-f29/)
 ![14.7](images/mk25.JPEG)
 
@@ -25,16 +32,16 @@ I added numerous upgrades such as a new ground board, helical 2" focuser, and a 
 
 
 ## Schmidt-Cassegrains (SCT)
-### Celestron C8 built circa 1980
+### Celestron C8 built 1980
 ![C11](images/c11.JPEG)
 
 TBD
 
 ## Maksutov-Cassegrains (MCT)
-### Intes MK63 built 1992
-![MK63](images/mk63.JPG)
+### SVBONY MK127
+![SVBONY MK127 on an SV225 mount at night, with city lights below](images/svbony-mk127.jpg)
 
-One of the earliest Maksutovs to be imported from Russia shortly after the fall of the USSR, the Intes MK63 is the same telescope as the MK65 but with a fork mount and a 60mm f/25 Mak guide scope which I sold to a friend. I printed some hardware to fit the mount on a surveyor tripod, since the wooden one it came with was fragile and far from steady. Very good views, although there is some glare on account of a lack of secondary baffling. This scope has no internal focuser or rear-attached unit; focusing is accomplished with a helical threaded holder on the diagonal. Rather fast for a Maksutov at a focal ratio of f/10.
+A 127mm f/11.8 Maksutov with a separate secondary mirror and a dual-speed focuser, sent to me by SVBONY for review in 2026. It is a really nice telescope. I liked it so much that I sold my Intes MK63. I use it on SVBONY's SV225 mount for quick lunar and planetary views.
 
 ### Meade ETX-90RA built 1996
 ![ETX90RA](images/etxfrommom.JPEG)
@@ -45,3 +52,9 @@ I have had a lot of ETXes; my first, like this one, was an RA unit with a non-wo
 ![Mak70](images/mak70.JPEG)
 
 I have 2 of these presently, the second was purchased for a video review. Very good lunar, planetary, and double star instruments.
+
+## Smart Telescopes
+### ZWO SeeStar S50 Pro
+![ZWO SeeStar S50 Pro on a Celestron C8 wedge and tripod](images/seestar-s50-pro.jpg)
+
+Sent to me by ZWO for review in September 2026, and what I currently image with. I run it in equatorial mode on the wedge and tripod from my 1980 C8. Results are on my [astrophotography page](/astronomy/astrophotography/).

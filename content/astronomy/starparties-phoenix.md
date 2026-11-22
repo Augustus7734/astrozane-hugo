@@ -22,6 +22,12 @@ faq:
       - q: "Is pricing per person?"
         a: |
           No. Pricing is for the group, covering up to 20 guests. At the base rate, a two-hour night for a party of ten works out to about $50 each.
+      - q: "Can you host more than 20 guests?"
+        a: |
+          Yes, up to 100. For 21 to 40 guests, sessions run two hours or longer and start at about $600. For 41 to 100 guests I bring more telescopes, starting at about $800 for 41 to 70 guests and $1,050 for 71 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+      - q: "Is a deposit required?"
+        a: |
+          Yes. A deposit is required to hold your date.
       - q: "Why does Phoenix cost more than Tucson?"
         a: |
           I'm based in Tucson, so a Phoenix-area event adds several hours of driving with a truckload of telescopes. The Phoenix base rate and two-hour minimum account for that travel.
@@ -64,14 +70,14 @@ Most of my star parties are for a handful of people, not a crowd. With a small g
 - **Visitors and vacation rentals.** In Phoenix for a week, or have family in town? Seeing the desert sky properly is the thing they'll talk about when they get home.
 - **Scout troops, clubs, and classes.** Great for badges and school groups; ask about longer sessions for bigger groups.
 
-Planning something larger — a wedding, a corporate event, a resort program? I do those too. [Get in touch](https://astrozane.com/links/contact) and we'll shape it around your venue.
+Planning something larger — a wedding, a corporate event, a resort program? I do those too, for up to 100 guests. See [star parties for venues](/astronomy/starparties/venues/), or [get in touch](https://astrozane.com/links/contact) and we'll shape it around your venue.
 
 ## Why Book a Star Party With Me?
 
 For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch, grinding the mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
 
 - **An unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be. While you wait for a turn, there are binoculars to explore the sky with.
-- **Serious, comfortable equipment.** My homemade 14.7" telescope is set up for seated viewing, so you sit down at the eyepiece and take your time. Alongside it come a 6" telescope, binoculars for guests, and a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal. A hand-built 24" telescope joins the lineup in spring 2027.
+- **Serious, comfortable equipment.** My homemade 14.7" telescope is set up for seated viewing, so you sit down at the eyepiece and take your time. Alongside it come a 6" telescope, binoculars for guests, and a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
 - **Photos to take home.** On request I'll shoot a timelapse of your night or a portrait of your group under the stars. The camera runs in the background; nobody looks at a screen while we're out there.
 - **Fun for all ages.** Whether your group is kids, adults, or a mix, the experience stays engaging and easy to enjoy — no background knowledge needed.
 - **Optional presentation.** I can add a short talk to set the scene before you head to the telescopes.
@@ -101,9 +107,11 @@ Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests.
 - **from $600** — 3 hours
 - **from $700** — 4 hours
 
-**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote.
+**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date.
 
 The rate is for the group, not per person, and it includes my travel from Tucson with a truckload of telescopes. At the base rate, a two-hour night for a party of ten comes to about $50 a person; for a family of five, about $100.
+
+**More than 20 guests?** For 21 to 40 guests, sessions run two hours or longer and start at **$600**. For 41 to 100 guests I bring more telescopes: **from $800** for 41 to 70 and **from $1,050** for 71 to 100.
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 

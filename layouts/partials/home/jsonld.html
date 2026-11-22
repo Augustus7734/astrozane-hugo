@@ -145,6 +145,15 @@
   "availabilityEnds" "2027-05-31"
 }}
 
+{{ $offerVenue := dict
+  "@type" "Offer"
+  "name" "Star parties for resorts, hotels, vineyards and venues"
+  "url" "https://astrozane.com/astronomy/starparties/venues/"
+  "description" "Guided star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events. Recurring series from $250 a night, flat-rate evenings from $400 for two hours, or ticketed with no cost up front."
+  "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" 250 "priceCurrency" "USD")
+  "availabilityStarts" "2027-01-02"
+  "availabilityEnds" "2027-05-31"
+}}
 {{ $business := dict
   "@type" "EntertainmentBusiness"
   "@id" $bizID
@@ -162,7 +171,7 @@
   "hasOfferCatalog" (dict
     "@type" "OfferCatalog"
     "name" "Private star parties"
-    "itemListElement" (slice $offerTucson $offerPhoenix $offerDestination)
+    "itemListElement" (slice $offerTucson $offerPhoenix $offerDestination $offerVenue)
   )
   "sameAs" (slice "https://www.instagram.com/astro_zane/")
 }}

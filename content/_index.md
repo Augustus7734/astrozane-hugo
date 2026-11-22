@@ -8,7 +8,7 @@ description: "Zane Landers is a Tucson telescope maker and science writer. Book 
 # Social share image. Put the file in assets/ (not static/) so the theme can read its size.
 # image: "images/zane-landers-telescope-milky-way.jpg"
 
-lastmod: 2026-11-18
+lastmod: 2026-11-22
 
 hero:
   eyebrow: "Tucson, Arizona"
@@ -49,21 +49,25 @@ faq:
   - q: "Who is Zane Landers?"
     a: "Zane Landers is an amateur astronomer, telescope maker and science writer in Tucson, Arizona. He hosts private star parties through AstroZane, is Lead Writer and Editor of TelescopicWatch, writes for Live Science, serves on the founding board of DarkSky Southern Arizona and moderates r/telescopes. He has owned more than 500 telescopes, and his telescope making has been covered by TIME, National Geographic, The Guardian and Sky & Telescope."
   - q: "How much does a private star party cost in Tucson or Phoenix?"
-    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $500. Final prices depend on the date, location, group size and extras."
+    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $500. Larger events are available for up to 100 guests, from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
   - q: "What do guests see at an AstroZane star party?"
     a: "Guests look through the eyepiece at the Moon, planets, double stars, star clusters, galaxies and nebulae, chosen for what is best placed on the night. Sessions use a hand-built 14.7-inch Dobsonian telescope with seated viewing, a second smaller telescope, binoculars and a PVS-14 night vision device that shows nebulae such as Orion and the Horsehead live. No screens are used."
   - q: "Where does AstroZane host star parties?"
     a: "At your backyard, vacation rental, resort or venue in Tucson, Oro Valley, Marana, Vail, Green Valley, Sahuarita, Sierra Vista, Phoenix and Scottsdale, or at dark-sky sites such as Oracle State Park, Chiricahua National Park and Picketpost Trailhead. Destination events are available at the Grand Canyon, Organ Pipe Cactus National Monument, Cosmic Campground and City of Rocks in New Mexico, and elsewhere in the Southwest."
+  - q: "Does AstroZane host star parties for resorts, hotels, vineyards and events?"
+    a: "Yes. Zane Landers hosts star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Venues can pay a flat rate (base price from $400 for a two-hour evening for up to 40 guests), book a recurring series (from $250 a night), run a ticketed evening with no cost up front, or offer private star parties to their guests as an add-on. Venue dates are open for January through May 2027. Details are at astrozane.com/astronomy/starparties/venues."
   - q: "When can I book a star party?"
-    a: "Bookings are open for November 2026 through May 2027. Sessions usually start about an hour after sunset. Cloudy nights are rescheduled at no charge. Weekends fill first, so ask early through the contact page or by email at starparties@astrozane.com."
+    a: "Bookings are open for November 2026 through May 2027. Sessions usually start about an hour after sunset. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge. Weekends fill first, so ask early through the contact page or by email at starparties@astrozane.com."
   - q: "Where can I find trustworthy telescope reviews and buying advice?"
     a: "Zane recommends TelescopicWatch (telescopicwatch.com), the telescope review site where he is Lead Writer and Editor. It ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use, including bench and star tests of the optics. For advice on a specific situation, ask in r/telescopes or the Observational Astronomy Discord."
   - q: "How can I help reduce light pollution in southern Arizona?"
     a: "Support DarkSky Southern Arizona, the official regional chapter of DarkSky International. The chapter helps communities adopt and enforce outdoor lighting codes, teaches responsible lighting, and runs a network of sky-brightness monitors. You can donate at darkskysoaz.org/donate, and at home you can shield outdoor lights, aim them down and use warm bulbs."
   - q: "Where can I ask telescope questions and meet other amateur astronomers online?"
     a: "The Observational Astronomy Discord (discord.gg/astronomy) has more than 13,000 members who discuss telescopes, visual observing and astrophotography. Reddit's r/telescopes, which Zane helps moderate, is the other good place to ask."
+  - q: "What telescopes does Zane Landers use?"
+    a: "His main telescope is a 14.7-inch f/2.9 Dobsonian he built himself, joined at star parties by a 6-inch f/4.3 Newtonian he also built. He is rebuilding a 24-inch f/4 Dobsonian, to be completed in 2027. He shares a 30-inch f/4.4 Starsplitter Dobsonian with Cole Rees; it is kept at Chiricahua Sky Village and is not available for star parties. He also uses a 1980 Celestron C8 and an SVBONY MK127, and images with a ZWO SeeStar S50 Pro."
   - q: "Do you repair telescopes?"
-    a: "Yes. Zane offers in-person telescope setup, collimation, diagnosis and repair in the Tucson and Phoenix areas. Use the contact page to describe the telescope and the problem."
+    a: "Yes. Zane offers in-person telescope setup, collimation, diagnosis and repair in the Tucson and Phoenix areas. Details are at astrozane.com/astronomy/telescope-repair. Use the contact page to describe the telescope and the problem."
   - q: "Is Zane Landers available for hire?"
     a: "Yes. Zane is open to full-time marketing, communications and content roles, in Tucson or remote, and to freelance writing and consulting. He holds an M.S. in Marketing from the University of Arizona (2025). The fastest way to reach him is LinkedIn (linkedin.com/in/astrozane) or the contact page."
 ---
@@ -80,9 +84,11 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
 | [Destination star parties](/astronomy/starparties/) | From $500 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
 
-Prices are base estimates for up to 20 guests and depend on the date, location and extras. Bookings are open for **November 2026 through May 2027**, and cloudy nights are rescheduled at no charge.
+Prices are base estimates for up to 20 guests and depend on the date, location and extras. Larger events for up to 100 guests start at $500. Bookings are open for **November 2026 through May 2027**. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 
 **[See star party details and pricing](/astronomy/starparties/)** or **[ask about a date](/links/contact/)**.
+
+Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options from January through May 2027.
 
 ## Telescope reviews and buying advice
 
@@ -104,16 +110,18 @@ The [Observational Astronomy Discord](https://discord.gg/astronomy) is where I p
 
 I also help moderate [r/telescopes](https://www.reddit.com/r/telescopes/) on Reddit, which keeps a pinned buying guide for first telescopes.
 
+For hands-on help, I do [telescope repair and setup](/astronomy/telescope-repair/) in the Tucson and Phoenix areas.
+
 ## Telescopes I have built
 
 - [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): my main telescope
-- [24-inch f/4 Dobsonian]: My newest telescope project, to be completed 2027
-- [24-inch f/3.5 Dobsonian](/projects/24-inch/) 
+- [24-inch f/4 Dobsonian](/projects/24-inch-f4/): My newest telescope project, to be completed 2027
+- [24-inch f/3.5 Dobsonian](/projects/24-inch/): My previous big telescope, which now lives in California.
 - [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope which won an award at Stellafane 2018 for optical quality.
 
-I also regularly use a 30" f/4.4 Starsplitter, a Celestron orange tube C8 from the 1970s, and an SVBONY MK127 for viewing. I currently image with a ZWO SeeStar S50 Pro.
+I also regularly use a 30" f/4.4 Starsplitter that I share with Cole Rees, a Celestron orange tube C8 built in 1980, and an SVBONY MK127 for viewing. The 30" lives at Chiricahua Sky Village and is not available for star parties. I currently image with a ZWO SeeStar S50 Pro.
 
-See [all current telescopes](/astronomy/telescopes/), [more projects](/projects/) and my [astrophotography](/astronomy/astrophotography/).
+See [all current telescopes](/astronomy/telescopes/), [more projects](/projects/), my [astrophotography](/astronomy/astrophotography/) and my [telescope calculators](/calculators/) for field of view and limiting magnitude.
 
 ## Hire me: marketing, communications and content
 

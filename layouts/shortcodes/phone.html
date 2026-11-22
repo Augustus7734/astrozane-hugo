@@ -1,0 +1,16 @@
+{{- /* Click-to-reveal phone number. The digits never appear in the page source,
+       only a base64 string, so scrapers that scan HTML for phone patterns miss it.
+       Usage in Markdown:  {{< phone "5205550123" >}}   (ten digits, no punctuation) */ -}}
+{{- $n := .Get 0 -}}
+<button type="button" class="zl-phone" data-p="{{ $n | base64Encode }}">Show phone number</button>
+<noscript>Email me for my phone number.</noscript>
+<script>
+document.querySelectorAll('.zl-phone').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var n = atob(b.dataset.p), a = document.createElement('a');
+    a.href = 'tel:+1' + n;
+    a.textContent = n.slice(0, 3) + '-' + n.slice(3, 6) + '-' + n.slice(6);
+    b.replaceWith(a);
+  }, { once: true });
+});
+</script>

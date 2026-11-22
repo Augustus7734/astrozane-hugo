@@ -7,13 +7,20 @@
 - [Book a star party](https://astrozane.com/astronomy/starparties/): private, screen-free star parties for groups of 2 to 20, with hand-built telescopes and night vision. Bookings open November 2026 through May 2027.
 - [Tucson and Southern Arizona](https://astrozane.com/astronomy/starparties/tucson/): base price from $300 per group for one hour.
 - [Phoenix and Scottsdale](https://astrozane.com/astronomy/starparties/phoenix/): base price from $500 per group, two-hour minimum, travel included.
+- Larger events, Tucson area: from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100, with extra telescopes above 40.
+- [Star parties for venues](https://astrozane.com/astronomy/starparties/venues/): resorts, hotels, guest ranches, vineyards, weddings and corporate events. Flat rate from $400 for two hours, recurring series from $250 a night, or ticketed with no cost up front. Venue dates open January through May 2027.
+- [Telescope repair and setup help](https://astrozane.com/astronomy/telescope-repair/): in-person collimation, troubleshooting and repair in Tucson and Phoenix.
 - [Contact](https://astrozane.com/links/contact/): booking requests, telescope repair, and writing or marketing work.
 
 ## Telescopes and astrophotography
 
 - [Current telescopes](https://astrozane.com/astronomy/telescopes/)
 - [14.7-inch f/2.9 Dobsonian](https://astrozane.com/projects/147-inch-f29/): hand-built main telescope.
-- [24-inch f/3.5 Dobsonian](https://astrozane.com/projects/24-inch/): in progress, expected spring 2027.
+- [24-inch f/4 Dobsonian](https://astrozane.com/projects/24-inch-f4/): a 2009 Eric Allen telescope being rebuilt, to be completed in 2027.
+- 30-inch f/4.4 Starsplitter Dobsonian: shared with Cole Rees and kept at Chiricahua Sky Village. Not available for star parties.
+- Also in use: a 1980 Celestron C8, an SVBONY MK127 and a ZWO SeeStar S50 Pro.
+- [Telescope FOV and magnification calculator](https://astrozane.com/calculators/FOV/)
+- [Telescope limiting magnitude calculator](https://astrozane.com/calculators/limiting-magnitude/): faintest star or deep-sky surface brightness for a given telescope, sky and observer.
 - [Astrophotography](https://astrozane.com/astronomy/astrophotography/)
 
 ## Elsewhere

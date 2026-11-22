@@ -23,6 +23,7 @@ title = "Zane Landers"
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
+    {Name = "Book A Star Party", URL = "/astronomy/starparties/", Link = true, Extra = [{Name = "Star Parties in Tucson", URL = "/astronomy/starparties/tucson/"}, {Name = "Star Parties in Phoenix & Scottsdale", URL = "/astronomy/starparties/phoenix/"}]},
     {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 8, Extra = [{Name = "Choose A Telescope", URL = "https://telescopicwatch.com/"}]},
     {Name = "About", URL = "/about/", HasChildren = true, Limit = 7, Extra = [{Name = "Current Telescopes", URL = "/astronomy/telescopes/"}, {Name = "Contact", URL = "/links/contact/"}]},
     {Name = "Calculators", URL = "/calculators/", HasChildren = true, Limit = 5},

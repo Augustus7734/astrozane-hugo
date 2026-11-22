@@ -20,6 +20,8 @@
 - [24-inch f/4 Dobsonian](https://astrozane.com/projects/24-inch-f4/): a 2009 Eric Allen telescope being rebuilt, to be completed in 2027.
 - 30-inch f/4.4 Starsplitter Dobsonian: shared with Cole Rees and kept at Chiricahua Sky Village. Not available for star parties.
 - Also in use: a 1980 Celestron C8, an SVBONY MK127 and a ZWO SeeStar S50 Pro.
+- Earlier builds: a 20.5-inch f/4.5 Dobsonian with a spray-silvered mirror, a 16-inch f/4.9 Dobsonian, a 10-inch f/3.2 Newtonian, and design work on the 3D-printed Hadley 114.
+- Smart telescopes: has owned and reviewed nearly every smart telescope on the market for TelescopicWatch, including ZWO Seestar, Dwarf and Vaonis Vespera models.
 - [Telescope FOV and magnification calculator](https://astrozane.com/calculators/FOV/)
 - [Telescope limiting magnitude calculator](https://astrozane.com/calculators/limiting-magnitude/): faintest star or deep-sky surface brightness for a given telescope, sky and observer.
 - [Astrophotography](https://astrozane.com/astronomy/astrophotography/)

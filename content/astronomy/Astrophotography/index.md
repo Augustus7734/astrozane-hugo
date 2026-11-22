@@ -6,6 +6,8 @@ date: 2024-01-01
 draft: false
 ---
 
+Many of these images were taken with smart telescopes. I have owned and reviewed nearly every smart telescope on the market for [TelescopicWatch](https://telescopicwatch.com/), and the one used is named on its images.
+
 Filters used are noted where relevant; unless noted, images used a mix of dual-band and broadband filters or no filter at all depending on target and conditions.
 
 Swipe or use the arrows to browse each category below. Click any image to open it full resolution in a new tab.

@@ -1,6 +1,6 @@
 ---
 title: "Book A Star Party"
-summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, Saturday stargazing at the Mount Lemmon Lodge, and telescope repair. Now booking January through May and August through December 2027."
+summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, and telescope repair. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/"
 description: "Private, expert-guided star parties in Tucson and Phoenix for families, bachelor and bachelorette parties, and small groups, plus star parties for resorts, vineyards, and venues, and telescope repair."
@@ -20,7 +20,7 @@ images: ["/images/starparty-hero-wide.jpg"]
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my 14.7" telescope is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
+Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/) is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only: it isn't fully dark until after 9 pm, and monsoon storms cancel a lot of nights.
 
@@ -42,6 +42,10 @@ Base pricing covers up to 20 guests. For **21 to 40 guests**, sessions run two h
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
 
+## What Guests Say
+
+{{< zl-quotes >}}
+
 ## Star Parties for Venues
 
 Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties for your guests as a flat-rate evening, a recurring series, a ticketed event with no cost up front, or an add-on for weddings and corporate groups. **Base pricing from $250 a night** for a recurring series and **from $400** for a single evening. Venue dates are open for January through May 2027 and August through December 2027.
@@ -61,11 +65,15 @@ I also travel to Flagstaff, Las Cruces, San Diego, and most anywhere else in the
 
 ---
 
-## Stargazing at Mount Lemmon Lodge
+## Venues I've Worked With
 
-On select Saturday evenings, I host stargazing events at the [Mount Lemmon Lodge](https://mountlemmonlodge.com/), high in the Santa Catalina Mountains above Tucson. Up there the air is thin, the horizon is high, and the sky is properly dark — a completely different experience from observing down in the city.
+Alongside private parties, I host star parties for venues around Tucson:
 
-If you're staying at the Lodge, it's a perfect way to spend an evening with telescopes and a guide on hand. Check the Lodge's [event calendar](https://mountlemmonlodge.com/mount-lemmon-event-calender/) for upcoming star party dates.
+- **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
+- **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
+- **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+
+Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 
 ---
 

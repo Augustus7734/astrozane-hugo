@@ -3,7 +3,7 @@ title: "Star Parties in Tucson"
 summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Tucson, Oro Valley, Marana, Vail, and Southern Arizona. Base rates from $300. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/tucson/"
-description: "Private, guided star parties in Tucson and Southern Arizona for families, bachelor and bachelorette parties, and small groups. Hand-built telescopes, seated viewing, night vision, base rates from $300."
+description: "Private, guided star parties in Tucson and Southern Arizona for families, bachelor and bachelorette parties, and small groups. A hand-built 14.7-inch telescope with seated viewing, night vision, base rates from $300."
 images: ["/images/starparty-hero-wide.jpg"]
 service:
   name: "Private Star Parties in Tucson & Southern Arizona"
@@ -52,7 +52,7 @@ sidebar_hide: true
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 
@@ -71,10 +71,10 @@ Planning something larger — a wedding, a corporate event, a resort program? I 
 
 ## Why Book a Star Party With Me?
 
-For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch, grinding the mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
+For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch and have ground mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
 
 - **An unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be. While you wait for a turn, there are binoculars to explore the sky with.
-- **Serious, comfortable equipment.** My homemade 14.7" telescope is set up for seated viewing, so you sit down at the eyepiece and take your time. Alongside it come a 6" telescope, binoculars for guests, and a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
+- **Serious, comfortable equipment.** My homemade [14.7" telescope](/projects/147-inch-f29/) is set up for seated viewing, so you sit down at the eyepiece and take your time. Alongside it come a 6" telescope, binoculars for guests, and a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
 - **Photos to take home.** On request I'll shoot a timelapse of your night or a portrait of your group under the stars. The camera runs in the background; nobody looks at a screen while we're out there.
 - **Fun for all ages.** Whether your group is kids, adults, or a mix, the experience stays engaging and easy to enjoy — no background knowledge needed.
 - **Optional presentation.** I can add a short talk to set the scene before you head to the telescopes.
@@ -114,6 +114,10 @@ The rate is for the group, not per person. At the base rate, a two-hour night fo
 
 **Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 
+## What Guests Say
+
+{{< zl-quotes >}}
+
 ## Where to Stargaze Near Tucson
 
 The easiest star party is the one at your place: a backyard, rental, resort, or venue anywhere in Tucson, Oro Valley, Marana, the Catalina Foothills, Vail, Green Valley, Sahuarita, or Sierra Vista. When you want a darker sky, these are the places I like to take groups. Tell me where you're staying and what you want to see, and I'll recommend one.
@@ -124,9 +128,15 @@ The easiest star party is the one at your place: a backyard, rental, resort, or 
 - **Oracle State Park** — a certified International Dark Sky Park in the foothills north of Tucson, about an hour from town.
 - **Chiricahua National Park** — America's newest national park and a certified International Dark Sky Park, about two hours southeast near Willcox. Some of the darkest skies in Arizona, above a landscape of stone spires.
 
-## Stargazing at Mount Lemmon Lodge
+## Venues I've Worked With
 
-On select Saturday evenings, I host stargazing events at the [Mount Lemmon Lodge](https://mountlemmonlodge.com/), high in the Santa Catalina Mountains above Tucson. Up there the air is thin, the horizon is high, and the sky is properly dark — a completely different experience from observing down in the city. Check the Lodge's [event calendar](https://mountlemmonlodge.com/mount-lemmon-event-calender/) for upcoming star party dates.
+Alongside private parties, I host star parties for venues around Tucson:
+
+- **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
+- **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
+- **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+
+Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 
 ## Star Party FAQ
 

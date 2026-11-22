@@ -20,6 +20,8 @@ zl_faq:
     a: "Emission nebulae are the big one: the Orion Nebula, the Horsehead, the Rosette, the North America Nebula and many more. The Milky Way, star clusters and globular clusters also gain a lot. It does little for the Moon and planets, which are already bright."
   - q: "Does night vision show color?"
     a: "No. The view is a single color, set by the device's phosphor screen. What you gain is brightness and detail."
+  - q: "How much does night vision for astronomy cost?"
+    a: "A good image intensifier tube costs about $2,000, and higher-end tubes run $5,000 to $8,000. The PVS-14 that Zane Landers uses at star parties cost about $3,000."
   - q: "How can I try night vision astronomy?"
     a: "Zane Landers brings a PVS-14 night vision device to every private star party in Tucson and Phoenix, and guests use it both by hand and at the telescope."
 ---
@@ -68,7 +70,7 @@ The Horsehead Nebula is famously one of the hardest objects to see in any telesc
 
 I have [owned and reviewed nearly every smart telescope](/astronomy/astrophotography/) on the market, and I like them. They are a different experience. A smart telescope collects light for minutes, stacks it and gives you a color picture on a phone. Night vision gives you a live, single-color view through an eyepiece, with your own eye, right now. At a star party I use night vision, because the whole point of the evening is looking through an eyepiece.
 
-The catch is cost. A good intensifier tube costs as much as a large telescope, which is why few people own one, and why it is worth trying at a star party before you think about buying.
+The catch is cost. A good intensifier tube runs about $2,000, and higher-end tubes cost $5,000 to $8,000. Mine was about $3,000. That is why few people own one, and why it is worth trying at a star party before you think about buying.
 
 ## Try it
 

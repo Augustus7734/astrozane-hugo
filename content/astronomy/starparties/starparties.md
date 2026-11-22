@@ -63,7 +63,7 @@ For trips, retreats, and once-a-year skies, I travel across the Southwest. **Des
 - **Cosmic Campground, New Mexico** — an International Dark Sky Sanctuary in the Gila National Forest, with a 360° horizon and essentially no artificial light.
 - **City of Rocks State Park, New Mexico** — camping among volcanic boulders between Deming and Silver City, under a very dark sky.
 
-Sites on ordinary public land, like national forests, are much easier to schedule than national parks, where a commercial event needs a permit from each park. If you have a park in mind, plan on extra lead time.
+Trailheads, national forests and other ordinary public land need no call ahead, so they are much easier to schedule. National parks and state parks have to be arranged with the park first. If you have a park in mind, plan on extra lead time.
 
 I also travel to Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
 

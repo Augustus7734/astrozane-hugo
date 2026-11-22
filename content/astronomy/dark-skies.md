@@ -1,7 +1,7 @@
 ---
 title: "Protecting Dark Skies in Tucson and Southern Arizona"
 linkTitle: "Protecting Dark Skies"
-description: "Why light pollution matters for health, wildlife and the night sky, where Tucson's light actually comes from, including prisons, and what DarkSky International and DarkSky Southern Arizona do about it."
+description: "What light pollution is, why it matters for health, wildlife and the local economy, where Tucson's light actually comes from, including prisons, and what DarkSky International and DarkSky Southern Arizona do about it."
 layout: "single"
 url: "/astronomy/dark-skies/"
 zl_breadcrumb:
@@ -9,6 +9,10 @@ zl_breadcrumb:
   - {name: "Astronomy", url: "/astronomy/"}
   - {name: "Protecting Dark Skies", url: "/astronomy/dark-skies/"}
 zl_faq:
+  - q: "What is light pollution?"
+    a: "Light pollution is artificial light at night that goes where it is not needed: up into the sky, sideways into people's eyes, or onto property it was never meant to light. It shows up as skyglow, the dome of light over a city that hides the stars, as glare, and as light trespass. Most of it comes from fixtures that are unshielded, too bright, too blue or left on all night."
+  - q: "Are dark skies good for Tucson's economy?"
+    a: "Yes. People travel to Arizona from all over the world to see the night sky, and they pay for hotels, meals, guides and gear while they are here. Stronger lighting rules and real enforcement would make Tucson a destination for it and leave room for many more people to make a living offering star tours."
   - q: "What is the difference between DarkSky International and DarkSky Southern Arizona?"
     a: "DarkSky International is the global nonprofit, based in Tucson, that certifies International Dark Sky Places, approves outdoor lighting products and works on policy worldwide. DarkSky Southern Arizona is its volunteer chapter for the region. The chapter does the local work: lighting codes, problem lights, education and sky-brightness monitoring."
   - q: "Does Tucson have an outdoor lighting code?"
@@ -37,6 +41,17 @@ zl_faq:
 
 Tucson is surrounded by observatories: Kitt Peak, Mount Lemmon, Mount Hopkins and, farther out, Mount Graham. The city and Pima County have had outdoor lighting rules since the 1970s to protect them, which is why you can still see the Milky Way from the edge of town. That is not guaranteed to last.
 
+## What is light pollution?
+
+Light pollution is artificial light at night that goes where it is not needed. It comes in a few forms:
+
+- **Skyglow.** The dome of light over a city. Light that goes up or sideways scatters in the air and washes out the stars, and it can be seen from more than a hundred miles away.
+- **Glare.** Light that shines straight into your eyes and makes it harder to see.
+- **Light trespass.** Light that lands where it was never meant to go, such as a neighbor's floodlight in your bedroom window.
+- **Over-lighting.** Far more light than the job needs, or light left on all night with nobody there.
+
+Almost all of it comes from the same few mistakes: fixtures with no shield, light that is too bright, light that is too blue, and light that stays on when nobody is using it. None of it makes anyone safer or helps anyone see.
+
 ## Why it matters beyond astronomy
 
 A dark sky is not only for people with telescopes. Light pollution is a health problem and an environmental one.
@@ -49,15 +64,13 @@ A dark sky is not only for people with telescopes. Light pollution is a health p
 
 Unlike most pollution, this kind is gone the moment the light is shielded or switched off.
 
-## What is threatening it
+## What a dark sky is worth to Tucson
 
-- **Prisons.** Some of the brightest things in Southern Arizona's night sky are prisons lit by unshielded floodlights. More on this below.
-- **Mines.** Southern Arizona is in the middle of a copper boom, and a big mine runs all night under lights. Some operators take that seriously and some worry us a great deal. More on this below too.
+People come to Arizona from all over the world to see the night sky. They book hotels, eat in restaurants, hire guides and buy gear while they are here.
 
-- **Careless development.** New subdivisions, gas stations, car lots and billboards all add light, and a lot of it is unshielded or far brighter than it needs to be. The lighting code only works when someone enforces it.
-- **Data centers.** Tucson's City Council voted down the Project Blue data center in 2025, and it moved ahead outside the city limits anyway. Marana approved the rezoning for another in early 2026. Now SpaceX wants a $50 billion campus on about 750 acres near Willcox Playa in Cochise County, under some of the darkest skies left in Southern Arizona. As of November 2026 the county had not voted on it. Sites that size are lit all night.
-- **Data centers in orbit.** SpaceX has also asked the FCC for permission to launch up to a million satellites to work as data centers in space. Astronomers who have modeled it expect thousands of them to be visible to the naked eye at once. And if launching data centers is going to be as cheap as the company says, it is fair to ask why it needs 750 acres of Cochise County.
-- **The University of Arizona.** This is the ironic one. The university runs several of the observatories the lighting code was written to protect, and its own design standards require new lighting to follow that code. But the campus is state property, so the city and county don't enforce the code there, and the standards only cover new work. There is no budget to replace old fixtures, so unshielded globe lights are still all over campus and around it, including at Main Gate, where I set up my telescopes. If those are exempt from the code, I have not been able to find out why. Spotlights come out whenever parents are in town for the week, and in 2026 the football stadium got a new lighting system built for light shows. Meanwhile nobody tells the thousands of students and parents who arrive from out of town every year why Tucson lights things the way it does.
+Tucson already has the observatories and the history. Better lighting laws, and real enforcement of the ones on the books, would put it on the map as a place to come and see the stars. There is room for far more people to make a living offering star tours than do today.
+
+That is worth more to the local economy than lighting up an empty football stadium at night. When the university's athletics department was asked why it does that, the answer was that it looks cool. It is fair to ask who it looks cool to.
 
 ## Where Tucson's light actually comes from
 
@@ -71,9 +84,19 @@ Nobody has measured the rest source by source, so what follows is my own rough e
 - **Topgolf**, in Marana, is easily a major line item on its own. Marana does very little about lighting violations, which is a concern for a town growing as fast as it is.
 - **Davis-Monthan Air Force Base and the airport**, which people often blame, are only a small fraction.
 
+## What is threatening the sky here
+
+- **Prisons.** Some of the brightest things in Southern Arizona's night sky are prisons lit by unshielded floodlights. More on this below.
+- **Mines.** Southern Arizona is in the middle of a copper boom, and a big mine runs all night under lights. Some operators take that seriously and some worry us a great deal. More on this below too.
+
+- **Careless development.** New subdivisions, gas stations, car lots and billboards all add light, and a lot of it is unshielded or far brighter than it needs to be. The lighting code only works when someone enforces it.
+- **Data centers.** Tucson's City Council voted down the Project Blue data center in 2025, and it moved ahead outside the city limits anyway. Marana approved the rezoning for another in early 2026. Now SpaceX wants a $50 billion campus on about 750 acres near Willcox Playa in Cochise County, under some of the darkest skies left in Southern Arizona. As of November 2026 the county had not voted on it. Sites that size are lit all night.
+- **Data centers in orbit.** SpaceX has also asked the FCC for permission to launch up to a million satellites to work as data centers in space. Astronomers who have modeled it expect thousands of them to be visible to the naked eye at once. And if launching data centers is going to be as cheap as the company says, it is fair to ask why it needs 750 acres of Cochise County.
+- **The University of Arizona.** This is the ironic one. The university runs several of the observatories the lighting code was written to protect, and its own design standards require new lighting to follow that code. But the campus is state property, so the city and county don't enforce the code there, and the standards only cover new work. There is no budget to replace old fixtures, so unshielded globe lights are still all over campus and around it, including at Main Gate, where I set up my telescopes. If those are exempt from the code, I have not been able to find out why. Spotlights come out whenever parents are in town for the week, and in 2026 the football stadium got a new lighting system built for light shows. Meanwhile nobody tells the thousands of students and parents who arrive from out of town every year why Tucson lights things the way it does.
+
 ## Prisons do not have to be this bright
 
-The federal prison complex in Tucson is lit all night by unshielded floodlights that send light sideways and up as well as down. Like the university, it is outside the reach of the local lighting code, in this case because it is federal property.
+The Federal Correctional Complex, Tucson, on the southeast side of the city, is lit all night by unshielded floodlights that send light sideways and up as well as down. Like the university, it is outside the reach of the local lighting code, in this case because it is federal property.
 
 Tucson is not the only place with this problem. From sites north of the city, such as Oracle and Aravaipa Canyon, the light dome from the prisons at Florence outshines the glow of Phoenix, which is much bigger but farther away. It is about as bad as the skyglow from the whole Tucson metro area.
 
@@ -83,10 +106,10 @@ DarkSky Southern Arizona is preparing a request for full-cutoff shielding at the
 
 Places that already do this:
 
-- **Florence, Arizona.** The state prison there sits beside the federal facility, and the state prison is lit much better. Same town, same security needs, very different sky.
+- **Florence, Arizona.** The Arizona State Prison Complex–Eyman sits beside the federal detention facilities there, and the state complex is lit much better. If the state can secure a prison in Florence without lighting up the sky, so can the facility next door.
 - **Springfield, Vermont.** When Vermont built its Southern State Correctional Facility a few miles from the Stellafane observatory, the state hired a lighting engineering firm to protect the sky. The design lights only the building walls and the inside of the perimeter fence, using fully shielded downlights. Stellafane is where I showed my first homemade telescope.
 - **Texas.** A 1999 state law requires state-funded projects, including new prisons and highways, to use fully shielded lighting.
-- **Mount Graham, Arizona.** From Columbine, near the top of the mountain, you can barely tell that the state prison at its foot exists, even looking straight down at it. The tomato greenhouses nearby are far brighter.
+- **Mount Graham, Arizona.** From Columbine, near the top of the mountain, you can barely tell that the Fort Grant Unit of the Arizona State Prison Complex–Safford exists at the foot of the mountain, even looking straight down at it. The tomato greenhouses nearby are far brighter.
 
 If a state prison system can do it, the federal government can too.
 
@@ -98,6 +121,19 @@ Copper is booming in Southern Arizona, and several new mines are planned in or n
 - **South32's Hermosa project**, near Patagonia, does not concern us either.
 - **Copper World**, in the Santa Rita Mountains south of Tucson, is the one we are very worried about. Its owner, Hudbay, spent years trying to build the Rosemont mine on the other side of the same mountains. That plan would have buried nearly two billion tons of waste rock and tailings on Coronado National Forest land, and it only stopped when the courts threw it out. Copper World sits in the same range as the Whipple Observatory. Its owners approved construction in October 2026 and are aiming for first production in 2029, and a later phase would expand onto federal land. The tailings question is not settled either. As of November 2026 a permitting bill, the Bipartisan American Affordability and Jobs Act (BAAJA), has cleared the Senate and is in the House. If it passes, the mine could still put its tailings on national forest land.
 - **San Manuel.** Mining activity has started up again at the old San Manuel mine north of Tucson. It may turn out to be only a minor source of skyglow. We do not know yet. It is certainly not good for stargazing right next to it.
+
+## Who does what
+
+Two organizations with nearly the same name work on this, and they do different jobs.
+
+- **[DarkSky International](https://darksky.org/)** is the global nonprofit, formerly the International Dark-Sky Association. It was founded in Tucson in 1988 and is still based here. It certifies International Dark Sky Places, approves outdoor lighting products, and works on research and policy around the world. It does not deal with a specific bad light or a local zoning case.
+- **[DarkSky Southern Arizona](https://darkskysoaz.org/)** is the volunteer chapter for everything south of the Phoenix area. It helps cities, towns and HOAs adopt and enforce lighting codes, speaks up about local projects, teaches responsible lighting, and runs the [Dark Sky Network](https://soazcomms.github.io/docs/DSN_Description.html), a set of sensors that have been measuring sky brightness across the region since 2025.
+
+If you want to become a member, you join DarkSky International. If you want to pay for work here, [donate to the chapter](https://darkskysoaz.org/donate/). Those donations go directly to it.
+
+## How the chapter started
+
+I founded DarkSky Southern Arizona as a new chapter in 2023 and sit on its board. The previous Southern Arizona section had gone quiet. Its last big win was getting better lighting at the university's football stadium, years earlier. As far as I can tell, those lights are now brighter than they have ever been.
 
 ## A Copper Corridor dark sky area
 
@@ -119,19 +155,6 @@ A large part of it is San Carlos Apache land, and nothing like this can happen w
 The same boundary over a light pollution map shows why the line sits where it does:
 
 {{< zl-img src="/astronomy/dark-skies/copper-corridor-dark-sky-area-light-pollution-map.jpg" href="/astronomy/dark-skies/copper-corridor-dark-sky-area-light-pollution-map-full.jpg" alt="The proposed Copper Corridor dark sky area drawn over a light pollution map, showing the glow of Tucson, Phoenix, Florence, Safford, Morenci and Willcox around a dark interior" caption="The concept boundary over a light pollution map. Click for a larger version." width="900" >}}
-
-## Who does what
-
-Two organizations with nearly the same name work on this, and they do different jobs.
-
-- **[DarkSky International](https://darksky.org/)** is the global nonprofit, formerly the International Dark-Sky Association. It was founded in Tucson in 1988 and is still based here. It certifies International Dark Sky Places, approves outdoor lighting products, and works on research and policy around the world. It does not deal with a specific bad light or a local zoning case.
-- **[DarkSky Southern Arizona](https://darkskysoaz.org/)** is the volunteer chapter for everything south of the Phoenix area. It helps cities, towns and HOAs adopt and enforce lighting codes, speaks up about local projects, teaches responsible lighting, and runs the [Dark Sky Network](https://soazcomms.github.io/docs/DSN_Description.html), a set of sensors that have been measuring sky brightness across the region since 2025.
-
-If you want to become a member, you join DarkSky International. If you want to pay for work here, [donate to the chapter](https://darkskysoaz.org/donate/). Those donations go directly to it.
-
-## How the chapter started
-
-I founded DarkSky Southern Arizona as a new chapter in 2023 and sit on its board. The previous Southern Arizona section had gone quiet. Its last big win was getting better lighting at the university's football stadium, years earlier. As far as I can tell, those lights are now brighter than they have ever been.
 
 ## What you can do
 

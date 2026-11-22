@@ -25,6 +25,8 @@ hero:
       style: "solid"
     - label: "Ask about a date"
       url: "/links/contact/"
+    - label: "Telescope repair"
+      url: "/astronomy/telescope-repair/"
     - label: "Hire me"
       url: "#hire-me-marketing-communications-and-content"
     - label: "eBay store"
@@ -98,7 +100,7 @@ I also set up telescopes on the sidewalk in Tucson for anyone walking by. That i
 
 ## Telescope reviews and buying advice
 
-Since 2018 I have been Lead Writer and Editor at [TelescopicWatch](https://telescopicwatch.com/), a telescope review site that ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use. I have owned more than 500 telescopes, and I test the optics of most instruments I review on the bench or on a star.
+Since 2018 I have been Lead Writer and Editor at [TelescopicWatch](https://telescopicwatch.com/), a telescope review site that ranks and reviews telescopes, mounts, eyepieces and binoculars from hands-on use. I have owned more than 500 telescopes, and I test the optics of most instruments I review on the bench or on a star. That includes nearly every smart telescope on the market, which I have owned and reviewed for TelescopicWatch: ZWO's Seestars, the Dwarf telescopes, the Vaonis Vespera and more. My [astrophotography](/astronomy/astrophotography/) page shows what each of them can do.
 
 If you are choosing a first telescope, start with the [TelescopicWatch telescope rankings](https://telescopicwatch.com/best-telescope-reviews/). They cover Dobsonians, refractors, computerized and smart telescopes at every budget, and they say plainly which popular models to avoid.
 
@@ -126,6 +128,10 @@ For hands-on help, I do [telescope repair and setup](/astronomy/telescope-repair
 - [24-inch f/4 Dobsonian](/projects/24-inch-f4/): My newest telescope project, to be completed 2027
 - [24-inch f/3.5 Dobsonian](/projects/24-inch/): My previous big telescope, which now lives in California.
 - [6-inch f/4.3 Newtonian](/projects/6inch-f4/): My first homemade telescope which won an award at Stellafane 2018 for optical quality.
+- [20.5-inch f/4.3 Dobsonian](/projects/other-telescope-projects/#205-inch-f45-dobsonian-telescope): Built around a spray-silvered mirror.
+- 16-inch f/4.7 Dobsonian: My first large Dob.
+- [10-inch f/3.2 Newtonian](/projects/other-telescope-projects/#10-inch-f32-newtonian-telescope): The first telescope I built faster than f/4.
+- [Hadley 114](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig): A 3D-printed 114mm Newtonian that I helped design.
 
 I also regularly use a 30" f/4.4 Starsplitter that I share with Cole Rees, a Celestron orange tube C8 built in 1980, and an SVBONY MK127 for viewing. The 30" lives at Chiricahua Sky Village and is not available for star parties. I currently image with a ZWO SeeStar S50 Pro.
 

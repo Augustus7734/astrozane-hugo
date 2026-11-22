@@ -20,7 +20,7 @@ images: ["/images/starparty-hero-wide.jpg"]
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my 14.7" telescope is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
+Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/) is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only: it isn't fully dark until after 9 pm, and monsoon storms cancel a lot of nights.
 

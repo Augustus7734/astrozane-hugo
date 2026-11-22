@@ -27,6 +27,8 @@ zl_faq:
 
 Phoenix is a big, bright city, and you cannot see the Milky Way from the middle of it. The good news is that an hour's drive fixes that. These are the places I take groups for [star parties in Phoenix and Scottsdale](/astronomy/starparties/phoenix/), from closest to darkest.
 
+**In the Tucson area instead?** See my guide to [stargazing spots near Tucson](/astronomy/stargazing-near-tucson/).
+
 {{< zl-img src="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion from the Hovatter Road observing field west of Phoenix, Arizona" caption="Orion from Hovatter Road, about 90 minutes west of downtown Phoenix." >}}
 
 ## The short list

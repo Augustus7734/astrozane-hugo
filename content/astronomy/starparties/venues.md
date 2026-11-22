@@ -42,7 +42,7 @@ zl_faq:
   - q: "Where do you host venue star parties?"
     a: "Tucson and the rest of Southern Arizona, including Sonoita, Elgin, Sierra Vista and Willcox, plus Phoenix and Scottsdale."
   - q: "When are venue dates available?"
-    a: "January through May 2027. Dark-sky weekends are best for the Milky Way, nebulae and galaxies, and Moon nights are best for big, casual crowds."
+    a: "January through May 2027 and August through December 2027. June and July are by request only because of late sunsets and monsoon storms. Dark evenings are best for the Milky Way, nebulae and galaxies, and Moon nights are best for big, casual crowds."
   - q: "How far ahead should we book?"
     a: "Weekends go first. A month or more ahead is best, and a recurring series should be set before the season starts. A deposit holds each date."
   - q: "Is this for private groups too?"
@@ -51,7 +51,7 @@ zl_faq:
 
 If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. I bring the telescopes and run the night. You don't have to buy or learn anything.
 
-I have run recurring star parties for a mountain lodge and a guest ranch near Tucson, along with private events all over Southern Arizona. Venue dates are open for **January through May 2027**.
+I have run recurring star parties for a mountain lodge and a guest ranch near Tucson, along with private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
 ## What your guests get
 
@@ -89,14 +89,18 @@ From 2027 my 24" telescope is available too, at a higher rate. It can come by it
 - Promotion. I can send you an event description, photos and social posts to use.
 - The weather. I watch the forecast in the days before, and cloudy nights are rescheduled at no charge.
 
-## Best nights, January to May 2027
+## Best nights in 2027
 
 These are the Fridays and Saturdays I would pick. Weeknights are open too.
 
-- **Dark-sky nights**, for the Milky Way, nebulae and galaxies: January 8-9 and 29-30, February 5-6 and 26-27, March 26-27, April 2-3 and 9-10, May 7-8 and 28-29.
-- **Moon nights**, best for big, casual crowds: January 15-16, March 13, April 16-17, May 14-15.
+| | Dark evenings, for the Milky Way, nebulae and galaxies | Moon nights, best for big, casual crowds |
+|---|---|---|
+| January to May | January 8-9 and 29-30, February 5-6 and 26-27, March 5-6 and 26-27, April 2-3 and 9-10, May 7-8 and 28-29 | January 15-16, February 12-13, March 12-13, April 16-17, May 14-15 |
+| August to December | August 27-28, September 3-4 and 24-25, October 1-2, 22-23 and 29-30, November 19-20 and 26-27, December 17-18 | August 13-14, September 10-11, October 8-9, November 5-6, December 3-4 |
 
-Jupiter and Mars are both at their best in February and stay well placed through April. The Orion Nebula is up all winter and into early April.
+Jupiter and Mars are both at their best in February and stay well placed through April. The Orion Nebula is up all winter and into early April. In August and September the summer Milky Way is high after dark, and Saturn is at its best from October through December.
+
+**Summer.** August and September are monsoon season, so pick a backup date when you book. June and July are by request only: it isn't fully dark until after 9 pm, and storms cancel a lot of nights.
 
 ## Common questions
 

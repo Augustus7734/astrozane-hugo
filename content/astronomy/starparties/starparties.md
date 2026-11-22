@@ -1,6 +1,6 @@
 ---
 title: "Book A Star Party"
-summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, Saturday stargazing at the Mount Lemmon Lodge, and telescope repair. Now booking November 2026 through May 2027."
+summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, Saturday stargazing at the Mount Lemmon Lodge, and telescope repair. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/"
 description: "Private, expert-guided star parties in Tucson and Phoenix for families, bachelor and bachelorette parties, and small groups, plus star parties for resorts, vineyards, and venues, and telescope repair."
@@ -10,7 +10,7 @@ images: ["/images/starparty-hero-wide.jpg"]
 # Star Party Bookings
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · Nov 2026 – May 2027" title="Your own night under the stars" text="Private, guided star parties for groups of 2 to 20 across Tucson, Phoenix, and Southern Arizona." >}}
+{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the stars" text="Private, guided star parties for groups of 2 to 20 across Tucson, Phoenix, and Southern Arizona." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
 {{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
@@ -22,7 +22,9 @@ images: ["/images/starparty-hero-wide.jpg"]
 
 Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my 14.7" telescope is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
 
-**Now booking private events for November 2026 through May 2027.** A deposit is required to hold your date. From 2027 my 24" telescope will be available too, at a higher rate, and it can come out alongside the 14.7".
+**Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only: it isn't fully dark until after 9 pm, and monsoon storms cancel a lot of nights.
+
+A deposit is required to hold your date. From 2027 my 24" telescope will be available too, at a higher rate, and it can come out alongside the 14.7".
 
 ## Choose Your Area
 
@@ -42,7 +44,7 @@ Base pricing covers up to 20 guests. For **21 to 40 guests**, sessions run two h
 
 ## Star Parties for Venues
 
-Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties for your guests as a flat-rate evening, a recurring series, a ticketed event with no cost up front, or an add-on for weddings and corporate groups. **Base pricing from $250 a night** for a recurring series and **from $400** for a single evening. Venue dates are open for January through May 2027.
+Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties for your guests as a flat-rate evening, a recurring series, a ticketed event with no cost up front, or an add-on for weddings and corporate groups. **Base pricing from $250 a night** for a recurring series and **from $400** for a single evening. Venue dates are open for January through May 2027 and August through December 2027.
 
 **[See venue options and pricing →](/astronomy/starparties/venues/)**
 

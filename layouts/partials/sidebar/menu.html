@@ -34,7 +34,7 @@
                              is left out of this list (used for pages that have their own top-level link). */}}
                         {{ range (first $menu_item.Limit (where .Pages "Params.sidebar_hide" "ne" true)) }}
                             <li class="bullet">
-                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
                             </li>
                         {{ end }}
                     {{ end }}
@@ -57,7 +57,7 @@
                             </li>
                             {{ range (first $menu_item.Limit .Pages) }}
                                 <li class="bullet">
-                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
                                 </li>
                             {{ end }}
                         {{ end }}

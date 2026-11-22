@@ -1,9 +1,8 @@
 ---
 title: "Star Parties in Tucson"
-summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Tucson, Oro Valley, Marana, Vail, and Southern Arizona. Base rates from $300. Now booking November 2026 through May 2027."
+summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Tucson, Oro Valley, Marana, Vail, and Southern Arizona. Base rates from $300. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/tucson/"
-sidebar_hide: true
 description: "Private, guided star parties in Tucson and Southern Arizona for families, bachelor and bachelorette parties, and small groups. Hand-built telescopes, seated viewing, night vision, base rates from $300."
 images: ["/images/starparty-hero-wide.jpg"]
 service:
@@ -38,12 +37,13 @@ faq:
       - q: "Do we have to drive out to a dark site?"
         a: |
           No. The Moon, planets, double stars, and bright clusters look spectacular from a backyard in the middle of Tucson, and night vision pulls nebulae out of a city sky. A dark site is worth the drive when you want the Milky Way overhead and galaxies in the telescope.
+sidebar_hide: true
 ---
 
 # Private Star Parties in Tucson & Southern Arizona
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · Nov 2026 – May 2027" title="Your own night under the Tucson stars" text="Private, guided star parties for groups of 2 to 20 across Tucson and Southern Arizona." >}}
+{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the Tucson stars" text="Private, guided star parties for groups of 2 to 20 across Tucson and Southern Arizona." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
 {{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
@@ -54,7 +54,7 @@ faq:
 
 Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
-**Now booking private events for November 2026 through May 2027.** [Check a date or ask a question →](https://astrozane.com/links/contact)
+**Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 
 ## Made for Small Groups
 

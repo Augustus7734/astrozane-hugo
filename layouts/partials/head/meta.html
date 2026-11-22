@@ -24,7 +24,7 @@
 {{ if .IsPage }}
   {{ .Scratch.Set "title" ($.Site.Params.brand) }}
   {{ .Scratch.Add "title" " - " }}
-  {{ .Scratch.Add "title" .LinkTitle }}
+  {{ .Scratch.Add "title" .Title }}
 {{ end }}
 
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}

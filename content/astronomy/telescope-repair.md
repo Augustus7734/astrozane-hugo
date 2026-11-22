@@ -1,5 +1,6 @@
 ---
 title: "Telescope Repair and Setup Help"
+linkTitle: "Telescope Repair"
 description: "In-person telescope repair, collimation, setup and troubleshooting in Tucson and Phoenix, Arizona, from telescope maker and TelescopicWatch editor Zane Landers."
 layout: "single"
 url: "/astronomy/telescope-repair/"

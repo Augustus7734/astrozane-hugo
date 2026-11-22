@@ -24,7 +24,7 @@ faq:
           No. Pricing is for the group, covering up to 20 guests. At the base rate, a two-hour night for a party of ten works out to about $50 each.
       - q: "Can you host more than 20 guests?"
         a: |
-          Yes, up to 100. For 21 to 40 guests, sessions run two hours or longer and start at about $600. For 41 to 100 guests I bring more telescopes, starting at about $800 for 41 to 70 guests and $1,050 for 71 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
+          Yes, up to 100. For 20 to 40 guests, sessions run two hours or longer and start at about $600. For 40 to 100 guests I bring more telescopes, starting at about $800 for 40 to 70 guests and $1,150 for 70 to 100. Resorts, hotels, vineyards, and event venues have their own options on the venues page.
       - q: "Is a deposit required?"
         a: |
           Yes. A deposit is required to hold your date.
@@ -112,7 +112,7 @@ Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests.
 
 The rate is for the group, not per person, and it includes my travel from Tucson with a truckload of telescopes. At the base rate, a two-hour night for a party of ten comes to about $50 a person; for a family of five, about $100.
 
-**More than 20 guests?** For 21 to 40 guests, sessions run two hours or longer and start at **$600**. For 41 to 100 guests I bring more telescopes: **from $800** for 41 to 70 and **from $1,050** for 71 to 100.
+**More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$600**. For 40 to 100 guests I bring more telescopes: **from $800** for 40 to 70 and **from $1,150** for 70 to 100.
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 

@@ -53,7 +53,7 @@ faq:
   - q: "Who is Zane Landers?"
     a: "Zane Landers is an amateur astronomer, telescope maker and science writer in Tucson, Arizona. He hosts private star parties through AstroZane, is Lead Writer and Editor of TelescopicWatch, writes for Live Science, serves on the founding board of DarkSky Southern Arizona and moderates r/telescopes. He has owned more than 500 telescopes, and his telescope making has been covered by TIME, National Geographic, The Guardian and Sky & Telescope."
   - q: "How much does a private star party cost in Tucson or Phoenix?"
-    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $600. Larger events are available for up to 100 guests, from $500 for 21 to 40 guests, $700 for 41 to 70 and $950 for 71 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
+    a: "AstroZane star parties are priced per group, not per person. Base estimates for up to 20 guests start at $300 for one hour in the Tucson area and $500 for two hours in Phoenix and Scottsdale, with travel included. Destination star parties, such as the Grand Canyon or Organ Pipe Cactus National Monument, start at $600. Larger events are available for up to 100 guests, from $500 for 20 to 40 guests, $700 for 40 to 70 and $1,050 for 70 to 100 in the Tucson area. Final prices depend on the date, location, group size and extras."
   - q: "What do guests see at an AstroZane star party?"
     a: "Guests look through the eyepiece at the Moon, planets, double stars, star clusters, galaxies and nebulae, chosen for what is best placed on the night. Sessions use a hand-built 14.7-inch Dobsonian telescope with seated viewing, a second smaller telescope, binoculars and a PVS-14 night vision device that shows nebulae such as Orion and the Horsehead live. No screens are used."
   - q: "Where does AstroZane host star parties?"
@@ -87,7 +87,7 @@ Star parties are private, for groups of 2 to 20: families, birthdays, bachelor a
 | [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours |
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
 | [Destination star parties](/astronomy/starparties/) | From $600 | Grand Canyon, Organ Pipe Cactus, Cosmic Campground, City of Rocks and beyond |
-| [Large groups](/astronomy/starparties/) | From $500 | 21 to 100 guests, with extra telescopes above 40 |
+| [Large groups](/astronomy/starparties/) | From $500 | 20 to 100 guests, with extra telescopes above 40 |
 
 Prices are base estimates and depend on the date, location and extras. The first three rows are for up to 20 guests. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 

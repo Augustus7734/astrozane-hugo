@@ -38,7 +38,7 @@ Anywhere in the Valley, plus dark-sky sites like Picketpost Trailhead, the Tonto
 
 ### Groups of more than 20
 
-Base pricing covers up to 20 guests. For **21 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **41 to 100 guests** I bring more telescopes: **from $700** for 41 to 70 and **from $950** for 71 to 100. Phoenix-area events add $100. Tell me the headcount and I'll put together a quote.
+Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $1,050** for 70 to 100. Phoenix-area events add $100. Tell me the headcount and I'll put together a quote.
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
 
@@ -72,7 +72,7 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
 - **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
 - **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
-- **El Conquistador Tucson, A Hilton Resort.** A stargazing night at the Oro Valley resort, run with Reach for the Stars Arizona.
+- **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 

@@ -8,9 +8,9 @@ draft: false
 
 # 24-Inch f/4 Dobsonian Telescope
 
-Not to be confused with my [old 24" f/3.5](/projects/24-inch/), which lives in California now. I didn't make this one from scratch.
+Not to be confused with my [old 24" f/3.5](/projects/24-inch/), which I sold and which lives in California now. I didn't make this one from scratch.
 
-The original scope and its primary mirror were made by Eric Allen in 2009. The mirror is 1.5" thick Pyrex, which is thin for a 24". That keeps the weight down and means it cools off in a reasonable amount of time, but it's a lot pickier about how it's supported.
+The original scope and its primary mirror were made by Eric Allen in 2009. By the time I got it, the structure had been left to rot, so I am rebuilding it around the mirror. I have the Huachuca Astronomy Club and Cole Rees to thank for getting it to me. The mirror is 1.5" thick Pyrex, which is thin for a 24". That keeps the weight down and means it cools off in a reasonable amount of time, but it's a lot pickier about how it's supported.
 
 At f/4 the focal length is 2438mm, so the eyepiece ends up somewhere around seven feet off the ground when the scope is pointed straight up. That's a few steps up a short ladder, and no more seated observing like with my 14.7". Such are the compromises of not owning a 24" f/3.
 

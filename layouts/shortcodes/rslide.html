@@ -1,0 +1,11 @@
+{{/*
+  A plain photo slide for the carousel shortcode: image plus a one-line caption.
+  Usage, inside {{< carousel >}} ... {{< /carousel >}}:
+    {{< rslide img="images/photo.jpg" caption="After: the restored telescope" >}}
+*/}}
+<div class="zl-carousel-slide">
+  <a class="zl-carousel-imgwrap" href="{{ .Get "img" }}" target="_blank" rel="noopener">
+    <img src="{{ .Get "img" }}" alt="{{ .Get "alt" | default (.Get "caption") }}" loading="lazy">
+  </a>
+  {{ with .Get "caption" }}<div class="zl-carousel-caption"><h4>{{ . }}</h4></div>{{ end }}
+</div>

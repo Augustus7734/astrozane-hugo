@@ -51,7 +51,7 @@ zl_faq:
 
 If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. I bring the telescopes and run the night. You don't have to buy or learn anything.
 
-I have run a Saturday-evening stargazing series at [Mount Lemmon Lodge](https://mountlemmonlodge.com/), star parties for guests at [White Stallion Ranch](https://www.whitestallion.com/), and a stargazing and sound bath evening at [Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/), along with private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
+I have run a Saturday-evening stargazing series at [Mount Lemmon Lodge](https://mountlemmonlodge.com/), star parties for guests at [White Stallion Ranch](https://www.whitestallion.com/), a stargazing and sound bath evening at [Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/), and a stargazing night at El Conquistador Tucson, A Hilton Resort with Reach for the Stars Arizona, along with private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
 ## What your guests get
 

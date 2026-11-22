@@ -54,7 +54,7 @@ Run a resort, hotel, guest ranch, vineyard, or event venue? I host star parties 
 
 ## Destination Star Parties
 
-For trips, retreats, and once-a-year skies, I travel across the Southwest. **Destination events start at $500**; that's a base figure, and each one is quoted individually based on distance, length, and group size.
+For trips, retreats, and once-a-year skies, I travel across the Southwest. **Destination events start at $600**; that's a base figure, and each one is quoted individually based on distance, length, and group size.
 
 - **Grand Canyon National Park** — a certified International Dark Sky Park. The Milky Way over the rim is hard to beat.
 - **Organ Pipe Cactus National Monument** — southwest of Tucson near Ajo, and Arizona's newest International Dark Sky Park, certified in 2026.
@@ -72,6 +72,7 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
 - **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
 - **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+- **El Conquistador Tucson, A Hilton Resort.** A stargazing night at the Oro Valley resort, run with Reach for the Stars Arizona.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 

@@ -135,6 +135,7 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
 - **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
 - **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+- **El Conquistador Tucson, A Hilton Resort.** A stargazing night at the Oro Valley resort, run with Reach for the Stars Arizona.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
 

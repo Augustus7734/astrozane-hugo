@@ -44,12 +44,14 @@ I have been doing it in Tucson since 2022, mostly on University Boulevard next t
 
 None of this is my idea. John Dobson and the San Francisco Sidewalk Astronomers started doing it in the 1960s with big, cheap telescopes that anyone could build. The Dobsonian telescope is named after him.
 
+I was doing public outreach long before the sidewalk. I helped with a lot of it at the Westport Astronomical Society's observatory in Connecticut, and in Arizona with Reach for the Stars Arizona, which brought telescopes to schools, libraries and scout troops. I still do a lot of outreach with the Huachuca Astronomy Club in Sierra Vista.
+
 ## What I bring
 
 My big telescopes stay home for this. The targets are bright, and a telescope a kid can reach beats a bigger one on a ladder.
 
-- **8" Dobsonian.** Simple and sturdy, and it shows plenty. With a step stool, kids can use it on their own.
-- **[6" f/4.3 Newtonian](/projects/6inch-f4/).** The first telescope I made, with a mirror I ground in 2017.
+- **[8" f/6 Dobsonian](/astronomy/telescopes/).** Built by John Dobson himself around 1985, which makes it about the most fitting sidewalk telescope there is. Simple and sturdy, and it shows plenty. With a step stool, kids can use it on their own.
+- **[6" f/4.3 Newtonian](/projects/6inch-f4/).** My first homemade telescope, with a mirror I ground in 2017.
 - **[SVBONY MK127](/astronomy/telescopes/).** A small Maksutov that is very sharp on the Moon and planets.
 
 ## What you can see from a sidewalk

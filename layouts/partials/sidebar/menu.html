@@ -36,6 +36,15 @@
                             <li class="bullet">
                                 <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
                             </li>
+                            {{/* astrozane.com change: links to other sites listed in this menu entry's "Extra",
+                                 each shown right after the page named in its "After".
+                                 Config:  Extra = [{Name = "Choose A Telescope", URL = "https://telescopicwatch.com/", After = "Current Telescopes"}] */}}
+                            {{ $lt := .LinkTitle }}
+                            {{ range $menu_item.Extra }}{{ if eq .After $lt }}
+                            <li class="bullet">
+                                <a href="{{ .URL }}" target="_blank" rel="noopener">{{ .Name }}</a>
+                            </li>
+                            {{ end }}{{ end }}
                         {{ end }}
                     {{ end }}
                 {{ end }}

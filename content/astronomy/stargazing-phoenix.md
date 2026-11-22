@@ -41,14 +41,14 @@ Phoenix is a big, bright city, and you cannot see the Milky Way from the middle 
 | Picketpost Trailhead | About an hour east, near Superior | A first real dark sky |
 | Tonto National Forest | North and east of the city | The nearest big stretch of dark sky |
 | Hovatter Road | About 90 minutes west of downtown | A properly dark, wide-open sky |
-| Roosevelt Lake | About two hours east | A dark sky over the water |
+| Roosevelt Lake | About two hours east | A dark sky over the water, next to a certified dark sky park |
 | Alamo Lake State Park | Northwest, an overnight trip | One of the darkest skies in Arizona |
 
 Drive times are rough and depend on where in the Valley you start.
 
 ## Do you need to call ahead?
 
-Mostly no. Trailheads, national forest land and other ordinary public land need no reservation and no phone call. You just go. National parks and state parks are the exception: they have gates, hours and their own rules, so call or check ahead. On this list that means Alamo Lake State Park.
+Mostly no. Trailheads, national forest land and other ordinary public land need no reservation and no phone call. You just go. National parks and state parks are the exception: they have gates, hours and their own rules, so call or check ahead. On this list that means Alamo Lake State Park, and Tonto National Monument at Roosevelt Lake.
 
 ## In the Valley
 
@@ -80,7 +80,7 @@ An observing field off I-10 west of Tonopah, roughly 90 minutes from downtown Ph
 
 ### Roosevelt Lake
 
-In the Tonto National Forest, about two hours east of Phoenix. It is far enough from the Valley for a properly dark sky, and there are campgrounds along the shore if you want to stay.
+In the Tonto National Forest, about two hours east of Phoenix. It is far enough from the Valley for a properly dark sky, and there are campgrounds along the shore if you want to stay. Tonto National Monument, on the south side of the lake, has been a certified International Dark Sky Park since 2019. The monument itself is open during the day only.
 
 ### Alamo Lake State Park
 

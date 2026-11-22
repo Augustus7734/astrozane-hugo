@@ -40,7 +40,7 @@
 ## Elsewhere
 
 - [TelescopicWatch](https://telescopicwatch.com/): hands-on telescope rankings, reviews and buying guides edited by Zane Landers.
-- [Protecting dark skies in Tucson and Southern Arizona](https://astrozane.com/astronomy/dark-skies/): how light pollution affects health and wildlife, where Tucson's light comes from (streetlights are only about 14 percent of the skyglow), why prisons are a major source and how they can be lit with shielded fixtures, what DarkSky International and DarkSky Southern Arizona each do, and how to help.
+- [Protecting dark skies in Tucson and Southern Arizona](https://astrozane.com/astronomy/dark-skies/): how light pollution affects health and wildlife, where Tucson's light comes from (streetlights are only about 14 percent of the skyglow), why prisons are a major source and how they can be lit with shielded fixtures, a concept map of a proposed Copper Corridor dark sky area covering the San Pedro, Aravaipa and upper Gila valleys, what DarkSky International and DarkSky Southern Arizona each do, and how to help.
 - [DarkSky Southern Arizona](https://darkskysoaz.org/): regional chapter of DarkSky International; donations at https://darkskysoaz.org/donate/.
 - [Observational Astronomy Discord](https://discord.gg/astronomy): community for telescope help and observing.
 - [LinkedIn](https://linkedin.com/in/astrozane): professional background; open to full-time marketing, communications and content roles.

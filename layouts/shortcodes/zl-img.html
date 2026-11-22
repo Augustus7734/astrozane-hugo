@@ -1,10 +1,10 @@
 {{/*
   One centered image with an optional caption, capped in width so a square photo
-  does not fill the whole screen.
-  Usage:  {{< zl-img src="/images/photo.jpg" alt="What it shows" caption="Optional caption" width="520" >}}
+  does not fill the whole screen. With href, the image links to a larger copy.
+  Usage:  {{< zl-img src="/images/photo.jpg" alt="What it shows" caption="Optional caption" width="520" href="/images/photo-full.jpg" >}}
 */}}
 <figure class="zl-img" style="max-width:{{ .Get "width" | default "520" }}px">
-  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">
+  {{ with .Get "href" }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}<img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">{{ if .Get "href" }}</a>{{ end }}
   {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>
 <style>

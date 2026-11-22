@@ -1,5 +1,6 @@
 ---
 title: "Astrophotography"
+weight: 6
 layout: "single"
 url: "/astronomy/astrophotography"
 date: 2024-01-01

@@ -1,5 +1,6 @@
 ---
 title: "Best Stargazing Spots Near Tucson"
+weight: 2
 linkTitle: "Best Stargazing Spots"
 description: "More than 20 places to go stargazing near Tucson, Arizona, from Sabino Canyon and Windy Point on Mount Lemmon to Empire Ranch, Buenos Aires National Wildlife Refuge, the Chiricahuas and Mount Graham, with drive times and notes from a local astronomer."
 layout: "single"

@@ -2,9 +2,10 @@
   A plain photo slide for the carousel shortcode: image plus a one-line caption.
   Usage, inside {{< carousel >}} ... {{< /carousel >}}:
     {{< rslide img="images/photo.jpg" caption="After: the restored telescope" >}}
+  Optional: alt="..." for the image description, full="images/photo-full.jpg" for a larger copy to open on click.
 */}}
 <div class="zl-carousel-slide">
-  <a class="zl-carousel-imgwrap" href="{{ .Get "img" }}" target="_blank" rel="noopener">
+  <a class="zl-carousel-imgwrap" href="{{ .Get "full" | default (.Get "img") }}" target="_blank" rel="noopener">
     <img src="{{ .Get "img" }}" alt="{{ .Get "alt" | default (.Get "caption") }}" loading="lazy">
   </a>
   {{ with .Get "caption" }}<div class="zl-carousel-caption"><h4>{{ . }}</h4></div>{{ end }}

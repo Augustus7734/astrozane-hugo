@@ -1,5 +1,6 @@
 ---
 title: "Sidewalk Astronomy and Public Outreach in Tucson"
+weight: 4
 linkTitle: "Sidewalk Astronomy"
 description: "Sidewalk astronomy in Tucson: free looks at the Moon, Saturn and Jupiter through telescopes set up on University Boulevard and at public events, and why astronomy outreach matters."
 layout: "single"

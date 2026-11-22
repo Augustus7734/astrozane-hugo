@@ -77,7 +77,7 @@ Tucson is not the only place with this problem. From sites north of the city, su
 
 None of this is necessary. A prison needs light on its walls, yards and fences, not on the sky, and a shielded fixture puts more of its light where the guards need it. The people who live and work inside are under that light all night too.
 
-DarkSky Southern Arizona is preparing a request for full-cutoff shielding at the Tucson complex, with Kitt Peak National Observatory and NOIRLab as co-signers. We have not yet taken it to the prison.
+DarkSky Southern Arizona is preparing a request for full-cutoff shielding at the Tucson complex. We have not yet taken it to the prison, and we hope to bring the observatories around Tucson in as co-signers.
 
 Places that already do this:
 

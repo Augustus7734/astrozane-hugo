@@ -38,7 +38,8 @@ Tucson is one of the easiest cities in the country to go stargazing from. It has
 
 | Spot | Drive from central Tucson | In a few words |
 |---|---|---|
-| Sabino Canyon parking lot | About 30 minutes northeast | Convenient, not very dark |
+| Sabino Canyon parking lot | About 30 minutes northeast | Convenient, not very dark, $8 to park |
+| Catalina State Park | About 30 minutes north | Close to Oro Valley, open until 10 pm |
 | Saguaro National Park | About 30 minutes east or west | Same sky as Sabino, with saguaros |
 | Tanque Verde lower trailhead | About 35 minutes east | A bit darker than Sabino |
 | Gabe Zimmerman Trailhead | About 35 minutes southeast | Right by I-10, a quick weeknight trip |
@@ -68,13 +69,17 @@ Drive times are rough and depend on where in town you start.
 
 Mostly no. Trailheads, national forest land and other ordinary public land need no reservation and no phone call. You just go.
 
-National Park Service sites and state parks are the exception. They have gates, hours and their own rules, so call or check ahead before you drive out. On this list that means Saguaro National Park, Chiricahua National Park, Coronado National Memorial (Montezuma Pass), Oracle State Park, Kartchner Caverns State Park and Patagonia Lake State Park.
+National Park Service sites and state parks are the exception. They have gates, hours and their own rules, so call or check ahead before you drive out. On this list that means Saguaro National Park, Chiricahua National Park, Coronado National Memorial (Montezuma Pass), Catalina State Park, Oracle State Park, Kartchner Caverns State Park and Patagonia Lake State Park.
 
 ## In town or right next to it
 
 ### Sabino Canyon parking lot
 
-On the northeast side, at the foot of the Catalinas. It is not that dark, since the city is right behind you, but it is convenient. It works well for the Moon, the planets and the bright constellations.
+On the northeast side, at the foot of the Catalinas. It is not that dark, since the city is right behind you, but it is convenient. It works well for the Moon, the planets and the bright constellations. Parking is $8 per vehicle unless you have an America the Beautiful pass.
+
+### Catalina State Park
+
+On Oracle Road at the north end of Oro Valley. If you are staying on that side of town it is close and easy. From anywhere else there are probably better places you can drive to in the same time. Day use runs until 10 pm and the park charges an entrance fee per vehicle. It is less clear what the rules are for stargazing later than that, so ask the park.
 
 ### Saguaro National Park
 

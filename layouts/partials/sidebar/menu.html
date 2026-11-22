@@ -18,6 +18,13 @@
                 <li class="heading">
                     <a href="{{ $menu_item.URL }}">{{ $menu_item.Name }}</a>
                 </li>
+                {{/* astrozane.com change: pages to list under that link, from the entry's "Extra".
+                     Config line:  {Name = "Book A Star Party", URL = "/astronomy/starparties/", Link = true, Extra = [{Name = "Star Parties in Tucson", URL = "/astronomy/starparties/tucson/"}]}, */}}
+                {{ range $menu_item.Extra }}
+                <li class="bullet">
+                    <a href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Name }}</a>
+                </li>
+                {{ end }}
             {{ end }}
 
             {{ range $sections }}

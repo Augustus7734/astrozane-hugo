@@ -3,6 +3,49 @@ title: "Star Parties for Resorts, Hotels, Vineyards and Venues"
 description: "Guided star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Flat-rate, ticketed and guest add-on options."
 layout: "single"
 url: "/astronomy/starparties/venues/"
+zl_service:
+  name: "Star parties for resorts, hotels, vineyards and venues"
+  type: "Guided star party and stargazing event"
+  provider: "business"
+  audience: "Resorts, hotels, guest ranches, vineyards, wedding venues and corporate event planners"
+  areas: ["Tucson", "Oro Valley", "Marana", "Vail", "Green Valley", "Sonoita", "Elgin", "Sierra Vista", "Willcox", "Phoenix", "Scottsdale"]
+  offers:
+    - name: "Flat-rate evening"
+      description: "The venue pays a set fee for a 2-hour star party for up to 40 guests and offers it however it likes."
+      min_price: 400
+    - name: "Recurring series"
+      description: "Four or more nights booked for the season on a regular schedule, priced per night."
+      min_price: 250
+    - name: "Ticketed star party"
+      description: "No cost to the venue up front. Ticket sales are split 50/50, with a $200 minimum to AstroZane per night. Tickets usually run $45 to $65."
+    - name: "Guest add-on"
+      description: "The venue offers private star parties to overnight guests or event clients and keeps 15% of each booking it sends."
+      min_price: 300
+    - name: "Weddings and corporate events"
+      description: "A private 2-hour evening for the client's group, scheduled around dinner or the reception."
+      min_price: 500
+    - name: "Larger events, 41 to 100 guests"
+      description: "More telescopes and up to 3 hours. From $700 for 41 to 70 guests and from $950 for 71 to 100."
+      min_price: 700
+zl_breadcrumb:
+  - {name: "Zane Landers", url: "/"}
+  - {name: "Star Parties", url: "/astronomy/starparties/"}
+  - {name: "Star Parties for Venues", url: "/astronomy/starparties/venues/"}
+zl_faq:
+  - q: "How much does a star party cost for a venue?"
+    a: "In the Tucson area a flat-rate 2-hour evening for up to 40 guests starts at $400, and a recurring series of four or more nights starts at $250 a night. A ticketed evening costs nothing up front: ticket sales are split 50/50, with a $200 minimum to me per night. Venues around Sonoita, Elgin, Sierra Vista and Willcox add a $75 travel fee, and Phoenix and Scottsdale venues start at $500."
+  - q: "What if it is cloudy?"
+    a: "We move the date at no charge. If your guests can't come back another night, I can give an indoor talk instead."
+  - q: "How many guests can come?"
+    a: "A 2-hour evening works well for up to about 40 people. For 41 to 100 I bring more telescopes, so nobody spends the night in line. Tell me the number and I will plan around it."
+  - q: "Where do you host venue star parties?"
+    a: "Tucson and the rest of Southern Arizona, including Sonoita, Elgin, Sierra Vista and Willcox, plus Phoenix and Scottsdale."
+  - q: "When are venue dates available?"
+    a: "January through May 2027. Dark-sky weekends are best for the Milky Way, nebulae and galaxies, and Moon nights are best for big, casual crowds."
+  - q: "How far ahead should we book?"
+    a: "Weekends go first. A month or more ahead is best, and a recurring series should be set before the season starts. A deposit holds each date."
+  - q: "Is this for private groups too?"
+    a: "Private star parties for families and small groups are on the [main star party page](/astronomy/starparties/)."
 ---
 
 If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. I bring the telescopes and run the night. You don't have to buy or learn anything.
@@ -56,12 +99,8 @@ Jupiter and Mars are both at their best in February and stay well placed through
 
 ## Common questions
 
-**What if it is cloudy?** We move the date at no charge. If your guests can't come back another night, I can give an indoor talk instead.
-
-**How many guests can come?** A 2-hour evening works well for up to about 40 people. For 41 to 100 I bring more telescopes, so nobody spends the night in line. Tell me the number and I will plan around it.
-
-**How far ahead should we book?** Weekends go first. A month or more ahead is best, and a recurring series should be set before the season starts.
-
-**Is this for private groups too?** Private star parties for families and small groups are on the [main star party page](/astronomy/starparties/).
+{{< zl-faq >}}
 
 **[Get in touch](/links/contact/)** with your venue, the dates you have in mind and a rough guest count.
+
+{{< zl-schema >}}

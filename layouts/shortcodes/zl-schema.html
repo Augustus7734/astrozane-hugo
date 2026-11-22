@@ -1,0 +1,85 @@
+{{/*
+  Structured data for a service page: WebPage, Service (with offers), breadcrumbs and
+  an FAQPage. Everything is read from the page's front matter:
+
+    zl_service:     name, type, description, provider ("business" or "person"),
+                    areas (list of cities), audience, offers (name, description, min_price)
+    zl_breadcrumb:  list of name / url pairs, home first, this page last
+    zl_faq:         list of q / a pairs (also printed by the zl-faq shortcode)
+
+  Usage:  {{< zl-schema >}}  anywhere in the page, once.
+*/}}
+{{ $site := "https://astrozane.com" }}
+{{ $url := printf "%s%s" $site .Page.RelPermalink }}
+{{ $az := dict "@type" "State" "name" "Arizona" }}
+{{ $graph := slice }}
+
+{{ $webpage := dict
+  "@type" "WebPage"
+  "@id" (printf "%s#webpage" $url)
+  "url" $url
+  "name" .Page.Title
+  "description" .Page.Description
+  "inLanguage" "en-US"
+  "isPartOf" (dict "@id" (printf "%s/#website" $site))
+}}
+
+{{ with .Page.Params.zl_service }}
+  {{ $provider := dict "@id" (printf "%s/#star-parties" $site) }}
+  {{ if eq .provider "person" }}{{ $provider = dict "@id" (printf "%s/#zane-landers" $site) }}{{ end }}
+  {{ $areas := slice }}
+  {{ range .areas }}
+    {{ $areas = $areas | append (dict "@type" "City" "name" . "containedInPlace" $az) }}
+  {{ end }}
+  {{ $service := dict
+    "@type" "Service"
+    "@id" (printf "%s#service" $url)
+    "url" $url
+    "name" .name
+    "serviceType" .type
+    "description" (.description | default $.Page.Description)
+    "provider" $provider
+    "areaServed" $areas
+  }}
+  {{ with .audience }}
+    {{ $service = merge $service (dict "audience" (dict "@type" "Audience" "audienceType" .)) }}
+  {{ end }}
+  {{ with .offers }}
+    {{ $offers := slice }}
+    {{ range . }}
+      {{ $offer := dict "@type" "Offer" "name" .name "description" .description "url" $url }}
+      {{ with .min_price }}
+        {{ $offer = merge $offer (dict "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" . "priceCurrency" "USD")) }}
+      {{ end }}
+      {{ $offers = $offers | append $offer }}
+    {{ end }}
+    {{ $service = merge $service (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" $.Page.Title "itemListElement" $offers)) }}
+  {{ end }}
+  {{ $webpage = merge $webpage (dict "mainEntity" (dict "@id" (printf "%s#service" $url))) }}
+  {{ $graph = $graph | append $service }}
+{{ end }}
+
+{{ $graph = (slice $webpage) | append $graph }}
+
+{{ with .Page.Params.zl_breadcrumb }}
+  {{ $items := slice }}
+  {{ range $i, $c := . }}
+    {{ $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "name" $c.name "item" (printf "%s%s" $site $c.url)) }}
+  {{ end }}
+  {{ $graph = $graph | append (dict "@type" "BreadcrumbList" "@id" (printf "%s#breadcrumb" $url) "itemListElement" $items) }}
+{{ end }}
+
+{{ with .Page.Params.zl_faq }}
+  {{ $questions := slice }}
+  {{ range . }}
+    {{ $questions = $questions | append (dict
+      "@type" "Question"
+      "name" .q
+      "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify | htmlUnescape))
+    ) }}
+  {{ end }}
+  {{ $graph = $graph | append (dict "@type" "FAQPage" "@id" (printf "%s#faq" $url) "url" $url "mainEntity" $questions) }}
+{{ end }}
+
+{{ $ld := dict "@context" "https://schema.org" "@graph" $graph }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>

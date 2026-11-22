@@ -15,10 +15,88 @@ content/, layouts/, assets/ or static/ folders with them.
   assets/js/katex.js                   Stops prices being typeset as math (see below).
   static/robots.txt                    Allows search and AI assistants, lists the sitemap.
   static/llms.txt                      Optional plain-text summary for AI crawlers.
+  content/projects/24-inch-f4/         New project page for the 24-inch f/4, as a folder: index.md plus
+                                       an empty images/ folder. URL is /projects/24-inch-f4/. When you
+                                       have photos, drop them in images/ and uncomment the line at the
+                                       bottom of index.md.
+  static/astronomy/telescopes/images/  Three new photos for the Current Telescopes page (30-inch, MK127,
+                                       SeeStar S50 Pro), resized with location data removed. If your
+                                       existing telescope photos live somewhere else, move these three
+                                       next to mk25.JPEG instead.
+  REPLACE-MANUALLY/telescopes.md       Not for merging. Paste this over the contents of your existing
+                                       Current Telescopes file: Intes removed; 30-inch, MK127 and
+                                       SeeStar added.
+  content/astronomy/starparties/venues.md
+                                       New venue page at /astronomy/starparties/venues/ (resorts,
+                                       hotels, vineyards, weddings, corporate), with pricing. This
+                                       The URL is fixed in the front matter, so you can move the file
+                                       next to your tucson and phoenix pages if they live elsewhere.
+  content/astronomy/telescope-repair.md
+                                       New repair page at /astronomy/telescope-repair/.
+  REPLACE-MANUALLY/starparties.md      Not for merging. Your main star party page, edited: paste it
+                                       over your existing file. Adds the deposit line, the 24-inch
+                                       note, a "Star Parties for Venues" section, and a shorter
+                                       repair section that links to the new page.
+  REPLACE-MANUALLY/starparties-tucson.md
+  REPLACE-MANUALLY/starparties-phoenix.md
+                                       Not for merging. Your Tucson and Phoenix pages, edited: paste
+                                       each over your existing file. Adds the deposit line, pricing
+                                       and an FAQ answer for 21 to 100 guests, and a link to the
+                                       venue page. Removes the 24-inch line.
+
+  Sidebar note: neither new Astronomy page has a date, so both sort after your dated
+  pages and after "Book A Star Party". If one does not show under Astronomy, raise the
+  Limit on the Astronomy line of your menu config.
+  content/calculators/limiting-magnitude.md
+                                       New page at /calculators/limiting-magnitude/. It loads
+                                       /tools/limiting-magnitude-calculator.html, so put that file in
+                                       static/tools/ next to fov-calculator.html.
+  layouts/shortcodes/tool.html         Used by that page: embeds a tool from static/tools/ in a frame
+                                       that resizes to fit.
+  layouts/shortcodes/phone.html        Click-to-reveal phone number. In your contact page, replace the
+                                       typed number with  {{< phone "##########" >}}  (ten digits). The
+                                       digits no longer appear in the page source.
   static/images/avatar-placeholder.*   Placeholder sidebar avatar (PNG and SVG). To use it, set
                                        brand_image = "/images/avatar-placeholder.png" in your
                                        site config. The sidebar tagline is the description
                                        param in the same file.
+
+Site config: two lines to set first
+-----------------------------------
+In your site config (hugo.toml or config.toml, top of the file, above [params]):
+
+    baseURL = "https://astrozane.com/"
+    title = "Zane Landers"
+
+Right now the live site is built with baseURL = "/" and no title. That is why the
+footer reads "(c) 2026 . All rights reserved." and, more importantly, why every
+address in sitemap.xml is a bare path like /astronomy/starparties/ instead of a full
+https://astrozane.com/... URL. Google needs full URLs in a sitemap, and the canonical
+and og:url tags on every page have the same problem. Setting baseURL fixes all of
+them at once; title fills in the footer name and og:site_name.
+
+If the config already has the full address, the build command is overriding it:
+in Cloudflare, look for "--baseURL" or "-b" in the build command and remove it.
+
+Structured data on the venue and repair pages
+---------------------------------------------
+  layouts/shortcodes/zl-faq.html       Prints the "Common questions" list from zl_faq in the
+                                       page's front matter.
+  layouts/shortcodes/zl-schema.html    Outputs the page's structured data (service, prices,
+                                       breadcrumbs, FAQ) from zl_service, zl_breadcrumb and
+                                       zl_faq in the front matter.
+  Both pages now use these. To change a price or an answer, edit the front matter; the
+  page and the markup update together. The names start with zl so they cannot clash
+  with your own faq and starparty-schema shortcodes.
+
+Sidebar: Calculators
+--------------------
+In your site config, add this line to the params.menu list, after the Projects line:
+
+    {Name = "Calculators", URL = "/calculators/", HasChildren = true, Limit = 5},
+
+Also check the Limit on your Projects line. There are now eight project pages, so a
+Limit of 7 would push Furniture Projects off the sidebar.
 
 Before you deploy
 -----------------

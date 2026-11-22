@@ -1,0 +1,10 @@
+{{/*
+  Visible FAQ, built from the zl_faq list in the page's front matter.
+  The zl-schema shortcode reads the same list, so the page and its markup always match.
+  Usage:  {{< zl-faq >}}
+*/}}
+{{ with .Page.Params.zl_faq }}
+<div class="zl-faq">
+{{ range . }}<p><strong>{{ .q }}</strong> {{ .a | markdownify }}</p>
+{{ end }}</div>
+{{ end }}

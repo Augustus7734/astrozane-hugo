@@ -1,9 +1,9 @@
-baseURL = "/"
+baseURL = "https://astrozane.com/"
 languageCode = "en-us"
 theme = "poison"
 pagination.pagersize = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
-
+title = "Zane Landers"
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
 
@@ -23,8 +23,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-    {Name = "About", URL = "/about/", HasChildren = true, Limit = 5, Weight = 1},
-    {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 3},
+    {Name = "About", URL = "/about/", HasChildren = true, Limit = 7, Weight = 1},
+    {Name = "Astronomy", URL = "/astronomy/", HasChildren = true, Limit = 7},
     {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 15, Weight = 4},
     {Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5, Weight = 5},
     {Name = "Links", URL = "/links/", HasChildren = true, Limit = 5},

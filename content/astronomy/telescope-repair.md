@@ -3,6 +3,25 @@ title: "Telescope Repair and Setup Help"
 description: "In-person telescope repair, collimation, setup and troubleshooting in Tucson and Phoenix, Arizona, from telescope maker and TelescopicWatch editor Zane Landers."
 layout: "single"
 url: "/astronomy/telescope-repair/"
+zl_service:
+  name: "Telescope repair and setup help"
+  type: "Telescope repair, collimation and setup"
+  provider: "person"
+  audience: "Telescope owners in the Tucson and Phoenix areas"
+  areas: ["Tucson", "Oro Valley", "Marana", "Vail", "Green Valley", "Phoenix", "Scottsdale"]
+zl_breadcrumb:
+  - {name: "Zane Landers", url: "/"}
+  - {name: "Astronomy", url: "/astronomy/"}
+  - {name: "Telescope Repair and Setup Help", url: "/astronomy/telescope-repair/"}
+zl_faq:
+  - q: "Where do you repair telescopes?"
+    a: "In person, in the Tucson and Phoenix areas."
+  - q: "How much does telescope repair cost?"
+    a: "It depends on the telescope and what is wrong with it. Send me the make and model, what it is doing, and a photo if you can. I will give you a price before I start."
+  - q: "Can you collimate my telescope?"
+    a: "Yes. I collimate Newtonians, Dobsonians and Schmidt-Cassegrains, and I will show you how to do it yourself."
+  - q: "Is my telescope worth fixing?"
+    a: "Some are not. If yours is one of them, I will say so."
 ---
 
 I fix telescopes and help people get theirs working, in person, in the Tucson and Phoenix areas.
@@ -25,8 +44,14 @@ Use the [contact page](/links/contact/) to send me the make and model, what it i
 
 Some telescopes are not worth fixing. If yours is one of them, I will say so.
 
+## Common questions
+
+{{< zl-faq >}}
+
 ## Not sure what to buy?
 
 Start with the [TelescopicWatch telescope rankings](https://telescopicwatch.com/best-telescope-reviews/), then get in touch if you want a second opinion.
 
 For a quick question, the [Observational Astronomy Discord](https://discord.gg/astronomy) and [r/telescopes](https://www.reddit.com/r/telescopes/) are free and usually faster than I am.
+
+{{< zl-schema >}}

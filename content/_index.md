@@ -106,12 +106,11 @@ I also help moderate [r/telescopes](https://www.reddit.com/r/telescopes/) on Red
 
 ## Telescopes I have built
 
-I grind and figure my own mirrors and build the telescopes around them.
-
-- [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): my main telescope, finished when I was 17. The build became the top post of all time on Reddit's r/space and was covered by TIME, National Geographic and The Guardian.
-- [24-inch f/3.5 Dobsonian](/projects/24-inch/): in progress, and joining the star party lineup in spring 2027.
+- [14.7-inch f/2.9 Dobsonian](/projects/147-inch-f29/): my main telescope
+- [24-inch f/4 Dobsonian]: My newest telescope project
+- [24-inch f/3.5 Dobsonian](/projects/24-inch/):
 - [22-inch f/2.8 meniscus mirror](/projects/22inch-f28/): an ongoing mirror-making project.
-- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): a compact wide-field telescope that comes to every star party.
+- [6-inch f/4.3 Newtonian](/projects/6inch-f4/): my first homemade telescope which won an award at Stellafane 2018 for optical quality.
 
 See [all current telescopes](/astronomy/telescopes/), [more projects](/projects/) and my [astrophotography](/astronomy/astrophotography/).
 

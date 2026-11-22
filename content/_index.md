@@ -33,7 +33,7 @@ hero:
 
 cards:
   - title: "Book a private star party"
-    text: "Hand-built telescopes and night vision at your home, rental, resort or a dark-sky site. Groups of 2 to 20, from $300."
+    text: "Hand-built telescopes and night vision at your home, rental, resort or a dark-sky site. From $300 for up to 20 guests, and larger groups of up to 100 are welcome."
     label: "See locations and pricing"
     url: "/astronomy/starparties/"
   - title: "Choosing a telescope?"

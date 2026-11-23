@@ -1,0 +1,44 @@
+{{- /* Booking call to action: a box with an email button, a call-or-text button and an optional third link.
+  Usage:  {{< book-cta >}}
+          {{< book-cta title="Book your Tucson star party" text="..." subject="Tucson star party" link="/astronomy/starparties/pricing/" linktext="See all prices" >}}
+  The email opens with a subject and a short template for date, group size and location.
+  The phone number is stored encoded and only shown when the button is pressed, so scrapers miss it. */ -}}
+{{- $title := .Get "title" | default "Book your star party" -}}
+{{- $text := .Get "text" | default "Send me your date, your group size and where you will be. I will reply with what is in the sky that night and a firm quote." -}}
+{{- $subject := .Get "subject" | default "Star party" -}}
+{{- $body := "Hi Zane,\n\nDate:\nGroup size:\nLocation:\n\n" -}}
+{{- $mail := printf "mailto:starparties@astrozane.com?subject=%s&body=%s" (replace (urlquery (printf "%s inquiry" $subject)) "+" "%20") (replace (urlquery $body) "+" "%20") -}}
+<aside class="az-cta">
+  <p class="az-cta-title">{{ $title }}</p>
+  <p class="az-cta-text">{{ $text }}</p>
+  <p class="az-cta-actions">
+    <a class="az-cta-btn az-cta-primary" href="{{ $mail | safeURL }}">Email me</a>
+    <a class="az-cta-btn az-cta-phone" href="/links/contact/" data-p="{{ "2038957426" | base64Encode }}">Call or text</a>
+    {{- with .Get "link" }}
+    <a class="az-cta-btn" href="{{ . }}">{{ $.Get "linktext" | default "Learn more" }}</a>
+    {{- end }}
+  </p>
+  <p class="az-cta-note">Or email <a href="{{ $mail | safeURL }}">starparties@astrozane.com</a>. I usually reply within a business day.</p>
+</aside>
+<style>
+.az-cta{margin:1.75rem 0;padding:1.25rem 1.35rem;border:1px solid rgba(207,59,51,.55);border-left:4px solid #CF3B33;border-radius:8px;background:rgba(207,59,51,.07)}
+.az-cta p{margin:0}
+.az-cta-title{font-size:1.25rem;font-weight:700;margin-bottom:.35rem!important}
+.az-cta-text{opacity:.9;margin-bottom:.9rem!important}
+.az-cta-actions{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:.7rem!important}
+.az-cta a.az-cta-btn{display:inline-block;padding:.6rem 1.1rem;border-radius:4px;font-weight:700;text-decoration:none;border:2px solid #CF3B33;color:inherit;background:transparent}
+.az-cta a.az-cta-primary{background:#CF3B33;color:#fff}
+.az-cta a.az-cta-btn:hover,.az-cta a.az-cta-btn:focus{filter:brightness(1.12);text-decoration:none}
+.az-cta-note{font-size:.88rem;opacity:.75}
+</style>
+<script>
+document.querySelectorAll('.az-cta-phone:not([data-done])').forEach(function(b){
+  b.dataset.done='1';
+  b.addEventListener('click',function(e){
+    if(b.dataset.shown)return;
+    e.preventDefault();
+    var n=atob(b.dataset.p);
+    b.href='tel:+1'+n; b.textContent=n.slice(0,3)+'-'+n.slice(3,6)+'-'+n.slice(6); b.dataset.shown='1';
+  });
+});
+</script>

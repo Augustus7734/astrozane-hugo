@@ -62,7 +62,9 @@ sidebar_hide: true
 
 A star party is a private, guided stargazing tour that comes to you. I bring telescopes, binoculars and night vision to your backyard, vacation rental or resort anywhere in the Valley, or meet you at a dark-sky site outside it. You sit down at my hand-built [14.7" telescope](/projects/147-inch-f29/) and see the craters of the Moon, Saturn's rings, star clusters, the Orion Nebula and galaxies millions of light-years away, picked for what is best that season.
 
-**Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
+**Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only.
+
+{{< book-cta title="Check your date" subject="Phoenix star party" link="/astronomy/starparties/pricing/" linktext="See all prices" >}}
 
 ## Made for Small Groups
 
@@ -135,9 +137,7 @@ The easiest star party is the one at your place: a backyard, rental, or resort a
 
 ## Book Your Phoenix Star Party
 
-Tell me your date, your group size, and where you'll be, and I'll come back with what's in the sky that night and a recommended plan.
-
-**[Contact me to book →](https://astrozane.com/links/contact)**
+{{< book-cta title="Ready to book?" text="Tell me your date, your group size, and where you'll be, and I'll come back with what's in the sky that night and a recommended plan." subject="Phoenix star party" >}}
 
 Based down south instead? See [star parties in Tucson and Southern Arizona](/astronomy/starparties/tucson/).
 

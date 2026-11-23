@@ -10,4 +10,4 @@ url: "/links/contact/"
 - [YouTube Channel](https://www.youtube.com/@astro_zane)
 - [Email](mailto:starparties@astrozane.com)
 - [Discord](https://discord.gg/astronomy)
-- Phone: 203-895-7426
+- Phone: {{< phone "2038957426" >}}

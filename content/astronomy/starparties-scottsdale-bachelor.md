@@ -55,7 +55,9 @@ Trade one night of bottle service for a sky full of stars. I bring the telescope
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< /promo >}}
 
-**Now booking January through May 2027 and August through December 2027.** June and July are by request only. [Check a date →](/links/contact/)
+**Now booking January through May 2027 and August through December 2027.** June and July are by request only.
+
+{{< book-cta title="Check your date" subject="Bachelor or bachelorette star party" link="/astronomy/starparties/pricing/" linktext="See all prices" >}}
 
 ## Why it works for a group weekend
 
@@ -94,9 +96,7 @@ These are base estimates for the Phoenix area, not fixed quotes, and there is a 
 
 ## Book it
 
-Send me your dates, your group size and where you are staying, and I will tell you what is in the sky that weekend and which option I would pick.
-
-**[Contact me to book →](/links/contact/)**
+{{< book-cta title="Lock in your night" text="Send me your dates, your group size and where you are staying, and I will tell you what is in the sky that weekend and which option I would pick." subject="Bachelor or bachelorette star party" >}}
 
 More detail on the telescopes and what you will see is on the main [Phoenix and Scottsdale star party page](/astronomy/starparties/phoenix/). Having the party in Tucson instead? See [star parties in Tucson](/astronomy/starparties/tucson/).
 

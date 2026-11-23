@@ -22,6 +22,9 @@ zl_service:
     - name: "Tucson star party, 3 hours"
       description: "Private guided star party in the Tucson area for up to 20 guests. Priced per group."
       min_price: 500
+    - name: "Tucson star party, 4 hours"
+      description: "Private guided star party in the Tucson area for up to 20 guests. Priced per group."
+      min_price: 550
     - name: "Phoenix and Scottsdale star party, 2 hours"
       description: "Private guided star party in the Phoenix area for up to 20 guests. Priced per group, travel included."
       min_price: 500
@@ -52,7 +55,7 @@ zl_breadcrumb:
   - {name: "Star Party Pricing", url: "/astronomy/starparties/pricing/"}
 zl_faq:
   - q: "How much does a private star party cost in Tucson?"
-    a: "An AstroZane star party in the Tucson area starts at $300 for one hour, $400 for two hours and $500 for three hours, for a group of up to 20 guests. The price is for the whole group, not per person."
+    a: "An AstroZane star party in the Tucson area starts at $300 for one hour, $400 for two hours, $500 for three hours and $550 for four hours, for a group of up to 20 guests. The price is for the whole group, not per person."
   - q: "How much does a private star party cost in Phoenix or Scottsdale?"
     a: "An AstroZane star party in Phoenix or Scottsdale starts at $500 for two hours, $600 for three hours and $700 for four hours, for a group of up to 20 guests, with travel from Tucson included. There is a two-hour minimum."
   - q: "Is the price per person or per group?"
@@ -70,7 +73,7 @@ AstroZane star parties are priced per group, not per person. These are the base 
 | 1 hour | From $300 | Two-hour minimum |
 | 2 hours | From $400 | From $500 |
 | 3 hours | From $500 | From $600 |
-| 4 hours | Ask for a quote | From $700 |
+| 4 hours | From $550 | From $700 |
 
 ## Larger groups, 20 to 100 guests
 

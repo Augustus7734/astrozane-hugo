@@ -13,12 +13,13 @@ service:
     - { length: "1-hour", price: 300 }
     - { length: "2-hour", price: 400 }
     - { length: "3-hour", price: 500 }
+    - { length: "4-hour", price: 550 }
 faq:
   - group: "Tucson star parties"
     items:
       - q: "How much does a private star party in Tucson cost?"
         a: |
-          Base pricing starts at about $300 for one hour, $400 for two hours, and $500 for three hours, for a group of up to 20 guests in the Tucson area. These are estimates rather than fixed prices: every event is quoted individually based on group size, location, and specifics.
+          Base pricing starts at about $300 for one hour, $400 for two hours, $500 for three hours, and $550 for four hours, for a group of up to 20 guests in the Tucson area. These are estimates rather than fixed prices: every event is quoted individually based on group size, location, and specifics.
       - q: "Is pricing per person?"
         a: |
           No. Pricing is for the group, covering up to 20 guests, so the cost per person drops fast: at the base rate, a two-hour night for a family of five works out to about $80 each, and for a party of ten about $40 each.
@@ -55,7 +56,9 @@ sidebar_hide: true
 {{< promoslide img="/images/starparty-hero.jpg" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Photos to take home" title="A portrait under the Milky Way" text="On request I shoot a portrait of your group under the stars." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+**Tucson is one of the few cities in America where you can still see the Milky Way from the edge of town. Come see what else is up there.**
+
+I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the craters of the Moon, the planets, star clusters, nebulae, and galaxies whose light has been on its way here for millions of years. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 
@@ -108,6 +111,7 @@ Base pricing for the Tucson area, for small groups of 20 or fewer guests:
 - **from $300** — 1 hour
 - **from $400** — 2 hours
 - **from $500** — 3 hours
+- **from $550** — 4 hours
 
 **These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date. All prices are also on one page: [star party pricing](/astronomy/starparties/pricing/).
 

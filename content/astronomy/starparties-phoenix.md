@@ -57,7 +57,9 @@ sidebar_hide: true
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley — or meet you at a dark-sky site outside it — and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+**The lights of the Valley hide most of the night sky. A big telescope, or an hour's drive, gets it back.**
+
+I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley, or meet you at a dark-sky site outside it, and show your group the craters of the Moon, the planets, star clusters, nebulae, and galaxies whose light has been on its way here for millions of years. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 

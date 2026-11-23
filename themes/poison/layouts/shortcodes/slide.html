@@ -31,8 +31,13 @@
     <ul class="zl-carousel-meta">
       <li><strong>Telescope:</strong> {{ $telescope }}</li>
       <li><strong>Sensor:</strong> {{ $sensor }}</li>
-      <li><strong>Integration time:</strong> {{ .Get "integration" }} min</li>
+      {{- with .Get "integration" }}
+      <li><strong>Integration time:</strong> {{ . }} min</li>
+      {{- end }}
       <li><strong>Sub length:</strong> {{ $sublength }}</li>
+      {{- with .Get "filter" }}
+      <li><strong>Filter:</strong> {{ . }}</li>
+      {{- end }}
       <li><strong>Location:</strong> {{ $location }}</li>
       <li><strong>Sky Quality:</strong> {{ $skyquality }}</li>
     </ul>

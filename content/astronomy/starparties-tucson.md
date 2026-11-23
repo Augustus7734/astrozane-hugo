@@ -132,17 +132,6 @@ The easiest star party is the one at your place: a backyard, rental, resort, or 
 - **Oracle State Park** — a certified International Dark Sky Park in the foothills north of Tucson, about an hour from town.
 - **Chiricahua National Park** — America's newest national park and a certified International Dark Sky Park, about two hours southeast near Willcox. Some of the darkest skies in Arizona, above a landscape of stone spires.
 
-## Venues I've Worked With
-
-Alongside private parties, I host star parties for venues around Tucson:
-
-- **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
-- **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
-- **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
-- **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
-
-Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
-
 ## Star Party FAQ
 
 {{< faq shared="starparty_faq" >}}

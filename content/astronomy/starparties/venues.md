@@ -64,7 +64,14 @@ If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a s
 {{< promoslide img="/images/starparty-hero.jpg" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Dark-sky properties" title="If your sky is dark, even better" text="Out of town, the Milky Way becomes part of the evening." >}}
 {{< /promo >}}
 
-I have run a Saturday-evening stargazing series at [Mount Lemmon Lodge](https://mountlemmonlodge.com/), star parties for guests at [White Stallion Ranch](https://www.whitestallion.com/), a stargazing and sound bath evening at [Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/), and a stargazing event at [El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/), along with private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
+## Venues I've worked with
+
+- **[Mount Lemmon Lodge](https://mountlemmonlodge.com/).** A Saturday-evening guided stargazing series for Lodge guests through 2026, high in the Santa Catalina Mountains.
+- **[White Stallion Ranch](https://www.whitestallion.com/).** Star parties for guests at the guest ranch northwest of Tucson.
+- **[Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/).** A stargazing and sound bath evening on the west side of town.
+- **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
+
+I also host private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
 ## What your guests get
 

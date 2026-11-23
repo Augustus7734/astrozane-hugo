@@ -4,7 +4,6 @@ weight: 5
 linkTitle: "Protecting Dark Skies"
 description: "What light pollution is, why it matters for health, wildlife and the local economy, where Tucson's light actually comes from, including prisons, and what DarkSky International and DarkSky Southern Arizona do about it."
 layout: "single"
-draft: true # hidden for now; delete this line to republish
 images: ["/astronomy/dark-skies/tucson-city-lights-at-dusk.jpg"]
 url: "/astronomy/dark-skies/"
 zl_breadcrumb:
@@ -27,13 +26,11 @@ zl_faq:
   - q: "How does light pollution affect wildlife?"
     a: "Many desert animals are active at night. Artificial light draws insects away from where they feed and breed, disorients migrating birds and bats, exposes prey to predators, and changes when animals forage and mate. Plants are affected too, because many use the length of the night to time their seasons."
   - q: "What are the biggest sources of light pollution in Tucson?"
-    a: "City streetlights are a small part of it. A 2019 experiment that dimmed Tucson's streetlights found they produce only about 14 percent of the skyglow over the city. By Zane Landers's estimate the largest single source is the federal prison complex southeast of town, followed by car dealerships, the University of Arizona and brightly lit sports venues."
+    a: "City streetlights are a small part of it. A 2019 experiment that dimmed Tucson's streetlights found they produce only about 14 percent of the skyglow over the city. Big sources include the federal prison complex southeast of town, car dealerships, the University of Arizona and brightly lit sports venues."
   - q: "Can a prison be lit without causing light pollution?"
     a: "Yes. Security lighting works just as well when it is fully shielded and aimed down. Vermont's Southern State Correctional Facility, built a few miles from the Stellafane observatory, lights only its building walls and the inside of its perimeter fence with fully shielded fixtures, and Texas has required shielded lighting on state-funded projects, including prisons, since 1999."
   - q: "Are mines a threat to dark skies in Southern Arizona?"
     a: "They can be, because a large mine works around the clock under lights. It depends on the operator. DarkSky Southern Arizona has talked with the Copper Creek project near Mammoth and is not concerned about it or about South32's Hermosa project near Patagonia. The one the chapter is very worried about is Hudbay's Copper World project in the Santa Rita Mountains south of Tucson, which was approved for construction in October 2026."
-  - q: "What is the proposed Copper Corridor dark sky area?"
-    a: "An idea being floated for a protected dark sky area covering the San Pedro, Aravaipa and upper Gila valleys of southeastern Arizona, along with the Superstition Mountains and Tonto Basin, between the lights of Phoenix, Tucson and the copper mines. It would run from Tonto Creek and the Salt River in the north to Interstate 10 in the south, and from the Verde River, State Route 79 and the crest of the Santa Catalina and Rincon Mountains east to the New Mexico line. It is a concept for discussion, not an official designation."
   - q: "What makes an outdoor light dark-sky friendly?"
     a: "It follows five principles from DarkSky International and the Illuminating Engineering Society. It has a clear purpose, it is shielded and aimed down so light only lands where it is needed, it is no brighter than necessary, it is on a timer or motion sensor so it is off when nobody needs it, and it is a warm color. DarkSky recommends 3000 kelvin or lower, and the Tucson and Pima County code allows no more than 3500 kelvin."
   - q: "How do I report a lighting code violation in Tucson or Pima County?"
@@ -81,13 +78,12 @@ That is worth more to the local economy than lighting up an empty football stadi
 
 Most people assume it is streetlights. It is not. In 2019 the city dimmed its streetlights for ten nights so researchers could measure the difference, and they found that streetlights produce only about 14 percent of the skyglow over Tucson. The rest comes from everything else.
 
-Nobody has measured the rest source by source, so what follows is my own rough estimate from years of observing around the city and looking at it from the mountains:
+Some of the big sources:
 
-- **The federal prison complex** southeast of town is the largest single source.
-- **Car dealerships** are probably 20 to 30 percent.
-- **The University of Arizona** is probably close to 10 percent.
-- **Topgolf**, in Marana, is easily a major line item on its own. Marana does very little about lighting violations, which is a concern for a town growing as fast as it is.
-- **Davis-Monthan Air Force Base and the airport**, which people often blame, are only a small fraction.
+- **The federal prison complex** southeast of town.
+- **Car dealerships.**
+- **The University of Arizona.**
+- **Topgolf**, in Marana. Marana does very little about lighting violations, which is a concern for a town growing as fast as it is.
 
 ## What is threatening the sky here
 
@@ -139,28 +135,6 @@ If you want to become a member, you join DarkSky International. If you want to p
 ## How the Southern Arizona chapter started
 
 I founded DarkSky Southern Arizona as a new chapter in 2023 and sit on its board. The previous Southern Arizona section had gone quiet. Its last big win was getting better lighting at the university's football stadium, years earlier. As far as I can tell, those lights are now brighter than they have ever been.
-
-## A Copper Corridor dark sky area
-
-One idea being floated is a dark sky area covering the country between the lights of Phoenix, Tucson and the mines: the San Pedro, Aravaipa and upper Gila valleys, along with the Superstitions and Tonto Basin. It is some of the darkest land left in Arizona, and it holds the Mount Graham observatory, Aravaipa Canyon, the Galiuros and the old copper towns from Superior down to San Manuel.
-
-There are two versions of the map: the boundary on its own, and the same boundary over a light pollution map, which shows why the line sits where it does. Use the arrows to switch between them, and click a map for a larger copy.
-
-{{< carousel id="copper-corridor-maps" class="zl-carousel-full" >}}
-{{< rslide img="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map.jpg" full="/astronomy/dark-skies/copper-corridor-dark-sky-area-concept-map-full.jpg" alt="Map of the proposed Copper Corridor dark sky area in southeastern Arizona, covering the San Pedro, Aravaipa and upper Gila valleys, the Superstition Mountains and Tonto Basin, between Phoenix, Tucson and the New Mexico line" caption="The concept boundary" >}}
-{{< rslide img="/astronomy/dark-skies/copper-corridor-dark-sky-area-light-pollution-map.jpg" full="/astronomy/dark-skies/copper-corridor-dark-sky-area-light-pollution-map-full.jpg" alt="The proposed Copper Corridor dark sky area drawn over a light pollution map, showing the glow of Tucson, Phoenix, Florence, Safford, Morenci and Willcox around a dark interior" caption="The same boundary over a light pollution map" >}}
-{{< /carousel >}}
-
-The boundary is a concept for discussion, not a designation:
-
-- **North:** Roosevelt Lake, then the Salt and Black rivers, which are also the northern edge of the San Carlos Apache Reservation.
-- **Northwest:** Tonto Creek down to the north end of Roosevelt Lake, a line across the Mazatzal Mountains from near Jakes Corner to Bartlett Lake, then the Verde River down to the Salt. This corner runs a few miles past the top of the map.
-- **West:** the front of the Superstition Mountains from the Salt River to Florence Junction, then State Route 79 through Florence to Oracle Junction, and State Route 77 to the north edge of Oro Valley.
-- **Southwest:** up to Mount Lemmon, then the crest of the Santa Catalina and Rincon Mountains, which shield the San Pedro Valley from Tucson.
-- **South:** Interstate 10 from Benson to the state line.
-- **East:** the east side of the reservation, then a line passing south of Clifton and Morenci to the New Mexico state line, and the state line down to the interstate.
-
-A large part of it is San Carlos Apache land, and nothing like this can happen without the tribe, the towns and the landowners. A possible second area, south of the interstate from Benson to the state line, would take in the Dragoons, the Sulphur Springs Valley and the Chiricahuas.
 
 ## What you can do
 

@@ -113,6 +113,8 @@ I am a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.o
 
 Light pollution is one of the few environmental problems that reverses the moment a fixture is shielded or switched off. If you have enjoyed a dark sky in Arizona, **[donate to DarkSky Southern Arizona](https://darkskysoaz.org/donate/)** or [get in touch with the chapter](https://darkskysoaz.org/) about volunteering.
 
+More on [what is threatening Tucson's dark skies, and who does what about it](/astronomy/dark-skies/).
+
 ## Press and speaking
 
 My telescopes and outreach have been covered by TIME, National Geographic, The Guardian and Sky & Telescope. I give talks to astronomy clubs, star parties and conferences on telescope making, night vision astronomy, public outreach and smart telescopes. See [press and speaking](/about/press/) for coverage, recorded talks and how to book one.

@@ -27,7 +27,7 @@ I am an amateur astronomer, telescope maker and science writer in Tucson, Arizon
 - **Write about telescopes.** I have been Lead Writer and Editor at [TelescopicWatch](https://telescopicwatch.com/) since 2018, and I write reviews and buying guides for [Live Science](https://www.livescience.com/author/zane-landers).
 - **Build them.** My main telescope is a [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/) that I built myself. I am rebuilding a [24" f/4](/projects/24-inch-f4/), and I helped design the 3D-printed Hadley 114.
 - **Show people the sky.** I host private [star parties](/astronomy/starparties/) in Tucson, Phoenix and across the Southwest, and set up telescopes on the sidewalk for free. See [sidewalk astronomy](/astronomy/sidewalk-astronomy/).
-- **Work on dark skies.** I am a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/).
+- **Work on dark skies.** I am a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/). More on [protecting dark skies](/astronomy/dark-skies/).
 - **Help other observers.** I help moderate [r/telescopes](https://www.reddit.com/r/telescopes/), and I point people with questions to the [Observational Astronomy Discord](https://discord.gg/astronomy).
 
 I have a Master of Science in Marketing from the University of Arizona and a Bachelor of Arts in Communications from the University of Connecticut. My [resume](/resume/) is here.

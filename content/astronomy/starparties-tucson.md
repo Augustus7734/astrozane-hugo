@@ -109,7 +109,7 @@ Base pricing for the Tucson area, for small groups of 20 or fewer guests:
 - **from $400** — 2 hours
 - **from $500** — 3 hours
 
-**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date.
+**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date. All prices are also on one page: [star party pricing](/astronomy/starparties/pricing/).
 
 The rate is for the group, not per person. At the base rate, a two-hour night for a family of five comes to about $80 a person; for a party of ten, about $40.
 

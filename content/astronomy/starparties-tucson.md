@@ -59,7 +59,7 @@ sidebar_hide: true
 
 **Tucson is one of the few cities in America where you can still see the Milky Way from the edge of town. Come see what else is up there.**
 
-A star party is a private, guided stargazing tour that comes to you. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+A star party is a private, guided stargazing tour that comes to you. I bring telescopes, binoculars and night vision to your backyard, vacation rental or resort, or meet you at a dark-sky site near Tucson. You sit down at my hand-built [14.7" telescope](/projects/147-inch-f29/) and see the craters of the Moon, Saturn's rings, star clusters, the Orion Nebula and galaxies millions of light-years away, picked for what is best that season.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 

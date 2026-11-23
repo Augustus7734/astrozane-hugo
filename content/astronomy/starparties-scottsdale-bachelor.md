@@ -76,13 +76,15 @@ Trade one night of bottle service for a sky full of stars. I bring the telescope
 
 ## Pricing
 
-Base pricing for the Phoenix area, for groups of up to 20, with a two-hour minimum:
+**From $500 for two hours**, for a group of up to 20, with travel included. That is about $50 each for a party of ten. Every price is on one page: [star party pricing](/astronomy/starparties/pricing/).
 
+{{< dropdown summary="Prices by length, and what affects them" >}}
 - **from $500** for 2 hours
 - **from $600** for 3 hours
 - **from $700** for 4 hours
 
-These are base estimates, not fixed quotes. The final figure depends on the date, the location and what you would like included. The rate is for the group, not per person: at the base rate, two hours for a party of ten comes to about $50 each. A deposit is required to hold your date.
+These are base estimates for the Phoenix area, not fixed quotes, and there is a two-hour minimum. The final figure depends on the date, the location and what you would like included. The rate is for the group, not per person. A deposit is required to hold your date.
+{{< /dropdown >}}
 
 ## Common questions
 

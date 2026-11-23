@@ -57,7 +57,9 @@ sidebar_hide: true
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley — or meet you at a dark-sky site outside it — and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+**The lights of the Valley hide most of the night sky. A big telescope, or an hour's drive, gets it back.**
+
+I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley, or meet you at a dark-sky site outside it, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 
@@ -76,15 +78,9 @@ Planning something larger — a wedding, a corporate event, a resort program? I 
 
 ## Why Book a Star Party With Me?
 
-For over ten years I've been showing people the night sky — thousands of them, from impromptu looks at the Moon on a street corner to week-long events like the Okie-Tex Star Party. I build my own telescopes from scratch and have ground mirrors by hand; I've tested and reviewed hundreds more; and I serve on the board of DarkSky Southern Arizona.
+I have been doing public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
 
-- **An unplugged experience.** No computers, no screens — everything is found and tracked by hand at the eyepiece, the way stargazing is meant to be. While you wait for a turn, there are binoculars to explore the sky with.
-- **Serious, comfortable equipment.** My homemade [14.7" telescope](/projects/147-inch-f29/) is set up for seated viewing, so you sit down at the eyepiece and take your time. Alongside it come a 6" telescope, binoculars for guests, and a PVS-14 night vision device that pulls nebulae out of the sky even when conditions aren't ideal.
-- **Photos to take home.** On request I'll shoot a timelapse of your night or a portrait of your group under the stars. The camera runs in the background; nobody looks at a screen while we're out there.
-- **Fun for all ages.** Whether your group is kids, adults, or a mix, the experience stays engaging and easy to enjoy — no background knowledge needed.
-- **Optional presentation.** I can add a short talk to set the scene before you head to the telescopes.
-- **Dependable skies.** Arizona has some of the clearest, darkest skies in the country, which means far fewer weather cancellations than most places.
-- **Built around you.** I'll work with your venue, schedule, and preferences to shape the right event for your group.
+{{< starparty-why >}}
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds. I can shoot one of your night, too." >}}
 
@@ -103,19 +99,21 @@ The Horsehead is famously one of the hardest objects to see in any telescope. Wi
 
 ## Phoenix Star Party Pricing
 
-Base pricing for the Phoenix metro area, for small groups of 20 or fewer guests. Phoenix-area events have a two-hour minimum:
+**From $500 per group for two hours**, for up to 20 guests anywhere in the Phoenix area, with travel included. The price is for the whole group, not per person, and every event gets a firm quote. Every price is on one page: [star party pricing](/astronomy/starparties/pricing/).
 
+{{< dropdown summary="Phoenix and Scottsdale prices by length and group size" >}}
 - **from $500** — 2 hours
 - **from $600** — 3 hours
 - **from $700** — 4 hours
 
-**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date. All prices are also on one page: [star party pricing](/astronomy/starparties/pricing/).
+**These are base estimates, not fixed quotes.** Every event is priced individually, and the final figure depends on your group size, location, date, and what you'd like included. [Tell me what you have in mind](https://astrozane.com/links/contact) and I'll send a firm quote. A deposit is required to hold your date.
 
 The rate is for the group, not per person, and it includes my travel from Tucson with a truckload of telescopes. At the base rate, a two-hour night for a party of ten comes to about $50 a person; for a family of five, about $100.
 
 **More than 20 guests?** For 20 to 40 guests, sessions run two hours or longer and start at **$600**. For 40 to 100 guests I bring more telescopes: **from $800** for 40 to 70 and **from $1,100** for 70 to 100.
 
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
+{{< /dropdown >}}
 
 ## What Guests Say
 

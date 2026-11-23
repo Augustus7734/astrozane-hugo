@@ -84,7 +84,7 @@ Star parties are private. Most are for groups of 2 to 20, such as families, birt
 
 | Area | Base price (per group) | Notes |
 |---|---|---|
-| [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours |
+| [Tucson and Southern Arizona](/astronomy/starparties/tucson/) | From $300 for 1 hour | $400 for 2 hours, $500 for 3 hours, $550 for 4 hours |
 | [Phoenix and Scottsdale](/astronomy/starparties/phoenix/) | From $500 for 2 hours | Two-hour minimum, travel included |
 | [Destination star parties](/astronomy/starparties/) | From $600 | Sedona, Flagstaff, Grand Canyon, Cosmic Campground, City of Rocks and beyond |
 | [Large groups](/astronomy/starparties/) | From $500 | 20 to 100 guests, with extra telescopes above 40 |

@@ -24,7 +24,9 @@ images: ["/images/starparty-hero-wide.jpg"]
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}
 {{< /promo >}}
 
-Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. Viewing at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/) is seated, nothing happens on a screen, and every session is private — a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
+**Most people have never really seen the night sky. One night at a big telescope fixes that.**
+
+I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. You sit down at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), I find the objects, and nothing happens on a screen. Every session is private: a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only: it isn't fully dark until after 9 pm, and monsoon storms cancel a lot of nights.
 
@@ -45,6 +47,12 @@ Anywhere in the Valley, plus dark-sky sites like Picketpost Trailhead, the Tonto
 Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100. Phoenix-area events run about $100 more. Tell me the headcount and I'll put together a quote. Every base price is on one page: [star party pricing](/astronomy/starparties/pricing/).
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
+
+## What Makes It Different
+
+I have been doing public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
+
+{{< starparty-why >}}
 
 ## What Guests Say
 

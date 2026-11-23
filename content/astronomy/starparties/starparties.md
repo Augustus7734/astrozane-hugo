@@ -50,7 +50,7 @@ Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two h
 
 ## What Makes It Different
 
-I have been doing free public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
+I have been doing public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
 
 {{< starparty-why >}}
 

@@ -77,7 +77,7 @@ Planning something larger — a wedding, a corporate event, a resort program? I 
 
 ## Why Book a Star Party With Me?
 
-I have been doing free public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
+I have been doing public astronomy outreach for most of my life, and I still [set up on the sidewalk](/astronomy/sidewalk-astronomy/) for anyone who walks by. I host star parties because I enjoy it. Here is what that means for your night:
 
 {{< starparty-why >}}
 

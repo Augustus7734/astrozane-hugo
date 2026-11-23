@@ -41,7 +41,7 @@ I have been doing it in Tucson since 2022, mostly on University Boulevard next t
 - **A lot of people have never looked through a telescope.** Many of the people who stop are seeing Saturn's rings or the Moon's craters with their own eye for the first time.
 - **It reaches people an astronomy event never will.** Star parties and observatory nights draw people who already care. A sidewalk gets whoever is walking to dinner.
 - **You don't need a dark sky for it.** The Moon and planets look the same from a lit street as they do from the desert.
-- **It's the best case for dark skies.** Someone who has just seen Saturn is a lot easier to talk to about why the night sky is worth protecting.
+- **It's the best case for dark skies.** Someone who has just seen Saturn is a lot easier to talk to about [why the night sky is worth protecting](/astronomy/dark-skies/).
 
 None of this is my idea. John Dobson and the San Francisco Sidewalk Astronomers started doing it in the 1960s with big, cheap telescopes that anyone could build. The Dobsonian telescope is named after him.
 

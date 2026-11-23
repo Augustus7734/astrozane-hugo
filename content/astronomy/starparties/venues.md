@@ -51,6 +51,16 @@ zl_faq:
 
 If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. I bring the telescopes and run the night. You don't have to buy or learn anything.
 
+{{< promo id="starparty-promo" label="AstroZane star party photos" >}}
+{{< promoslide img="/images/starparty-telescope-set-up-at-lodge.jpg" eager="true" alt="A red hand-built 14.7-inch Dobsonian telescope set up in a lodge courtyard before a star party" kicker="Resorts, ranches and venues" title="A star party on your property" text="I bring the telescopes, set up before your guests arrive and run the night." >}}
+{{< promoslide img="/images/starparty-guest-at-hand-built-telescope.jpg" alt="A guest looking through the eyepiece of a hand-built 14.7-inch telescope at an AstroZane star party" kicker="For your guests" title="A look they won't get at home" text="A hand-built 14.7-inch telescope, with no experience needed." >}}
+{{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
+{{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
+{{< promoslide img="/images/10-start-with-the-moon.jpg" alt="Craters and terminator shadows on the Moon seen through a telescope" >}}
+{{< promoslide img="/images/moon-phone-photo-through-telescope.jpg" alt="The first-quarter Moon photographed with a phone held to a telescope eyepiece" kicker="Something to take home" title="Guests leave with a photo" text="A phone held up to the eyepiece gets a shot like this." >}}
+{{< promoslide img="/images/starparty-hero.jpg" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Dark-sky properties" title="If your sky is dark, even better" text="Out of town, the Milky Way becomes part of the evening." >}}
+{{< /promo >}}
+
 I have run a Saturday-evening stargazing series at [Mount Lemmon Lodge](https://mountlemmonlodge.com/), star parties for guests at [White Stallion Ranch](https://www.whitestallion.com/), a stargazing and sound bath evening at [Tucson Mountain Guest Ranch](https://tucsonmountainguestranch.com/), and a stargazing event at [El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/), along with private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
 ## What your guests get
@@ -104,7 +114,7 @@ Jupiter and Mars are both at their best in February and stay well placed through
 
 ## Common questions
 
-{{< zl-faq >}}
+{{< zl-faq style="dropdown" >}}
 
 **[Get in touch](/links/contact/)** with your venue, the dates you have in mind and a rough guest count.
 

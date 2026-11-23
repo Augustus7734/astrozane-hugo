@@ -12,11 +12,13 @@ images: ["/images/starparty-hero-wide.jpg"]
 # Star Party Bookings
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the stars" text="Private, guided star parties for groups of 2 to 20 across Tucson, Phoenix, and Southern Arizona." >}}
+{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the stars" text="Private, guided star parties for 2 to 100 guests across Tucson, Phoenix, and Southern Arizona." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
+{{< promoslide img="/images/starparty-guest-at-hand-built-telescope.jpg" alt="A guest looking through the eyepiece of a hand-built 14.7-inch telescope at an AstroZane star party" kicker="At the eyepiece" title="You look. I find things." text="One person at a time at a hand-built 14.7-inch telescope. No experience needed." >}}
 {{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
 {{< promoslide img="/images/10-start-with-the-moon.jpg" alt="Craters and terminator shadows on the Moon seen through a telescope" >}}
+{{< promoslide img="/images/moon-south-pole-craters-closeup.jpg" alt="Craters near the Moon's south pole at high magnification, photographed through an 8-inch telescope" kicker="The Moon, up close" title="Craters you could fall into" text="The Moon's south pole at high power, photographed through my 8-inch telescope." >}}
 {{< promoslide img="/images/09-orion-all-season.jpg" alt="The Orion Nebula, a winter star party highlight in Southern Arizona" >}}
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}

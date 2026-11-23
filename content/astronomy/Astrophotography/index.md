@@ -18,7 +18,7 @@ Swipe or use the arrows to browse each category below. Click any image to open i
 ### Emission & Reflection Nebulae
 
 {{< carousel id="emission-nebulae" >}}
-{{< slide img="images/m42-m43-orion-nebula-seestar-s50-pro.jpg" title="M42/M43 - Orion Nebula (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="10s" filter="Light pollution filter" location="Tucson, AZ (backyard)" skyquality="Bortle 5" >}}
+{{< slide img="images/m42-m43-orion-nebula-seestar-s50-pro.jpg" title="M42/M43 - Orion Nebula (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="10s" integration="200" filter="Light pollution filter" location="Tucson, AZ (backyard)" skyquality="Bortle 5" >}}
 {{< slide img="images/ZLM426hV4.jpg" title="M42/M43 - Orion Nebula" integration="360" >}}
 {{< slide img="images/ic-434-horsehead-flame-nebula-orion-seestar-s50-pro.jpg" title="IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion (Seestar S50 Pro)" telescope="Seestar S50 Pro" sublength="30s" integration="660" location="Tucson, AZ" skyquality="Bortle 5" >}}
 {{< slide img="images/ZLHorseheadV6.jpg" title="IC 434 & NGC 2024 - Horsehead & Flame Nebula in Orion" integration="1065" sublength="10s & 5s" >}}

@@ -1,0 +1,22 @@
+{{- /* A section that opens and closes, styled like the FAQ dropdowns. The text inside is Markdown.
+  It is in the page's HTML whether open or closed, so search engines and AI crawlers still read it.
+  Usage:
+    {{< dropdown summary="Tucson prices by length and group size" >}}
+    - **from $300** for 1 hour
+    {{< /dropdown >}} */ -}}
+<div class="az-faq az-dropdown">
+<details>
+  <summary>{{ .Get "summary" }}</summary>
+  <div class="az-faq-a">{{ .Inner | .Page.RenderString (dict "display" "block") }}</div>
+</details>
+</div>
+<style>
+.az-faq details{border-bottom:1px solid rgba(128,128,128,.35);padding:.15rem 0}
+.az-faq summary{cursor:pointer;font-weight:600;padding:.7rem 1.6rem .7rem 0;list-style:none;position:relative}
+.az-faq summary::-webkit-details-marker{display:none}
+.az-faq summary::after{content:"+";position:absolute;right:.2rem;top:.55rem;font-size:1.3rem;font-weight:400;color:#E5483F}
+.az-faq details[open] summary::after{content:"\2212"}
+.az-faq-a{padding:0 0 .9rem}
+.az-faq-a>:first-child{margin-top:0}
+.az-dropdown{margin:1rem 0 1.5rem;border-top:1px solid rgba(128,128,128,.35)}
+</style>

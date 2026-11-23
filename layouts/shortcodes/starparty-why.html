@@ -1,0 +1,8 @@
+{{- /* The list of what sets an AstroZane star party apart, from data/starparty_why.yaml.
+  Usage:  {{< starparty-why >}} */ -}}
+{{- $page := .Page -}}
+<ul class="az-why">
+{{- range site.Data.starparty_why }}
+  <li><strong>{{ .title }}</strong> {{ .text | $page.RenderString }}</li>
+{{- end }}
+</ul>

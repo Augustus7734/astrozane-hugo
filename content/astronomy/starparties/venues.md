@@ -73,6 +73,8 @@ If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a s
 
 I also host private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
+{{< book-cta title="Check your dates" text="Tell me about your property and the season you have in mind." subject="Venue star party" >}}
+
 ## What your guests get
 
 - A look through the eyepiece at the Moon, planets, star clusters, nebulae and galaxies, picked for what is best that night.
@@ -126,6 +128,6 @@ Jupiter and Mars are both at their best in February and stay well placed through
 
 {{< zl-faq style="dropdown" >}}
 
-**[Get in touch](/links/contact/)** with your venue, the dates you have in mind and a rough guest count.
+{{< book-cta title="Bring a star party to your venue" text="Send me your venue, the dates you have in mind and a rough guest count, and I will suggest the best nights and a setup that fits." subject="Venue star party" >}}
 
 {{< zl-schema >}}

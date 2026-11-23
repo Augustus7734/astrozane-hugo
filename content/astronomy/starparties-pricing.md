@@ -101,7 +101,7 @@ Larger groups run two hours or longer.
 
 The final price depends on the date, the location, the size of the group and anything extra you would like. A deposit is required to hold a date.
 
-**[Ask for a quote →](/links/contact/)**
+{{< book-cta title="Get a firm quote" text="Send me your date, your group size and where you will be, and I will reply with a firm price." subject="Star party quote" >}}
 
 More on each: [star parties in Tucson](/astronomy/starparties/tucson/), [star parties in Phoenix and Scottsdale](/astronomy/starparties/phoenix/), and [star parties for venues](/astronomy/starparties/venues/).
 

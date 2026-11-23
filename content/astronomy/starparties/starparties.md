@@ -33,6 +33,8 @@ A star party is a private, guided stargazing tour that comes to you. I bring tel
 
 A deposit is required to hold your date. From 2027 my 24" telescope will be available too, at a higher rate, and it can come out alongside the 14.7".
 
+{{< book-cta title="Check your date" subject="Star party" link="/astronomy/starparties/pricing/" linktext="See all prices" >}}
+
 ## Choose Your Area
 
 ### [Star parties in Tucson & Southern Arizona →](/astronomy/starparties/tucson/)
@@ -78,7 +80,7 @@ For trips, retreats, and once-a-year skies, I travel across the Southwest. **Des
 
 Trailheads, national forests and other ordinary public land need no call ahead, so they are much easier to schedule. National parks and state parks have to be arranged with the park first. If you have a park in mind, plan on extra lead time.
 
-I also travel to Las Cruces, San Diego, and most anywhere else in the region. [Get in touch](https://astrozane.com/links/contact) with your dates and I'll put together a quote.
+I also travel to Las Cruces, San Diego, and most anywhere else in the region. Send me your dates and I'll put together a quote.
 
 ---
 
@@ -92,6 +94,12 @@ Alongside private parties, I host star parties for venues around Tucson:
 - **[El Conquistador Tucson, A Hilton Resort](https://www.hilton.com/en/hotels/tushthh-el-conquistador-tucson/).** A stargazing event at the resort in Oro Valley.
 
 Run a venue of your own? See [star parties for venues](/astronomy/starparties/venues/).
+
+---
+
+## Book Your Star Party
+
+{{< book-cta title="Ready to book?" subject="Star party" >}}
 
 ---
 

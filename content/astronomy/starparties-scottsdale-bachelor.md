@@ -43,7 +43,7 @@ zl_faq:
 
 **Before one of you puts a ring on it, come see the planet that already did.**
 
-Trade one night of bottle service for a sky full of stars. I bring the telescopes to your Scottsdale rental, or meet your group at a dark-sky site about an hour out of town, and for two or three hours you get the Moon's craters, Saturn's rings when the planet is up, star clusters and nebulae at the eyepiece. Nobody needs to know a thing about astronomy. Matching outfits are welcome, and so is the one friend who swears they are not a space person.
+Trade one night of bottle service for a sky full of stars. I bring the telescopes to your Scottsdale rental, or meet your group at a dark-sky site about an hour out of town, and for two or three hours you get the Moon's craters, Saturn's rings when the planet is up, star clusters and nebulae at the eyepiece. Nobody needs to know a thing about astronomy. That includes the one friend who swears they are not a space person.
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
 {{< promoslide img="/images/starparty-guest-red-light-night-sky.jpg" eager="true" alt="A guest sitting beside a telescope under a starry desert sky, lit by dim red light, at an AstroZane star party" kicker="Scottsdale · Phoenix" title="The night nobody else's weekend had" text="A private star party for your bachelor or bachelorette group, at your rental or under a dark desert sky." >}}

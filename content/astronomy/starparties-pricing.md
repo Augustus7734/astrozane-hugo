@@ -1,7 +1,7 @@
 ---
-title: "Star Party Pricing in Tucson, Phoenix and Arizona"
+title: "Stargazing Tour and Star Party Pricing in Tucson and Phoenix"
 linkTitle: "Star Party Pricing"
-description: "What a private AstroZane star party costs. From $300 per group in Tucson and $500 in Phoenix and Scottsdale for up to 20 guests, from $500 for larger groups of up to 100, and from $600 for destination trips."
+description: "What a private AstroZane stargazing tour or star party costs. From $300 per group in Tucson and $500 in Phoenix and Scottsdale for up to 20 guests, from $500 for larger groups of up to 100, and from $600 for destination trips."
 layout: "single"
 url: "/astronomy/starparties/pricing/"
 images: ["/images/starparty-hero-wide.jpg"]
@@ -54,9 +54,9 @@ zl_breadcrumb:
   - {name: "Book A Star Party", url: "/astronomy/starparties/"}
   - {name: "Star Party Pricing", url: "/astronomy/starparties/pricing/"}
 zl_faq:
-  - q: "How much does a private star party cost in Tucson?"
+  - q: "How much does a private stargazing tour or star party cost in Tucson?"
     a: "An AstroZane star party in the Tucson area starts at $300 for one hour, $400 for two hours, $500 for three hours and $550 for four hours, for a group of up to 20 guests. The price is for the whole group, not per person."
-  - q: "How much does a private star party cost in Phoenix or Scottsdale?"
+  - q: "How much does a private stargazing tour or star party cost in Phoenix or Scottsdale?"
     a: "An AstroZane star party in Phoenix or Scottsdale starts at $500 for two hours, $600 for three hours and $700 for four hours, for a group of up to 20 guests, with travel from Tucson included. There is a two-hour minimum."
   - q: "Is the price per person or per group?"
     a: "Per group. At the base rate, a two-hour star party for ten people comes to about $40 each in Tucson and about $50 each in Phoenix."
@@ -64,7 +64,7 @@ zl_faq:
     a: "For 20 to 40 guests, from $500 in Tucson and $600 in Phoenix. For 40 to 70 guests, from $700 in Tucson and $800 in Phoenix. For 70 to 100 guests, from $999 in Tucson and $1,100 in Phoenix."
 ---
 
-AstroZane star parties are priced per group, not per person. These are the base prices for 2027. Every booking gets a firm quote first.
+AstroZane star parties are private, guided stargazing tours, and they are priced per group, not per person. These are the base prices for 2027. Every booking gets a firm quote first.
 
 ## Private star parties, up to 20 guests
 

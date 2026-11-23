@@ -1,12 +1,13 @@
 ---
-title: "Star Parties in Phoenix & Scottsdale"
-summary: "Private guided star parties for families, bachelor and bachelorette parties, and small groups in Phoenix, Scottsdale, and the Valley — at your place or a dark-sky site. Base rates from $500. Now booking January through May and August through December 2027."
+title: "Private Stargazing Tours and Star Parties in Phoenix & Scottsdale"
+linkTitle: "Star Parties in Phoenix & Scottsdale"
+summary: "Private stargazing tours and guided star parties for families, bachelor and bachelorette parties, and small groups in Phoenix, Scottsdale, and the Valley — at your place or a dark-sky site. Base rates from $500. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/phoenix/"
-description: "Private, guided star parties in Phoenix, Scottsdale, and the Valley for families, bachelor and bachelorette parties, and small groups. A hand-built 14.7-inch telescope with seated viewing, night vision, base rates from $500."
+description: "Private stargazing tours and guided star parties in Phoenix, Scottsdale, and the Valley for families, bachelor and bachelorette parties, and small groups. A hand-built 14.7-inch telescope with seated viewing, night vision, base rates from $500."
 images: ["/images/starparty-hero-wide.jpg"]
 service:
-  name: "Private Star Parties in Phoenix & Scottsdale"
+  name: "Private Stargazing Tours and Star Parties in Phoenix & Scottsdale"
   region: "Phoenix area"
   areas: ["Phoenix, Arizona", "Scottsdale, Arizona", "Tempe, Arizona", "Mesa, Arizona", "Chandler, Arizona", "Gilbert, Arizona", "Glendale, Arizona", "Peoria, Arizona", "Fountain Hills, Arizona", "Cave Creek, Arizona"]
   prices:
@@ -16,7 +17,7 @@ service:
 faq:
   - group: "Phoenix star parties"
     items:
-      - q: "How much does a private star party in Phoenix or Scottsdale cost?"
+      - q: "How much does a private stargazing tour or star party in Phoenix or Scottsdale cost?"
         a: |
           Base pricing starts at about $500 for two hours, $600 for three hours, and $700 for four hours, for a group of up to 20 guests in the Phoenix metro area, with a two-hour minimum. That includes my travel from Tucson. These are estimates rather than fixed prices: every event is quoted individually based on group size, location, and specifics.
       - q: "Is pricing per person?"
@@ -59,7 +60,7 @@ sidebar_hide: true
 
 **The lights of the Valley hide most of the night sky. A big telescope, or an hour's drive, gets it back.**
 
-I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley, or meet you at a dark-sky site outside it, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
+A star party is a private, guided stargazing tour that comes to you. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, or resort anywhere in the Valley, or meet you at a dark-sky site outside it, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you: a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only. [Check a date or ask a question →](https://astrozane.com/links/contact)
 

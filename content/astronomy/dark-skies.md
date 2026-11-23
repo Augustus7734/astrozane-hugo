@@ -43,7 +43,7 @@ zl_faq:
 
 Tucson is surrounded by observatories: Kitt Peak, Mount Lemmon, Mount Hopkins and, farther out, Mount Graham. The city and Pima County have had outdoor lighting rules since the 1970s to protect them, which is why you can still see the Milky Way from the edge of town. That is not guaranteed to last.
 
-{{< zl-img src="/astronomy/dark-skies/tucson-city-lights-at-dusk.jpg" href="/astronomy/dark-skies/tucson-city-lights-at-dusk-full.jpg" alt="The lights of Tucson, Arizona at dusk seen from the Santa Catalina Mountains, with Baboquivari Peak on the horizon" caption="Tucson at dusk from the Catalinas, with Baboquivari Peak on the horizon. Any light you can see from up here is light that is not going where it was meant to." width="900" >}}
+{{< zl-img src="/astronomy/dark-skies/tucson-city-lights-at-dusk.jpg" href="/astronomy/dark-skies/tucson-city-lights-at-dusk-full.jpg" alt="The lights of Tucson, Arizona at dusk seen from Windy Point in the Santa Catalina Mountains, with Baboquivari Peak on the horizon" caption="Tucson at dusk from Windy Point in the Catalinas, with Baboquivari Peak on the horizon. Any light you can see from up here is light that is not going where it was meant to." width="900" >}}
 
 ## What is light pollution?
 

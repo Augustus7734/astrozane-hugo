@@ -1,7 +1,7 @@
 ---
 title: "Bachelor and Bachelorette Star Parties in Scottsdale"
 linkTitle: "Bachelor & Bachelorette Star Parties"
-description: "A private, guided star party for your bachelor or bachelorette weekend in Scottsdale or Phoenix, at your rental or a dark-sky site an hour away. Telescopes, night vision and a group portrait under the stars. Base rates from $500."
+description: "A private stargazing night for your bachelor or bachelorette weekend in Scottsdale or Phoenix, at your rental or a dark-sky site an hour away. Telescopes, night vision and a group portrait under the stars. Base rates from $500."
 layout: "single"
 url: "/astronomy/starparties/scottsdale-bachelor-bachelorette/"
 images: ["/images/starparty-hero-wide.jpg"]
@@ -25,6 +25,8 @@ zl_breadcrumb:
   - {name: "Phoenix and Scottsdale", url: "/astronomy/starparties/phoenix/"}
   - {name: "Bachelor and Bachelorette Star Parties", url: "/astronomy/starparties/scottsdale-bachelor-bachelorette/"}
 zl_faq:
+  - q: "Is stargazing a good bachelorette or bachelor party activity in Scottsdale?"
+    a: "Yes. A private star party is a guided stargazing night for just your group, at your rental or at a dark-sky site about an hour away. It works as a first-night activity or a wind-down night, nobody needs to know any astronomy, and you can go home with a group portrait under the stars."
   - q: "How much does a bachelor or bachelorette star party in Scottsdale cost?"
     a: "Base pricing starts at about $500 for two hours and $600 for three hours, for a group of up to 20, with travel from Tucson included. The price is for the group, not per person. Every event is quoted individually, and a deposit is required to hold the date."
   - q: "Where does the star party happen?"

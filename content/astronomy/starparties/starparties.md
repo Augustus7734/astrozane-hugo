@@ -42,7 +42,7 @@ Anywhere in the Valley, plus dark-sky sites like Picketpost Trailhead, the Tonto
 
 ### Groups of more than 20
 
-Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100. Phoenix-area events run about $100 more. Tell me the headcount and I'll put together a quote.
+Base pricing covers up to 20 guests. For **20 to 40 guests**, sessions run two hours or longer and start at **$500** in the Tucson area. For **40 to 100 guests** I bring more telescopes: **from $700** for 40 to 70 and **from $999** for 70 to 100. Phoenix-area events run about $100 more. Tell me the headcount and I'll put together a quote. Every base price is on one page: [star party pricing](/astronomy/starparties/pricing/).
 
 {{< timelapse src="/videos/starparty-timelapse-guests.mp4" poster="/images/starparty-timelapse-guests-poster.jpg" maxwidth="360px" alt="Timelapse of guests taking turns at the telescope under the Milky Way at an AstroZane star party" caption="A star party in fifteen seconds." >}}
 

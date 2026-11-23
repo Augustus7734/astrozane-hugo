@@ -91,7 +91,7 @@ Star parties are private. Most are for groups of 2 to 20, such as families, birt
 
 Prices are base estimates and depend on the date, location and extras. The first three rows are for up to 20 guests. Bookings are open for **January through May 2027 and August through December 2027**. June and July are by request only. A deposit is required to hold a date, and cloudy nights are rescheduled at no charge.
 
-**[See star party details and pricing](/astronomy/starparties/)** or **[ask about a date](/links/contact/)**.
+**[See star party details](/astronomy/starparties/)**, **[all prices on one page](/astronomy/starparties/pricing/)** or **[ask about a date](/links/contact/)**.
 
 Run a resort, hotel, guest ranch, vineyard or event venue? See [star parties for venues](/astronomy/starparties/venues/), with flat-rate, recurring and ticketed options for January through May 2027 and August through December 2027.
 

@@ -15,16 +15,14 @@
   {{ .Scratch.Set "description" .Description }}
 {{ end }}
 
+{{/* astrozane.com change: the page's own title comes first in the <title> tag and the site name last,
+     so the words people search for are not cut off in search results. */}}
 {{ if .IsSection }}
-  {{ .Scratch.Set "title" ($.Site.Params.brand) }}
-  {{ .Scratch.Add "title" " - " }}
-  {{ .Scratch.Add "title" .LinkTitle }}
+  {{ .Scratch.Set "title" (printf "%s | %s" .LinkTitle $.Site.Params.brand) }}
 {{ end }}
 
 {{ if .IsPage }}
-  {{ .Scratch.Set "title" ($.Site.Params.brand) }}
-  {{ .Scratch.Add "title" " - " }}
-  {{ .Scratch.Add "title" .Title }}
+  {{ .Scratch.Set "title" (printf "%s | %s" .Title $.Site.Params.brand) }}
 {{ end }}
 
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
@@ -49,6 +47,16 @@
     <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
   {{ end -}}
 {{ end -}}
+
+{{/* astrozane.com change: sharing image for link previews. A page sets it with
+     images: ["/path/in/static.jpg"] in its front matter; other pages get the star party photo. */}}
+{{ if not $image_path }}
+  {{ $share := "/images/starparty-hero-wide.jpg" }}
+  {{ with .Params.images }}{{ $share = index . 0 }}{{ end }}
+  <meta property="og:image" content="{{ $share | absURL }}" />
+  <meta name="twitter:image" content="{{ $share | absURL }}" />
+  <meta name="twitter:card" content="summary_large_image">
+{{ end }}
 
 <!-- Title Tags -->
 <title itemprop="name">{{ .Scratch.Get "title" }}</title>

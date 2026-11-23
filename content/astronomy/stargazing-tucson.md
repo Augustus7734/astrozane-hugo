@@ -213,7 +213,7 @@ The campground and parking area at Columbine, near the top of the Swift Trail in
 
 ## Want a guide and a telescope?
 
-I host private [star parties in Tucson and Southern Arizona](/astronomy/starparties/tucson/) at your home, rental or resort, or at most of the sites above. I bring a hand-built 14.7" telescope with seated viewing, a second telescope, binoculars to pass around and a night vision device. Tell me where you are staying and what you want to see, and I will recommend a spot.
+I host private [stargazing tours and star parties in Tucson and Southern Arizona](/astronomy/starparties/tucson/) at your home, rental or resort, or at most of the sites above. I bring a hand-built 14.7" telescope with seated viewing, a second telescope, binoculars to pass around and a night vision device. Tell me where you are staying and what you want to see, and I will recommend a spot.
 
 The same rule applies to a star party: a trailhead or other public land can be booked on short notice, and a national or state park has to be arranged with the park first, so it needs more lead time.
 

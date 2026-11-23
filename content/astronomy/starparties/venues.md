@@ -1,6 +1,7 @@
 ---
-title: "Star Parties for Resorts, Hotels, Vineyards and Venues"
-description: "Guided star parties for resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and Southern Arizona. Flat-rate, ticketed and guest add-on options."
+title: "Stargazing Events and Star Parties for Resorts, Hotels and Venues"
+linkTitle: "Star Parties for Resorts & Venues"
+description: "Hire an astronomer for a guided stargazing event or star party at your resort, hotel, guest ranch, vineyard, wedding or corporate event in Tucson, Phoenix and Southern Arizona. Flat-rate, ticketed and guest add-on options."
 layout: "single"
 url: "/astronomy/starparties/venues/"
 sidebar_hide: true
@@ -33,6 +34,8 @@ zl_breadcrumb:
   - {name: "Star Parties", url: "/astronomy/starparties/"}
   - {name: "Star Parties for Venues", url: "/astronomy/starparties/venues/"}
 zl_faq:
+  - q: "Can I hire an astronomer for a hotel, wedding or corporate event in Arizona?"
+    a: "Yes. Zane Landers of AstroZane brings telescopes and night vision to resorts, hotels, guest ranches, vineyards, weddings and corporate events in Tucson, Phoenix and across Southern Arizona, and runs a guided stargazing evening for up to 100 guests. Flat-rate evenings start at $400 for two hours for up to 40 guests."
   - q: "How much does a star party cost for a venue?"
     a: "In the Tucson area a flat-rate 2-hour evening for up to 40 guests starts at $400, and a recurring series of four or more nights starts at $250 a night. A ticketed evening costs nothing up front: ticket sales are split 50/50, with a $200 minimum to me per night. Venues around Sonoita, Elgin, Sierra Vista and Willcox add a $75 travel fee, and Phoenix and Scottsdale venues start at $500."
   - q: "What if it is cloudy?"
@@ -49,7 +52,7 @@ zl_faq:
     a: "Private star parties for families and small groups are on the [main star party page](/astronomy/starparties/)."
 ---
 
-If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. I bring the telescopes and run the night. You don't have to buy or learn anything.
+If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. It is a guided stargazing event for your guests: I bring the telescopes and run the night. You don't have to buy or learn anything.
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
 {{< promoslide img="/images/starparty-telescope-set-up-at-lodge.jpg" eager="true" alt="A red hand-built 14.7-inch Dobsonian telescope set up in a lodge courtyard before a star party" kicker="Resorts, ranches and venues" title="A star party on your property" text="I bring the telescopes, set up before your guests arrive and run the night." >}}

@@ -2,8 +2,8 @@
 title: "Zane Landers"
 
 # <title> tag and meta description for the home page (used by layouts/partials/head/meta.html)
-seo_title: "Zane Landers | Private Star Parties in Tucson & Phoenix, AZ"
-description: "Zane Landers is a Tucson telescope maker and science writer. Book a private star party in Tucson or Phoenix, read telescope reviews, and support dark skies."
+seo_title: "Zane Landers | Stargazing Tours & Star Parties, Tucson & Phoenix"
+description: "Zane Landers is a Tucson telescope maker and science writer. Book a private stargazing tour or star party in Tucson or Phoenix, read telescope reviews, and support dark skies."
 
 # Social share image. Put the file in assets/ (not static/) so the theme can read its size.
 # image: "images/zane-landers-telescope-milky-way.jpg"
@@ -13,7 +13,7 @@ lastmod: 2026-11-22
 hero:
   eyebrow: "Tucson, Arizona"
   heading: "Zane Landers: star party host, telescope maker and science writer in Tucson, Arizona"
-  lead: "Zane Landers is an amateur astronomer, telescope maker and science writer based in Tucson, Arizona. He runs AstroZane, which hosts private star parties in Tucson, Phoenix and across the Southwest. He is Lead Writer and Editor of the telescope review site TelescopicWatch, a contributing writer at Live Science, a founding board member of DarkSky Southern Arizona and a moderator of r/telescopes."
+  lead: "Zane Landers is an amateur astronomer, telescope maker and science writer based in Tucson, Arizona. He runs AstroZane, which hosts private star parties and stargazing tours in Tucson, Phoenix and across the Southwest. He is Lead Writer and Editor of the telescope review site TelescopicWatch, a contributing writer at Live Science, a founding board member of DarkSky Southern Arizona and a moderator of r/telescopes."
   # Header photo. Put the file in static/images/ and uncomment both lines.
   # image: "/images/zane-landers-telescope-milky-way.jpg"
   # image_alt: "Zane Landers beside his hand-built 14.7-inch Dobsonian telescope under the Milky Way near Tucson, Arizona"

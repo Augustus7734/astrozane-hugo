@@ -100,7 +100,7 @@ Remote, northwest of Phoenix, and one of the darkest places in Arizona you can r
 
 ## Want a guide and a telescope?
 
-I host private [star parties in Phoenix and Scottsdale](/astronomy/starparties/phoenix/) at your home, rental or resort, or at any of the sites above. I bring a hand-built 14.7" telescope with seated viewing, a second telescope, binoculars to pass around and a night vision device. Planning a weekend with friends? See [bachelor and bachelorette star parties in Scottsdale](/astronomy/starparties/scottsdale-bachelor-bachelorette/).
+I host private [stargazing tours and star parties in Phoenix and Scottsdale](/astronomy/starparties/phoenix/) at your home, rental or resort, or at any of the sites above. I bring a hand-built 14.7" telescope with seated viewing, a second telescope, binoculars to pass around and a night vision device. Planning a weekend with friends? See [bachelor and bachelorette star parties in Scottsdale](/astronomy/starparties/scottsdale-bachelor-bachelorette/).
 
 Based down south? See [stargazing spots near Tucson](/astronomy/stargazing-near-tucson/).
 

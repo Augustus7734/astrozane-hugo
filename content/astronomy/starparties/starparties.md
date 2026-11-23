@@ -1,11 +1,12 @@
 ---
-title: "Book A Star Party"
+title: "Private Stargazing Tours and Star Parties in Arizona"
+linkTitle: "Book A Star Party"
 weight: 1
 sidebar_hide: true
-summary: "Private guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, and telescope repair. Now booking January through May and August through December 2027."
+summary: "Private stargazing tours and guided star parties in Tucson, Phoenix, and across Southern Arizona for families, bachelor and bachelorette parties, and small groups — plus star parties for resorts, vineyards, and venues, and telescope repair. Now booking January through May and August through December 2027."
 layout: "single"
 url: "/astronomy/starparties/"
-description: "Private, expert-guided star parties in Tucson and Phoenix for families, bachelor and bachelorette parties, and small groups, plus star parties for resorts, vineyards, and venues, and telescope repair."
+description: "Private stargazing tours and expert-guided star parties in Tucson and Phoenix for families, bachelor and bachelorette parties, and small groups, plus star parties for resorts, vineyards, and venues, and telescope repair."
 images: ["/images/starparty-hero-wide.jpg"]
 ---
 
@@ -26,7 +27,7 @@ images: ["/images/starparty-hero-wide.jpg"]
 
 **Most people have never really seen the night sky. One night at a big telescope fixes that.**
 
-I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. You sit down at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), I find the objects, and nothing happens on a screen. Every session is private: a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
+A star party is a private, guided stargazing tour that comes to you. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site, and show your group the craters and mountains of the Moon, Saturn's rings and Jupiter's cloud bands and moons when they are up, double stars in gold and blue, clusters of thousands of stars like the Pleiades and the great cluster in Hercules, glowing clouds of gas like the Orion Nebula, and galaxies like Andromeda, whose light left 2.5 million years ago. What is up changes with the season, and I pick the best of it for your night. You sit down at my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), I find the objects, and nothing happens on a screen. Every session is private: a family night, a bachelor or bachelorette party, a birthday, or simply an evening out under the stars.
 
 **Now booking private events for January through May 2027 and August through December 2027.** June and July are by request only: it isn't fully dark until after 9 pm, and monsoon storms cancel a lot of nights.
 

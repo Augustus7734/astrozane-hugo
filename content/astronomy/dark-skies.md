@@ -4,6 +4,7 @@ weight: 5
 linkTitle: "Protecting Dark Skies"
 description: "What light pollution is, why it matters for health, wildlife and the local economy, where Tucson's light actually comes from, including prisons, and what DarkSky International and DarkSky Southern Arizona do about it."
 layout: "single"
+draft: true # hidden for now; delete this line to republish
 images: ["/astronomy/dark-skies/tucson-city-lights-at-dusk.jpg"]
 url: "/astronomy/dark-skies/"
 zl_breadcrumb:

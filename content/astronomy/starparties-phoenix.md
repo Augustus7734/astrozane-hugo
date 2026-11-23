@@ -46,12 +46,13 @@ sidebar_hide: true
 # Private Star Parties in Phoenix & Scottsdale
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the desert stars" text="Private, guided star parties for groups of 2 to 20 in Phoenix, Scottsdale, and across the Valley." >}}
+{{< promoslide img="/images/starparty-timelapse-guests-poster.jpg" eager="true" alt="Timelapse of guests taking turns at the telescope under the stars at a star party at Picketpost Trailhead near Phoenix" video="/videos/starparty-timelapse-guests.mp4" pos="50% 86%" kicker="Now booking · 2027" title="Your own night under the desert stars" text="A star party at Picketpost Trailhead, an hour east of the Valley. Private, guided nights for 2 to 100 guests in Phoenix and Scottsdale." >}}
 {{< promoslide img="/images/starparty-orion-hovatter.jpg" alt="Wide-field photograph of the constellation Orion taken from the Hovatter Road observing field west of Phoenix, Arizona" kicker="Hovatter Road · west of Phoenix" title="Dark skies are closer than you think" text="Orion, photographed from an observing field about 90 minutes from downtown Phoenix. Winter is its season, and it's up all evening." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
-{{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
+{{< promoslide img="/images/starparty-guest-red-light-night-sky.jpg" alt="A guest sitting beside a telescope under a starry desert sky, lit by dim red light, at an AstroZane star party" kicker="Dark-sky sites" title="An hour from town, a different sky" text="Red light keeps your eyes adapted to the dark, so the stars keep getting better through the night." >}}
 {{< promoslide img="/images/10-start-with-the-moon.jpg" alt="Craters and terminator shadows on the Moon seen through a telescope" >}}
+{{< promoslide img="/images/moon-phone-photo-through-telescope.jpg" alt="The first-quarter Moon photographed with a phone held to a telescope eyepiece" kicker="Bring your phone" title="Take the Moon home" text="A phone held up to the eyepiece gets you a shot like this." >}}
 {{< promoslide img="/images/09-orion-all-season.jpg" alt="The Orion Nebula, a winter star party highlight in Southern Arizona" >}}
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
 {{< /promo >}}

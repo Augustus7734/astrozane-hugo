@@ -43,13 +43,16 @@ sidebar_hide: true
 # Private Star Parties in Tucson & Southern Arizona
 
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
-{{< promoslide img="/images/starparty-hero.jpg" eager="true" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the Tucson stars" text="Private, guided star parties for groups of 2 to 20 across Tucson and Southern Arizona." >}}
+{{< promoslide img="/images/starparty-silhouette-telescope-starry-sky.jpg" eager="true" alt="Silhouette of a guest seated at a telescope under a sky full of stars at an AstroZane star party in Arizona" kicker="Now booking · 2027" title="Your own night under the Tucson stars" text="Private, guided star parties for 2 to 100 guests across Tucson and Southern Arizona." >}}
 {{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
 {{< promoslide img="/images/Slide3Starprty.jpg" alt="Why visual observing through an eyepiece beats looking at a screen" >}}
+{{< promoslide img="/images/starparty-guest-telescope-city-lights.jpg" alt="A guest looking through a telescope lit by red light, with city lights in the valley below" kicker="Above the city" title="The view goes both ways" text="A look through the eyepiece, with the city lights far below." >}}
 {{< promoslide img="/images/06-nobody-walks-past.jpg" alt="A crowd gathered around a telescope at a public star party in Tucson" >}}
 {{< promoslide img="/images/10-start-with-the-moon.jpg" alt="Craters and terminator shadows on the Moon seen through a telescope" >}}
+{{< promoslide img="/images/crescent-moon-in-twilight-through-telescope.jpg" alt="A crescent Moon in a twilight sky, photographed through a telescope" kicker="The Moon" title="Worth the look on its own" text="A crescent Moon against the evening sky, photographed through my telescope." >}}
 {{< promoslide img="/images/09-orion-all-season.jpg" alt="The Orion Nebula, a winter star party highlight in Southern Arizona" >}}
 {{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
+{{< promoslide img="/images/starparty-hero.jpg" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="Photos to take home" title="A portrait under the Milky Way" text="On request I shoot a portrait of your group under the stars." >}}
 {{< /promo >}}
 
 Experience the night sky like never before. I bring hand-built telescopes, binoculars, and night vision to your backyard, vacation rental, resort, or a dark-sky site near Tucson, and show your group the Moon, planets, star clusters, galaxies, and nebulae in remarkable detail. The main telescope is my hand-built [14.7" f/2.9 Dobsonian](/projects/147-inch-f29/), and you sit down to look through it. Every session is private and tailored to you — a family night, a bachelor or bachelorette party, a birthday, a corporate outing, or simply an evening out under the stars.

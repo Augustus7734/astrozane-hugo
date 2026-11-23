@@ -39,9 +39,19 @@ zl_faq:
     a: "As early as you can for a weekend date. Bookings are open for January through May 2027 and August through December 2027. June and July are by request only."
 ---
 
-A star party is an easy night to add to a bachelor or bachelorette weekend in Scottsdale. I bring the telescopes to your rental, or meet your group at a dark-sky site about an hour out of town, and spend two or three hours showing you the Moon, planets, star clusters and nebulae at the eyepiece. Nobody needs to know anything about astronomy, and it works for a group with mixed interests.
+**Before one of you puts a ring on it, come see the planet that already did.**
 
-![Guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona](/images/starparty-hero-wide.jpg)
+Trade one night of bottle service for a sky full of stars. I bring the telescopes to your Scottsdale rental, or meet your group at a dark-sky site about an hour out of town, and for two or three hours you get the Moon's craters, Saturn's rings when the planet is up, star clusters and nebulae at the eyepiece. Nobody needs to know a thing about astronomy. Matching outfits are welcome, and so is the one friend who swears they are not a space person.
+
+{{< promo id="starparty-promo" label="AstroZane star party photos" >}}
+{{< promoslide img="/images/starparty-guest-red-light-night-sky.jpg" eager="true" alt="A guest sitting beside a telescope under a starry desert sky, lit by dim red light, at an AstroZane star party" kicker="Scottsdale · Phoenix" title="The night nobody else's weekend had" text="A private star party for your bachelor or bachelorette group, at your rental or under a dark desert sky." >}}
+{{< promoslide img="/images/starparty-hero.jpg" alt="Three guests beside a hand-built Dobsonian telescope under the Milky Way at a private AstroZane star party in Arizona" kicker="You get the photo" title="A group portrait under the stars" text="On request I shoot your group under the night sky, with the Milky Way behind you when it is up." >}}
+{{< promoslide img="/images/moon-phone-photo-through-telescope.jpg" alt="The first-quarter Moon photographed with a phone held to a telescope eyepiece" kicker="Bring your phone" title="Everyone goes home with a Moon shot" text="A phone held up to the eyepiece gets a photo like this." >}}
+{{< promoslide img="/images/Slide2Starparty.jpg" alt="The hand-built telescopes and night vision gear used at AstroZane star parties" >}}
+{{< promoslide img="/images/starparty-guest-at-hand-built-telescope.jpg" alt="A guest looking through the eyepiece of a hand-built 14.7-inch telescope at an AstroZane star party" kicker="One at a time" title="Everybody gets a turn" text="I find the objects. Your group takes turns at the eyepiece." >}}
+{{< promoslide img="/images/09-orion-all-season.jpg" alt="The Orion Nebula, a winter star party highlight in Southern Arizona" >}}
+{{< promoslide img="/images/starparty-milky-way.jpg" alt="Dark dust lanes threading the Milky Way, photographed by AstroZane from a dark-sky site" kicker="Dark-sky trips" title="This is what the drive is for" text="An hour outside the city, the Milky Way's dust lanes are plain to the naked eye. Tell me where you're starting and I'll pick the spot." >}}
+{{< /promo >}}
 
 **Now booking January through May 2027 and August through December 2027.** June and July are by request only. [Check a date →](/links/contact/)
 
@@ -76,7 +86,7 @@ These are base estimates, not fixed quotes. The final figure depends on the date
 
 ## Common questions
 
-{{< zl-faq >}}
+{{< zl-faq style="dropdown" >}}
 
 ## Book it
 

@@ -80,7 +80,7 @@ faq:
 
 I bring hand-built telescopes, binoculars and night vision to your backyard, vacation rental, resort or a dark-sky site, and guide your group through the Moon, planets, star clusters, galaxies and nebulae. Everyone looks through the eyepiece themselves. There are no screens, and viewing through my 14.7-inch telescope is seated.
 
-Star parties are private, for groups of 2 to 20: families, birthdays, bachelor and bachelorette parties, corporate evenings and small gatherings. I have spent more than ten years showing the night sky to thousands of people.
+Star parties are private. Most are for groups of 2 to 20, such as families, birthdays and bachelor and bachelorette parties, and I also host weddings, corporate evenings and other events for up to 100 guests. I have spent more than ten years showing the night sky to thousands of people.
 
 | Area | Base price (per group) | Notes |
 |---|---|---|

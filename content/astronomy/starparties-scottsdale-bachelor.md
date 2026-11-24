@@ -72,9 +72,9 @@ Trade one night of bottle service for a sky full of stars. I bring the telescope
 
 **At your rental or resort.** The Moon, Saturn, Jupiter and bright star clusters look just as good from Scottsdale as from the desert, and night vision pulls nebulae out of a city sky. This is the easy option.
 
-**At a dark-sky site.** For the Milky Way overhead and galaxies in the telescope, the group drives about an hour. Picketpost Trailhead near Superior is where both of the groups quoted below went. See [stargazing spots near Phoenix and Scottsdale](/astronomy/stargazing-near-phoenix/) for the others.
+**At a dark-sky site.** For the Milky Way overhead and galaxies in the telescope, the group drives about an hour. Picketpost Trailhead near Superior is where my two most recent Scottsdale groups went. See [stargazing spots near Phoenix and Scottsdale](/astronomy/stargazing-near-phoenix/) for the others.
 
-## What guests say
+{{% zl-quotes-heading "What guests say" %}}
 
 {{< zl-quotes >}}
 

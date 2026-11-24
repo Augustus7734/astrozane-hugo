@@ -1,0 +1,7 @@
+{{/*
+  Heading above the guest quotes, hidden with them.
+  Usage:  {{% zl-quotes-heading "What Guests Say" %}}
+*/}}
+{{ if site.Params.show_testimonials }}
+## {{ .Get 0 }}
+{{ end }}

@@ -8,6 +8,7 @@ title = "Zane Landers"
 # disqusShortname = "yourDisqusShortname"
 
 [params]
+    show_testimonials = false             # guest quotes on star party pages; set true to show them again
     brand = "Zane Landers"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     brand_image = "/images/webprofilepic.jpg"    # path to the image shown in the sidebar

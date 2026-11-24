@@ -118,7 +118,7 @@ The rate is for the group, not per person, and it includes my travel from Tucson
 **Not sure how long you need?** Two hours is plenty for the Moon, planets, and bright showpieces, and those look great from anywhere in the Valley. For fainter deep-sky objects like galaxies and nebulae, a longer session at a dark site outside the city is worth it.
 {{< /dropdown >}}
 
-## What Guests Say
+{{% zl-quotes-heading "What Guests Say" %}}
 
 {{< zl-quotes >}}
 

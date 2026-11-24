@@ -86,7 +86,7 @@ In the Tonto National Forest, about two hours east of Phoenix. It is far enough 
 
 Remote, northwest of Phoenix, and one of the darkest places in Arizona you can reach on a paved road. It is too far for an evening trip, so plan to camp.
 
-## What guests have said
+{{% zl-quotes-heading "What guests have said" %}}
 
 {{< zl-quotes >}}
 

@@ -120,7 +120,7 @@ The rate is for the group, not per person. At the base rate, a two-hour night fo
 **Not sure how long you need?** If you mainly want to see the Moon and planets, a shorter session is ideal — those targets are bright and easy to see, so a dark sky isn't necessary and even an hour delivers memorable views. For fainter deep-sky objects like galaxies and nebulae, a longer session away from city lights is worth it.
 {{< /dropdown >}}
 
-## What Guests Say
+{{% zl-quotes-heading "What Guests Say" %}}
 
 {{< zl-quotes >}}
 

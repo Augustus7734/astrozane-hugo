@@ -57,7 +57,7 @@ I have been doing public astronomy outreach for most of my life, and I still [se
 
 {{< starparty-why >}}
 
-## What Guests Say
+{{% zl-quotes-heading "What Guests Say" %}}
 
 {{< zl-quotes >}}
 

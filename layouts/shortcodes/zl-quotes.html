@@ -1,8 +1,9 @@
 {{/*
   Guest quotes from data/starparty_quotes.yaml.
   Usage:  {{< zl-quotes >}}
+  Hidden site-wide when params.show_testimonials is false (hugo.toml).
 */}}
-{{ with site.Data.starparty_quotes }}
+{{ if site.Params.show_testimonials }}{{ with site.Data.starparty_quotes }}
 <div class="zl-quotes">
 {{ range . }}<figure class="zl-quote"><blockquote>{{ .quote }}</blockquote><figcaption><strong>{{ .who }}</strong>{{ with .context }} · {{ . }}{{ end }}</figcaption></figure>
 {{ end }}</div>
@@ -12,4 +13,4 @@
 .zl-quote blockquote{margin:0 0 8px;padding:0;border:0;font-style:normal;color:inherit}
 .zl-quote figcaption{font-size:.85em;opacity:.8}
 </style>
-{{ end }}
+{{ end }}{{ end }}

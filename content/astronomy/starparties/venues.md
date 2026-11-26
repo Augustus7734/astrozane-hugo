@@ -79,7 +79,7 @@ I also host private events all over Southern Arizona. Venue dates are open for *
 
 {{< zl-img src="/images/zane-landers-at-telescope.jpg" alt="Zane Landers looking through a telescope on a Tucson sidewalk at night" caption="Me at one of my sidewalk astronomy nights in Tucson." width="420" >}}
 
-I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first telescope at 12, and I've owned and reviewed hundreds since. I'm Lead Writer at [TelescopicWatch](https://telescopicwatch.com/), I write for [Live Science](https://www.livescience.com/author/zane-landers), and I'm a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/). I run every star party myself, and I've spent most of my life showing the sky to people on sidewalks and at public events, so first-timers are my favorite audience. More about me and my press coverage is on my [press page](/about/press/).
+I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first telescope at 12, and I've owned and reviewed hundreds since. I'm Lead Writer at [TelescopicWatch](https://telescopicwatch.com/), I write for [Live Science](https://www.livescience.com/author/zane-landers), and I'm a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/). I host every star party personally, and I've spent most of my life showing the sky to people on sidewalks and at public events, so first-timers are my favorite audience. More about me and my press coverage is on my [press page](/about/press/).
 
 {{< book-cta title="Check your dates" text="Tell me about your property and the season you have in mind." subject="Venue star party" >}}
 
@@ -91,7 +91,7 @@ I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first tele
 - A printed handout on what they saw, to take home. Here is a [sample handout](/files/sample-star-party-handout.pdf) for a December night in Tucson.
 - A short talk before viewing, if you want a longer program.
 
-**No ladder.** The 14.7" is unusually fast, at f/2.9, which keeps the eyepiece at chair height. Nobody climbs a ladder in the dark, which matters with kids and older guests.
+**No ladder.** The 14.7" is unusually fast, at f/2.9, which keeps the eyepiece at chair height. Nobody has to climb a ladder in the dark, which matters with kids and older guests.
 
 ## Ways to set it up
 

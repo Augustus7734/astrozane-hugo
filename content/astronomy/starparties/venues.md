@@ -88,7 +88,7 @@ I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first tele
 - A look through the eyepiece at the Moon, planets, star clusters, nebulae and galaxies, picked for what is best that night.
 - My 14.7" hand-built telescope with seated viewing, a second telescope, binoculars to pass around, and a night vision device that shows nebulae live.
 - No screens, and no experience needed. It works for all ages.
-- A printed handout on what they saw, to take home. Here is a [sample handout](/files/sample-star-party-handout.pdf) from a Mount Lemmon Lodge night.
+- A printed handout on what they saw, to take home. Here is a [sample handout](/files/sample-star-party-handout.pdf) for a December night in Tucson.
 - A short talk before viewing, if you want a longer program.
 
 ## Ways to set it up
@@ -121,12 +121,12 @@ From 2027 my 24" telescope is available too, at a higher rate. It can come by it
 
 ## Best nights in 2027
 
-These are the Fridays I would pick. The weeknights around each one are just as good, and midweek dates are the easiest to get.
+These are the Fridays and Saturdays I would pick. Weeknights are open too.
 
 | | Dark evenings, for the Milky Way, nebulae and galaxies | Moon nights, best for big, casual crowds |
 |---|---|---|
-| January to May | January 8 and 29, February 5 and 26, March 5 and 26, April 2, 9 and 30, May 7 and 28 | January 15, February 12, March 12, April 16, May 14 |
-| August to December | August 27, September 3 and 24, October 1, 22 and 29, November 19 and 26, December 17 | August 13, September 10, October 8, November 5, December 3 |
+| January to May | January 8-9 and 29-30, February 5-6 and 26-27, March 5-6 and 26-27, April 2-3 and 9-10, May 7-8 and 28-29 | January 15-16, February 12-13, March 12-13, April 16-17, May 14-15 |
+| August to December | August 27-28, September 3-4 and 24-25, October 1-2, 22-23 and 29-30, November 19-20 and 26-27, December 17-18 | August 13-14, September 10-11, October 8-9, November 5-6, December 3-4 |
 
 February is the only month this season with Saturn, Jupiter and Mars all up in the same evening, and Jupiter and Mars are at their closest to Earth. Both stay well placed through April. The Orion Nebula is up all winter and into early April. In August and September the summer Milky Way is high after dark, and Saturn is at its best from October through December.
 

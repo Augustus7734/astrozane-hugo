@@ -54,6 +54,8 @@ zl_faq:
 
 If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a star party is an easy evening to add. It is a guided stargazing event for your guests: I bring the telescopes and run the night. You don't have to buy or learn anything.
 
+*As featured in [TIME, National Geographic and The Guardian](/about/press/).*
+
 {{< promo id="starparty-promo" label="AstroZane star party photos" >}}
 {{< promoslide img="/images/starparty-telescope-set-up-at-lodge.jpg" eager="true" alt="A red hand-built 14.7-inch Dobsonian telescope set up in a lodge courtyard before a star party" kicker="Resorts, ranches and venues" title="A star party on your property" text="I bring the telescopes, set up before your guests arrive and run the night." >}}
 {{< promoslide img="/images/starparty-guest-at-hand-built-telescope.jpg" alt="A guest looking through the eyepiece of a hand-built 14.7-inch telescope at an AstroZane star party" kicker="For your guests" title="A look they won't get at home" text="A hand-built 14.7-inch telescope, with no experience needed." >}}
@@ -73,6 +75,12 @@ If you run a resort, hotel, guest ranch, vineyard or event venue in Arizona, a s
 
 I also host private events all over Southern Arizona. Venue dates are open for **January through May 2027 and August through December 2027**.
 
+## Who runs the night
+
+{{< zl-img src="/images/zane-landers-at-telescope.jpg" alt="Zane Landers looking through a telescope on a Tucson sidewalk at night" caption="Me at one of my sidewalk astronomy nights in Tucson." width="420" >}}
+
+I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first telescope at 12, and I've owned and reviewed hundreds since. I'm Lead Writer at [TelescopicWatch](https://telescopicwatch.com/), I write for [Live Science](https://www.livescience.com/author/zane-landers), and I'm a founding board member of [DarkSky Southern Arizona](https://darkskysoaz.org/). I run every star party myself, and I've spent most of my life showing the sky to people on sidewalks and at public events, so first-timers are my favorite audience. More about me and my press coverage is on my [press page](/about/press/).
+
 {{< book-cta title="Check your dates" text="Tell me about your property and the season you have in mind." subject="Venue star party" >}}
 
 ## What your guests get
@@ -80,7 +88,7 @@ I also host private events all over Southern Arizona. Venue dates are open for *
 - A look through the eyepiece at the Moon, planets, star clusters, nebulae and galaxies, picked for what is best that night.
 - My 14.7" hand-built telescope with seated viewing, a second telescope, binoculars to pass around, and a night vision device that shows nebulae live.
 - No screens, and no experience needed. It works for all ages.
-- A printed handout on what they saw, to take home.
+- A printed handout on what they saw, to take home. Here is a [sample handout](/files/sample-star-party-handout.pdf) from a Mount Lemmon Lodge night.
 - A short talk before viewing, if you want a longer program.
 
 ## Ways to set it up
@@ -113,14 +121,14 @@ From 2027 my 24" telescope is available too, at a higher rate. It can come by it
 
 ## Best nights in 2027
 
-These are the Fridays and Saturdays I would pick. Weeknights are open too.
+These are the Fridays I would pick. The weeknights around each one are just as good, and midweek dates are the easiest to get.
 
 | | Dark evenings, for the Milky Way, nebulae and galaxies | Moon nights, best for big, casual crowds |
 |---|---|---|
-| January to May | January 8-9 and 29-30, February 5-6 and 26-27, March 5-6 and 26-27, April 2-3 and 9-10, May 7-8 and 28-29 | January 15-16, February 12-13, March 12-13, April 16-17, May 14-15 |
-| August to December | August 27-28, September 3-4 and 24-25, October 1-2, 22-23 and 29-30, November 19-20 and 26-27, December 17-18 | August 13-14, September 10-11, October 8-9, November 5-6, December 3-4 |
+| January to May | January 8 and 29, February 5 and 26, March 5 and 26, April 2, 9 and 30, May 7 and 28 | January 15, February 12, March 12, April 16, May 14 |
+| August to December | August 27, September 3 and 24, October 1, 22 and 29, November 19 and 26, December 17 | August 13, September 10, October 8, November 5, December 3 |
 
-Jupiter and Mars are both at their best in February and stay well placed through April. The Orion Nebula is up all winter and into early April. In August and September the summer Milky Way is high after dark, and Saturn is at its best from October through December.
+February is the only month this season with Saturn, Jupiter and Mars all up in the same evening, and Jupiter and Mars are at their closest to Earth. Both stay well placed through April. The Orion Nebula is up all winter and into early April. In August and September the summer Milky Way is high after dark, and Saturn is at its best from October through December.
 
 **Summer.** August and September are monsoon season, so pick a backup date when you book. June and July are by request only: it isn't fully dark until after 9 pm, and storms cancel a lot of nights.
 

@@ -91,6 +91,8 @@ I'm Zane Landers, a Tucson astronomer and telescope maker. I built my first tele
 - A printed handout on what they saw, to take home. Here is a [sample handout](/files/sample-star-party-handout.pdf) for a December night in Tucson.
 - A short talk before viewing, if you want a longer program.
 
+**A big telescope, built low.** The main telescope's mirror is 14.7 inches across, bigger than the 14-inch telescopes in many public observatory domes. It looks compact because it is unusually fast, at f/2.9, which keeps the eyepiece at chair height. Nobody climbs a ladder in the dark, which matters with kids, older guests and anyone with a glass of wine in hand.
+
 ## Ways to set it up
 
 | Option | How it works | Base price |
